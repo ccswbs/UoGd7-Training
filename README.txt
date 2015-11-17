@@ -1,2 +1,0 @@
-UoG Training Material
-
