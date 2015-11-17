@@ -1,2 +1,2 @@
-Drupal 7 Training Material
+UoG Training Material
 
