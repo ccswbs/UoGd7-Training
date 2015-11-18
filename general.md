@@ -10,38 +10,54 @@ Drupal, on the other hand, treats most content types as variations on the same c
 Comments can be also be enabled on any node type you choose - be it blog posts, news items, book pages (which provide basic wiki features) or any other type you may create.
 
 ## Regions & Blocks
-
+`show image of regions`
 Pages on your Drupal site are laid out in Regions. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
 
 Blocks are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
-## Users/Permissions/roles
-Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to Drupal. Every user also has a numeric user ID special to the type of user.
+## Users, Permissions and Roles
+Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to Drupal. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, Drupal will let them do the actions that role has permissions for.
+
 
 ### Types of Users
-#### Master Administrator
-This user has the ID one (1). User of ID one (1) is the user account when you create and install Drupal. This user is very special because it has permission to do absolutely everything on the site.
-
-#### Logged In
-These users are assigned a user ID when they register for the website. A user name and email address is associated with any user that isn't anonymous (therefore must be logged in).
-
-#### Anonymous
-This is anyone visiting the website which is not logged in.
-
-### Permissions & Roles
-'rewrite for UG base options'
-Users on your site can be assigned permissions via roles. To do this, you first need to create a role by navigating to people --> permissions --> role. A common role is "Content editor" or "Member". Next, you will assign permissions to that role, to tell Drupal what that role can and can't do on the site. Finally, you will grant certain users on your site your new role, which will mean that when those users are logged in, Drupal will let them do the actions you gave that role permission to do.
-
 `some special UoG roles`
-1. Editor: view/edit all project data, create/edit all content types
-2. Manager / Moderator: the ability to add users, set access restrictions for menus and edit landing pages – only managers have the ability to publish people who will appear in the site directory
-3. authenticated user
-4. author
-5. publisher
+#### Anonymous User
+This is anyone visiting the website which is not logged in.
+- can view the front-end of the website
 
-## Basic Begining functions for Drupal 7.
+#### Authenticated User
+These users are assigned a user ID when they register for the website. A user name and email address is associated with any user that isn't anonymous (therefore must be logged in).
+- can log in to the back-end of the website
+- can edit their own user profile
+
+#### Author
+- can create new content drafts
+- can edit (their own) content drafts
+
+#### Editor
+Can view/edit all project data, create/edit all content types
+- can edit any content (drafts or published)
+- can approve any content drafts for publishing
+- can publish any content
+
+#### Moderator
+- TBD
+
+#### Publisher
+- TBD
+
+#### Site Manager
+- can create new users
+- can edit any user profile
+
+#### Administrator
+- can configure site settings
+- full access rights
+- can delete any content (drafts or published)
+
+# Basic Beginner functions for Drupal 7.
 ### How to Login/Logout
-1.	 Navigate to your website: www.uoguelph.ca/psychology
+1.	 Navigate to your website: www.uoguelph.ca/*sitename*
 2.	 Login (…using your Central Login ID and Password)
 3.	 Logout (…click link on top right)
 
