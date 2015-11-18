@@ -1,5 +1,4 @@
 # What is Drupal?
-
 ## A Brief Description
 People often think of a website as a collection of static pages, perhaps with some functions like a blog or a news engine thrown in to round it out. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
 
@@ -32,3 +31,46 @@ This is anyone visiting the website which is not logged in.
 ### Permissions & Roles
 'rewrite for UG base options'
 Users on your site can be assigned permissions via roles. To do this, you first need to create a role by navigating to people --> permissions --> role. A common role is "Content editor" or "Member". Next, you will assign permissions to that role, to tell Drupal what that role can and can't do on the site. Finally, you will grant certain users on your site your new role, which will mean that when those users are logged in, Drupal will let them do the actions you gave that role permission to do.
+
+`some special UoG roles`
+1. Editor: view/edit all project data, create/edit all content types
+2. Manager / Moderator: the ability to add users, set access restrictions for menus and edit landing pages – only managers have the ability to publish people who will appear in the site directory
+3. authenticated user
+4. author
+5. publisher
+
+## Basic Begining functions for Drupal 7.
+### How to Login/Logout
+1.	 Navigate to your website: www.uoguelph.ca/psychology
+2.	 Login (…using your Central Login ID and Password)
+3.	 Logout (…click link on top right)
+
+### Adding Users
+Request that new users attempt to login to the site - this provides their Username (…which is their Central Login-ID for U of G staff)
+1. At the top of the administration bar select *People*
+2. Either use the filter or scroll down to find the Username
+3. Select appropriate Username
+4. Select Role (i.e. editor)
+5. Enter ‘random’ password information (…it will not be retained since the Central Login ID and Password will override and provide access to the website)
+6.	 SAVE
+
+*Note:* If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
+
+
+## Links to other pages on how to create specific content:
+* [How to create a Basic Page](/howto-page.html)
+* [How to create a Featured Item](/howto-featured.html)
+* [How to create a Banner](/howto-banner.html)
+* [How to create a News Item](/howto-news.html)
+* [How to create an Events listing](/howto-events.html)
+* [Social Media](/howto-socialmedia.html)
+* [How to create a Service page](/howto-services.html)
+* [How to create a FAQ](/howto-FAQ.html)
+* [How to create a Book](/howto-book.html)
+* [How to create People Profiles](/howto-profiles.html)
+* [How to create a Blog](/howto-blog.html)
+* [How to create a Web Form](/howto-webforms.html)
+* [Creating a Landing Page](/howto-landingpag.html)
+* [How to create a Special Alert](/howto-specialalert.html)
+* [How to create Course Outlines](/howto-courseoutlines.html)
+* [How to create Custom Content](/howto-customcon.html)
