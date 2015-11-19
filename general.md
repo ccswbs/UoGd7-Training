@@ -73,12 +73,31 @@ Request that new users attempt to login to the site - this provides their Userna
 *Note:* If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
 
 ## About AODA and Content Editing Standards.
-* AODA Standards – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidlines (WCAG) 2.0** Level A compliance was required in 2014 and Level AA compliance is required by 2021. Recommendations that will assist content editors in maintaining these standards are identified and outlined in this user manual as well as in the following list:
+AODA Standards – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidlines (WCAG) 2.0** Level A compliance was required in 2014 and Level AA compliance is required by 2021. Recommendations that will assist content editors in maintaining these standards are identified and outlined in this user manual as well as in the following list:
 * Ensure all images added to your site have *descriptive* Alt tags no less than 100 characters. In the event of a purely decorative image no Alt text needs to be added.
 * [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/)
 * Siteimprove is used for tracking technical compliance - for user training Contact Diversity & Human Rights or visit the [SiteImprove website](http://siteimprove.com/) for more information
-* Required fields: fields with a red asterisk (* ) must be completed
-* For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)
+* Required fields: fields with a red asterisk (* ) must be completed.
+
+### Adding a Link
+The WCAG 2.0 standard for links is that the purpose of each link can be determined by the link text alone.
+
+*Example* Do not use:
+
+> * For information on courses click [here](www.google.ca)
+
+Use this format instead:
+> * [Information on courses](www.google.ca)
+
+To do this in the Body section:
+1. Highlight the text to use for the link
+2. Click on the Link icon (in the Editor)
+3. Insert the URL that you want to link to:
+    1. External links - use a link copied from the browser (i.e. www.uoguelph.ca )…or
+    2. Internal links - use the page name copied from the browser (i.e. psychology/faq-page)
+
+For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)
+
 
 ## WYSIWYG Editor
 Just a few basic notes.
@@ -86,19 +105,19 @@ Just a few basic notes.
 Regarding copying a pasting
 
 ## Links to other pages on how to create specific content:
-* [How to create a Basic Page](/howto-page.html)
-* [How to create a Featured Item](/howto-featured.html)
-* [How to create a Banner](/howto-banner.html)
-* [How to create a News Item](/howto-news.html)
-* [How to create an Events listing](/howto-events.html)
-* [Social Media](/howto-socialmedia.html)
-* [How to create a Service page](/howto-services.html)
-* [How to create a FAQ](/howto-FAQ.html)
-* [How to create a Book](/howto-book.html)
-* [How to create People Profiles](/howto-profiles.html)
-* [How to create a Blog](/howto-blog.html)
-* [How to create a Web Form](/howto-webforms.html)
-* [Creating a Landing Page](/howto-landingpag.html)
-* [How to create a Special Alert](/howto-specialalert.html)
-* [How to create Course Outlines](/howto-courseoutlines.html)
-* [How to create Custom Content](/howto-customcon.html)
+* [How to create a Basic Page](features/howto-page.html)
+* [How to create a Featured Item](features/howto-featured.html)
+* [How to create a Banner](features/howto-banner.html)
+* [How to create a News Item](features/howto-news.html)
+* [How to create an Events listing](features/howto-events.html)
+* [Social Media](features/howto-socialmedia.html)
+* [How to create a Service page](features/howto-services.html)
+* [How to create a FAQ](features/howto-FAQ.html)
+* [How to create a Book](features/howto-book.html)
+* [How to create People Profiles](features/howto-profiles.html)
+* [How to create a Blog](features/howto-blog.html)
+* [How to create a Web Form](features/howto-webforms.html)
+* [Creating a Landing Page](features/howto-landingpag.html)
+* [How to create a Special Alert](features/howto-specialalert.html)
+* [How to create Course Outlines](features/howto-courseoutlines.html)
+* [How to create Custom Content](features/howto-customcon.html)
