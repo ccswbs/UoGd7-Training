@@ -5,23 +5,24 @@ A node is the generic term for a piece of content on your web site. The content 
 Every node belongs to a single “node type” or “content type”, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Common "Content Types" that just about any website would have include: blog post and page. Content types can have different fields and modules can define their own content types. The core Drupal Book and Poll modules are two examples of modules that define content types.
 
 ### Site architecture - Content Types UoG template provides:
-* [Basic Page](/howto-page.html)
+* [Basic Page](features/howto-page.md)
+
 The *Basic page* content type are used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
-* [Featured Items](/howto-featured.html)
-* [Banner](/howto-banner.html)
-* [News](/howto-news.html)
-* [Events](/howto-events.html)
-* [Social Media](/howto-socialmedia.html)
-* [Services](/howto-services.html)
-* [FAQ](/howto-FAQ.html)
-* [Book](/howto-book.html)
-* [People Profiles](/howto-profiles.html)
-* [Blog](/howto-blog.html)
-* [Web Forms](/howto-webforms.html)
-* [Landing Page](/howto-landingpag.html)
-* [Special Alert](/howto-specialalert.html)
-* [Course Outlines](/howto-courseoutlines.html)
-* [Custom Content](/howto-customcon.html)
+* [Featured Items](features/howto-featured.md)
+* [Banner](features/howto-banner.md)
+* [News](features/howto-news.md)
+* [Events](features/howto-events.md)
+* [Social Media](features/howto-socialmedia.md)
+* [Services](features/howto-services.md)
+* [FAQ](features/howto-FAQ.md)
+* [Book](features/howto-book.md)
+* [People Profiles](features/howto-profiles.md)
+* [Blog](features/howto-blog.md)
+* [Web Forms](features/howto-webforms.md)
+* [Landing Page](features/howto-landingpag.md)
+* [Special Alert](features/howto-specialalert.md)
+* [Course Outlines](features/howto-courseoutlines.md)
+* [Custom Content](features/howto-customcon.md)
 
 
 ## Taxonomy
