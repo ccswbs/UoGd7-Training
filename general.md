@@ -72,6 +72,10 @@ Request that new users attempt to login to the site - this provides their Userna
 
 *Note:* If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
 
+## WYSIWYG Editor
+Just a few basic notes.
+* Mousing over the icons will describe their functionality.
+Regarding copying a pasting
 
 ## Links to other pages on how to create specific content:
 * [How to create a Basic Page](/howto-page.html)

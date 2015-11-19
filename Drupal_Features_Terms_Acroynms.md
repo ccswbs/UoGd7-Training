@@ -6,6 +6,7 @@ Every node belongs to a single “node type” or “content type”, which defi
 
 ### Site architecture - Content Types UoG template provides:
 * [Basic Page](/howto-page.html)
+The *Basic page* content type are used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 * [Featured Items](/howto-featured.html)
 * [Banner](/howto-banner.html)
 * [News](/howto-news.html)
