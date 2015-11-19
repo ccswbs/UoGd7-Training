@@ -18,7 +18,6 @@ Blocks are discrete chunks of information that are displayed in the regions of y
 ## Users, Permissions and Roles
 Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to Drupal. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, Drupal will let them do the actions that role has permissions for.
 
-
 ### Types of Users
 `some special UoG roles`
 #### Anonymous User
@@ -56,22 +55,35 @@ Can view/edit all project data, create/edit all content types
 - can delete any content (drafts or published)
 
 # Basic Beginner functions for Drupal 7.
+## Users
 ### How to Login/Logout
 1.	 Navigate to your website: www.uoguelph.ca/*sitename*
 2.	 Login (…using your Central Login ID and Password)
 3.	 Logout (…click link on top right)
 
 ### Adding Users
-Request that new users attempt to login to the site - this provides their Username (…which is their Central Login-ID for U of G staff)
+Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff)
 1. At the top of the administration bar select *People*
 2. Either use the filter or scroll down to find the Username
 3. Select appropriate Username
 4. Select Role (i.e. editor)
-5. Enter ‘random’ password information (…it will not be retained since the Central Login ID and Password will override and provide access to the website)
+5. Enter ‘random’ password information (It will not be retained since the Central Login ID and Password will override and provide access to the website)
 6.	 SAVE
 
 *Note:* If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
 
+## About AODA and Content Editing Standards.
+* AODA Standards – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidlines (WCAG) 2.0** Level A compliance was required in 2014 and Level AA compliance is required by 2021. Recommendations that will assist content editors in maintaining these standards are identified and outlined in this user manual as well as in the following list:
+* Ensure all images added to your site have *descriptive* Alt tags no less than 100 characters. In the event of a purely decorative image no Alt text needs to be added.
+* [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/)
+* Siteimprove is used for tracking technical compliance - for user training Contact Diversity & Human Rights or visit the [SiteImprove website](http://siteimprove.com/) for more information
+* Required fields: fields with a red asterisk (* ) must be completed
+* For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)
+
+## WYSIWYG Editor
+Just a few basic notes.
+* Mousing over the icons will describe their functionality.
+Regarding copying a pasting
 
 ## Links to other pages on how to create specific content:
 * [How to create a Basic Page](/howto-page.html)
