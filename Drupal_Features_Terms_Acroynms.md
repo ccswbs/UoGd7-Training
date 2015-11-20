@@ -1,3 +1,6 @@
+## Block
+Blocks are a method for positioning data within a page.
+
 ## Nodes
 A node is the generic term for a piece of content on your web site. The content type of the node will define what fields are included with it. Depending on the type of node, different fields will be attached, and this is known as a content type. For example, a basic Page content type has attached fields such as title and body fields. Other examples of content type are: Book pages for use in Books, Discussion topics in forums, Blog pages in blogs, and News articles.
 
@@ -26,12 +29,15 @@ Every node belongs to a single “node type” or “content type”, which defi
 * [Services](features/howto-services.md)
 > The *Services* feature provides a method for outlining and featuring the services that you offer. Users can find Services alphabetically, by service category, or by audience (eligible user). They can also search for services by keyword (tags).
 
+
 * [FAQ](features/howto-FAQ.md)
 > The *Frequently Asked Questions (FAQ)* feature allows editors to create a repository of commonly asked questions and their corresponding answers.
 
+
 * [Book](features/howto-book.md)
 * [People Profiles](features/howto-profiles.md)
-> The *People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
+> The People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
+
 
 * [Blog](features/howto-blog.md)
 * [Web Forms](features/howto-webforms.md)
@@ -40,12 +46,17 @@ Every node belongs to a single “node type” or “content type”, which defi
 * [Course Outlines](features/howto-courseoutlines.md)
 * [Custom Content](features/howto-customcon.md)
 
-
-## Taxonomy
-Drupal has a system for classifying content known as taxonomy. This is provided by the core Taxonomy module. You can define your own vocabularies (groups of taxonomy terms) and add terms to each vocabulary. Each vocabulary can then be attached to one or more content types, and in this way, nodes on your site can be grouped into categories, tagged, or classified in any way you choose.
-
+## Book
+A Drupal module to connect pages in a hierarchical sequence, perhaps with chapters,
+sections or subsections.
+## Field
+Fields are elements of data that can be attached to a node or other Drupal entity. Fields
+commonly contain text, image, or terms.
+## Input format
+These are settings that define the filtering of user-entered text before it is displayed This can be used to control formatting or malicious input.
 ## Menus
 `add a generic image showing where each menu goes`
+Menu Refers to the navigation elements on a page, and to Drupal's internal system for handling requests. When a request is sent to Drupal, the menu system uses the provided URL to determine what functions to call.
 
 There are four standard menus in Drupal 7:
 
@@ -53,3 +64,21 @@ There are four standard menus in Drupal 7:
 2. **Management** is the administration menu, and is presented in the Admin toolbar.
 3. **Navigation** is a catch-all menu that usually contains links supplied by modules on your site.
 4. **User Menu** contains links to the User account and the logout link.
+
+## Module
+A module is software (code) that extends Drupal features and functionality. The University of Guelph supplies and maintains it's own modules for compliance with AODA.
+
+## Path
+In Drupal terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/?q=node/7, the path is node/7.
+
+## Path alias
+This changes default paths such as node/7 into user-friendly paths such as about/contact. This is automated with UoG enabled modules.
+
+## Taxonomy
+Drupal has a system for classifying content known as taxonomy. This is provided by the core Taxonomy module. You can define your own vocabularies (groups of taxonomy terms) and add terms to each vocabulary. Each vocabulary can then be attached to one or more content types, and in this way, nodes on your site can be grouped into categories, tagged, or classified in any way you choose.
+
+## Users and Roles
+Everyone using your site is a user with a user ID. The first user ID (uid) of a Drupal site (uid=1) automatically receives all permissions, no matter what role that user belongs to. Any anonymous user has uid=0. Users are assigned roles that control what they can do. For example ‘editor’ or ‘member’, and permissions can be set for those roles.
+
+## WYSIWYG
+WYSIWYG is an acronym for What You See Is What You Get, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product.
