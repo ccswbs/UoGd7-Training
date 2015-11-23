@@ -1,7 +1,7 @@
 # UoGd7-Training
 ## Navigation
 ### Basic
-[General Guide](general.md)
+[General Guide](general.md) // [Taxonomies](taxonomies.md) // [Features, Terms, Acronyms](Drupal_Features_Terms_Acroynms.md)
 ### Features:
 [Page](features/howto-page.md) //
 [Featured Item](features/howto-featured.md) //
