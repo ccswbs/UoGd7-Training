@@ -36,7 +36,7 @@ Every node belongs to a single “node type” or “content type”, which defi
 
 * [Book](features/howto-book.md)
 * [People Profiles](features/howto-profiles.md)
-> The People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
+> The *People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
 
 
 * [Blog](features/howto-blog.md)
