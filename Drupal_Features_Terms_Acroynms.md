@@ -24,7 +24,7 @@ Every node belongs to a single “node type” or “content type”, which defi
 > The *Events* feature allows content editors to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Events block. Site visitors can also browse for events by date and event category.
 
 * [Social Media](features/howto-socialmedia.md)
-> The *Social Media* feature allows Anonymous Users to share pages on their favourite networks and visit a variety of (external) social media pages affiliated with the website. They can also access Twitter, Facebook and RSS feeds directly on the website.
+> The *Social Media* feature allows Anonymous Users to share pages on their favorite networks and visit a variety of (external) social media pages affiliated with the website. They can also access Twitter, Facebook and RSS feeds directly on the website.
 
 * [Services](features/howto-services.md)
 > The *Services* feature provides a method for outlining and featuring the services that you offer. Users can find Services alphabetically, by service category, or by audience (eligible user). They can also search for services by keyword (tags).
