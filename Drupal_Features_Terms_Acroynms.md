@@ -1,4 +1,5 @@
-## Block
+# Terms & Features
+## Blocks
 Blocks are a method for positioning data within a page.
 
 ## Nodes
@@ -29,15 +30,12 @@ Every node belongs to a single “node type” or “content type”, which defi
 * [Services](features/howto-services.md)
 > The *Services* feature provides a method for outlining and featuring the services that you offer. Users can find Services alphabetically, by service category, or by audience (eligible user). They can also search for services by keyword (tags).
 
-
 * [FAQ](features/howto-FAQ.md)
 > The *Frequently Asked Questions (FAQ)* feature allows editors to create a repository of commonly asked questions and their corresponding answers.
-
 
 * [Book](features/howto-book.md)
 * [People Profiles](features/howto-profiles.md)
 > The *People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
-
 
 * [Blog](features/howto-blog.md)
 * [Web Forms](features/howto-webforms.md)
@@ -59,7 +57,6 @@ These are settings that define the filtering of user-entered text before it is d
 Menu Refers to the navigation elements on a page, and to Drupal's internal system for handling requests. When a request is sent to Drupal, the menu system uses the provided URL to determine what functions to call.
 
 There are four standard menus in Drupal 7:
-
 1. **The Main Menu** is built by site administrators and displayed automatically in the page header of many themes (and if not, you can enable their blocks to display them).
 2. **Management** is the administration menu, and is presented in the Admin toolbar.
 3. **Navigation** is a catch-all menu that usually contains links supplied by modules on your site.
