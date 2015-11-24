@@ -1,7 +1,8 @@
-# How to Add a Basic Web Page.
+# To Add a Basic Web Page
 The *Basic page* content type are used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 
-1. On the Administration bar, select `Add Content`.
+## Creating a Basic Page
+1. On the Administration bar, select `Add Content`. ![Add Content Highlighted](images/ambac.png)
 2. Select `Page`.
 3. Enter a *Title*.
 4. If you have [page categories](taxonomies.md#categories) defined select the appropriate one.

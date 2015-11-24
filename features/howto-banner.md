@@ -1,8 +1,8 @@
-# How to Create a Banner.
+# How to Create a Banner
 **Authors** can create a Home Page Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slideshow. Each banner *needs* to be 1140 x 292.
 
 ## To add a banner image do the following:
-1. Select `Add Content` at the top of the administration bar
+1. Select `Add Content` at the top of the administration bar ![Add Content Highlighted](images/ambac.png)
 2. Select `Banner`
 3. Enter the required information: *Title, Category, Headline, Headline Link*
     * **Headline:** Appears on the image
