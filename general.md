@@ -10,7 +10,7 @@ Drupal, on the other hand, treats most content types as variations on the same c
 Comments can be also be enabled on any node type you choose - be it blog posts, news items, book pages (which provide basic wiki features) or any other type you may create.
 
 ## Regions & Blocks
-`show image of regions`
+![Image of Block Areas highlighted](images/Block_Areas.jpg)
 Pages on your Drupal site are laid out in Regions. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
 
 Blocks are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
@@ -39,10 +39,13 @@ Can view/edit all project data, create/edit all content types
 - can publish any content
 
 #### Moderator
-- TBD
+- Can publish and edit any content
+- Can delete and edit any terms and taxonomies
 
 #### Publisher
-- TBD
+- Can publish and edit any content
+- Can revert content revisions
+- Can delete and edit any terms and taxonomies
 
 #### Site Manager
 - can create new users

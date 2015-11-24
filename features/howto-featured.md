@@ -2,7 +2,7 @@
 The *Featured Item* allows content authors to create a lead-in to any page content on the website (e.g. Events, News, Basic Page, People Profiles, etc.) or an external URL.
 
 ## To Create a Featured Item
-1. Select `Add Content` at the top of the administration bar.
+1. Select `Add Content` at the top of the administration bar. ![Add Content Highlighted](images/ambac.png)
 2. Select `Feature` in the list.
 3. Enter a Title *(Manditory)*.
 4. Select a *Category* if the taxonomy has been defined.
