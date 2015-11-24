@@ -76,7 +76,7 @@ AODA Standards – effective January 2014 website content changes must comply wi
 * Ensure all images added to your site have *descriptive* Alt tags no less than 100 characters. In the event of a purely decorative image no Alt text needs to be added.
 * [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/)
 * Siteimprove is used for tracking technical compliance - for user training Contact Diversity & Human Rights or visit the [SiteImprove website](http://siteimprove.com/) for more information
-* Required fields: fields with a red asterisk (* ) must be completed.
+* Required fields: fields flagged as required must be completed.
 
 
 ## Links to other pages on how to create specific content:
