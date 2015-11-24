@@ -1,7 +1,4 @@
 # Terms & Features
-## Administration Menu Bar
-The first navigation menu bar located at the top of the screen is called the Administration Menu Bar and depending on which [type of user](general.md#Types of UoG Users) is logged in, different functionalities and features are available. ![Image of the Administration Bar](images/admin_menu_bar.png)
-
 ## Blocks
 Blocks are a method for positioning data within a page.
 

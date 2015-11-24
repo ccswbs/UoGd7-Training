@@ -15,4 +15,4 @@ The *News* feature allows content authors to add news articles to the website an
     2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *I.e. If it is an event select event to have it as a sub-link there.*
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
 11. Ensure `Promoted to front page` is selected.
-11. Select Save when you are done. ![Image of Save Button](images/save.png)
+11. Select Save when you are done. ![Image of Save Button](/images/save.png)

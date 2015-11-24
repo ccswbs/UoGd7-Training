@@ -11,4 +11,4 @@ The *Featured Item* allows content authors to create a lead-in to any page conte
 6. Enter the direct link to the featured item - such as an Event or News Article page - in the Link field.
 7. Enter a Summary
 8. Enter a few Keywords to help classify the *Featured Item*
-9. Select Save when you are done. ![Image of Save Button](images/save.png)
+9. Select Save when you are done. ![Image of Save Button](/images/save.png)

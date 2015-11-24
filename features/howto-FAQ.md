@@ -6,4 +6,4 @@ The *Frequently Asked Questions (FAQ)* feature allows editors to create a reposi
 2. Select `FAQ`.
 3. Enter the Question in the `Question field`.
 4. Enter the Answer in the `Answer editor/field`.
-5. Select Save when you are done. ![Image of Save Button](images/save.png)
+5. Select Save when you are done. ![Image of Save Button](/images/save.png)

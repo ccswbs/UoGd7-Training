@@ -11,4 +11,4 @@ The Events feature allows **Authors** to add events to the website and display t
 7. [Select your Section](taxonomies.md#Sections)
 8. Add a feature image if there is one for the event, such as a poster image. *Note: Any information available on the image should also be available in your summary. Add a descriptive Alt text - a caption is optional.*
 9. Enter a related website for your event (If there is a page dedicated to the event) with a descriptive title.
-10. Select the Save button when you are done. ![Image of Save Button](images/save.png)
+10. Select the Save button when you are done. ![Image of Save Button](/images/save.png)

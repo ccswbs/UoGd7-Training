@@ -11,4 +11,4 @@ The *Basic page* content type are used for static content that can (but are not 
     1. Enter an appropriate Title and Description.
     2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *I.e. if it is an event select event to have it as a sublink there.*
 7. If you have the proper authority to publish right away, select `published` in `publishing options`.
-8. Select Save when you are done. ![Image of Save Button](images/save.png)
+8. Select Save when you are done. ![Image of Save Button](/images/save.png)

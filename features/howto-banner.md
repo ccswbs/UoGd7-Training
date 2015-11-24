@@ -13,7 +13,7 @@
     * **Summary:** Appears below the headline
     * **Keywords:** like tags, are a filtering mechanism
 6. Select the Order (random order by default, 0 = first, 1 = second)
-7. Select **Save** when you are done. ![Image of Save Button](images/save.png)
+7. Select **Save** when you are done. ![Image of Save Button](/images/save.png)
 
 *Note: To add more banner images do the same steps as listed and change the order if you have a preferred order*
 
@@ -23,4 +23,4 @@
 3. Two options:
     * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Highlighted* block region.
     * If you want a **slideshow banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Highlighted* block region.
-4. Select **Save Blocks** ![Image of Saved Blocks button](images/save_blocks.png)
+4. Select **Save Blocks** ![Image of Saved Blocks button](/images/save_blocks.png)
