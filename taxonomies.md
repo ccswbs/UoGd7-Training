@@ -29,7 +29,7 @@ Sometimes you will want to create a *controlled vocabulary*, where content autho
 Vocabularies are managed on the Taxonomy page.
 * In *Drupal 7*, it's found under `Administration Bar -> Structure` (i.e., http://yoururl/admin/structure/taxonomy)
 
-![Administration Menu Bar](images/admin_menu_bar.png)
+![Administration Menu Bar with Structure selected.](images/ambs.png)
 
 ### Adding a Vocabulary and Terms
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be [filled with terms](taxonomies.md#terms).
