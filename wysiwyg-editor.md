@@ -10,6 +10,7 @@ A few basic notes:
 ![image](images/imgsel.png)
 
 3. And then click `Browse Server`.
+
 ![image](images/imgprop.png)
 
 4. If image isn't already uploaded to your filesystem select upload from the menu bar.
@@ -24,6 +25,7 @@ A few basic notes:
 
 ## Adding Tables
 The **WCAG 2.0** standard for table settings dictates that table markup must be properly structured to differentiate and properly link between header and data cells.
+
 1. Click on Table Icon[image] in the WYSIWYG editor.
 2. Enter the number of columns and rows.
 3. It is **mandatory** to set the following *Table Properties* to blank values:
@@ -51,6 +53,7 @@ Use this format instead:
 >[Information on courses](www.google.ca).
 
 To do this in the **body** section:
+
 1. Highlight the text to use for the link.
 2. Click on the Link icon (in the Editor).
 3. Insert the URL that you want to link to:
