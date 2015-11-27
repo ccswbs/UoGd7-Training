@@ -8,6 +8,7 @@ The first step in establishing a taxonomy is creating a new vocabulary. Next you
 Here's how you might create a taxonomy for a site arranged by musical genre:
 
 **Vocabulary = Music**
+
     * Term = Classical
         * Sub-term = Concertos
         * Sub-term = Sonatas
