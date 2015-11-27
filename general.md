@@ -45,8 +45,9 @@ Every visitor to your site, whether they have an account and log in or visit the
 
 ### Adding Users
 Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff).
+
 1. At the top of the administration bar select `People`.
-2. Either use the filter or scroll down to find the Username
+2. Either use the filter or scroll down to find the Username.
 3. Select appropriate Username.
 4. Select Role (i.e. editor).
 5. Enter *random* password information (It will not be retained since the Central Login ID and Password will override and provide access to the website)
