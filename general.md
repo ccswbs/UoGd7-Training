@@ -26,7 +26,7 @@ Pages on your *Drupal* site are laid out in Regions. These can include the heade
 
 Blocks are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
-## Users, Permissions and Roles
+## Users, Permissions, and Roles
 Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to *Drupal*. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, *Drupal* will let them do the actions that role has permissions for.
 
 ## About AODA and Content Editing Standards.
