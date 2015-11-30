@@ -116,4 +116,4 @@ Can view/edit all project data, create/edit all content types.
 - Can delete any content (drafts or published).
 
 ## WYSIWYG
-*WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product.
+*WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. [Read more about WYSIWYG](wysiwyg-editor.md).
