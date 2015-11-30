@@ -7,7 +7,7 @@
 * Used for options, titles,
 
 `Constant Width`
-* For things you the user will see and read on the screen.
+* For things the user will see and read on the screen.
 
 
 # What is Drupal?
