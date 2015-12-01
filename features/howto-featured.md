@@ -7,12 +7,17 @@ The *Featured Item* allows content authors to create a lead-in to any page conte
 1. Select `Add Content` at the top of the administration bar.
 ![Add Content Highlighted](/images/ambac.png)
 2. Select `Feature` in the list.
-3. Enter a Title *(Mandatory)*.
-4. Select a *Category* if the taxonomy has been defined.
-5. Upload your Featured items *Image* by selecting `choose file`.
-    * Add a descriptive Alt tag.
+![Feature Option Selected](/images/addconfI.png)
+3. Enter a **Title**.
+4. If you have [page categories](taxonomies.md#categories) defined select the appropriate one.
+5. Upload your Featured items **Image** by selecting `choose file`.
+    * Add a descriptive **Alternative tag**.
 6. Enter the direct link to the featured item - such as an Event or News Article page - in the Link field.
-7. Enter a Summary
-8. Enter a few Keywords to help classify the *Featured Item*
-9. Select Save when you are done.
+![Image of Feature Item link options](/images/featitleimglink.png)
+7. Enter a short **Summary**
+8. Enter a few **Keywords** to help tag the feature item.
+![Image of Feature Item link options](/images/featitleimglink.png)
+9. If you have the proper authority to publish right away, select `Published` in `Publishing options` and `Promoted to front page`.
+![Example of publishing options](/images/pupopt.png)
+10. Select Save when you are done.
 ![Image of Save Button](/images/save.png)
