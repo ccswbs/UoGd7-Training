@@ -3,8 +3,9 @@
 ![An Example of a Banner](/images/baex.png)
 
 ## To Add a Banner Image Do The Following:
-1. Select `Add Content` at the top of the administration bar.
+
 ![Add Content Highlighted](/images/ambac.png)
+1. Select `Add Content` at the top of the administration bar.
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
     * **Headline:** Appears on the image.
