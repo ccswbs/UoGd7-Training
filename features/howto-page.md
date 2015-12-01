@@ -5,7 +5,6 @@ The *Basic page* content type are used for static content that can (but are not 
 
 ## Creating a Basic Page
 1. On the Administration bar, select `Add Content`.
-
 ![Add Content Highlighted](/images/ambac.png)
 2. Select `Page`.
 3. Enter a *Title*.
