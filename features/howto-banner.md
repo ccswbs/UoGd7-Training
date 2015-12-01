@@ -1,5 +1,6 @@
 # How to Create a Banner
-**Authors** can create a Home Page Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slideshow. Each banner *needs* to be 1140 x 292.
+**Authors** can create a Home Page Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slideshow. For proper display each banner image *must* be **1140 x 292**.
+![An Example of a Banner](/images/baex.png)
 
 ## To add a banner image do the following:
 1. Select `Add Content` at the top of the administration bar
