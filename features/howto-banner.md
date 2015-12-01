@@ -2,7 +2,7 @@
 **Authors** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For proper display each banner image *must* be **1140 x 292**.
 ![An Example of a Banner](/images/baex.png)
 
-## To Add a Banner Image Do The Following:
+## To Add a Banner Image
 1. Select `Add Content` at the top of the administration bar. ![Add Content Highlighted](/images/ambac.png)
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
