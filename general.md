@@ -2,10 +2,12 @@
 ## Conventions Used in This Documentation
 *Emphasis* or *Italic*
 * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
+
 **Strong** or __Bold__
 * Used for options, titles,
+
 `Constant Width`
-* For things you the user will see and read on the screen.
+* For things the user will see and read on the screen.
 
 
 # What is Drupal?
@@ -24,7 +26,7 @@ Pages on your *Drupal* site are laid out in Regions. These can include the heade
 
 Blocks are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
-## Users, Permissions and Roles
+## Users, Permissions, and Roles
 Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to *Drupal*. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, *Drupal* will let them do the actions that role has permissions for.
 
 ## About AODA and Content Editing Standards.
@@ -43,8 +45,9 @@ Every visitor to your site, whether they have an account and log in or visit the
 
 ### Adding Users
 Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff).
+
 1. At the top of the administration bar select `People`.
-2. Either use the filter or scroll down to find the Username
+2. Either use the filter or scroll down to find the Username.
 3. Select appropriate Username.
 4. Select Role (i.e. editor).
 5. Enter *random* password information (It will not be retained since the Central Login ID and Password will override and provide access to the website)
