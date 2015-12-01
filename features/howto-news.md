@@ -1,8 +1,11 @@
 # How to Create a News Item
 The *News* feature allows content authors to add news articles to the website and display them in a Listing Page view, an Article Detail Page view, and a Recent News Teaser List view. Any article can be featured on any page using the Featured News Article view. Site visitors can also browse for news articles by date and category tag.
 
+![An Example of a News Item.](/images/neex.png)
+
 ## To Add a News Article
 1. On the Administration bar, select `Add Content`.
+
 ![Add Content Highlighted](/images/ambac.png)
 2. Select `News`.
 3. Enter a *Title*.
@@ -17,4 +20,5 @@ The *News* feature allows content authors to add news articles to the website an
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
 11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
+
 ![Image of Save Button](/images/save.png)
