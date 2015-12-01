@@ -5,13 +5,9 @@ The *News* feature allows content authors to add news articles to the website an
 
 ## To Add a News Article
 1. On the Administration bar, select `Add Content`
-
-![Add Content Highlighted](/images/ambac.png)
-
+<p>![Add Content Highlighted](/images/ambac.png)</p>
 2. Select `News`
-
 ![News Option Selected](/images/addconnews.png)
-
 3. Enter a **Title**
 4. If you have [page categories](taxonomies.md#categories) defined select the appropriate one.
 5. Enter a **Written by**.
