@@ -5,16 +5,16 @@ The *News* feature allows content authors to add news articles to the website an
 
 ## To Add a News Article
 1. On the Administration bar, select `Add Content`
-![Add Content Highlighted](/images/ambac.png)
+    1a. ![Add Content Highlighted](/images/ambac.png)
 2. Select `News`
-![News Option Selected](/images/addconnews.png)
+    2a. ![News Option Selected](/images/addconnews.png)
 3. Enter a **Title**
 4. If you have [page categories](taxonomies.md#categories) defined select the appropriate one.
 5. Enter a **Written by**.
 6. In the body field enter what you want displayed on your web page. Follow this link [for more information on how to use the WYSIWYG editor.](wysiwyg-editor.md)
-![Example of Written by and Body fields](/images/newstitlebody.png)
+    6a. ![Example of Written by and Body fields](/images/newstitlebody.png)
 7. Add a feature image if there is one for the news, such as a . It is required to add **Alternative Text** if the image is not a decorative one. Add a **Caption**.
-![Example of Featured Image option](/images/newsfeatureimg.png)
+    7a. ![Example of Featured Image option](/images/newsfeatureimg.png)
 8. Enter any *tags or keywords* that help categorize and organize your article
 9. If you want this web page to be accessed through your menus check the `provide a menu link`
     1. Enter an appropriate **Title** and **Description**
@@ -23,5 +23,4 @@ The *News* feature allows content authors to add news articles to the website an
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`
 11. Ensure `Promoted to front page` is selected
 11. Select Save when you are done
-
-![Image of Save Button](/images/save.png)
+    11a. ![Image of Save Button](/images/save.png)
