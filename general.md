@@ -1,12 +1,6 @@
 # Guide to The University of Guelph's Drupal Web Content Management System and Template
-<<<<<<< HEAD
 Please begin by reading the following:
-
 ## Conventions Used In This Documentation
-=======
-## Conventions Used in This Documentation
-
->>>>>>> origin/UoGtrain
 *Emphasis* or *Italic*
 * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
 
@@ -18,7 +12,7 @@ Please begin by reading the following:
 
 # What is Drupal?
 ## A Brief Description
-It is often thought of a website as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
+Websites are often thought as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
 
 **The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal* on the other hand, treats most content types as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks (side content which often have links to different site sections).
 
@@ -46,8 +40,8 @@ To add any type of pre-defined content, the methods are the same. When Logged in
 ## Users
 ### How-to Login/Logout
 1. Navigate to your website: www.uoguelph.ca/*sitename*
-2. Login (using your Central Login ID and Password).
-3. Logout (click link on top right).
+2. To `login` use your Central Login ID and Password in the user login fields.
+3. To `logout` select or click the `logout` option located on the menu bar.
 
 ### Adding Users
 Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff).
@@ -55,14 +49,11 @@ Request that new users attempt to login to the site - this provides their Userna
 1. At the top of the **Administration Menu Bar** select `People`.
 2. Either use the filter or scroll down to find the Username.
 3. Select appropriate Username.
-4. Select Role (i.e. editor).
-5. Enter *random* password information (It will not be retained since the Central Login ID and Password will override and provide access to the website).
-6. SAVE.
+4. Select `Role` (i.e. editor).
+5. Enter a *random* password information (It will not be retained since the Central Login ID and Password will override and provide access to the website).
+6. Select `Save`.
 
 *Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
-
-
-![Administration Menu Bar](images/admin_menu_bar.png)
 
 ## Links to other pages on how to create specific content:
 * [Learn more about UoG Drupal features](Drupal_Features_Terms_Acroynms.md)
