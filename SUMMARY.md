@@ -3,5 +3,4 @@
 * [Introduction](README.md)
 * [General](general.md)
    * Taxonomies
-* Taxonomies
 
