@@ -30,7 +30,7 @@ Blocks are discrete chunks of information that are displayed in the regions of y
 **AODA Standards** – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidelines (WCAG) 2.0** *Level A* compliance was required in 2014 and *Level AA* compliance is required by 2021. Recommendations that will assist content editors in maintaining these standards are identified and outlined in this user manual as well as in the following list:
 * Ensure all images added to your site have *descriptive* Alt tags no less than 100 characters. In the event of a purely decorative image no Alt text needs to be added.
 * [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/).
-* [The Siteimprove website application](http://siteimprove.com/) is used for tracking technical compliance - for user training and access [Contact Diversity & Human Rights](http://www.uoguelph.ca/diversity-human-rights/)
+* [The Siteimprove website application](http://siteimprove.com/) is used for tracking technical compliance - for user training **Contact Diversity & Human Rights**.
 * *Required fields*: Fields flagged as required must be completed for AODA compliance.
 
 # Basic Beginner Functions For Drupal 7
