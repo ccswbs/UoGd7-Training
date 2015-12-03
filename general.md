@@ -1,11 +1,18 @@
 # Guide to The University of Guelph's Drupal Web Content Management System and Template
+<<<<<<< HEAD
 Please begin by reading the following:
 
 ## Conventions Used In This Documentation
+=======
+## Conventions Used in This Documentation
+
+>>>>>>> origin/UoGtrain
 *Emphasis* or *Italic*
 * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
+
 **Strong** or __Bold__
 * Used for options, titles.
+
 `Constant Width`
 * For things the user will see and read on the screen.
 
