@@ -1,13 +1,14 @@
 # Guide to The University of Guelph's Drupal Web Content Management System and Template
 ## Conventions Used in This Documentation
-```
+
 *Emphasis* or *Italic*
 * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
+
 **Strong** or __Bold__
 * Used for options, titles.
+
 `Constant Width`
 * For things the user will see and read on the screen.
-```
 
 # What is Drupal?
 ## A Brief Description
