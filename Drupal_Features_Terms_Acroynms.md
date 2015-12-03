@@ -51,8 +51,6 @@ commonly contain text, image, or terms.
 These are settings that define the filtering of user-entered text before it is displayed. This can be used to control formatting or malicious input.
 
 ## Menus
-`add a generic image showing where each menu goes`
-
 *Menus* refer to the navigation elements on a page, and to *Drupal's* internal system for handling requests. When a request is sent to *Drupal*, the menu system uses the provided URL to determine what functions to call.
 
 There are four standard menus in *Drupal 7*:
@@ -73,8 +71,8 @@ This changes default paths such as node/7 into user-friendly paths such as about
 ## Taxonomy
 *Drupal* has a system for classifying content known as taxonomy. This is provided by the core Taxonomy module. You can define your own vocabularies (groups of taxonomy terms) and add terms to each vocabulary. Each vocabulary can then be attached to one or more content types, and in this way, nodes on your site can be grouped into categories, tagged, or classified in any way you choose. Go to [the taxonomies page for more information.](taxonomies.md)
 
-## Users and Roles
-Users are assigned roles that control what they can do. For example *editor* or *member*, and permissions can be set for those roles.
+## Users, Permissions, and Roles
+Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to *Drupal*. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, *Drupal* will let them do the actions that role has permissions for.
 
 ### Types of UoG Users
 #### Anonymous User
