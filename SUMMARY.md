@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Genera;
+* [General](general.md)
 
