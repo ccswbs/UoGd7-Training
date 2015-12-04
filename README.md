@@ -5,9 +5,12 @@ Guide to The University of Guelph's Drupal Web Content Management System and Tem
 Please use the navigation menu to begin learning about what the University of Guelph Drupal template has to offer.
 
 ## Navigation
-### Basic:
+## Introduction
 [General Guide](general.md) // [Taxonomies](taxonomies.md) // [Features, Terms, Acronyms](Drupal_Features_Terms_Acroynms.md) // [WYSIWYG Info](wysiwyg-editor.md)
-### Features:
+
+[Best Practices](bestpracgov.md) // [SiteImprove Guide](siteimprove.md)
+
+## Features:
 [Page](features/howto-page.md) //
 [Featured Item](features/howto-featured.md) //
 [News](features/howto-news.md) //
@@ -25,9 +28,10 @@ Please use the navigation menu to begin learning about what the University of Gu
 [Special Alert](features/howto-specialalert.md) //
 [Course Outlines](features/howto-courseoutlines.md)
 
-## Basic Github workflow guidelines
+## Basic Github Workflow Guidelines
 * The Documentation Team takes note when a new feature was shipping.
 * Create a new issue to track the feature.
-* When we were ready, we'd open a pull request to start iterating on the content.
-* When the content was in a good place, we'd @mention the team (@github/docs) and have a peer editor review our words.
-* When the feature was ready to ship, we'd merge the pull request. A webhook would fire from the content repository to our hosted Rails app; the webhook's payload updated a database row containing the article's raw Markdown.
+* When ready, open a pull / fork request to start iterating on the content.
+* When the content was in a good place, we'd @mention the doc team and have a peer editor review our words.
+* When the feature is ready to ship, merge the pull request. GitBooks updates automatically.
+* Update book module on the CCS Website.
