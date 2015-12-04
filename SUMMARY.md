@@ -10,6 +10,6 @@
 * [Features Howto](features_howto.md)
    * [Basic Page](features/howto-page.md)
    * [News Article](features/howto-news.md)
-   * [Featured Item](howto-featured.md)
+   * [Featured Item](features/howto-featured.md)
    * [Banner](features/howto-banner.md)
 
