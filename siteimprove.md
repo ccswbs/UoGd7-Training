@@ -1,22 +1,18 @@
 # Guide for SiteImprove Quality Assurance
 ## What is SiteImprove Quality Assurance?
-* SiteImprove is a service that regularly crawls the DU website and tracks any broken links, spelling errors, and accessibility issues.
-* Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within DU’s content management system, OmniUpdate Campus (OU).
+* SiteImprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
+* Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within the University of Guelph's content management system, Drupal 7.
 * SiteImprove does NOT affect or edit pages within any site.
-* Users can login to the SiteImprove (http://www.siteimprove.com/login.aspx) to view detailed information about their department’s site.
+* Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their department’s site.
 * SiteImprove can email users every five (5) days with a report on a site.
+* Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard titled (ADD TITLE).
+* SiteImprove does rank pages on the number of errors based on a scale of 0-10 (10 is best).
 
 ## Getting Access to SiteImprove
-If you are a web content owner, you should find your name on the web content owners list. If not, [Contact Diversity & Human Rights](http://www.uoguelph.ca/diversity-human-rights/) and they can add you to the list and give you access to the system for your content area.
+If you are a web content owner, you should have already received your SiteImprove credentials. If not, [contact Diversity & Human Rights](http://www.uoguelph.ca/diversity-human-rights/) and they can add you to the list and give you access to the system for your content site area.
 
 ## Logging In To SiteImprove
-Once you have been set you up as a user, you will receive an email prompting you to set a password for your account. Once that is done, you can [log in to the SiteImprove system](http://my.siteimprove.com).
-
-## How does it work?
-Please note that SiteImprove Quality Assurance reports based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the `rescan` button.
-* You can directly [login to the SiteImprove system](http://my.siteimprove.com) to view a report on their site. Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard.
-* Alternatively, you can receive an email approximately every five (5) days with a summary report.
-* SiteImprove does rank pages on the number of errors based on a scale of 0-10 (10 is best).
+Once you have been set you up as a user, you will receive an email prompting you to set a password for your account. Once that is done, you can [login to the SiteImprove system](http://my.siteimprove.com).
 
 ## Introduction to SiteImprove Quality Assurance
 Once inside SiteImprove, you will have access to a customized dashboard reflecting the report of your specific site. If you maintain or have access to multiple sites, those sites are listed under the Group drop down menu.
@@ -28,6 +24,7 @@ SiteImprove Quality Assurance is composed of four modules:
 * Inventory – provides information regarding quantity and types of documents available on your site along with information regarding phone numbers, email addresses, media, etc.
 
 SiteImprove Quality Assurance also comes bundled with an Accessibility tab for viewing your site’s compliance to WCAG 2.0 standards.
+Please note that SiteImprove Quality Assurance reports are based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the button labed`rescan`.
 
 ## Sample SiteImprove Quality Assurance dashboard:
 `image of dashboard`
@@ -39,7 +36,7 @@ SiteImprove Quality Assurance also comes bundled with an Accessibility tab for v
 * This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the left.
 
 ### Potential Misspellings
-Potential misspellings are words that SiteImprove does not recognise, and will need review. To review a potential misspelling do the following:
+Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:
 1. Click on it and a menu will open with suggestions and other options.
 2. You can either confirm the misspelling, in which case it becomes highlighted red and registered as a misspelling, ignore it (in the case of foreign language words) or add it to the dictionary, in which case the potential misspelling will disappear and any other instances of this word will stop being registered as potential misspellings.
 
@@ -55,6 +52,9 @@ Potential misspellings are words that SiteImprove does not recognise, and will n
 5. You will need to log into your Drupal Website and fix the broken link in the editor. Then, when the link is fixed you can click the `recheck` button/option the page and update Siteimprove.
 
 *Note: it can take a few minutes for the tool to reflect the amended link. The link will then be removed in time for the next report.*
+
+## Fixing Accessibility Issues
+
 
 
 Notes:
