@@ -13,5 +13,5 @@
    * [Featured Item](features/howto-featured.md)
    * [Banner](features/howto-banner.md)
    * [Adding Events](features/howto-events.md)
-   * Creating a FAQ
+   * [Creating a FAQ](features/howto-FAQ.md)
 
