@@ -11,4 +11,5 @@
    * [Basic Page](features/howto-page.md)
    * [News Article](features/howto-news.md)
    * [Featured Item](howto-featured.md)
+   * Banner
 
