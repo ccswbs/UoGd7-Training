@@ -8,5 +8,5 @@
 * [Accessibility Policy and Best Practices](bestpracgov.md)
    * [SiteImprove](siteimprove.md)
 * [Features Howto](features_howto.md)
-   * [Basic Page](features/howto_page.md)
+   * [Basic Page](features/howto-page.md)
 
