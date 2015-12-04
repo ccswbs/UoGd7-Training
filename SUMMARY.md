@@ -11,7 +11,7 @@
    * [Basic Page](features/howto-page.md)
    * [Featured Item](features/howto-featured.md)
    * [News Article](features/howto-news.md)
-   * [Banner](features/howto-banner.md)
    * [Adding Events](features/howto-events.md)
+   * [Banner](features/howto-banner.md)
    * [Creating a FAQ](features/howto-FAQ.md)
 
