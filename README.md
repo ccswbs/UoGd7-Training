@@ -1,4 +1,5 @@
 # UoGd7-Training
+
 Business Solutions Client Drupal 7 Training Materials and Accessibility guidelines.
 Guide to The University of Guelph's Drupal Web Content Management System and Template
 
