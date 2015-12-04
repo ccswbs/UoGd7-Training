@@ -1,10 +1,5 @@
 # UoGd7-Training
 ![University of Guelph](cover_small.jpg)
-
-
-![CCS Department](images/CCS_logo1_black.gif)
-
-
 Business Solutions Client Drupal 7 Training Materials and Accessibility guidelines.
 Guide to The University of Guelph's Drupal Web Content Management System and Template
 
@@ -33,6 +28,8 @@ Please use the navigation menu to begin learning about what the University of Gu
 [Landing Page](features/howto-landingpag.md) //
 [Special Alert](features/howto-specialalert.md) //
 [Course Outlines](features/howto-courseoutlines.md)
+
+![CCS Department](images/CCS_logo1_black.gif)
 
 ## Basic Github Workflow Guidelines
 * The Documentation Team takes note when a new feature was shipping.
