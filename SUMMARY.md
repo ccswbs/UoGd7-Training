@@ -12,5 +12,5 @@
    * [News Article](features/howto-news.md)
    * [Featured Item](features/howto-featured.md)
    * [Banner](features/howto-banner.md)
-   * Adding Events
+   * [Adding Events](features/howto-events.md)
 
