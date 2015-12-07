@@ -3,7 +3,7 @@
 * SiteImprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
 * Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within the University of Guelph's content management system, Drupal 7.
 * SiteImprove does NOT affect or edit pages within any site.
-* Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their department’s site.
+* Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their departments site.
 * SiteImprove can email users every five (5) days with a report on a site.
 * Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard titled (ADD TITLE).
 * SiteImprove does rank pages on the number of errors based on a scale of 0-10 (10 is best).
@@ -30,7 +30,8 @@ Please note that SiteImprove Quality Assurance reports are based on the most rec
 `image of dashboard`
 
 ## Correcting Spelling Mistakes
-* In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button on the right. This will take you to a page which lists all the misspellings on this section of the website.
+* In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button within the dashboard. You can also access the misspelling page using the navigation menu, under spelling.
+* This will take you to a page which lists all the misspellings on this section of the website.
 `insert image of Misspellings`
 * To see which page a particular spelling mistake is on, you can click on the magnifying glass.
 * This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the left.
