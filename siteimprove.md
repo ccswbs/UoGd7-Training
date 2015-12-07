@@ -3,7 +3,7 @@
 * SiteImprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
 * Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within the University of Guelph's content management system, Drupal 7.
 * SiteImprove does NOT affect or edit pages within any site.
-* Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their department’s site.
+* Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their departments site.
 * SiteImprove can email users every five (5) days with a report on a site.
 * Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard titled (ADD TITLE).
 * SiteImprove does rank pages on the number of errors based on a scale of 0-10 (10 is best).
@@ -34,9 +34,9 @@ Please note that SiteImprove Quality Assurance reports are based on the most rec
 * This will take you to a page which lists all the misspellings on this section of the website.
 ![Image of misspellings page](image/SImiss.png)
 * To see which page a particular spelling mistake is on, you can click on the magnifying glass.
-![Image of magnifying glass](image/SIpagerport.png)
+![Image of magnifying glass](image/SIglass.png)
 * This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the menu to the left.
-![Image of a page report](image/SImisspagereort.png)
+![Image of a page report](image/SImissreport.png)
 
 ### Potential Misspellings
 Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:
@@ -61,5 +61,6 @@ Potential misspellings are words that SiteImprove does not recognize, and will n
 
 
 Notes:
+
 http://www.du.edu/uts/webwork/siteimprove-reports/SiteImprove.pdf
 https://portal.uea.ac.uk/documents/6207125/6490101/Siteimprove%2BQuick%2BStart%2BGuide.pdf/c8554f51-5f5b-4272-b81d-714db6bf80a5
