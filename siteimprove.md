@@ -49,8 +49,10 @@ Potential misspellings are words that SiteImprove does not recognize, and will n
 
 ## Fixing a Broken Link
 1. Log in as usual and pick your site to get to the overview page, and then click on the number within the “Broken Links” circle.
+![Image of a Brokenlinks circle](images/SIbrokenselect.png)
 2. The next page outlines all of the broken links in your site. Take note of the column to the right of this called “pages”. This tells you on how many pages this particular link is found (and broken) on.
 3. In order to see which pages a link is broken on, you can hover over the box with the number of pages in it and a “+” will appear. Click this to expand the box and list all of the pages in which this broken link can be found.
+![Image of a Broken link plus sign](images/SIbrokenplus.png)
 4. Clicking on one of the results will then open a page report in a new tab and show you where on the page the broken link is.
 5. You will need to log into your Drupal Website and fix the broken link in the editor. Then, when the link is fixed you can click the `recheck` button/option the page and update Siteimprove.
 

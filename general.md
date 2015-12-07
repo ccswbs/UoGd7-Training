@@ -38,6 +38,7 @@ To add any type of pre-defined content, the methods are the same. When Logged in
 ## Users
 ### How-to Login/Logout
 1. Navigate to your website: www.uoguelph.ca/*sitename*
+![Login example](images/userlogin.png)
 2. To `login` use your Central Login ID and Password in the user login fields.
 3. To `logout` select or click the `logout` option located on the menu bar.
 
