@@ -6,12 +6,12 @@ Guide to The University of Guelph's Drupal Web Content Management System and Tem
 Please use the navigation menu to begin learning about what the University of Guelph Drupal template has to offer.
 
 ## Navigation
-## Introduction
+### Introduction
 [General Guide](general.md) // [Taxonomies](taxonomies.md) // [Features, Terms, Acronyms](Drupal_Features_Terms_Acroynms.md) // [WYSIWYG Info](wysiwyg-editor.md)
 
 [Best Practices](bestpracgov.md) // [SiteImprove Guide](siteimprove.md)
 
-## Features:
+### Features:
 [Page](features/howto-page.md) //
 [Featured Item](features/howto-featured.md) //
 [News](features/howto-news.md) //
@@ -30,6 +30,14 @@ Please use the navigation menu to begin learning about what the University of Gu
 [Course Outlines](features/howto-courseoutlines.md)
 
 ![CCS Department](images/CCS_logo1_black.gif)
+
+## Contributing
+
+If you want to contribute to this, you have a few options.
+
+1. Submit pull requests for updates or new chapters.
+2. Subscribe to the repo and review new updates as they come in.
+3. Contact CCS Web Business Solutions.
 
 ## Basic Github Workflow Guidelines
 * The Documentation Team takes note when a new feature was shipping.
