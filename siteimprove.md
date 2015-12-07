@@ -59,5 +59,6 @@ Potential misspellings are words that SiteImprove does not recognize, and will n
 
 
 Notes:
+
 http://www.du.edu/uts/webwork/siteimprove-reports/SiteImprove.pdf
 https://portal.uea.ac.uk/documents/6207125/6490101/Siteimprove%2BQuick%2BStart%2BGuide.pdf/c8554f51-5f5b-4272-b81d-714db6bf80a5
