@@ -34,9 +34,9 @@ Please note that SiteImprove Quality Assurance reports are based on the most rec
 * This will take you to a page which lists all the misspellings on this section of the website.
 ![Image of misspellings page](image/SImiss.png)
 * To see which page a particular spelling mistake is on, you can click on the magnifying glass.
-![Image of magnifying glass](image/SIpagerport.png)
+![Image of magnifying glass](image/SIglass.png)
 * This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the menu to the left.
-![Image of a page report](image/SImisspagereort.png)
+![Image of a page report](image/SImissreport.png)
 
 ### Potential Misspellings
 Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:
