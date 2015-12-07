@@ -13,7 +13,7 @@ If you are a web content owner, you should have already received your SiteImprov
 
 ## Logging In To SiteImprove
 Once you have been set you up as a user, you will receive an email prompting you to set a password for your account. Once that is done, you can [login to the SiteImprove system](http://my.siteimprove.com).
-
+![SiteImprove Login example](images/SIlog.png)
 ## Introduction to SiteImprove Quality Assurance
 Once inside SiteImprove, you will have access to a customized dashboard reflecting the report of your specific site. If you maintain or have access to multiple sites, those sites are listed under the Group drop down menu.
 
@@ -27,13 +27,16 @@ SiteImprove Quality Assurance also comes bundled with an Accessibility tab for v
 Please note that SiteImprove Quality Assurance reports are based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the button labed`rescan`.
 
 ## Sample SiteImprove Quality Assurance dashboard:
-`image of dashboard`
+![Siteimprove dashboard example](images/SIdash.png)
 
 ## Correcting Spelling Mistakes
-* In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button on the right. This will take you to a page which lists all the misspellings on this section of the website.
-`insert image of Misspellings`
+* In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button within the dashboard. You can also access the misspelling page using the navigation menu, under spelling.
+* This will take you to a page which lists all the misspellings on this section of the website.
+![Image of misspellings page](image/SImiss.png)
 * To see which page a particular spelling mistake is on, you can click on the magnifying glass.
-* This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the left.
+![Image of magnifying glass](image/SIpagerport.png)
+* This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the menu to the left.
+![Image of a page report](image/SImisspagereort.png)
 
 ### Potential Misspellings
 Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:
