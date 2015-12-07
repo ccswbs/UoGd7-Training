@@ -1,9 +1,6 @@
 #  WYSIWYG Editor
 The content editor has a collection of tools located at the top of the main Body/Description, useful to edit and customize format of the contents. *WYSIWYG* stands for What You See Is What You Get.
 
-*Editor personal notes:*
-* Mousing over the icons will describe their functionality.
-
 ## Adding Images Within the Body Section
 1. Goto the **Body** section of the page.
 2. From the WYSIWYG Editor click on the image icon.
@@ -47,15 +44,17 @@ The **WCAG 2.0** standard for table settings dictates that table markup must be 
 The **WCAG 2.0** standard for links dictates that the purpose of each link can be determined by the link text alone.
 
 *Example* Do not use:
->For information on courses click [here](www.google.ca).
+>To search the internet click [here](www.google.ca).
 
 Use this format instead:
->[Information on courses](www.google.ca).
+>[Visit Google's webpage](www.google.ca).
 
 To do this in the **body** section:
 
 1. Highlight the text to use for the link.
+`show image of highlighted text`
 2. Click on the Link icon (in the Editor).
+`insert image of link icon`
 3. Insert the URL that you want to link to:
     1. External links - use a link copied from the browser *i.e. www.uoguelph.ca*.
     2. Internal links - use the page name copied from the browser *psychology/faq-page*.
