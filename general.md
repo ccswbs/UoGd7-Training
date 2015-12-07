@@ -52,22 +52,3 @@ Request that new users attempt to login to the site - this provides their Userna
 6. Select `Save`.
 
 *Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
-
-## Links to other pages on how to create specific content:
-* [Learn more about UoG Drupal features](Drupal_Features_Terms_Acroynms.md)
-* [How to create a Basic Page](features/howto-page.md)
-* [How to create a Featured Item](features/howto-featured.md)
-* [How to create a Banner](features/howto-banner.md)
-* [How to create a News Item](features/howto-news.md)
-* [How to create an Events listing](features/howto-events.md)
-* [Social Media](features/howto-socialmedia.md)
-* [How to create a Service page](features/howto-services.md)
-* [How to create a FAQ](features/howto-FAQ.md)
-* [How to create a Book](features/howto-book.md)
-* [How to create People Profiles](features/howto-profiles.md)
-* [How to create a Blog](features/howto-blog.md)
-* [How to create a Web Form](features/howto-webforms.md)
-* [Creating a Landing Page](features/howto-landingpag.md)
-* [How to create a Special Alert](features/howto-specialalert.md)
-* [How to create Course Outlines](features/howto-courseoutlines.md)
-* [How to create Custom Content](features/howto-customcon.md)

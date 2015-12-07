@@ -32,11 +32,11 @@ Please note that SiteImprove Quality Assurance reports are based on the most rec
 ## Correcting Spelling Mistakes
 * In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button within the dashboard. You can also access the misspelling page using the navigation menu, under spelling.
 * This will take you to a page which lists all the misspellings on this section of the website.
-![Image of misspellings page](image/SImiss.png)
+![Image of misspellings page](images/SImiss.png)
 * To see which page a particular spelling mistake is on, you can click on the magnifying glass.
-![Image of magnifying glass](image/SIglass.png)
+![Image of magnifying glass](images/SIglass.png)
 * This will then open a new tab and take you to a page highlighting your spelling mistakes within the body text in red. Misspellings and Potential Misspellings are listed on the menu to the left.
-![Image of a page report](image/SImissreport.png)
+![Image of a page report](images/SImissreport.png)
 
 ### Potential Misspellings
 Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:

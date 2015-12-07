@@ -44,8 +44,7 @@ Every node belongs to a single *node type* or *content type*, which defines vari
 16. [Custom Content](features/howto-customcon.md)
 
 ## Field
-*Fields* are elements of data that can be attached to a node or other *Drupal* entity. Fields
-commonly contain text, image, or terms.
+*Fields* are elements of data that can be attached to a node or other *Drupal* entity. Fields commonly contain text, images, or terms.
 
 ## Input format
 These are settings that define the filtering of user-entered text before it is displayed. This can be used to control formatting or malicious input.
@@ -63,7 +62,7 @@ There are four standard menus in *Drupal 7*:
 A module is software (code) that extends *Drupal* features and functionality. The University of Guelph supplies and maintains it's own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
 
 ## Path
-In *Drupal* terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/?q=node/7, the path is node/7.
+In *Drupal* terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is CCS/AODA.
 
 ## Path Alias
 This changes default paths such as node/7 into user-friendly paths such as about/contact. This is automated with UoG enabled modules.

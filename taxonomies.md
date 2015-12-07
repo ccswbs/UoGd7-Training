@@ -2,7 +2,7 @@
 ## Summary
 *Taxonomy* is the practice of classifying things. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
 
-## Planning taxonomies
+## Planning Taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children.
 
 Here's how you might create a taxonomy for a site arranged by musical genre:
@@ -28,7 +28,7 @@ Sometimes you will want to create a *controlled vocabulary*, where content autho
 
 ## Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
-* In *Drupal 7*, it's found under `Administration Bar -> Structure` (i.e., http://yoururl/admin/structure/taxonomy)
+* In *Drupal 7*, it's found under `Administration Bar -> Structure` (i.e. http://yoururl/admin/structure/taxonomy)
 
 ![Administration Menu Bar with Structure selected.](images/ambs.png)
 
@@ -37,7 +37,7 @@ The University of Guelph Drupal 7 template comes with a list of predefined vocab
 
 To add a new Vocabulary:
 * Go to `Administration -> Structure -> Taxonomies`.
-* Click `Add vocabulary` link.
+* Click `Add Vocabulary` link.
 * Choose a name for your vocabulary.
 * Give your vocabulary a description. Modules may use this description in different ways. (For example, a module may show the description when users hover over a link.)
 * Vocabularies can have hierarchies of terms. In Drupal 7 you simply arrange items to create a hierarchy.
@@ -51,7 +51,6 @@ Once you have finished defining the vocabulary, you may populate it with terms u
 Advanced options:
 
 * **Parents (Optional):** Select the term(s) under which this term is a subset.
-* **Related terms (Optional, D6 only):** Choose any terms that are related to the one you are creating.
 * **Weight (Optional):** The weight is used to sort the terms of this vocabulary; by default they will be sorted alphabetically.
 * **URL Alias**: For the UoGuelph template, *Generate automatic URL alias* should already be ticked.
 
@@ -63,9 +62,7 @@ On the `list terms` page you can edit each term by clicking the `edit` link. Now
 * You can decide the order in which your term will appear in lists by assigning it a "weight".
 * You can delete a term altogether.
 
-
 ### Using Categories in Menus
-
 The menus on your site can call for items that match specific taxonomy terms. To create a menu using Taxonomy, follow these steps:
 
 1. Find the autopath given to your taxonomy term (*Note: To find the autopath, go to the Taxonomy > list terms page for the category to which your term belongs, and click the term. You'll be sent to a page with the autopath of your taxonomy term - save it*).
