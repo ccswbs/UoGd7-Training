@@ -1,4 +1,4 @@
-# UoGd7-Training
+# Guelph Drupal 7 Training Module
 ![University of Guelph](cover_small.jpg)
 ![CCS Department](images/CCS_logo1_black.gif)
 
@@ -22,7 +22,7 @@ Please use the navigation menu to begin learning about what the University of Gu
    * [Banner](features/howto-banner.md)
    * [Creating a FAQ](features/howto-FAQ.md)
 
-### Other Features:
+### Other Features (Work in Progress):
 * [Social Media](features/howto-socialmedia.md) //
 * [Services](features/howto-services.md) //
 * [Book](features/howto-book.md) //
@@ -35,7 +35,6 @@ Please use the navigation menu to begin learning about what the University of Gu
 * [Course Outlines](features/howto-courseoutlines.md)
 
 ## Contributing
-
 If you want to contribute to this, you have a few options.
 
 1. Submit pull requests for updates or new chapters.
