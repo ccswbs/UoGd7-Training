@@ -116,5 +116,5 @@ When using a list of items make sure to use the function for this that is built 
 looks like a list (such as asterisk, dash etc.).
 
 Notes:
-https://wlu.ca/docs/EnablingAccessHandbook_online.pdf
-http://siteimprove.com/resources/
+* https://wlu.ca/docs/EnablingAccessHandbook_online.pdf
+* http://siteimprove.com/resources/

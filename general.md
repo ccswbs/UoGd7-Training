@@ -1,14 +1,12 @@
-# Guide to The University of Guelph's Drupal Web Content Management System and Template
-Please begin by reading the following:
+# Guide to UoG Drupal Web Content Management System and Template
 ## Conventions Used In This Documentation
-*Emphasis* or *Italic*
-* Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
 
-**Strong** or __Bold__
-* Used for options, titles.
-
-`Constant Width`
-* For things the user will see and read on the screen.
+* *Emphasis* or *Italic*
+    * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
+* **Strong** or __Bold__
+    * Used for options, titles.
+* `Constant Width`
+    * For things the user will see and read on the screen.
 
 # What is Drupal?
 ## A Brief Description
@@ -17,7 +15,7 @@ Websites are often thought as a collection of static pages, perhaps with some fu
 **The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal* on the other hand, treats most content types as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks (side content which often have links to different site sections).
 
 ## The Flexibility Of Nodes
- Essentially, a *node* is a set of related bits of information. When you create a new blog post, you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
+ Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
 
 ## Regions and Blocks
 ![Image of Block Areas highlighted](images/Block_Areas.jpg)
@@ -40,6 +38,7 @@ To add any type of pre-defined content, the methods are the same. When Logged in
 ## Users
 ### How-to Login/Logout
 1. Navigate to your website: www.uoguelph.ca/*sitename*
+![Login example](images/userlogin.png)
 2. To `login` use your Central Login ID and Password in the user login fields.
 3. To `logout` select or click the `logout` option located on the menu bar.
 
@@ -55,21 +54,16 @@ Request that new users attempt to login to the site - this provides their Userna
 
 *Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
 
-## Links to other pages on how to create specific content:
-* [Learn more about UoG Drupal features](Drupal_Features_Terms_Acroynms.md)
-* [How to create a Basic Page](features/howto-page.md)
-* [How to create a Featured Item](features/howto-featured.md)
-* [How to create a Banner](features/howto-banner.md)
-* [How to create a News Item](features/howto-news.md)
-* [How to create an Events listing](features/howto-events.md)
-* [Social Media](features/howto-socialmedia.md)
-* [How to create a Service page](features/howto-services.md)
-* [How to create a FAQ](features/howto-FAQ.md)
-* [How to create a Book](features/howto-book.md)
-* [How to create People Profiles](features/howto-profiles.md)
-* [How to create a Blog](features/howto-blog.md)
-* [How to create a Web Form](features/howto-webforms.md)
-* [Creating a Landing Page](features/howto-landingpag.md)
-* [How to create a Special Alert](features/howto-specialalert.md)
-* [How to create Course Outlines](features/howto-courseoutlines.md)
-* [How to create Custom Content](features/howto-customcon.md)
+## Creating and Editing Menus
+`add more information about menu items`
+### Adding a New Menu Item
+1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu.
+2. Locate a menu to edit and click `add link`.
+3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
+4. In the Path field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
+5. In the **Description field**, enter the text that will be displayed when a user hovers over the link.
+6. Enable any of the following options:
+  * **Enabled**: If the link is not enabled, it will not be displayed in the menu.
+  * **Expanded**: If this option is enabled and the menu link has children, the first level children of the menu link will always be expanded. (NOTE: This rule doesn't cascade down for subsequent levels of children links. You must enable this option at each level where you want the next level to be expanded.)
+7. In the Parent link list, select the parent of the link. *(Optional) In the Weight list, select the relative weight of the link. Links with the "lightest" weight will display higher in a menu. Links with the same weight will display in alphabetical order.*
+8. Click Save.
