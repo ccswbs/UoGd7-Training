@@ -7,7 +7,7 @@
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Accessibility Policy and Best Practices](bestpracgov.md)
    * [SiteImprove](siteimprove.md)
-* Basic Beginners Guide
+* [Basic Beginners Guide](basicbeginner.md)
 * [Features Howto](features.md)
    * [Basic Page](features/howto-page.md)
    * [Featured Item](features/howto-featured.md)
