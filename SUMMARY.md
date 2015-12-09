@@ -5,9 +5,9 @@
    * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
    * [Taxonomies](taxonomies.md)
 * [Accessibility Policy and Best Practices](bestpracgov.md)
+   * [SiteImprove](siteimprove.md)
    * [Roles and Responsibilities](rolesandresp.md)
        * Website Managers
-* [SiteImprove](siteimprove.md)
 * [Basic Beginners Guide](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Features Howto](features.md)
