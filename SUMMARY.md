@@ -14,4 +14,5 @@
    * [Adding Events](features/howto-events.md)
    * [Banner](features/howto-banner.md)
    * [Creating a FAQ](features/howto-FAQ.md)
+* Basic Beginners Guide
 
