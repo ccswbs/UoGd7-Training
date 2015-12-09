@@ -7,6 +7,7 @@
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Accessibility Policy and Best Practices](bestpracgov.md)
    * [SiteImprove](siteimprove.md)
+* Basic Beginners Guide
 * [Features Howto](features.md)
    * [Basic Page](features/howto-page.md)
    * [Featured Item](features/howto-featured.md)
@@ -14,5 +15,4 @@
    * [Adding Events](features/howto-events.md)
    * [Banner](features/howto-banner.md)
    * [Creating a FAQ](features/howto-FAQ.md)
-* Basic Beginners Guide
 
