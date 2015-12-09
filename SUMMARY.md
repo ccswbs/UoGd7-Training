@@ -7,6 +7,7 @@
 * [Accessibility Policy and Best Practices](bestpracgov.md)
    * [SiteImprove](siteimprove.md)
    * [Roles and Responsibilities](rolesandresp.md)
+       * Website Managers
 * [Basic Beginners Guide](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Features Howto](features.md)
