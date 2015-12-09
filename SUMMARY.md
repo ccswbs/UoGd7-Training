@@ -7,6 +7,7 @@
 * [Accessibility Policy and Best Practices](bestpracgov.md)
    * [Roles and Responsibilities](rolesandresp.md)
        * [Website Managers](webman.md)
+       * Content Creators and Editors
    * [SiteImprove](siteimprove.md)
 * [Basic Beginners Guide](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
