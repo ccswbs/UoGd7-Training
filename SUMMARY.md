@@ -12,7 +12,7 @@
 * [Basic Beginners Guide](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Features Howto](features.md)
-   * [Banner](features/howto-banner.md)
+   * [Banners](features/howto-banner.md)
    * [Basic Page](features/howto-page.md)
    * [Featured Item](features/howto-featured.md)
    * [News Article](features/howto-news.md)
