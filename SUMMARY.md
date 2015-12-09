@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [General](general.md)
-   * [General Features and Terms](Drupal_Features_Terms_Acroynms.md)
+   * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
    * [Taxonomies](taxonomies.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
 * [Accessibility Policy and Best Practices](bestpracgov.md)
@@ -14,3 +14,4 @@
    * [Adding Events](features/howto-events.md)
    * [Banner](features/howto-banner.md)
    * [Creating a FAQ](features/howto-FAQ.md)
+
