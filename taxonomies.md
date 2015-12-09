@@ -61,11 +61,3 @@ On the `list terms` page you can edit each term by clicking the `edit` link. Now
 * You must assign your term a name as a "nameless term" does not exist.
 * You can decide the order in which your term will appear in lists by assigning it a "weight".
 * You can delete a term altogether.
-
-### Using Categories in Menus
-The menus on your site can call for items that match specific taxonomy terms. To create a menu using Taxonomy, follow these steps:
-
-1. Find the autopath given to your taxonomy term (*Note: To find the autopath, go to the Taxonomy > list terms page for the category to which your term belongs, and click the term. You'll be sent to a page with the autopath of your taxonomy term - save it*).
-2. Go to the menus page `(Structure > Menus)`.
-3. Select `Add link` to the Main Menu.
-4. When you fill in the Path field you add your term as follows: category/term/ *i.e. event-heading/socials*
