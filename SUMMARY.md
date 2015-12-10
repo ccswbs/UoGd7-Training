@@ -18,5 +18,5 @@
    * [News Article](features/howto-news.md)
    * [Adding Events](features/howto-events.md)
    * [Creating a FAQ](features/howto-FAQ.md)
-* Managing Menus
+* [Managing Menus](menuitems.md)
 
