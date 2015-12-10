@@ -41,7 +41,7 @@ Please note that SiteImprove Quality Assurance reports are based on the most rec
 ### Potential Misspellings
 Potential misspellings are words that SiteImprove does not recognize, and will need review. To review a potential misspelling do the following:
 1. Click on it and a menu will open with suggestions and other options.
-2. You can either confirm the misspelling, in which case it becomes highlighted red and registered as a misspelling, ignore it (in the case of foreign language words) or add it to the dictionary, in which case the potential misspelling will disappear and any other instances of this word will stop being registered as potential misspellings.
+2. You can either confirm the misspelling - in which case it becomes highlighted in red and registered as a misspelling on the `Quality Assurance` pane - Ignore it (in the case of foreign language words) or add it to the dictionary - in which case the potential misspelling will disappear and any other instances of this word will stop being registered as potential misspellings.
 
 ### Fixing Misspellings
 * In order to fix a misspelling, you will need to log into your website and navigate to the page where the misspelling is located and fix it manually.
