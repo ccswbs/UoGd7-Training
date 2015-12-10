@@ -1,4 +1,4 @@
-# Guide for SiteImprove Quality Assurance
+# Guide to SiteImprove Quality Assurance
 ## What is SiteImprove Quality Assurance?
 * SiteImprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
 * Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within the University of Guelph's content management system, Drupal 7.
