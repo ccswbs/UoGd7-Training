@@ -18,5 +18,5 @@
    * [Featured Item](features/howto-featured.md)
    * [News Article](features/howto-news.md)
    * [Events](features/howto-events.md)
-   * [Creating a FAQ](features/howto-FAQ.md)
+   * [FAQ](features/howto-FAQ.md)
 
