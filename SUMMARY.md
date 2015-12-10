@@ -11,6 +11,7 @@
    * [SiteImprove](siteimprove.md)
 * [Basic Beginners Guide](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
+* [Managing Menus](menuitems.md)
 * [Features Howto](features.md)
    * [Banners](features/howto-banner.md)
    * [Basic Page](features/howto-page.md)
@@ -18,5 +19,4 @@
    * [News Article](features/howto-news.md)
    * [Adding Events](features/howto-events.md)
    * [Creating a FAQ](features/howto-FAQ.md)
-* [Managing Menus](menuitems.md)
 
