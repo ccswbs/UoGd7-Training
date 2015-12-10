@@ -45,7 +45,7 @@ Create a website that can be used by as many as possible, in as many ways as pos
 * All functionality can be used without a mouse – from the keyboard alone.
 * All functionality can be used with a mouse
 * Users can adapt color and font according to specific needs.
-* Ensure none of your content will cause seizures, avoid rapidly flashing content.
+* Ensure none of your content will cause seizures - **avoid** rapidly flashing content.
 
 ### 3. Association
 * Text, headings, buttons, fields etc. that are logically connected must also be visually connected.

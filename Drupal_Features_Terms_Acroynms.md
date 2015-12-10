@@ -15,29 +15,29 @@ Every node belongs to a single *node type* or *content type*, which defines vari
 
 ### Site Architecture - Content Types The UoG Template Provides:
 1. [Basic Page](features/howto-page.md)
-    * The *Basic page* content type are used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
+    * The **Basic page** content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 2. [Featured Items](features/howto-featured.md)
-    * The *Featured Item* allows content authors to create a lead-in to any page content on the website (e.g. Events, News, Basic Page, People Profiles, etc.) or an external URL.
+    * The **Featured Item** allows content authors to create a lead-in to any page content on the website (e.g. Events, News, Basic Page, People Profiles, etc.) or an external URL.
 3. [Banner](features/howto-banner.md)
-    * The Banner feature provides banner editors with an image carousel which can feature multiple pieces of content.
+    * The **Banner** feature provides editors with an image carousel at the top of the page which can feature multiple pieces of content.
 4. [News](features/howto-news.md)
-    * The *News* feature allows content authors to add news articles to the website and display them in a Listing Page view, an Article Detail Page view, and a Recent News Teaser List view. Any article can be featured on any page using the Featured News Article view. Site visitors can also browse for news articles by date and category tag.
+    * The **News** feature allows content authors to add news articles to the website and display them in a Listing Page view, an Article Detail Page view, and a Recent News Teaser List view. Any article can be featured on any page using the Featured News Article view. Site visitors can also browse for news articles by date and category tag.
 5. [Events](features/howto-events.md)
-    * The *Events* feature allows content editors to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Events block. Site visitors can also browse for events by date and event category.
+    * The **Events** feature allows content editors to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Events block. Site visitors can also browse for events by date and event category.
 6. [Social Media](features/howto-socialmedia.md)
-    * The *Social Media* feature allows Anonymous Users to share pages on their favorite networks and visit a variety of (external) social media pages affiliated with the website. They can also access Twitter, Facebook and RSS feeds directly on the website.
+    * The **Social Media** feature allows Anonymous Users to share pages on their favorite networks and visit a variety of (external) social media pages affiliated with the website. They can also access Twitter, Facebook and RSS feeds directly on the website.
 7. [Services](features/howto-services.md)
-    * The *Services* feature provides a method for outlining and featuring the services that you offer. Users can find Services alphabetically, by service category, or by audience (eligible user). They can also search for services by keyword (tags).
+    * The **Services** feature provides a method for outlining and featuring the services that you offer. Users can find Services alphabetically, by service category, or by audience (eligible user). They can also search for services by keyword (tags).
 8. [FAQ](features/howto-FAQ.md)
-    * The *Frequently Asked Questions (FAQ)* feature allows editors to create a repository of commonly asked questions and their corresponding answers.
+    * The **Frequently Asked Questions (FAQ)** feature allows editors to create a repository of commonly asked questions and their corresponding answers.
 9. [Book](features/howto-book.md)
-    * The *book* feature is a set of pages tied together in a hierarchical sequence, perhaps with chapters, sections, subsections, and so on. You can use books for manuals, site resource guides, Frequently Asked Questions (FAQs), or whatever you'd like.
+    * The **Book** feature is a set of pages tied together in a hierarchical sequence, perhaps with chapters, sections, subsections, and so on. You can use books for manuals, site resource guides, Frequently Asked Questions (FAQs), or whatever you'd like.
 10. [People Profiles](features/howto-profiles.md)
-    * The *People Profiles* feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
+    * The **People Profiles** feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
 11. [Blog](features/howto-blog.md)
-    * The *Blog* feature allows authorized users to maintain a blog. Blogs are a series of posts that are time stamped and are typically viewed by date as you would view a journal. Blog entries can be made public or private to the site members, depending on which roles have access to view content.
+    * The **Blog** feature allows authorized users to maintain a blog. Blogs are a series of posts that are time stamped and are typically viewed by date as you would view a journal. Blog entries can be made public or private to the site members, depending on which roles have access to view content.
 12. [Web Forms](features/howto-webforms.md)
-    * The Web Forms feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt" as well as sending a notification to administrators. Results can be exported into Excel or other spreadsheet applications
+    * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt" as well as sending a notification to administrators. Results can be exported into Excel or other spreadsheet applications.
 13. [Landing Page](features/howto-landingpag.md)
 14. [Special Alert](features/howto-specialalert.md)
 15. [Course Outlines](features/howto-courseoutlines.md)
@@ -94,23 +94,9 @@ Can view/edit all project data, create/edit all content types.
 - Can approve any content drafts for publishing.
 - Can publish any content.
 
-#### Moderator
-- Can publish and edit any content.
-- Can delete and edit any terms and taxonomies.
-
-#### Publisher
-- Can publish and edit any content.
-- Can revert content revisions.
-- Can delete and edit any terms and taxonomies.
-
 #### Site Manager
 - Can create new users.
 - Can edit any user profile.
 
-#### Administrator
-- Can configure site settings.
-- Full access rights.
-- Can delete any content (drafts or published).
-
 ## WYSIWYG
-*WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. [Read more about WYSIWYG](wysiwyg-editor.md).
+*WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. We use a WYSIWYG editor for adding main body content. [Read the guide on our WYSIWYG editor for helpful tips](wysiwyg-editor.md).

@@ -16,7 +16,7 @@ The *Basic page* content type are used for static content that can (but are not 
 ![File Attachment option](../images/pageattach.png)
 7. If you want this web page to be accessed through your menus check the `provide a menu link`.
     1. Enter an appropriate **Title** and **Description**.
-    2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *Example: Ff it is an event select event to have it as a sublink there.*
+    2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *Example: If it is an event select event to have it as a sublink there.*
 ![Page Menu options](../images/pagekeyoptmenu.png)
 8. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
 9. Select `Save` when you are done.
