@@ -2,7 +2,7 @@
 ## Conventions Used In This Documentation
 
 * *Emphasis* or *Italic*
-    * Used for pathnames, filenames, program names, new terms where they are defined, and web addresses.
+    * Used for pathnames, filenames, program names, new terms where they are defined.
 * **Strong** or __Bold__
     * Used for options, titles.
 * `Constant Width`
