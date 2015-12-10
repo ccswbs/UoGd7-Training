@@ -1,4 +1,4 @@
-# Mostly for Web Editors and Content Creators
+# Web Editors and Content Creators
 ## Page titles
 In our Drupal 7 content management system (CMS) you give a web page a title or name when you create it. The specific field for this called ‘Title’. It is important that this title is descriptive of what the page is about. It is the page title that is shown in the top of your browser and is read as the first thing on a web page by a screen reader.
 
