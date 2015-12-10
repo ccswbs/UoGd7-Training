@@ -12,7 +12,7 @@
 ## A Brief Description
 Websites are often thought as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
 
-**The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal* on the other hand, treats most content types as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks (side content which often have links to different site sections).
+**The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal* on the other hand treats most content types as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
 
 ## The Flexibility Of Nodes
  Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
