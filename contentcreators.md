@@ -27,6 +27,7 @@ Avoid using images of text. This means that you should avoid writing text in an 
 
 ## Video and audio
 If you are using video or audio clips on a web page there are several criteria to consider, such as captioning and audio description on video. Audio description is an extra track explaining what happens on the screen to visually impaired users. If you are not able to provide your videos with audio descriptions then give an alternative in the form of a transcript that is uploaded or linked to from the page. But be aware that without audio descriptions you cannot be AA compliant, but only A-compliant. If the content is solely visual (no sound) or only audio (no visual) then a text version is an accepted alternative on both levels.
+jhjgkjgkjhjhkh
 
 ## Tables
 When using data tables with information it is important to indicate headings for rows and/ or columns. The way to do this is very CMS specific. In some cases the editor provides an accessibility tab where this information can be entered when using data tables.
