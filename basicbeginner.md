@@ -1,6 +1,9 @@
 # Basic Beginner Functions For Drupal 7
-## How-to Perform Administration and Content Tasks
+
+## Howto Perform Administration and Content Tasks
 To add any type of pre-defined content, the methods are the same. When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
+
+![Admin Menu Bar](images/admin_menu_bar.png)
 
 ## Users
 ### How-to Login/Logout
