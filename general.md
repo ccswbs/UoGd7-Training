@@ -20,6 +20,6 @@ Websites are often thought as a collection of static pages, perhaps with some fu
 ## Regions and Blocks
 ![Image of Block Areas highlighted](images/Block_Areas.jpg)
 
-Pages on your *Drupal* site are laid out in Regions. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
+**Nodes** on your *Drupal* site are laid out in **Regions**. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
 
-Blocks are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
+**Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
