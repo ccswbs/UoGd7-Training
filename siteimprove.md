@@ -26,7 +26,7 @@ SiteImprove Quality Assurance is composed of four modules:
 SiteImprove Quality Assurance also comes bundled with an Accessibility tab for viewing your site’s compliance to WCAG 2.0 standards.
 Please note that SiteImprove Quality Assurance reports are based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the button labed`rescan`.
 
-## Sample SiteImprove Quality Assurance dashboard:
+**Example SiteImprove Quality Assurance dashboard:**
 ![Siteimprove dashboard example](images/SIdash.png)
 
 ## Correcting Spelling Mistakes
