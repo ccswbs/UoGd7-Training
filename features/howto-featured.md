@@ -12,6 +12,7 @@ The *Featured Item* allows content authors to create a lead-in to any page conte
 4. If you have [page categories](../taxonomies.md#categories) defined select the appropriate one.
 5. Upload your Featured items **Image** by selecting `choose file`.
     * Add a descriptive **Alternative tag**.
+    * Featured images should be `dimensions here` and should pertain to the subject matter.
 6. Enter the direct link to the featured item - such as an Event or News Article page - in the Link field.
 ![Image of Feature Item link options](../images/featitleimglink.png)
 7. Enter a short **Summary**
