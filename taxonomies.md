@@ -1,7 +1,7 @@
 # Taxonomies
 ## Summary
 *Taxonomy* is the practice of classifying things. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
-
+xxxxx
 ## Planning taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children.
 
