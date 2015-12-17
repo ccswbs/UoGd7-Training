@@ -1,6 +1,6 @@
 # Why Accessibility
 ## A Word about Accessibility and The AODA
-Accessible design is good for all. Large public-sector organizations usually have large, multi-page, multi-department—and often cumbersome—websites. How many times has someone tried to access information on such a site only to be frustrated and give up? How many times has that happened to you? It’s a common experience for people both with and without disabilities.
+Accessible design is good for all. Large public-sector organizations usually have large, multi-page, multi-department—and often cumbersome—websites. How many times has someone tried to access information on such a site only to be frustrated and give up? How many times has that happened to you? It is a common experience for people both with and without disabilities.
 
 **The Accessibility for Ontarians with Disabilities Act, 2005 (AODA)** became law on June 13, 2005. Under this landmark legislation, the government of Ontario has developed mandatory accessibility standards that identifies, removes, and prevents barriers for people with disabilities. Disability impacts the lives of many Ontarians, and the numbers of people with disabilities is increasing. Today, 15.5% of Ontario’s population has a disability and this number will continue to grow as the population ages.
 
@@ -21,7 +21,7 @@ Redeveloping a website to better serve people with disabilities also has these a
 * Captioning of audio content is essential for this group.
 
 **Reaching people with low-bandwidth connections or older technologies:**
-* An organization cannot assume that everyone’s access to the web is of the same quality. Accessible design’s emphasis on alt texts and text alternatives for all multimedia and images allows users to bypass these bandwidth-hogging elements without losing any information.
+* An organization cannot assume that everyones access to the web is of the same quality. Accessible design emphasis on alt texts and text alternatives for all multimedia and images allows users to bypass these bandwidth-hogging elements without losing any information.
 
 
 Notes:
