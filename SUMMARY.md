@@ -10,6 +10,7 @@
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
    * [SiteImprove](siteimprove.md)
+   * Top 5 Accessibility Tips
 * [Basic Beginners Guide](basicbeginner.md)
    * [Managing Menus](menuitems.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
