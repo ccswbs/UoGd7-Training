@@ -1,6 +1,7 @@
 # How to Create a FAQ
 The *Frequently Asked Questions (FAQ)* feature allows editors to create a repository of commonly asked questions and their corresponding answers. The 'faq' page is automatically generated from the FAQ nodes configured and the layout of this page can be modified on the settings page.
 
+![Image example of an FAQ](../images/FAQexample.png)
 ## Create some FAQ nodes (Questions and Answers)
 1. On the Administration bar, select `Add Content`.
 ![Add Content Highlighted](../images/ambac.png)
