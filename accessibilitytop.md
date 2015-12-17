@@ -23,7 +23,7 @@ Create a website that can be used by as many as possible, in as many ways as pos
 
 ### 3. Association
 * Text, headings, buttons, fields etc. that are logically connected must also be visually connected.
-* Make sure not to give instructions based solely on a location of content, such as ‘In the box to your right…’. Supplement with a heading also.
+* Make sure not to give instructions based solely on a location of content, such as ‘In the box to your right’. Supplement with a heading also.
 * Make link texts that can be read out of context. Avoid ‘Click here’, ‘Read more’.
 
 ### 4. Color for everyone
