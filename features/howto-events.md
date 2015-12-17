@@ -15,7 +15,7 @@ The Events feature allows **Authors** to add events to the website and display t
 `Need location image`
 6. In the **Body field** enter the details and summary of the information.
 ![An example of the body field](../images/eventbody.png)
-7. [Select your Section](../taxonomies.md#Sections) **NEEDS TO BE FIXED**
+7. [Select your Section](../taxonomies.md#Sections)
 8. Add a `feature image` if there is one for the event, such as a poster image.  Add a descriptive **Alt Text** - a **Caption** is optional. *Note: Any information available on the image should also be available in your summary.*
 ![An example of the body field](../images/eventfeatalt.png)
 9. Add any files relevent to the Event and enter a related website for your event *(if there is a page dedicated to the event)* with a descriptive title.
