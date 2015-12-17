@@ -1,5 +1,5 @@
 # How to Create an Event
-The Events feature allows **Authors** to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Events block. Site visitors can also browse for events by date and event category.
+The Events feature allows **Authors** to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Items block. Site visitors can also browse for events by date and event category.
 
 ![Example of an Event Display](../images/evex.png)
 
