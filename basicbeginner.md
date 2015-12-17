@@ -23,3 +23,10 @@ Request that new users attempt to login to the site - this provides their Userna
 6. Select `Save`.
 
 *Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
+
+## Finding and Editing Content
+All content created on your website can be viewed by selecting the `Find Content` shortcut located on the Administration Menu shortcut bar, or by selecting `Content` on the Administration Menu bar itself.
+![Find Content Highlighted](images/findcontent.png)
+
+To Edit content you can search using the filter dropdown menus for a particular content type and then select `edit` for that particular item.
+![Filter and edit content options displayed](images/filterandedit.png)
