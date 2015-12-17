@@ -15,6 +15,6 @@ If you want to contribute to this, you have a few options.
 * The Documentation Team takes note when a new feature was shipping.
 * Create a new issue to track the feature.
 * When ready, open a pull / fork request to start iterating on the content.
-* When the content was in a good place, we'd @mention the doc team and have a peer editor review our words.
+* When the content is in a good place, @mention the doc team and have a peer editor review the words.
 * When the feature is ready to ship, merge the pull request. GitBooks updates automatically.
 * Update book module on the CCS Website.
