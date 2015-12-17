@@ -5,7 +5,7 @@
    * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
    * [Taxonomies](taxonomies.md)
 * [Accessibility and Website Managment Best Practices](Whyaccessibility.md)
-   * Best Practice TIps
+   * [Best Practice TIps](practips.md)
    * [Roles and Responsibilities](rolesandresp.md)
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
