@@ -9,6 +9,7 @@
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
    * [SiteImprove](siteimprove.md)
+   * Best Practice TIps
 * [Basic Beginners Guide](basicbeginner.md)
    * [Managing Menus](menuitems.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
