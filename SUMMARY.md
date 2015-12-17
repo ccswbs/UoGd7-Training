@@ -10,7 +10,7 @@
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
    * [SiteImprove](siteimprove.md)
-   * Accessible PDF And Word Documents
+   * [Accessible PDF And Word Documents](docaccess.md)
 * [Basic Beginners Guide](basicbeginner.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
