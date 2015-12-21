@@ -1,24 +1,24 @@
 # Guide to UoG Drupal Web Content Management System and Template
-## Conventions Used In This Documentation
+## Conventions Used in This Documentation
 
 * *Emphasis* or *Italic*
     * Used for pathnames, filenames, program names, side notes.
 * **Strong** or __Bold__
-    * Used for options, titles, new terms where they are defined
+    * Used for options, titles, new terms where they are defined.
 * `Constant Width`
     * For things the user will see and read on the screen.
 
 # What is Drupal?
 ## A Brief Description
-Websites are often thought as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
+Websites are often thought of as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
 
-**The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal* on the other hand treats most content types as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
+**The University of Guelph Business Web Solutions** department uses a *Content Management System (CMS)* called *Drupal*. *Drupal*, unlike traditional websites, treats most content types <- [maybe bold **content types**, and add a term entry for it so readers know what 'content types' means] as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
 
 ## Where To Start?
-A lot can be accomplished through the GUI. Exploring the GUI is probably the best way to learn how to use Drupal - 
+A lot can be accomplished through the GUI. Exploring the GUI is probably the best way to learn how to use Drupal.
 
 ## The Flexibility Of Nodes
- Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
+ Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining it's body text, but also it's title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
 
 ## Regions and Blocks
 ![Image of Block Areas highlighted](images/Block_Areas.jpg)
