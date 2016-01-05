@@ -4,6 +4,11 @@ Accessible design is good for all. Large public-sector organizations usually hav
 
 **The Accessibility for Ontarians with Disabilities Act, 2005 (AODA)** became law on June 13, 2005. Under this landmark legislation, the government of Ontario has developed mandatory accessibility standards that identifies, removes, and prevents barriers for people with disabilities. Disability impacts the lives of many Ontarians, and the numbers of people with disabilities is increasing. Today, 15.5% of Ontario’s population has a disability and this number will continue to grow as the population ages.
 
+## WCAG 2.0 Principles, Guidelines and Criteria
+The AODA stipulates that that beginning January 1, 2014, new public websites, significantly refreshed websites and any web content posted after January 1, 2012 must meet **Web Content Accessibility Guidelines (WCAG) 2.0** Level A. And beginning January 1, 2021, all public websites and web content posted after January 1, 2012 must meet WCAG 2.0 Level AA. WCAG 2.0 is an internationally accepted standard for web accessibility developed by the World Wide Web Consortium (W3C), an international team of experts. Following these guidelines should make it easier for everyone to access your website and content.
+
+WCAG 2.0 has 12 guidelines that are organized under 4 principles: Perceivable, Operable, Understandable, and Robust. For each guideline, there are testable success criteria, which are ranked at 3 levels: A, AA, AAA.
+
 Accessible design and the principles of universal design, with their emphasis on clear, streamlined and flexible presentation, content and navigation, can lessen such frustrations. An accessible website is beneficial to all users and certainly to the organizations that create them because it means their website is better able to reach all members of its target audience.
 
 Redeveloping a website to better serve people with disabilities also has these additional benefits:
