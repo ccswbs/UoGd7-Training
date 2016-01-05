@@ -1,8 +1,3 @@
-## WCAG 2.0 Principles, Guidelines and Criteria
-The AODA stipulates that that beginning January 1, 2014, new public websites, significantly refreshed websites and any web content posted after January 1, 2012 must meet **Web Content Accessibility Guidelines (WCAG) 2.0** Level A. And beginning January 1, 2021, all public websites and web content posted after January 1, 2012 must meet WCAG 2.0 Level AA. WCAG 2.0 is an internationally accepted standard for web accessibility developed by the World Wide Web Consortium (W3C), an international team of experts. Following these guidelines should make it easier for everyone to access your website and content.
-
-WCAG 2.0 has 12 guidelines that are organized under 4 principles: Perceivable, Operable, Understandable, and Robust. For each guideline, there are testable success criteria, which are ranked at 3 levels: A, AA, AAA.
-
 ## Accessibility Top 5
 As content creators and managers you will not necessarily need to know all the WCAG 2.0 details. The following list was created with content managers and creators in mind:
 
