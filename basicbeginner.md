@@ -30,3 +30,5 @@ All content created on your website can be viewed by selecting the `Find Content
 
 To Edit content you can search using the filter drop-down menus for a particular content type and then select `edit` for that particular item.
 ![Filter and edit content options displayed](images/filterandedit.png)
+
+saman is typing
