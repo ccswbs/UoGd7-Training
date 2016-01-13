@@ -1,5 +1,5 @@
 # How to Add Social Media
-The social media feature permits **Authors** to add social media links to their website and display them on any page.
+The social media feature permits **Authors** to add social media links to their website and display them on any page. Site visitors can click on the social media icon and be directed to the associated webpage.
 
 
 
