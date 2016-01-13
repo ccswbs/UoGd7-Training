@@ -1,9 +1,9 @@
-# How to Create an Event
+# How to Create a Event
 The Events feature allows **Authors** to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Items block. Site visitors can also browse for events by date and event category.
 
 ![Example of an Event Display](../images/evex.png)
 
-## To Create an Event
+## To Create a Event
 1. Select `Add Content` at the top of the administration bar.
 ![Add Content Highlighted](../images/ambac.png)
 2. Select `Event` in the list.
