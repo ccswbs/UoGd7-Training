@@ -6,9 +6,9 @@ The social media feature permits **Authors** to add social media links to their 
 
 ## To Add Social Media
 2. On the Administration bar, select `Add Content`.
- * ![content](../images/content.png)   
+ * ![content](../images/Content.png)   
 2. Select `Social Media Account`
- * ![Example of social media account option](../images/social media account.png)
+ * ![Example of social media account option](../images/Social Media Account.png)
 3. Enter a **Title**
 4. If you have  [Account Category](taxonomies.md#categories) defined, select the appropriate one
 5. Select the type of [Social Media Network](taxonomies.md#categories) from the drop down list.
