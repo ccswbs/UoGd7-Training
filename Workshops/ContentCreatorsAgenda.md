@@ -1,5 +1,6 @@
 # Content Creation Workshop
 In this workshop you will be instructed on the following items:
+
 1. Briefly touch on Accessibility, the AODA, and WCAG 2.0 Standards.
 2. Some Tips and Tricks with our WYSIWYG editor.
 3. How to build a *Basic Page*, a *News Item*, an *Event*, and a *Banner*.
@@ -15,6 +16,7 @@ WCAG 2.0 has 12 guidelines that are organized under 4 principles: Perceivable, O
 
 ## How To Use The WYSIWYG Editor and Additional Tips.
 There are a few items that need to be explained with our current version of our WYSIWYG editor until the updates come down the line. The items are as such:
+
 1. How to add images within the body section.
 2. How to add tables.
 3. How to create links that are **WCAG 2.0 AA** compliant.
@@ -78,6 +80,7 @@ For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://ww
 
 ## Building Specific Content Types
 The following content types will be built and demostrated:
+
 1. A Basic Page.
 2. A News Article.
 3. An Event Page.
@@ -85,6 +88,7 @@ The following content types will be built and demostrated:
 
 ### Creating A Basic Page
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
+
 1. On the Administration bar, select `Add Content`.
 2. Select `Page`.
 3. Enter a **Title**.
@@ -99,6 +103,7 @@ The *Basic Page* content type is used for static content that can (but are not r
 
 ### Creating A News Article
 The *News* feature allows content authors to add news articles to the website and display them in a Listing Page view, an Article Detail Page view, and a Recent News Teaser List view. Any article can be featured on any page using the Featured News Article view. Site visitors can also browse for news articles by date and category tag.
+
 1. On the Administration bar, select `Add Content`.
 2. Select `News`.
 3. Enter a **Title**
@@ -116,6 +121,7 @@ The *News* feature allows content authors to add news articles to the website an
 
 ### Creating A Event
 The Events feature allows **Authors** to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Items block. Site visitors can also browse for events by date and event category.
+
 1. Select `Add Content` at the top of the administration bar.
 2. Select `Event` in the list.
 3. Enter a **Title**. *(Mandatory)*
@@ -132,6 +138,7 @@ The Events feature allows **Authors** to add events to the website and display t
 There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For proper display each banner image *must* be **1140 x 292**.
 
 To Add a Banner Image:
+
 1. Select `Add Content` at the top of the administration bar.
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
@@ -148,6 +155,7 @@ To Add a Banner Image:
 *Note: To add more banner images do the same steps as listed and change the order if you have a preferred order.*
 
 To Display The Banner On The Front Page:
+
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
 3. Two options:
