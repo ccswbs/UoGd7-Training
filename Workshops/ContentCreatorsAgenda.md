@@ -22,7 +22,7 @@ There are a few items that need to be explained with our current version of our 
 3. How to create links that are **WCAG 2.0 AA** compliant.
 
 ### Adding Images To The Content Body.
-1. Goto the **Body** section of the page.
+1. Go to the **Body** section of the page.
 2. From the WYSIWYG Editor click on the image icon.
 3. And then click `Browse Server`.
 4. If image isn't already uploaded to your filesystem select upload from the menu bar.
@@ -79,7 +79,7 @@ To do this in the **body** section:
 For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)
 
 ## Building Specific Content Types
-The following content types will be built and demostrated:
+The following content types will be built and demonstrated:
 
 1. A Basic Page.
 2. A News Article.
@@ -92,7 +92,7 @@ The *Basic Page* content type is used for static content that can (but are not r
 1. On the Administration bar, select `Add Content`.
 2. Select `Page`.
 3. Enter a **Title**.
-4. If you have [page categories](../taxonomies.md#categories) defined select the appropriate one.
+4. If you have [page categories](../taxonomies.md#categories) defined, select the appropriate one.
 5. In the **body field** enter what you want displayed on your web page.
 6. If you want to add any files to download attach them using the **File Attachment** option.
 7. If you want this web page to be accessed through your menus check the `provide a menu link`.
@@ -107,14 +107,14 @@ The *News* feature allows content authors to add news articles to the website an
 1. On the Administration bar, select `Add Content`.
 2. Select `News`.
 3. Enter a **Title**
-4. If you have [page categories](taxonomies.md#categories) defined select the appropriate one.
+4. If you have [page categories](taxonomies.md#categories) defined, select the appropriate one.
 5. Enter a **Written by**.
 6. In the body field enter what you want displayed on your web page. Follow this link [for more information on how to use the WYSIWYG editor.](wysiwyg-editor.md)
 7. Add a feature image if there is one for the news, such as a image of the subject matter. It is required to add **Alternative Text** if the image is not a decorative one. Add a **Caption**.
 8. Enter any *tags or keywords* that help categorize and organize your article.
 9. If you want this web page to be accessed through your menus check the `provide a menu link`.
     1. Enter an appropriate **Title** and **Description**.
-    2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through.
+    2. In the `Parent item` drop down menu, select which menu heading you want the new link to be accessed through.
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
 11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
