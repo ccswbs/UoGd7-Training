@@ -15,11 +15,10 @@
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
-* [Features Howto](features.md)
+* [Features: How-to](features.md)
    * [Banners](features/howto-banner.md)
    * [Basic Page](features/howto-page.md)
    * [Featured Item](features/howto-featured.md)
    * [News Article](features/howto-news.md)
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
-

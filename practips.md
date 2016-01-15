@@ -1,5 +1,5 @@
 # Tips on getting started
-Some best practices to get you started when managaing/editing your website and content is to begin small and work towards harder criteria. [SiteImprove](http://my.siteimprove.com) will help highlight and create reports of where your website needs improvement.
+Some best practices to get you started when managing/editing your website and content is to begin small and work towards harder criteria. [SiteImprove](http://my.siteimprove.com) will help highlight and create reports of where your website needs improvement.
 
 ## 1. Start with the basics – Broken Links
 Broken links negatively affect users perception of your website, yet all too often it is the basics like this that are overlooked. There should be no broken links on your website.
