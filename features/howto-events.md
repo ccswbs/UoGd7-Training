@@ -12,7 +12,7 @@ The Events feature allows **Authors** to add events to the website and display t
 4. Enter the starting and ending **Dates and Time**. *(Mandatory)*
 ![An example of Event Title and Time](../images/eventtitletime.png)
 5. Enter a **Location**.
-`Need location image`
+![An example of location](../images/location.png)
 6. In the **Body field** enter the details and summary of the information.
 ![An example of the body field](../images/eventbody.png)
 7. [Select your Section](../taxonomies.md#Sections)
