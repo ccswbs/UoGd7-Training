@@ -1,5 +1,5 @@
 # Accessibility Awareness: Tips And Stratagies For Creating AODA Compliant Websites
-In this workshop you will be instructed on the following items:
+In this workshop, you will be instructed on the following items:
 
 1. Briefly touch on Accessibility, the AODA, and WCAG 2.0 Standards.
 2. Getting to know Siteimprove and its features.
@@ -17,10 +17,10 @@ WCAG 2.0 has 12 guidelines that are organized under 4 principles: Perceivable, O
 
 ## If there are no SiteManagers/users with siteimprove access in current class skip Siteimprove and go on to next section
 ## Siteimprove Guidelines
-In this section we will talk to clients about:
+In this section, we will talk to clients about:
 
 1. Siteimprove access and how to get it.
-2. What siteimprove does and how to navigate its basic features.
+2. What Siteimprove does and how to navigate its basic features.
 3. How to fix spelling mistakes and broken links.
 4. Briefly talk about the accessibility tab and accessible document creation.
 
@@ -42,13 +42,13 @@ If you are a web content owner, you should have already received your SiteImprov
 Once inside SiteImprove, you will have access to a customized dashboard reflecting the report of your specific site. If you maintain or have access to multiple sites, those sites are listed under the Group drop down menu.
 
 SiteImprove Quality Assurance is composed of four modules:
-* QA Overview – provides an overall view of a sites health, highlighting broken links and misspellings that affect the most pages.
+* QA Overview – provides an overall view of a site's health, highlighting broken links and misspellings that affect the most pages.
 * Links – specific details concerning pages with broken links such as frequent broken links, external links, etc.
 * Spelling – specific details concerning the misspellings located across your site.
 * Inventory – provides information regarding quantity and types of documents available on your site along with information regarding phone numbers, email addresses, media, etc.
 
 SiteImprove Quality Assurance also comes bundled with an Accessibility tab for viewing your site’s compliance to WCAG 2.0 standards.
-Please note that SiteImprove Quality Assurance reports are based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the button labed`rescan`.
+Please note that SiteImprove Quality Assurance reports are based on the most recent site scan and may not reflect any recently published changes. You can initiate a rescan of any page at any time by clicking the button labeled `rescan`.
 
 ### Correcting Spelling Mistakes
 * In order to look at spelling mistakes specifically, you can click on the number within the Misspellings button within the dashboard. You can also access the misspelling page using the navigation menu, under spelling.
@@ -68,7 +68,7 @@ Potential misspellings are words that SiteImprove does not recognize, and will n
 ### Fixing a Broken Link
 1. Log in as usual and pick your site to get to the overview page, and then click on the number within the “Broken Links” circle.
 2. The next page outlines all of the broken links in your site. Take note of the column to the right of this called “pages”. This tells you on how many pages this particular link is found (and broken) on.
-3. In order to see which pages a link is broken on, you can hover over the box with the number of pages in it and a “+” will appear. Click this to expand the box and list all of the pages in which this broken link can be found.
+3. In order to see which pages a link is broken on, you can hover over the box with the number of pages in it and a “+” will appear. Click this to expand the box and it will list all of the pages in which this broken link can be found.
 4. Clicking on one of the results will then open a page report in a new tab and show you where on the page the broken link is.
 5. You will need to log into your Drupal Website and fix the broken link in the editor. Then, when the link is fixed you can click the `recheck` button/option the page and update Siteimprove.
 
@@ -99,7 +99,7 @@ Website link texts can be problematic. While many editors are aware of how to co
 Use SiteImprove to help in assisting and finding accessibility issues such as broken links, misspellings, and WCAG 2.0 Accessibility testing.
 
 ## Accessibility Top 5
-The fowling items should be learned and stickied for Content Creators and Site Managers. As content creators and managers you will not necessarily need to know all the WCAG 2.0 details.
+The following items should be learned and affixed for Content Creators and Site Managers. As content creators and managers, you will not necessarily need to know all the WCAG 2.0 details.
 The following list is something however we should all be familiar with:
 
 ### 1. Text for everyone
