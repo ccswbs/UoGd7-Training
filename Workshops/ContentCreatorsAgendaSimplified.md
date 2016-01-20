@@ -13,6 +13,13 @@ Accessible design is good for all. Accessible design and the principles of unive
 
 Beginning January 1, 2021, all public websites and web content posted after January 1, 2012 must meet **WCAG 2.0 Level AA**. **WCAG 2.0** is an internationally accepted standard for web accessibility developed by the **World Wide Web Consortium (W3C)**, an international team of experts. Following these guidelines should make it easier for everyone to access your website and content.
 
+### Quick notes on accessibility when creating content
+* Don't use low contrast text colours.
+* Don't use flashing images or videos.
+* If using videos ensure you also have a transcript or captions available.
+* Use headings to structure your info logically, not for aesthetics.
+* Create links that can be understood out of context (more info in another section).
+
 ## Building Specific Content Types
 The following content types will be built and demonstrated:
 
@@ -42,7 +49,9 @@ The *Basic Page* content type is used for static content that can (but are not r
 2. Select `Page`.
 3. Enter a **Title**.
 4. If you have [page categories](../taxonomies.md#categories) defined, select the appropriate one.
-5. In the **body field** enter what you want displayed on your web page. *Please see below on how to use the content editor*
+5. In the **body field** enter what you want displayed on your web page.
+
+*Please see below on how to use the content editor*
 6. If you want to add any files to download attach them using the **File Attachment** option.
 7. If you want this web page to be accessed through your menus check the `provide a menu link`.
     1. Enter an appropriate **Title** and **Description**.
