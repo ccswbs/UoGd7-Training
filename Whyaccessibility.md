@@ -26,7 +26,7 @@ Redeveloping a website to better serve people with disabilities also has these a
 * Captioning of audio content is essential for this group.
 
 **Reaching people with low-bandwidth connections or older technologies:**
-* An organization cannot assume that everyones access to the web is of the same quality. Accessible design emphasis on alt texts and text alternatives for all multimedia and images allows users to bypass these bandwidth-hogging elements without losing any information.
+* An organization cannot assume that everyone's access to the web is of the same quality. Accessible design emphasis on alt texts and text alternatives for all multimedia and images allows users to bypass these bandwidth-hogging elements without losing any information.
 
 
 Notes:
