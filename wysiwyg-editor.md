@@ -57,6 +57,6 @@ To do this in the **body** section:
 `insert image of link icon`
 3. Insert the URL that you want to link to:
     1. External links - use a link copied from the browser *i.e. www.uoguelph.ca*.
-    2. Internal links - use the page name copied from the browser *psychology/faq-page*.
+    2. Internal links - use the page name copied from the browser *psychology/faq-page* and ensure the protocol is selected to *<other>*
 
 For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)

@@ -9,7 +9,7 @@
 6. Select `Save`.
 
 ## Adding a New Custom Menu Item Manually
-1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu.
+1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu
 2. Locate a menu to edit and click `add link`.
 3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
 4. In the Path field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
