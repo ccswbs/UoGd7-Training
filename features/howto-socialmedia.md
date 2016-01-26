@@ -15,13 +15,15 @@ The social media feature permits **Authors** to add social media links to their 
 8. Select **Save** when you are done.
  * ![image of save button](../images/save.png)
 
-9. Go back to the *Home page* and select `Customize this page` at the bottom of the Web Page.
+To add the the content to a detail page:
+
+1. Go back to the *Home page* and select `Customize this page` at the bottom of the Web Page.
  * ![image of s\customize button](../images/Customize.png)
-10. Choose any location to place your social media link (i.e. top, middle column, right side, etc) and select `+`
+2. Choose any of the location areas to place your social media link (i.e. top, middle column, right side, etc) and select `+`
   * ![image of add button](../images/add.png)
-11. Click on `Views` and select `S6- Social media directory`
+3. Click on `View Panes` and select either `S3` or `S4` views depending on your needs.
   * ![image of add button](../images/view.png)
-12. Select `Continue`
+4. Select `Continue`
   * ![image of add button](../images/continue.png)
-13. Check off *Override title* and any other options you prefer and then select `Finish`
+5. Select `Finish`
   * ![image of add button](../images/final.png)
