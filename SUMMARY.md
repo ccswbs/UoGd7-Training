@@ -22,5 +22,5 @@
    * [News Article](features/howto-news.md)
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
-   * Adding a Social Media Account
+   * [Adding a Social Media Account](howto-socialmedia.md)
 
