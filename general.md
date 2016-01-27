@@ -1,5 +1,4 @@
-# Guide to UoG Drupal Web Content Management System and Template
-## Conventions Used in This Documentation
+# Conventions Used in This Documentation
 
 * *Emphasis* or *Italic*
     * Used for pathnames, filenames, program names, side notes.
