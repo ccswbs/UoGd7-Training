@@ -4,7 +4,7 @@ If you have the responsibility of ensuring accessibility on a website, then all 
 The following beginning steps will help you to get started as a site owner:
 
 ## Learn About The AODA and Content Editing Standards.
-**AODA Standards** – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidelines (WCAG) 2.0** *Level A* compliance was required in 2014 and *Level AA* compliance is required by 2021. This documentation has some information at the beggining of chapter 2 to help get you started. You should also visit the [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/) for additional help and resources.
+**AODA Standards** – effective January 2014 website content changes must comply with provincial legislation known as the **Accessibility for Ontarians with Disabilities Act (AODA)**. The Standards governing websites is called the **Web Content Accessibility Guidelines (WCAG) 2.0** *Level A* compliance was required in 2014 and *Level AA* compliance is required by 2021. This documentation has some information at the beginning of Chapter 2 to help get you started. You should also visit the [U of G Web Accessibility site](https://www.uoguelph.ca/accessibility/web/) for additional help and resources.
 
 ## Register for a SiteImprove Web Accessibility Course
 [The Siteimprove website application](http://siteimprove.com/) is used for tracking technical compliance - for user training **Contact Diversity & Human Rights**.

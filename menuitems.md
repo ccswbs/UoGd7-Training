@@ -3,13 +3,13 @@
 * At the end of the page there are a few options you can select to customize your content. To add a menu item when your content is created follow these steps:
 1. Check the checkbox labeled `Provide a menu link`.
 2. In the **Menu Link Title** enter a menu title, this will be the text that users can click on to get to this page.
-3. Enter a **Description**	If a user mouses over this link, after a moment the description you type here will show.
+3. Enter a **Description**	If a user's mouse hovers over this link, after a moment the description you type here will show.
 4. Choose the **Parent Item** for this page. For example, if we later created a *Event listing* page, we may want to file it under *Events of the month*, and we could do that here.
 5. You can adjust the **Weight** to change in which order this link will appear.
 6. Select `Save`.
 
 ## Adding a New Custom Menu Item Manually
-1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu.
+1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu
 2. Locate a menu to edit and click `add link`.
 3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
 4. In the Path field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
