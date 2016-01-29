@@ -9,7 +9,7 @@ In this workshop, you will be instructed on the following items:
 ## Accessibility, The AODA, and WCAG 2.0
 Accessible design is good for all. Large public-sector organizations usually have large, multi-page, multi-department—and often cumbersome—websites. Accessible design and the principles of universal design, with their emphasis on clear, streamlined and flexible presentation, content and navigation, can lessen the frustrations of users who use your website. An accessible website is beneficial to all users and certainly to the organizations that create them because it means their website is better able to reach all members of its target audience.
 
-**The Accessibility for Ontarians with Disabilities Act, 2005 (AODA)** became law on June 13, 2005. Under this landmark legislation, the government of Ontario has developed mandatory accessibility standards that identifies, removes, and prevents barriers for people with disabilities. Disability impacts the lives of many Ontarians, and the numbers of people with disabilities is increasing. Today, 15.5% of Ontario’s population has a disability and this number will continue to grow as the population ages.
+**The Accessibility for Ontarians with Disabilities Act, 2005 (AODA)** became law on June 13, 2005. Under this landmark legislation, the Government of Ontario has developed mandatory accessibility standards that identifies, removes, and prevents barriers for people with disabilities. Disability impacts the lives of many Ontarians, and the numbers of people with disabilities is increasing. Today, 15.5% of Ontario’s population has a disability and this number will continue to grow as the population ages.
 
 The AODA requires that beginning January 1, 2014, new public websites, significantly refreshed websites and any web content posted after January 1, 2012 must meet **Web Content Accessibility Guidelines (WCAG) 2.0 Level A**. And beginning January 1, 2021, all public websites and web content posted after January 1, 2012 must meet **WCAG 2.0 Level AA**. WCAG 2.0 is an internationally accepted standard for web accessibility developed by the **World Wide Web Consortium (W3C)**, an international team of experts. Following these guidelines should make it easier for everyone to access your website and content.
 
@@ -108,7 +108,7 @@ The following list is something however we should all be familiar with:
 * Provide alternative text for images. These must reflect the purpose of the image:
   * Decorative: no alternative text.
   * Having a function: Describe the functionality.
-  * Linking: Describe destination.
+  * Linking: Describe destination
 
 ### 2. Versatility
 Create a website that can be used by as many as possible, in as many ways as possible according to user needs.
