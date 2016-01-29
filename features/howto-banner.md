@@ -24,7 +24,7 @@
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
 3. Two options:
-    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Top Bar* block region or select highlighted from the dropdown menu.
+    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Top Bar* block region or select highlighted from the dropdown menu (*RECOMMENDED*).
     * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Top Bar* block region or select highlighted from the dropdown menu.
 4. Select `Save Blocks`.
 
