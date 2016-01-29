@@ -93,12 +93,13 @@ Can view/edit all project data, create/edit all content types.
 - Can edit any content (drafts or published).
 - Can approve any content drafts for publishing.
 - Can publish any content.
-
-#### Site Manager
-- Can change site layout.
 - Can create/edit taxonomies.
 - Can edit menus.
-- Can edit any user profile.
+
+#### Site Manager
+- User: administer permissions
+- User: administer users
+- User: Allow editing of page layouts, includes: changing view categories, Titles, and number of items to display
 
 ## WYSIWYG
 *WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. We use a WYSIWYG editor for adding main body content. [Read the guide on our WYSIWYG editor for helpful tips](wysiwyg-editor.md).
