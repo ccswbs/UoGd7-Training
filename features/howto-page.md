@@ -1,4 +1,4 @@
-# How to create a Basic Page
+# How to Create a Basic Page
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 
 ![An Example of a Basic Page](../images/paex.png "Example of a Basic Page")

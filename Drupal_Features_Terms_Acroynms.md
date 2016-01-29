@@ -95,7 +95,9 @@ Can view/edit all project data, create/edit all content types.
 - Can publish any content.
 
 #### Site Manager
-- Can create new users.
+- Can change site layout.
+- Can create/edit taxonomies.
+- Can edit menus.
 - Can edit any user profile.
 
 ## WYSIWYG
