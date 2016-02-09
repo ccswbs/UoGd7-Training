@@ -25,24 +25,26 @@ The following content types will be built and demonstrated:
 
 1. How to Perform administration tasks.
 2. How to Login/logout.
-2. How to find and filter content.
-3. Creating a Basic Page and going through the steps of our current WYSIWYG editor.
-4. Adding Event content.
-5. Adding News Articles.
+3. How to find and filter content.
+4. Taxonomy 101
+5. Creating a Basic Page and going through the steps of our current WYSIWYG editor.
 6. Banners.
-
-### How to Perform Administration and Content Tasks
-To add any type of pre-defined content, the methods are the same. When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
 
 ### How to Login/Logout
 1. Navigate to your website: www.uoguelph.ca/*sitename*/user
 2. To `login` use your Central Login ID and Password in the user login fields.
 3. To `logout` select or click the `logout` option located on the menu bar.
 
+### How to Perform Administration and Content Tasks
+To add any type of pre-defined content, the methods are the same. When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
+
 ### Finding, Filtering, and Editing Content
 All content created on your website can be viewed by selecting the `Find Content` shortcut located on the Administration Menu shortcut bar, or by selecting `Content` on the Administration Menu bar itself.
 
 To Edit content you can search using the filter drop-down menus for a particular content type and then select `edit` for that particular item.
+
+### Taxonomy 101
+
 
 ### Creating A Basic Page
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
@@ -125,36 +127,11 @@ To do this in the **body** section:
 
 For more details, refer to [Web Solutions full documentation.](https://mancusop.gitbooks.io/uog-drupal-training/content/)
 
-## To Create an Event
-1. Select `Add Content` at the top of the administration bar.
-2. Select `Event` in the list.
-3. Enter a **Title**. *(Mandatory)*
-4. Enter the starting and ending **Dates and Time**. *(Mandatory)*
-5. Enter a **Location**.
-6. In the **Body field** enter the details and summary of the information.
-  * Ensure your section item has been predefined, a common one is *Cost*.
-7. [Select your Section](../taxonomies.md#Sections) if you have defined one.
-  * For sections a **Taxonomy** for `Event_headings` needs to be created. The `Sections` datafield is where content creators can add data that doesn't conform to the already predetermined Events feature such as *Cost*, or *Extra Directions*, or  *Dinner Menu Items*. A Section does not need to be added and can be left blank.
-8. Add a `feature image` if there is one for the event, such as a poster image.  Add a descriptive **Alt Text** - a **Caption** is optional. *Note: Any information available on the image should also be available in your summary.*
-9. Add any files relevant to the Event and enter a related website for your event *(if there is a page dedicated to the event)* with a descriptive title.
-10. Select the Save button when you are done.
+### Creating and Adding A Banner
+There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For proper display each banner image *must* be **1140 x 292**.
 
-## To Add a News Article
-1. On the Administration bar, select `Add Content`.
-2. Select `News`.
-3. Enter a **Title**
-5. Enter a **Written by**.
-6. In the body field, enter what you want displayed on your web page. [Here is more information on how to use the WYSIWYG editor.](wysiwyg-editor.md)
-7. Add a feature image if there is one for the news, such as an image of the subject matter. It is required to add **Alternative Text** if the image is not a decorative one. Add a **Caption**.
-8. Enter any *tags or keywords* that help categorize and organize your article.
-9. If you want this web page to be accessed through your menus check the `provide a menu link`.
-    1. Enter an appropriate **Title** and **Description**.
-    2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *Example: If it is an event select event to have it as a sub-link there.*
-10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
-11. Ensure `Promoted to front page` is selected.
-11. Select Save when you are done.
+To Add a Banner Image:
 
-## To Add a Banner Image
 1. Select `Add Content` at the top of the administration bar.
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
@@ -170,10 +147,12 @@ For more details, refer to [Web Solutions full documentation.](https://mancusop.
 
 *Note: To add more banner images do the same steps as listed and change the order if you have a preferred order.*
 
-### To Display The Banner On The Front Page
+To Display The Banner On The Front Page:
+
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
 3. Two options:
-    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Top Bar* block region or select highlighted from the dropdown menu.
-    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Top Bar* block region or select highlighted from the dropdown menu.
+    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Highlighted* block region or select highlighted from the dropdown menu.
+    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Highlighted* block region or select highlighted from the dropdown menu.
+    *It is recommended not to use the slideshow banner as it isn't considered AODA compliant**
 4. Select `Save Blocks`.

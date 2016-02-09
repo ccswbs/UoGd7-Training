@@ -2,6 +2,19 @@
 
 The people profiles feature allows **Authors** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on the preferred member's name.
 
+**Before creating a profile the following vocabularies are suggested to be filled with terms or else most of the people profile features wont be usable.**
+
+## Creating Terms for Vocabularies
+
+Add terms to the following:
+
+* **Profile Category:** This is for
+* **Profile Field Headings:** 
+* **Roles:** CLients can create any number of positions/roles for their needs. Examples include *Staff, Faculty, Students, Co-op.*
+* **Area of Research:** If applicable you can describe the different areas of research for your department/users. This isn't mandatory Molecular Interactions of dihydrogen Monoxide
+* **Unit:** This describes the title of the department or facility you are a part of. Examples: *Department of Psychology* or *Student Affairs*.
+* **Sub-Unit:** This is the sub-department such as *Web Business Solutions* which is a sub-department of *CCS*
+
 ## To Add People Profiles
 
 1. On the Administration bar, select `Add Content`
