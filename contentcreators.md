@@ -11,6 +11,12 @@ Because of low vision some users will perceive a web page very differently to th
 When you add links on a page write link texts that make sense when read out of context. For instance, avoid using link texts such as ‘Read more,’ ‘Here,’ ‘Click here,’ ‘Publication,’ etc. It will be better to write ‘You can read more about the Assistive Technologies event here’ for example. This way you are giving a link text that in itself is a good indicator of what the destination page is about.
 
 ## Colours
+Use of Color: Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
+Contrast (Minimum): The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following:
+
+* Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;
+* Incidental: Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.
+* Logotypes: Text that is part of a logo or brand name has no minimum contrast requirement.
 
 ## Documents
 Can the content be uploaded as a web page instead of a [document](https://www.uoguelph.ca/accessibility/web/what-fix/documents)?

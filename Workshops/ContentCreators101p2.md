@@ -17,21 +17,33 @@ The *News* feature allows content authors to add news articles to the website an
 11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
 
-### Creating A Event
-The Events feature allows **Authors** to add events to the website and display them in a Listing Page view, a Weekly Events view, a Monthly Calendar view, an Event Detail Page view, and an Upcoming Events Teaser List view. Any event can be highlighted (or “featured”) on any page using the Featured Items block. Site visitors can also browse for events by date and event category.
+## To Add a Banner Image
 
-1. Select `Add Content` at the top of the administration bar.
-2. Select `Event` in the list.
-3. Enter a **Title**. *(Mandatory)*
-4. Enter the starting and ending **Dates and Time**. *(Mandatory)*
-5. Enter a **Location**.
-`Add some points here about location field`
-6. In the **Body field** enter the details and summary of the information.
-7. [Select your Section](../taxonomies.md#Sections)
-8. Add a `feature image` if there is one for the event, such as a poster image.  Add a descriptive **Alt Text** - a **Caption** is optional. *Note: Any information available on the image should also be available in your summary.*
-9. Add any files relevant to the Event and enter a related website for your event *(if there is a page dedicated to the event)* with a descriptive title.
-10. Select the Save button when you are done.
+1. Select `Add Content` at the top of the administration bar. 
+2. Select `Banner`.
+3. Enter the required information: *Title, Category, Headline, Headline Link*.
+    * **Headline:** Appears on the image.
+    * **Headline Link:** can link to any website, if internal link use the page name.
+4. Image - `Upload Image:` Choose File – *Upload*.
+    * You must enter Alt text describing the image.
+5. Enter optional information: *Summary, Keywords*.
+    * **Summary:** Appears below the headline.
+    * **Keywords:** like tags, are a filtering mechanism.
+6. Select the Order (random order by default, 0 = first, 1 = second).
+7. Select `Save` when done.
 
-### Advanced Menu Creation
+
+*Note: To add more banner images do the same steps as listed and change the order if you have a preferred order.*
+
+## To Display The Banner On The Front Page
+
+1. Select `Structure` at the top of the administration bar.
+2. Select `Blocks`.
+3. Two options:
+    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Top Bar* block region or select highlighted from the dropdown menu (*RECOMMENDED*).
+    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Top Bar* block region or select highlighted from the dropdown menu.
+4. Select `Save Blocks`.
+
+### Menu Creation
 
 ### Discussions
