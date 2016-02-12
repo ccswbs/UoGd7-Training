@@ -16,4 +16,14 @@ If you are unsure whether your website is a University of Guelph website, [conta
 
 ## 5. What is the difference between categories and tags?
 
-## 6. Do I need to update my PDF and Powerpoint files before
+## 6. Do I need to update my PDF and Powerpoint files before?
+
+## 7. How gets fined if a website is non-compliant?
+
+## 8. Why is there a WYSIWYG editor for location in events?
+
+## 9. Why is there no map option?
+
+## 10. Does the news archive get generated automatically?
+
+## 11. In the news feature, does the "posted" date change every time someone edits?
