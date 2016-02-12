@@ -89,17 +89,17 @@ These users are assigned a user ID when they register for the website. A user na
 - Can view their content revisions.
 
 #### Editor
-Can view/edit all project data, create/edit all content types.
+- Can view/edit all project data, create/edit all content types.
 - Can edit any content (drafts or published).
 - Can approve any content drafts for publishing.
 - Can publish any content.
-- Can create/edit taxonomies.
-- Can edit menus.
 
 #### Site Manager
-- User: administer permissions
-- User: administer users
-- User: Allow editing of page layouts, includes: changing view categories, Titles, and number of items to display
+- User: administer permissions.
+- User: administer users.
+- User: Allow editing of page layouts, includes: changing view categories, Titles, and number of items to display.
+- Can create/edit taxonomies.
+- Can create/edit menus.
 
 ## WYSIWYG
 *WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. We use a WYSIWYG editor for adding main body content. [Read the guide on our WYSIWYG editor for helpful tips](wysiwyg-editor.md).
