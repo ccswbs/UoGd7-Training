@@ -127,32 +127,16 @@ To do this in the **body** section:
 
 For more details, refer to [Web Solutions full documentation.](https://mancusop.gitbooks.io/uog-drupal-training/content/)
 
-### Creating and Adding A Banner
-There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For proper display each banner image *must* be **1140 x 292**.
-
-To Add a Banner Image:
+### To Create an Event
 
 1. Select `Add Content` at the top of the administration bar.
-2. Select `Banner`.
-3. Enter the required information: *Title, Category, Headline, Headline Link*.
-    * **Headline:** Appears on the image.
-    * **Headline Link:** can link to any website, if internal link use the page name.
-4. Image - `Upload Image:` Choose File – *Upload*.
-    * You must enter Alt text describing the image.
-5. Enter optional information: *Summary, Keywords*.
-    * **Summary:** Appears below the headline.
-    * **Keywords:** like tags, are a filtering mechanism.
-6. Select the Order (random order by default, 0 = first, 1 = second).
-7. Select `Save` when done.
-
-*Note: To add more banner images do the same steps as listed and change the order if you have a preferred order.*
-
-To Display The Banner On The Front Page:
-
-1. Select `Structure` at the top of the administration bar.
-2. Select `Blocks`.
-3. Two options:
-    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Highlighted* block region or select highlighted from the dropdown menu.
-    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Highlighted* block region or select highlighted from the dropdown menu.
-    *It is recommended not to use the slideshow banner as it isn't considered AODA compliant**
-4. Select `Save Blocks`.
+2. Select `Event` in the list.
+3. Enter a **Title**. *(Mandatory)*
+4. Enter the starting and ending **Dates and Time**. *(Mandatory)*
+5. Enter a **Location**.
+6. In the **Body field** enter the details and summary of the information.
+7. [Select your Section](../taxonomies.md#Sections) if you have defined one.
+  * For sections a **Taxonomy** for `Event_headings` needs to be created. The `Sections` datafield is where content creators can add data that doesn't conform to the already predetermined Events feature such as *Cost*, or *Extra Directions*, or  *Dinner Menu Items*. A Section does not need to be added and can be left blank.
+8. Add a `feature image` if there is one for the event, such as a poster image.  Add a descriptive **Alt Text** - a **Caption** is optional. *Note: Any information available on the image should also be available in your summary.*
+9. Add any files relevant to the Event and enter a related website for your event *(if there is a page dedicated to the event)* with a descriptive title.
+10. Select the Save button when you are done.

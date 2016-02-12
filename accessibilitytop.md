@@ -22,7 +22,7 @@ Create a website that can be used by as many as possible, in as many ways as pos
 * Make link texts that can be read out of context. Avoid ‘Click here’, ‘Read more’.
 
 ### 4. Color for everyone
-* Make sure that the color of the background and the color of the text are insufficient contrast to each other. That way people with low vision can also read it.
+* Make sure that the color of the background and the color of the text are sufficient contrast to each other. That way people with low vision can also read it.
 * Make sure that you do not give information by use of color alone, such as saying "In the green box you will find". Otherwise it can create problems for both users with low vision or no vision, or people with color blindness.
 
 ### 5. Robustness
