@@ -17,6 +17,10 @@ The *News* feature allows content authors to add news articles to the website an
 11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
 
+
+### Menu Creation
+
+
 ## To Add a Banner Image
 
 1. Select `Add Content` at the top of the administration bar. 
@@ -44,6 +48,5 @@ The *News* feature allows content authors to add news articles to the website an
     * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Top Bar* block region or select highlighted from the dropdown menu.
 4. Select `Save Blocks`.
 
-### Menu Creation
 
 ### Discussions

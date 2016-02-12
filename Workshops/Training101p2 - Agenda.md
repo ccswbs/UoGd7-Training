@@ -9,10 +9,13 @@ The items we will discuss in todays workshop are the following:
 
 ## What are Taxxonomies
 
-## Advanced Menu Creation
+## Creating A News Article
+
+## Menu Creation/Edit
+- Make news article a link in a menu
+- Make a quicklinks menu
 
 ## Creating A Banner
-
-## Creating A News Article
+- link it to our news article
 
 ## Discussions

@@ -32,13 +32,9 @@ The following content types will be built and demonstrated:
 6. Events
 
 ### How to Login/Logout
-
 ### How to Perform Administration and Content Tasks
-
 ### Finding, Filtering, and Editing Content
-
 ### Creating A Basic Page
-
 ## How To Use The WYSIWYG Editor and Additional Tips.
 There are a few items that need to be explained with our current version of our WYSIWYG editor until the updates come down the line. The items are as such:
 
@@ -46,14 +42,7 @@ There are a few items that need to be explained with our current version of our 
 2. How to add tables.
 3. How to create links that are **WCAG 2.0 AA** compliant.
 
-### Adding Images To The Content Body.
-
-### Adding Tables
-
-### Adding a Link
-
 ### To Create an Event
-
 ## Default View Pages
 
 1. /Pages
