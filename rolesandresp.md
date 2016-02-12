@@ -6,6 +6,6 @@ Can edit and manage users, basic site layout, changing view categories, Titles, 
 
 **Content Creators / Editors** Can create and edit content types such as Banners, Events, Basic Pages, News Articles, and others. There are two types of Content Creators: **Authors** and **Editors**. 
 
-- Authors can create, edit, and publish/unpublish their own content. 
+- Authors can create and edit their own content. 
 
 - Editors can create, edit, and publish/unpublish their own content, as well as edit and unpublish content created by other users.

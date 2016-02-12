@@ -1,6 +1,6 @@
 # How to Add People Profiles
 
-The people profiles feature allows **Authors** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on the preferred member's name.
+The people profiles feature allows **Content Creators** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on the preferred member's name.
 
 **Before creating a profile the following vocabularies are suggested to be filled with terms or else most of the people profile features wont be usable.**
 
