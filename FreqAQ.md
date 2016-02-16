@@ -8,6 +8,7 @@ The Communications & Public Affairs (C&PA) department provides official [web des
 * A website that is directly controlled by the University of Guelph
 
 If you are unsure whether your website is a University of Guelph website, [contact the AODA Web Team](aodaweb@uoguelph.ca) for guidance.
+
 ## 2. Is there a limit in creating new revisions?
 
 ## 3. How small can the images be?
