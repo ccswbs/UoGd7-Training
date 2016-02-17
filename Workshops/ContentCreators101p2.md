@@ -23,7 +23,7 @@ The *News* feature allows content authors to add news articles to the website an
 
 ## To Add a Banner Image
 
-1. Select `Add Content` at the top of the administration bar. 
+1. Select `Add Content` at the top of the administration bar.
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
     * **Headline:** Appears on the image.
