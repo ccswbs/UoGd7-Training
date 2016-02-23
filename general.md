@@ -16,12 +16,3 @@ Websites are often thought of as a collection of static pages, perhaps with some
 ## Where to Start?
 A lot can be accomplished through the GUI. Exploring the GUI is probably the best way to learn how to use Drupal.
 
-## The Flexibility of Nodes
- Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining it's body text, but also it's title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
-
-## Regions and Blocks
-![Image of Block Areas highlighted](images/Block_Areas.jpg)
-
-**Nodes** on your *Drupal* site are laid out in **Regions**. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
-
-**Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
