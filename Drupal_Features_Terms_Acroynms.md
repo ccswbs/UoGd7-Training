@@ -22,7 +22,6 @@ Blocks are a method for positioning data within a page.
 ## Positioning Nodes using In-Place Ediotr
 
 
-
 ## Content Type
 Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Common *Content Types* that just about any website would have include: blog post and page. Content types can have different fields and modules can define their own content types. The core *Drupal* Book and News modules are two examples of modules that define content types.
 
