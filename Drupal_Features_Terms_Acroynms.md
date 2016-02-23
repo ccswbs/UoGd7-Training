@@ -19,7 +19,7 @@ Blocks are a method for positioning data within a page.
 
 **Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
-## Positioning Nodes using In-Place Ediotr
+## Positioning Nodes Using In-Place Ediotr
 
 
 ## Content Type
