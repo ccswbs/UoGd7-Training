@@ -1,6 +1,7 @@
 # Meeting With Student affairs
 
 Attendees: PJ Mancuso, Saman Asif, Jessica Westlake
+
 Goal: To discuss SA website and to get them ready for production by the end of Sprint 10.
 
 An accessibility report has been created by Saman. A second a11y report will be created after the sprint is over.
