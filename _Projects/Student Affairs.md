@@ -1,6 +1,6 @@
 # Meeting With Student affairs
 
-Attendees: PJ Mancuso, Saman Asaif, Jessica Westlake
+Attendees: PJ Mancuso, Saman Asif, Jessica Westlake
 Goal: To discuss SA website and to get them ready for production by the end of Sprint 10.
 
 An accessibility report has been created by Saman. A second a11y report will be created after the sprint is over.
@@ -19,7 +19,7 @@ An accessibility report has been created by Saman. A second a11y report will be 
 * FAQ custom teaser list should use list item code (show on aoda-web)
 * Recommending uploading any images that link to other sources for the image (e.g. Feeling Better links to http://healthymindscanada.ca/wp-content/uploads/2015/09/feeling-better-now-cropped.png)
 * Recommend using btn style for Additional questions and Answers (see aoda-web.uoguelph.ca/studentaffairs for example)
-* Could use <ul class="no-link-lines"> if you do not want to see link lines on the teaser lists (see aoda-web.uoguelph.ca/studentaffairs for example)
+* Could use /<ul class="no-link-lines">/ if you do not want to see link lines on the teaser lists (see aoda-web.uoguelph.ca/studentaffairs for example)
 * Change Departments button to "More departments"
 
 ## Incompleteness
