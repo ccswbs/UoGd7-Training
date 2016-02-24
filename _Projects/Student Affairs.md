@@ -15,11 +15,11 @@ An accessibility report has been created by Saman. A second a11y report will be 
 
 ## Implementation
 
-* FAQs should be using the FAQ content type (aoda-clint)
+* FAQs should be using the FAQ content type (aoda-client)
 * FAQ custom teaser list should use list item code (show on aoda-web)
 * Recommending uploading any images that link to other sources for the image (e.g. Feeling Better links to http://healthymindscanada.ca/wp-content/uploads/2015/09/feeling-better-now-cropped.png)
 * Recommend using btn style for Additional questions and Answers (see aoda-web.uoguelph.ca/studentaffairs for example)
-* Could use /<ul class="no-link-lines">/ if you do not want to see link lines on the teaser lists (see aoda-web.uoguelph.ca/studentaffairs for example)
+* Could use \<ul class="no-link-lines">\ if you do not want to see link lines on the teaser lists (see aoda-web.uoguelph.ca/studentaffairs for example)
 * Change Departments button to "More departments"
 
 ## Incompleteness
