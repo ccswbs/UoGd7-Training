@@ -32,4 +32,4 @@ An accessibility report has been created by Saman. A second a11y report will be 
 * Question marks on contact us
 
 ## Notes:
-* Remove all instances of style attribute (eg. <p style="line-height:15.6pt"> or <span style="font-size:10pt;font-family:Arial,sans-serif;">
+* Remove all instances of style attribute (eg. \<p style="line-height:15.6pt"> or \<span style="font-size:10pt;font-family:Arial,sans-serif;">
