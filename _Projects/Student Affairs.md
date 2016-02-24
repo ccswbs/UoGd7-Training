@@ -1,4 +1,4 @@
-# Meeting With Student affairs
+# Meeting With Student Affairs
 
 **Attendees:** PJ Mancuso, Saman Asif, Jessica Westlake
 
