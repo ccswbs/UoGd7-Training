@@ -39,6 +39,4 @@ You may populate vocabularies with terms using `Add Term`.
 
 To view or manage the terms of each vocabulary, click on its `list terms` link in `Structure -> Taxonomies`.
 
-On the `list terms` page you can edit each term by clicking the `edit` link. Now, on the edit term page you have several kinds of choices:
-* You must assign your term a name as a "nameless term" does not exist.
-* You can delete a term altogether.
+On the `list terms` page you can edit each term by clicking the `edit` link. You can delete a term from the edit page.
