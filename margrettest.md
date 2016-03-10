@@ -14,6 +14,7 @@
 ## This is about emphasis 
 
 **This will be bolded**
+
 *this will be italisized*
 
 ### This is a sub heading about emphasis
