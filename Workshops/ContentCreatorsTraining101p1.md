@@ -56,6 +56,7 @@ The *Basic Page* content type is used for static content that can (but are not r
 5. In the **body field** enter what you want displayed on your web page.
 
 *Please see below on how to use the content editor*
+
 6. If you want to add any files to download attach them using the **File Attachment** option.
 7. If you want this web page to be accessed through your menus check the `provide a menu link`.
     1. Enter an appropriate **Title** and **Description**.
