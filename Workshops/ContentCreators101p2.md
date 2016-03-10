@@ -24,7 +24,6 @@ Our platform uses a *controlled vocabulary*, where only Site Managers can assign
 Vocabularies are managed on the Taxonomy page.
 * It is found under `Administration Bar -> Structure` (i.e. http://yoururl/admin/structure/taxonomy)
 
-![Administration Menu Bar with Structure selected.](images/ambs.png)
 
 #### Adding Terms
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be filled with terms.
