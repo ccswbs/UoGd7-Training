@@ -29,5 +29,3 @@ Create a website that can be used by as many as possible, in as many ways as pos
 * Have a consistent design throughout the website.
 * Follow known website conventions.
 * Follow the standard for the format you are publishing in (for example HTML 5 syntax) - this will optimize your website for many different platforms and user agents.
-
-Changes done to show margret
