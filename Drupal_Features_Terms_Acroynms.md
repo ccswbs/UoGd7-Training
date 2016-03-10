@@ -4,11 +4,23 @@ When Logged in as a Site Manager or Content Creator the first bar at the top of 
 
 ![Administration Menu Bar](images/admin_menu_bar.png)
 
-## Blocks
-Blocks are a method for positioning data within a page.
-
 ## Nodes
 A node is the generic term for a piece of content on your web site. The content type of the node will define what fields are included with it. Depending on the type of node, different fields will be attached, and this is known as a content type. For example, a basic Page content type has attached fields such as title and body fields. Other examples of content type are: Book pages for use in Books, Discussion topics in forums, Blog pages in blogs, and News articles.
+
+### The Flexibility of Nodes
+ Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining it's body text, but also it's title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
+
+## Regions and Blocks
+![Image of Block Areas highlighted](images/Block_Areas.jpg)
+
+Blocks are a method for positioning data within a page.
+
+**Nodes** on your *Drupal* site are laid out in **Regions**. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
+
+**Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
+
+## Positioning Nodes Using In-Place Ediotr
+
 
 ## Content Type
 Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Common *Content Types* that just about any website would have include: blog post and page. Content types can have different fields and modules can define their own content types. The core *Drupal* Book and News modules are two examples of modules that define content types.
@@ -89,14 +101,17 @@ These users are assigned a user ID when they register for the website. A user na
 - Can view their content revisions.
 
 #### Editor
-Can view/edit all project data, create/edit all content types.
+- Can view/edit all project data, create/edit all content types.
 - Can edit any content (drafts or published).
 - Can approve any content drafts for publishing.
 - Can publish any content.
 
 #### Site Manager
-- Can create new users.
-- Can edit any user profile.
+- User: administer permissions.
+- User: administer users.
+- User: Allow editing of page layouts, includes: changing view categories, Titles, and number of items to display.
+- Can create/edit taxonomies.
+- Can create/edit menus.
 
 ## WYSIWYG
 *WYSIWYG* is an acronym for *What You See Is What You Get*, used in computing to describe a method in which content is edited and formatted by interacting with an interface that closely resembles the final product. We use a WYSIWYG editor for adding main body content. [Read the guide on our WYSIWYG editor for helpful tips](wysiwyg-editor.md).

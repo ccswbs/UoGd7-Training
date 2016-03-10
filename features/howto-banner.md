@@ -1,5 +1,5 @@
 # How to Create a Banner
-**Authors** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For proper display each banner image *must* be **1140 x 292**.
+**Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner image it is recomended the dimensions be **1140 x 292**.
 ![An Example of a Banner](../images/baex.png)
 
 ## To Add a Banner Image
@@ -24,8 +24,8 @@
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
 3. Two options:
-    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Highlighted* block region.
-    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Highlighted* block region.
+    * If you want a **static banner** drag *View: B1 - Image slider (Banner): Block - Manual* up to the *Top Bar* block region or select highlighted from the dropdown menu (*RECOMMENDED*).
+    * If you want a **slide show banner** drag *View: B1 - Image slider (Banner): Block - Autoplay* up to the *Top Bar* block region or select highlighted from the dropdown menu.
 4. Select `Save Blocks`.
 
 ![Image of Saved Blocks button](../images/save_blocks.png)
