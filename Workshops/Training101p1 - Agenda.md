@@ -9,3 +9,4 @@ In this workshop, you will be instructed on the following items:
 6. Discuss WYSIWYG Editor
 7. Create an Event
 8. Discussions/ Conclusions- Direct to next workshop
+
