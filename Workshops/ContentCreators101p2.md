@@ -1,9 +1,10 @@
+# Content Creation Workshop
 
 ## Taxonomy
-*Taxonomy* is the practice of classifying things. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
+*Taxonomy* is the practice of classifying features. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
 
 ### Planning Taxonomies
-The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The university of Guelphs drupal framework treats all terms as flat within the defined vocabulary.
+The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The University of Guelph's drupal framework treats all terms as flat within the defined vocabulary.
 
 Here's how you might create a taxonomy for a site using our predefined vocabularies:
 
@@ -16,29 +17,32 @@ Here's how you might create a taxonomy for a site using our predefined vocabular
 Our platform uses a *controlled vocabulary*, where only Site Managers can assign terms to vocabularies. Site Managers must add the terms in advance.
 
 ### Taxonomy Principles
-* Each vocabulary consists of a set of terms assosiated with a particular feature.
+* Each vocabulary consists of a set of terms associated with a particular feature.
 * Each vocabulary can contain an unlimited number of terms.
 * *Keywords* are a type of "tagging" vocabulary shared amongst all that can be used as a general keyword filter using the `G10 view pane`.
 
 ### Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
+
 * It is found under `Administration Bar -> Structure` (i.e. http://yoururl/admin/structure/taxonomy)
 
 
 #### Adding Terms
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be filled with terms.
 
-You may populate vocabularies with terms using `Add Term`. 
-1. Navigate to `Structure -> Taxonomies` 
+You may populate vocabularies with terms using `Add Term`.
+
+1. Navigate to `Structure -> Taxonomies`
 2. Select `Add Term` for the vocabulary you want to edit. From there, Drupal will prompt for:
 
-* **Term name (Required)** - The name for this term. Example: Technology.
-* **Description (Optional)** - Description of the term (this item may be used by some modules and feeds but is not required).
+* **Term name (Required)** - The name for this term. *Example: Technology.*
+* **Description (Optional)** - Description of the term (this item may be used by some modules and feeds but is not required). It is more for internal use.
 
 
 To view or manage the terms of each vocabulary, click on its `list terms` link in `Structure -> Taxonomies`.
 
 On the `list terms` page you can edit each term by clicking the `edit` link. Now, on the edit term page you have several kinds of choices:
+
 * You must assign your term a name as a "nameless term" does not exist.
 * You can delete a term altogether.
 
@@ -57,7 +61,6 @@ The *News* feature allows content authors to add news articles to the website an
     1. Enter an appropriate **Title** and **Description**.
     2. In the `Parent item` drop down menu, select which menu heading you want the new link to be accessed through.
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
-11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
 
 

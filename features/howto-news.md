@@ -22,7 +22,6 @@ The *News* feature allows **Content Creators** to add news articles to the websi
     2. In the `Parent item` drop down menu select which menu heading you want the new link to be accessed through. *Example: If it is an event select event to have it as a sub-link there.*
     * ![Example of News Menu Options](../images/pagekeyoptmenu.png)
 10. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
-11. Ensure `Promoted to front page` is selected.
 11. Select Save when you are done.
 
 ![Image of Save Button](../images/save.png)

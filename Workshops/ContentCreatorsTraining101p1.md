@@ -1,10 +1,4 @@
 # Content Creation Workshop
-In this workshop you will be instructed on the following items:
-
-1. Briefly touch on Accessibility, the AODA, and WCAG 2.0 Standards.
-2. How to login/logout and find/filter content.
-3. Build a *Basic Page*, and a *FAQ*.
-4. Some Tips and Tricks with our WYSIWYG editor.
 
 ## Accessibility, The AODA, and WCAG 2.0
 Accessible design is good for all. Accessible design and the principles of universal design, can lessen the frustrations of users who use your website. An accessible website is beneficial to all users and certainly to the organizations that create them because it means their website is better able to reach all members of its target audience.
@@ -23,12 +17,11 @@ Beginning January 1, 2021, all public websites and web content posted after Janu
 ## Building Specific Content Types
 The following content types will be built and demonstrated:
 
-1. How to Perform administration tasks.
-2. How to Login/logout.
+1. How to Login/logout.
+2. How to perform administration tasks.
 3. How to find and filter content.
-4. Taxonomy 101
-5. Creating a Basic Page and going through the steps of our current WYSIWYG editor.
-6. Banners.
+5. Creating a basic page and going through the steps of our current WYSIWYG editor.
+6. How to create an event
 
 ### How to Login/Logout
 1. Navigate to your website: www.uoguelph.ca/*sitename*/user
@@ -43,9 +36,6 @@ All content created on your website can be viewed by selecting the `Find Content
 
 To Edit content you can search using the filter drop-down menus for a particular content type and then select `edit` for that particular item.
 
-### Taxonomy 101
-
-
 ### Creating A Basic Page
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 
@@ -55,7 +45,7 @@ The *Basic Page* content type is used for static content that can (but are not r
 4. If you have [Page Categories](../taxonomies.md#categories) defined, select the appropriate one.
 5. In the **body field** enter what you want displayed on your web page.
 
-*Please see below on how to use the content editor*
+*Please see below on how to use the content editor:*
 
 6. If you want to add any files to download attach them using the **File Attachment** option.
 7. If you want this web page to be accessed through your menus check the `provide a menu link`.
