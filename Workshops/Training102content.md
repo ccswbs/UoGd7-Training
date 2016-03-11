@@ -151,7 +151,7 @@ If you are a web content owner, you should have already received your SiteImprov
 * SiteImprove does NOT affect or edit pages within any site.
 * Users can [login to the SiteImprove](http://my.siteimprove.com/) to view detailed information about their departments site.
 * SiteImprove can email users every five (5) days with a report on a site.
-* Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard titled (ADD TITLE).
+* Users who maintain multiple sites can view a report on each of those specific sites by selecting the appropriate Group from the dropdown menu at the top of the dashboard titled "Choose a site".
 * SiteImprove does rank pages on the number of errors based on a scale of 0-10 (10 is best).
 
 ### Introduction to SiteImprove Quality Assurance
