@@ -1,5 +1,6 @@
 # How to Create a Banner
 **Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner image it is recomended the dimensions be **1140 x 292**.
+
 ![An Example of a Banner](../images/baex.png)
 
 ## To Add a Banner Image

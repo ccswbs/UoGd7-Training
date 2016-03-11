@@ -18,3 +18,5 @@ If you want to contribute to this module, you have a few options:
 * When the content is in a good place, @mention the doc team and have a peer editor review the content and edits.
 * When the feature is ready to go to their master, merge the pull request into the documentation master. GitBooks will update automatically unless it is a new article, in which point a link will be made to the doc in gitbooks.
 * Update book the module on the CCS Website to keep it up to date.
+
+add some random text - by Margaret and PJ
