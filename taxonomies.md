@@ -1,6 +1,6 @@
 # Taxonomies
 ## Summary
-*Taxonomy* is the practice of classifying things. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
+*Taxonomy* is the practice of classifying features. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
 
 ## Planning Taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The university of Guelphs drupal framework treats all terms as flat within the defined vocabulary.
@@ -29,8 +29,8 @@ Vocabularies are managed on the Taxonomy page.
 ### Adding Terms
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be filled with terms.
 
-You may populate vocabularies with terms using `Add Term`. 
-1. Navigate to `Structure -> Taxonomies` 
+You may populate vocabularies with terms using `Add Term`.
+1. Navigate to `Structure -> Taxonomies`
 2. Select `Add Term` for the vocabulary you want to edit. From there, Drupal will prompt for:
 
 * **Term name (Required)** - The name for this term. Example: Technology.
