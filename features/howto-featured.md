@@ -18,8 +18,7 @@ The *Featured Item* allows **Content Creators** to create a lead-in to any page 
 7. Enter a short **Summary**
 8. Enter a few **Keywords** to help tag the feature item.
 ![Image of Feature Item link options](../images/featitleimglink.png)
-9. If you have the proper authority to publish right away, select `Published` in `Publishing options` and `Promoted to front page`.
+9. If you have the proper authority to publish right away, select `Published` in `Publishing options`
 ![Example of publishing options](../images/pubopt.png)
 10. Select Save when you are done.
 ![Image of Save Button](../images/save.png)
-
