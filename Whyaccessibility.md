@@ -30,5 +30,4 @@ Redeveloping a website to better serve people with disabilities also has these a
 
 
 Notes:
-* https://wlu.ca/docs/EnablingAccessHandbook_online.pdf
 * http://siteimprove.com/resources/
