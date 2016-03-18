@@ -13,9 +13,8 @@ The content editor has a collection of tools located at the top of the main Body
 4. If image isn't already uploaded to your filesystem select upload from the menu bar.
 ![upload](images/dialogpic.png)
 
-4. Select your desired image and then click ![Insert file]().
-5. Unless the image is decorative it is **mandatory** to add Alternative Text.
-6. `Width`, `Height` and `Border` settings should be blank.
+5. Select your desired image and then click ![Insert file](../images/insert.png).
+6. Unless the image is decorative it is **mandatory** to add Alternative Text.
 7. Select OK and your image should be inserted.
 
 ## Adding Tables
@@ -46,6 +45,4 @@ To do this in the **body** section:
 `insert image of link icon`
 3. Insert the URL that you want to link to:
     1. External links - use a link copied from the browser *i.e. www.uoguelph.ca*.
-    2. Internal links - use the page name copied from the browser *psychology/faq-page* and ensure the protocol is selected to < other >
-
-For more details, refer to the quick reference [How to Meet WCAG 2.0.](http://www.w3.org/WAI/WCAG20/quickref/)
+    2. Internal links - use the page name copied from the browser *content/sample-page-one* and ensure the protocol is selected to < other >

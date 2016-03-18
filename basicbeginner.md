@@ -18,6 +18,10 @@ All content created on your website can be viewed by selecting the `Find Content
 To Edit content you can search using the filter drop-down menus for a particular content type and then select `edit` for that particular item.
 ![Filter and edit content options displayed](images/filterandedit.png)
 
+## How to Create Content
+**Add Content:**  To create new content on your website, select the `Add Content` shortcut located on the **Administration Bar**.
+**Example of Content Types:**  Banner, Event, Feature, News, Page, Social Media.
+
 ## Adding Users
 Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff).
 

@@ -26,7 +26,9 @@ The *Featured Item* allows **Content Creators** to create a lead-in to any page 
 ## Featured Item Views
 In-Place Editor allows you to arrange panes and edit some settings on the fly.
 1. On the main page click **Customize this page** 
+
 ![Customize This Page highlighted](../images/Customize.png)
+
 2. Choose any of the location areas to place a new view (i.e. top, middle column, right side, etc) and select `+`
   * ![Add button](../images/add.png)
 3. Click on `View Panes` and select either `FT3` or `FT3 - Random` views depending on your needs.
