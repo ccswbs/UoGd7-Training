@@ -18,12 +18,12 @@ The social media feature permits **Content Creators** to add social media links 
 To add the the content to a detail page:
 
 1. Go back to the *Home page* and select `Customize this page` at the bottom of the Web Page.
- * ![image of s\customize button](../images/Customize.png)
+ * ![Customize button](../images/Customize.png)
 2. Choose any of the location areas to place your social media link (i.e. top, middle column, right side, etc) and select `+`
-  * ![image of add button](../images/add.png)
+  * ![Add button](../images/add.png)
 3. Click on `View Panes` and select either `S3` or `S4` views depending on your needs.
-  * ![image of add button](../images/view.png)
+  * ![add button](../images/viewsocial.png)
 4. Select `Continue`
-  * ![image of add button](../images/continue.png)
+  * ![add button](../images/continue.png)
 5. Select `Finish`
-  * ![image of add button](../images/final.png)
+  * ![add button](../images/final.png)

@@ -4,6 +4,7 @@
 ![An Example of a Banner](../images/baex.png)
 
 ## To Add a Banner Image
+
 1. Select `Add Content` at the top of the administration bar. ![Add Content Highlighted](../images/ambac.png)
 2. Select `Banner`.
 3. Enter the required information: *Title, Category, Headline, Headline Link*.
@@ -22,6 +23,8 @@
 *Note: To add more banner images do the same steps as listed and change the order if you have a preferred order.*
 
 ## To Display The Banner On The Front Page
+*Note: Only SiteManagers can activate the banner module*
+
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
 3. Two options:
