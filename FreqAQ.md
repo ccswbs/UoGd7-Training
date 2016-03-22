@@ -28,3 +28,15 @@ If you are unsure whether your website is a University of Guelph website, [conta
 ## 10. Does the news archive get generated automatically?
 
 ## 11. In the news feature, does the "posted" date change every time someone edits?
+
+## 12. Can we add slideshow in body of page?
+
+## 13. Who can I contact to get accesss to SiteImprove?
+
+## 14. Who do I contact to add additional users to my site?
+
+## 15. Are there RSS feeds?
+
+## 16. Can you change heading colour and font?
+
+## 17. Am I responsible for making sure a PDF file is accessible if it is from another website?
