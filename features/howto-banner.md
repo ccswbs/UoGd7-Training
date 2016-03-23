@@ -33,3 +33,10 @@
 4. Select `Save Blocks`.
 
 ![Image of Saved Blocks button](../images/save_blocks.png)
+
+## To Configure the Banner
+*Note: Only SiteManagers can configure*
+
+1. Select `Structure` at the top of the administration bar.
+2. Select `Blocks`.
+3. Under `Top Bar`, slect **configure**
