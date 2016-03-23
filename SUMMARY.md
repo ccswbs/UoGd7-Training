@@ -22,5 +22,5 @@
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
    * [Adding a Social Media Account](features/howto-socialmedia.md)
-* Frequently Asked Client Questions
+* [Frequently Asked Client Questions](FreqAQ.md)
 
