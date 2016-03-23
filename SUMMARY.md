@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Frequently Asked Client Questions
 * [General](general.md)
    * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
 * [Accessibility and Website Managment Best Practices](Whyaccessibility.md)
