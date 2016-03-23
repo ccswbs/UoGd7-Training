@@ -35,8 +35,15 @@
 ![Image of Saved Blocks button](../images/save_blocks.png)
 
 ## To Configure the Banner
-*Note: Only SiteManagers can configure*
+*Note: Only SiteManagers can configure.*
 
 1. Select `Structure` at the top of the administration bar.
 2. Select `Blocks`.
-3. Under `Top Bar`, slect **configure**
+3. Under **Top Bar**, select **configure**
+![Image of configure button](../images/configure.png)
+4. Under **Show block on specific pages,** there is the option to show the banner on "all pages except those listed" or "only the listed pages"
+5. If you want the banner to appear only on the *front* page, type **< front>**  in the blank space.
+![Image of visibility setting option](../images/blocks_certainpages.png)
+6. Select `Save Blocks`.
+
+![Image of Saved Blocks button](../images/save_blocks.png)
