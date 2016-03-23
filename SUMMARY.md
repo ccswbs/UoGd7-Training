@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Frequently Asked Client Questions
 * [General](general.md)
    * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
 * [Accessibility and Website Managment Best Practices](Whyaccessibility.md)
@@ -15,6 +14,7 @@
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
+* Frequently Asked Client Questions
 * [Features: How-to](features.md)
    * [Banners](features/howto-banner.md)
    * [Basic Page](features/howto-page.md)
