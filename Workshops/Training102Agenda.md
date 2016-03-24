@@ -2,9 +2,9 @@
 In this workshop, you will be instructed on the following items:
 
 1. Briefly touch on Accessibility, the AODA, and WCAG 2.0 Standards.
-2. Getting to know Siteimprove and its features.
-3. Quick start best practices.
-4. Top 5 accessibility procedures
+2. Governence / Different Roles/Managing Roles
+3. Site Layout
+4. Getting to know Siteimprove and its features.
 
 ## Accessibility, The AODA, and WCAG 2.0
 Accessible design is good for all. Large public-sector organizations usually have large, multi-page, multi-department—and often cumbersome—websites. Accessible design and the principles of universal design, with their emphasis on clear, streamlined and flexible presentation, content and navigation, can lessen the frustrations of users who use your website. An accessible website is beneficial to all users and certainly to the organizations that create them because it means their website is better able to reach all members of its target audience.
@@ -15,7 +15,22 @@ The AODA requires that beginning January 1, 2014, new public websites, significa
 
 WCAG 2.0 has 12 guidelines that are organized under 4 principles: Perceivable, Operable, Understandable, and Robust. For each guideline, there are testable success criteria, which are ranked at 3 levels: A, AA, AAA.
 
+## Governance
+
+
+### Roles and Responsibilities
+There are three main roles we have implemented with our CMS. Site Managers and Content Creators and Content Editors.
+
+**Site Managers**
+Can edit and manage users, basic site layout, changing view categories, Titles, and number of items to display, creation of menus, and configuration of site specific taxonomies. The role of a site manager is to ensure AODA compliancy and to monitor for any broken links and misspellings using SiteImprove. We recommend that there only be 1-2 Site Managers to ensure that site maintenance and conformity to WCAG 2.0 Standards is kept and that the ability to divide up responsibility is easier to achieve and enforce.
+
+**Content Creators / Editors** Can create and edit content types such as Banners, Events, Basic Pages, News Articles, and others. There are two types of Content Creators: **Authors** and **Editors**.
+
+- Authors can create, edit, and publish/unpublish their own content.
+
+- Editors can create, edit, and publish/unpublish their own content, as well as edit and unpublish content created by other users.
 ## If there are no SiteManagers/users with siteimprove access in current class skip Siteimprove and go on to next section
+
 ## Siteimprove Guidelines
 In this section, we will talk to clients about:
 

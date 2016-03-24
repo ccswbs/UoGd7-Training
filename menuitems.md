@@ -12,7 +12,7 @@
 1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu
 2. Locate a menu to edit and click `add link`.
 3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
-4. In the Path field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
+4. In the **Path** field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
 5. In the **Description field**, enter the text that will be displayed when a user hovers over the link.
 6. Enable any of the following options:
   * **Enabled**: If the link is not enabled, it will not be displayed in the menu.

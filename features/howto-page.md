@@ -9,7 +9,7 @@ The *Basic Page* content type is used for static content that can (but are not r
 2. Select `Page`.
 ![Page Option Selected](../images/addconpage.png)
 3. Enter a **Title**.
-4. If you have [page categories](../taxonomies.md#categories) defined, select the appropriate one.
+4. If you have [page categories](../taxonomies.md) defined, select the appropriate one.
 5. In the **body field** enter what you want displayed on your web page. Follow this link [for more information on how to use the WYSIWYG editor](../wysiwyg-editor.md).
 ![Of Page selected](../images/pagetitlebody.png)
 6. If you want to add any files to download attach them using the **File Attachment** option.
