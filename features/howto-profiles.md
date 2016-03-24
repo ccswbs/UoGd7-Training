@@ -2,23 +2,23 @@
 
 The people profiles feature allows **Content Creators** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on the preferred member's name.
 
-**Before creating a profile the following vocabularies are suggested to be filled with terms or else most of the people profile features wont be usable.**
+**Before creating a profile, the following vocabularies are suggested to be filled with terms otherwise most of the people profile features won't be usable.**
 
 ## Creating Terms for Vocabularies
 
 Add terms to the following:
 
-* **Profile Category:** This is for
-* **Profile Field Headings:** 
-* **Roles:** CLients can create any number of positions/roles for their needs. Examples include *Staff, Faculty, Students, Co-op.*
-* **Area of Research:** If applicable you can describe the different areas of research for your department/users. This isn't mandatory Molecular Interactions of dihydrogen Monoxide
-* **Unit:** This describes the title of the department or facility you are a part of. Examples: *Department of Psychology* or *Student Affairs*.
-* **Sub-Unit:** This is the sub-department such as *Web Business Solutions* which is a sub-department of *CCS*
+* **Profile Category:** This is a way to filter views. Examples: *Create a teaser view for specific departments within a college*
+* **Profile Field Headings:** This is for adding field headings that are not supported by the platform. Examples: *Publication, Awards, etc*
+* **Roles:** Clients can create any number of positions/roles for their needs. Examples: *Staff, Faculty, Students, Co-op, etc.*
+* **Area of Research:** If applicable, you can describe the different areas of research for your department/users. This is not mandatory. Example:  *Molecular Interactions of Dihydrogen Monoxide*
+* **Unit:** This describes the title of the department or faculty an individual is a part of. Examples: *Department of Psychology* or *Student Affairs*.
+* **Sub-Unit:** This is the sub-unit of a department. Example: *Web Business Solutions* is a sub-unit of *CCS*
 
 ## To Add People Profiles
 
 1. On the Administration bar, select `Add Content`
-  * ![content](../images/Content.png)   
+ * ![content](../images/Content.png)   
 2. Select `Profile`
   * ![Example of people profile option](../images/profile.png)
 3. Enter a **Display Name**
@@ -33,7 +33,6 @@ Add terms to the following:
   * ![image of save button option](../images/save.png)
 6. To add a profile `Unit` to be associated with a profile, it needs to be created.  Select `Structure` on the administration bar and click `Taxonomy`  
   * ![Example of roles and unit](../images/role_unit.png)
-
 7. Add a short **Summary** about the member
 8. Select the `Category` from the drop-down menu *(optional)*  
 9. Add a **Position/title** representing the member of the organization *(optional)*
