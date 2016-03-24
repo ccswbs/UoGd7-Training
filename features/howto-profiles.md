@@ -8,8 +8,8 @@ The people profiles feature allows **Content Creators** to create and edit an or
 
 Add terms to the following:
 
-* **Profile Category:** This is for
-* **Profile Field Headings:**
+* **Profile Category:** This is a way to filter views. Examples: *Create a teaser view for specific departments within a college*
+* **Profile Field Headings:** This is for adding field headings that are not supported by the platform. Examples: *Publication, Awards, etc*
 * **Roles:** Clients can create any number of positions/roles for their needs. Examples: *Staff, Faculty, Students, Co-op, etc.*
 * **Area of Research:** If applicable, you can describe the different areas of research for your department/users. This is not mandatory. Example:  *Molecular Interactions of Dihydrogen Monoxide*
 * **Unit:** This describes the title of the department or faculty an individual is a part of. Examples: *Department of Psychology* or *Student Affairs*.
