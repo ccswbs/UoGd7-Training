@@ -7,7 +7,7 @@ The social media feature permits **Content Creators** to add social media links 
 2. Select `Social Media Account`
  * ![Example of social media account option](../images/Social Media Account.png)
 3. Enter a **Title**
-4. If you have [Account Category](taxonomies.md#categories) defined, select the appropriate one
+4. If you have an [Account Category](taxonomies.md#categories) defined, select the appropriate one
 5. Select the type of *Social Media Network* from the drop down list.
 6. Enter your Account URL *Usually found by going to your social media homepage and saving*
 7. Enter any *Tags or Keywords* that may assist in categorizing and organizing your social media.
