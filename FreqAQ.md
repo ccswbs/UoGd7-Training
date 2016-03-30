@@ -1,5 +1,6 @@
 # Frequently Asked Questions
 ## 1. What is considered to be a University of Guelph website?
+
 The Communications & Public Affairs (C&PA) department provides official [web design guidelines](http://www.uoguelph.ca/web/styleguide/) and [web publishing guidelines](http://www.uoguelph.ca/web/publishing/) which can help you identify whether your website is a University of Guelph website. Some of the criteria which help identify a University of Guelph website are:
 
 * A website that bears the [University of Guelph identifier](http://www.uoguelph.ca/web/styleguide/#identifier).
@@ -11,32 +12,58 @@ If you are unsure whether your website is a University of Guelph website, [conta
 
 ## 2. Is there a limit in creating new revisions?
 
+
 ## 3. How small can the images be?
+
+Here are the recommended image sizes for the following features:
+**Banners:** The recommended image size is 1140 x 292 pixels.
+**Event Featured Image:** Images must be between 200x160 and 1140x570 pixels.
+**Featured Items:** Images must be between 380x200 and 1140x570 pixels.
+**News Featured Image:** Images must be between 640x240 and 1140x570 pixels.
 
 ## 4. Why can I not see the layout options?
 
+Only SiteManagers can see layout options. If you are unable to see layout options that might mean the proper rights have not been given to you. To remediate this contact your SiteManager or the AODA Remediation Team to get the proper roles assigned.
+
 ## 5. What is the difference between categories and tags?
+
+Both categories and tags are both vocabular lists created within taxonomies. *Categories* are specificlly tied to a particular feature and are used to organize the feature within the defined terms. *Tags* are terms that can be shared amongst all features and help tie all the features together under common terms.
 
 ## 6. Do I need to update my PDF and Powerpoint files before?
 
-## 7. How gets fined if a website is non-compliant?
+It is a good idea to update all your important and current documents to conform to WCAG 2.0 Level AA standards. Providing documents in a range of formats will enable people with different abilities and learning styles to choose the format that works best for them. The Diversity and Human Rights department has a [webpage dedicated to document accessibility](https://www.uoguelph.ca/diversity-human-rights/accessibility/information-and-communication-document-accessibility) that clients should visit for more information on how to update their content.
+
+## 7. Who gets fined if a website is non-compliant?
+
+No cases have been brought to light yet so it is uncertian how events will ultimatly unfold. However the responsibility for website conformity rests on the Site Manager(s) and so it will be their duty to ensure the  content posted adheres to WCAG 2.0 standards.
 
 ## 8. Why is there a WYSIWYG editor for location in events?
 
+
 ## 9. Why is there no map option?
+
 
 ## 10. Does the news archive get generated automatically?
 
+
+
 ## 11. In the news feature, does the "posted" date change every time someone edits?
+
 
 ## 12. Can we add slideshow in body of page?
 
+
 ## 13. Who can I contact to get accesss to SiteImprove?
+
 
 ## 14. Who do I contact to add additional users to my site?
 
+
 ## 15. Are there RSS feeds?
 
+
 ## 16. Can you change heading colour and font?
+
+No You cannot.
 
 ## 17. Am I responsible for making sure a PDF file is accessible if it is from another website?
