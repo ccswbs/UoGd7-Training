@@ -27,20 +27,20 @@ When we really began S15, we tried working site-by-site, to understand how long 
 
 By F15 we were able to deliver 4 sites
 Through this effort, we learned:
-	- Each website takes a long time
-	- In all cases, clients wanted the opportunity to make changes before going live
-	- In some cases, clients want the opportunity to completely revamp their websites, or consolidate several into one
+* Each website takes a long time
+* In all cases, clients wanted the opportunity to make changes before going live
+* In some cases, clients want the opportunity to completely revamp their websites, or consolidate several into one
 
 All this makes intuitive sense, but our project wasn’t set up to meet these needs in the 3-year timeline
 
 We adjusted, we’ve created a model and process to solve these problems
-	- We transitioned to a more agile development process, using “sprints” to deliver working functionality every 2 weeks (SCRUM)
-	- We created and are evolving an automated site migration platform – this allows us to auotmatically migrate website content from client’s existing production sites into our development environment repeatedly
-	- We provided development and staging sites to clients as part of this automated platform – this allows clients to make all the changes they want without slowing us down. We’ll just continue to migrate automatically over time until clients are ready for the final push to go live
-	- We are standardizing our feature set to be as efficient as possible – this has slowed our ability to launch sites so far, but enables us to do more, faster in the rest of years 2 & 3
-	- We augmented our team using gov’t funded internships, this enabled us to accomplish what I’ve already described, and also to put extra effort into developing our training and workshops
-	- Through these efforts, we’re better equipping clients to take care of website accessibility going forward
-	- All this has created a community of engaged website owners and content developers, which we hope sets the University up for future success
+* We transitioned to a more agile development process, using “sprints” to deliver working functionality every 2 weeks (SCRUM)
+* We created and are evolving an automated site migration platform – this allows us to auotmatically migrate website content from client’s existing production sites into our development environment repeatedly
+* We provided development and staging sites to clients as part of this automated platform – this allows clients to make all the changes they want without slowing us down. We’ll just continue to migrate automatically over time until clients are ready for the final push to go live
+* We are standardizing our feature set to be as efficient as possible – this has slowed our ability to launch sites so far, but enables us to do more, faster in the rest of years 2 & 3
+* We augmented our team using gov’t funded internships, this enabled us to accomplish what I’ve already described, and also to put extra effort into developing our training and workshops
+* Through these efforts, we’re better equipping clients to take care of website accessibility going forward
+* All this has created a community of engaged website owners and content developers, which we hope sets the University up for future success
 
 
 ### Project Management Methodology
