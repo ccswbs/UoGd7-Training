@@ -7,7 +7,7 @@ Welcome to the Web Business Solutions Client Training Materials and Accessibilit
 ## Contributing
 If you want to contribute to this module, you have a few options:
 
-1. Submit a pull requests on github for updates or new chapters https://github.com/mancusop/UoGd7-Training.git
+1. Submit a pull requests on github for updates or new chapters https://github.com/ccswbs/UoGd7-Training.git
 2. Subscribe to the repo and review new updates as they come in
 3. Contact CCS Web Business Solutions
 
