@@ -39,13 +39,15 @@ No cases have been brought to light yet so it is uncertian how events will ultim
 
 ## 8. Why is there a WYSIWYG editor for location in events?
 
+The remediation team has many clients with different needs and so we have opted to create a solution that can adapt to as many clients needs as possible. The WYSIWYG editor allows this.
 
 ## 9. Why is there no map option?
 
+You may add a map image to the location field. The remediation team has many clients with different needs and so we have opted to create a solution that can adapt to as many clients needs as possible.
 
 ## 10. Does the news archive get generated automatically?
 
-
+Yes. Once a news item is created it gets automacilly added to the news archive in /news as well as added to the news list teaser.
 
 ## 11. In the news feature, does the "posted" date change every time someone edits?
 
