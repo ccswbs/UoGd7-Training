@@ -62,12 +62,15 @@ Please [contact Diversity and Human Rights](https://www.uoguelph.ca/diversity-hu
 
 ## 14. Who do I contact to add additional users to my site?
 
+Please contact the AODA Remediation Team to add additional authors/editors/sitemanagers to your site.
 
 ## 15. Are there RSS feeds?
 
 
 ## 16. Can you change heading colour and font?
 
-No You cannot.
+No You cannot. In order to limit the ammount of ways a site can become inaccessible the CMS solution we have developed keeps all headings, font colours, and sizes consistant accross all pages. This also allows for a more unified University of Guelph branding.
 
 ## 17. Am I responsible for making sure a PDF file is accessible if it is from another website?
+
+It is the responsibility of the owner/creator of PDFs and other documents to ensure their content conforms to WCAG 2.0 AA standards. It is recommended to not host documents on your webpage if you are not the owner or creator of them, instead link to the origional webpage of which they can be accessed at. 
