@@ -52,11 +52,13 @@ Yes. Once a news item is created it gets automacilly added to the news archive i
 ## 11. In the news feature, does the "posted" date change every time someone edits?
 
 
-## 12. Can we add slideshow in body of page?
+## 12. Can we add and image slideshow in body of page?
 
+You may add individual images but nothing has been designed to allow an image type slideshow.
 
 ## 13. Who can I contact to get accesss to SiteImprove?
 
+Please [contact Diversity and Human Rights](https://www.uoguelph.ca/diversity-human-rights/accessibility/) for SiteImprove access. 
 
 ## 14. Who do I contact to add additional users to my site?
 
