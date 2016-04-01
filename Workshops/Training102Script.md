@@ -138,6 +138,38 @@ and menu items/tabs. Editors can only add menu items to existing menus.
     link (Optional).
 7.  Click **Save**.
 
+## Scoping and Prioritization
+
+As you transition into AODA Remediation Team’s Platform:
+
+1.  Create an inventory of content.
+2.  Scoping and Prioritization.
+3.  Workflows
+
+### Web Inventory
+
+Take stock and create an inventory of the department’s public-facing
+websites and Web applications. This enables Site Managers to have the
+information they need to make strategic decisions to improve the
+accessibility of information and services on their department’s
+public-facing sites.
+
+### Scoping and Prioritization
+
+Once the Web inventory report has been developed:
+
+**Scoping:** Determine which Web pages are redundant, outdated, and
+trivial (ROT), and ensure their removal from the department’s websites;
+identify and archive online or offline Web pages of websites and Web
+applications that can be archived.
+
+**Prioritization:** The AODA remediation team we will be providing an
+accessibility report once your site has been migrated over to the new
+platform. The report will highlight any changes that might need to be
+made with your existing content. Newly created content should be given
+prioritization. Legacy (content posted before Jan 1, 2012) content
+corrections should be phased throughout your process.
+
 ## Document Accessibility
 
 Providing documents in a range of formats will enable people with
@@ -193,38 +225,6 @@ found through automated means.
 For more information on how to add your website to Siteimprove or to
 register for the course, contact Kian Merrikh from Office of Diversity &
 Human Rights (kmerrikh@uoguelph.ca).
-
-## Scoping and Prioritization
-
-As you transition into AODA Remediation Team’s Platform:
-
-1.  Create an inventory of content.
-2.  Scoping and Prioritization.
-3.  Workflows
-
-### Web Inventory
-
-Take stock and create an inventory of the department’s public-facing
-websites and Web applications. This enables Site Managers to have the
-information they need to make strategic decisions to improve the
-accessibility of information and services on their department’s
-public-facing sites.
-
-### Scoping and Prioritization
-
-Once the Web inventory report has been developed:
-
-**Scoping:** Determine which Web pages are redundant, outdated, and
-trivial (ROT), and ensure their removal from the department’s websites;
-identify and archive online or offline Web pages of websites and Web
-applications that can be archived.
-
-**Prioritization:** The AODA remediation team we will be providing an
-accessibility report once your site has been migrated over to the new
-platform. The report will highlight any changes that might need to be
-made with your existing content. Newly created content should be given
-prioritization. Legacy (content posted before Jan 1, 2012) content
-corrections should be phased throughout your process.
 
 ## Best Practices
 
