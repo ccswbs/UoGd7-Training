@@ -1,6 +1,5 @@
 # Content Creation Workshop
 
-
 ## Accessibility, The AODA, and WCAG 2.0
 Review the powerpoint presentation for details.
 
