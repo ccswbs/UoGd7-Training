@@ -23,6 +23,5 @@
    * [FAQ](features/howto-FAQ.md)
    * [Adding a Social Media Account](features/howto-socialmedia.md)
    * [People Profiles](features/howto-profiles.md)
-   * [Book](feature/howto-book.md)
 * [Frequently Asked Client Questions](FreqAQ.md)
 
