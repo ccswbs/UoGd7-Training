@@ -7,7 +7,6 @@
    * [Roles and Responsibilities](rolesandresp.md)
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
-   * [Best Practice TIps](practips.md)
    * [Top 5 Accessibility Tips](accessibilitytop.md)
 * [Basic Beginners Guide](basicbeginner.md)
    * [Managing Menus](menuitems.md)
@@ -24,5 +23,6 @@
    * [People Profiles](features/howto-profiles.md)
    * [Book](features/howto-book.md)
 * [SiteImprove](siteimprove.md)
+* [Best Practice TIps](practips.md)
 * [Frequently Asked Client Questions](FreqAQ.md)
 
