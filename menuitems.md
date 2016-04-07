@@ -1,5 +1,20 @@
 # Creating and Editing Menus
-## Adding a Menu Item Automatically When Creating New Content
+
+## Menu Creation
+
+Menus are a collection of links (menu items) that are used to navigate a
+website. Site Managers have the ability to remove, add and rename menus
+and menu items/tabs. Editors can only add menu items to existing menus.
+
+### Creating a menu
+
+1.  Navigate to the Menus page (***Structure &gt; Menus)***
+2.  Click **Add menu**.
+3.  In the **Title** field, enter a title (required).
+4.  In the **Description** field, enter a description (optional).
+5.  Click **Save**.
+
+### Adding a Menu Item Automatically When Creating New Content
 * At the end of the page there are a few options you can select to customize your content. To add a menu item when your content is created follow these steps:
 1. Check the checkbox labeled `Provide a menu link`.
 2. In the **Menu Link Title** enter a menu title, this will be the text that users can click on to get to this page.
@@ -8,7 +23,7 @@
 5. You can adjust the **Weight** to change in which order this link will appear.
 6. Select `Save`.
 
-## Adding a New Custom Menu Item Manually
+### Adding a New Custom Menu Item Manually
 1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu
 2. Locate a menu to edit and click `add link`.
 3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
@@ -21,7 +36,7 @@
 8. (Optional) In the Weight list, select the relative weight of the link. Links with the "lightest" weight will display higher in a menu. Links with the same weight will display in alphabetical order.*
 9. Click Save.
 
-## Using Categories in Menus
+#### Using Categories in Menus
 The menus on your site can call for items that match specific taxonomy terms. To create a menu using Taxonomy, follow these steps:
 
 1. Find the autopath given to your taxonomy term (*Note: To find the autopath, go to the Taxonomy > list terms page for the category to which your term belongs, and click the term. You'll be sent to a page with the autopath of your taxonomy term - save it*).

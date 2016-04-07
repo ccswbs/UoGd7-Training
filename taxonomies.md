@@ -1,24 +1,30 @@
 # Taxonomies
+
 ## Summary
-*Taxonomy* is the practice of classifying features. In *Drupal*, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture.
+*Taxonomy* is the practice of classifying content. In *Drupal*, the
+taxonomy module allows you to classify your website content, and it can
+be an important part of your information architecture. This module is
+beneficial for everything from menu and navigation organization, to view
+& display options.
 
 ## Planning Taxonomies
-The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The university of Guelphs drupal framework treats all terms as flat within the defined vocabulary.
+The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The university of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
 
-Here's how you might create a taxonomy for a site using our predefined vocabularies:
+An example of how you might create taxonomy for a site using our
+predefined vocabularies:
 
 **Vocabulary = Page Category**
 
-    * Term = Athletics
-    * Term = Departments
-    * Term = BioPhysics
+**Term = Workshops**
 
-Our platform uses a *controlled vocabulary*, where only Site Managers can assign terms to vocabularies. Site Managers must add the terms in advance.
+Our platform uses a *controlled vocabulary*, where only Site Managers
+can assign terms to vocabularies. Site Managers must add the terms in
+advance.
 
 ## Taxonomy Principles
 * Each vocabulary consists of a set of terms associated with a particular feature.
 * Each vocabulary can contain an unlimited number of terms.
-* *Keywords* are a type of "tagging" vocabulary shared amongst all that can be used as a general keyword filter using the `G10 view pane`.
+* *Keywords* are a type of "tagging" vocabulary shared amongst all that can be used as a general keyword filter.
 
 ## Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
@@ -37,6 +43,19 @@ You may populate vocabularies with terms using `Add Term`.
 * **Description (Optional)** - Description of the term (this item may be used by some modules and feeds but is not required).
 
 
-To view or manage the terms of each vocabulary, click on its `list terms` link in `Structure -> Taxonomies`.
+To view or manage the terms of each vocabulary:
+
+1.  Navigate to `Structure -> Taxonomies`
+2.  Click on its `list terms` link
+3.  On the `list terms` page you can edit each term by clicking the
+    `edit` link. On the edit term page you have several choices:
+-   You must assign your term a name as a “nameless term” does
+    not exist.
+-   You can delete a term altogether.
 
 On the `list terms` page you can edit each term by clicking the `edit` link. You can delete a term from the edit page.
+
+### Filtering with Taxonomies
+
+The taxonomy filter is designed to assist narrowing down taxonomy
+listings to find topics that are tagged by multiple terms.
