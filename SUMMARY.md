@@ -18,7 +18,7 @@
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
    * [Featured Item](features/howto-featured.md)
-   * [Adding a Social Media Account](features/howto-socialmedia.md)
+   * [Social Media Account](features/howto-socialmedia.md)
    * [People Profiles](features/howto-profiles.md)
    * [Book](features/howto-book.md)
 * [SiteImprove](siteimprove.md)
