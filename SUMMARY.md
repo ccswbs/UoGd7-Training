@@ -11,7 +11,7 @@
    * [WYSIWYG Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
-   * Multimedia Accessibility 
+   * [Multimedia Accessibility](Multimedia Accessibility.md)
 * [Features: How-to](features.md)
    * [Basic Page](features/howto-page.md)
    * [Banners](features/howto-banner.md)
