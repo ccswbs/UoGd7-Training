@@ -7,7 +7,6 @@
    * [Roles and Responsibilities](rolesandresp.md)
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
-   * [SiteImprove](siteimprove.md)
    * [Best Practice TIps](practips.md)
    * [Top 5 Accessibility Tips](accessibilitytop.md)
 * [Basic Beginners Guide](basicbeginner.md)
@@ -24,5 +23,6 @@
    * [Adding a Social Media Account](features/howto-socialmedia.md)
    * [People Profiles](features/howto-profiles.md)
    * [Book](features/howto-book.md)
+* [SiteImprove](siteimprove.md)
 * [Frequently Asked Client Questions](FreqAQ.md)
 
