@@ -11,6 +11,7 @@
    * [WYSIWYG Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
+* [Basic Page](features/howto-page.md)
 * [Features: How-to](features.md)
    * [Banners](features/howto-banner.md)
    * [Basic Page](features/howto-page.md)
