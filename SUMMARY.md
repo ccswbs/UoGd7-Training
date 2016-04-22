@@ -22,7 +22,7 @@
    * [Social Media Account](features/howto-socialmedia.md)
    * [People Profiles](features/howto-profiles.md)
    * [Book](features/howto-book.md)
-* Customizing the Page Layout
+* [Customizing the Page Layout](customizingpage)
 * [SiteImprove](siteimprove.md)
 * [Best Practice TIps](practips.md)
 * [Top 5 Accessibility Tips](accessibilitytop.md)
