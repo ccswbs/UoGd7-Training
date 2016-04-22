@@ -91,7 +91,7 @@ and menu items/tabs. Editors can only add menu items to existing menus.
 1.  Navigate to the Menus page (***Structure &gt; Menus)***
 2.  Click **Add menu**.
 3.  In the **Title** field, enter a title (required).
-4.  In the **Description** field, enter a description (optional).
+4.  In the **Description** field, enter a description (Internal Purposes).
 5.  Click **Save**.
 
 #### Adding a link to a menu
@@ -293,4 +293,4 @@ Human Rights (kmerrikh@uoguelph.ca).
 -   Keep it short. Metadata includes things like Alt descriptions,
     summaries, and other descriptive text. Ideally, Meta descriptions
     should be no more than 150 characters or else you risk important
-    information being cut or to long to be useful.
+    information being cut or too long to be useful.

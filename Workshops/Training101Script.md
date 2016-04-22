@@ -107,12 +107,14 @@ webpage](file:///C:\Users\mvirani\AppData\Local\Temp\www.google.ca).
 To do this in the **body** section:
 
 1.  Insert the URL that you want to link to:
-    - External links - use a link copied from the browser
-        (*i.e. www.uoguelph.ca*.)
-    - Internal links - use the page name copied from the browser
-        (i.e content/sample-page-one)
-      - Protocol: from dropdown, select &lt;other&gt;
-      - Link Type: E-mail (then, enter email address)
+
+    - External links - use a link copied from the browser (*i.e. www.uoguelph.ca*.)
+
+    - Internal links - use the page name copied from the browser (i.e. everything after “.ca”:  /website name/…..)
+      -	The Protocol will change to <other> automatically
+
+    - If adding an email address, select the link icon, change the “Link Type” to “E-mail” then enter the email address and message subject/body, if needed.
+
 
 ## To Create an Event
 
@@ -137,8 +139,7 @@ To do this in the **body** section:
         body section.)*
 10.  Add any files relevant to the Event or a related website
     - Include a descriptive Title.
-11. Select Save
-12. when you are done.
+11. Select Save when you are done.
 
 ## To Create News
 
@@ -172,13 +173,14 @@ To do this in the **body** section:
 1.  Select `Add Content` at the top of the administration bar.
 2.  Select `Banner`.
 3.  Enter the required information: *Title, Headline, Headline Link*.
+    -  **Title:** Used for Internal purposes *(Mandatory)*.
     -  **Headline:** Appears on the image.
     -  **Headline Link:** can link to any website, if internal link use
         the page name.
 4.  Enter optional information: *Category,* *Summary, Keywords*
     -  **Summary:** appears below the headline
     -  **Keywords:** like tags, a filtering mechanism
-5.  Image - `Upload Image:` Choose File – *Upload*.
+5.  Add a banner image
 6.  You must enter Alt text describing the image.
 7.  Enter optional information: *Summary, Keywords*.
     -  **Summary:** Appears below the headline.
@@ -191,10 +193,8 @@ To do this in the **body** section:
 1.  Select `Structure` at the top of the administration bar.
 2.  Select `Blocks`.
 3.  Two options:
-    -  If you want a **static banner** drag *View: B1 - Image slider
-        (Banner): Block - Manual* up to the *Top Bar* block region or
-        select highlighted from the dropdown menu (*RECOMMENDED*).
-    -  If you want a **slide show banner** drag *View: B1 - Image
-        slider (Banner): Block - Autoplay* up to the *Top Bar* block
-        region or select highlighted from the dropdown menu.
+  - Static banner View: B1 - Image slider (Banner): Block - Manual
+  - Slide show banner View: B1 - Image slider (Banner): Block - Autoplay
+      - After selecting your view, you can drag it up to the Top Bar block region or select Top Bar from the dropdown menu.
+
 4.  Select `Save Blocks`.
