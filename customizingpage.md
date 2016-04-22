@@ -13,7 +13,7 @@
   2. Mini Panels - includes footer and other mini panels created by you.
   3. View Panes - includes the different formats the content types can appear. The most commonly used are the *Teaser Lists.*
   4. New Custom Content - includes adding any customized content that will suit your needs.
-    * ![example of content options](../images/contentoptions.png)
+    * ![example of content options](../images/profile.png)
 
 ## Configure a view pane
 Each view pane permits content creators to configure the view panes in many ways:
