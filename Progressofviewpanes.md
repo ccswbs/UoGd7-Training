@@ -1,10 +1,10 @@
 # Using View Panes
 
-## LEGEND:
+## The Progress of View Panes:
 
-### Approved- The view pane is tested, and can be used
-### Needs to be developed – The view pane can be used, but it is being developed currently
-### Needs to be completed – The view pane is available, but it is being worked on; best to avoid
+### Approved- The view pane is tested, and can be used.
+### Needs to be developed – The view pane can be used, but it is being developed currently.
+### Needs to be completed – The view pane is available, but it is being worked on; best to avoid.
 ### Needs to be tested – The view pane should not be used.
 
  View: B1 - Image slider (Banner): Autoplay - APPROVED
@@ -18,7 +18,7 @@
  View: E2 - Detail view for single event – NEEDS TO BE TESTED
 
  View: E2a - Event image – NEEDS TO BE TESTED
- 
+
  View: E2b - Event multipart – NEEDS TO BE TESTED
 
  View: E3 - Upcoming events teaser list - APPROVED
