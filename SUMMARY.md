@@ -24,7 +24,7 @@
    * [Book](features/howto-book.md)
 * [Customizing the Page Layout](customizingpage.md)
 * [SiteImprove](siteimprove.md)
-   * Using View Panes
+* Using View Panes
 * [Best Practice TIps](practips.md)
 * [Top 5 Accessibility Tips](accessibilitytop.md)
 * [Frequently Asked Client Questions](FreqAQ.md)
