@@ -4,6 +4,13 @@
 
 Welcome to the Web Business Solutions Client Training Materials and Accessibility Guidelines.
 
+This manual is available in the following formats:
+
+* [HTML](https://www.gitbook.com/read/book/ccswbs/uog-drupal-training)
+* [PDF](https://www.gitbook.com/download/pdf/book/ccswbs/uog-drupal-training)
+* [ePub](https://www.gitbook.com/download/epub/book/ccswbs/uog-drupal-training)
+* [Mobi](https://www.gitbook.com/download/mobi/book/ccswbs/uog-drupal-training)
+
 ## Contributing
 If you want to contribute to this module, you have a few options:
 
