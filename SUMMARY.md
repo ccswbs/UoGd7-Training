@@ -22,6 +22,7 @@
    * [Social Media Account](features/howto-socialmedia.md)
    * [People Profiles](features/howto-profiles.md)
    * [Book](features/howto-book.md)
+   * [Course Outlines](features/howto-courseoutlines.md)
 * [Customizing the Page Layout](customizingpage.md)
 * [SiteImprove](siteimprove.md)
 * [Google Analytics](analytics.md)
