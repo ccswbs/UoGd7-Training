@@ -1,8 +1,7 @@
 # How to Add Social Media
 The social media feature permits **Content Creators** to add social media links to their website and display them on any page. Site visitors can click on the social media icon and be directed to the associated Web Page.
 
-For a list of all Social Media accounts attached to a website, add /connect to the end of the homepage URL.        
-(Eg. https://www.uoguelph.ca/ccs/connect)
+For a list of all Social Media accounts attached to a website, add /connect to the end of the homepage URL. (Eg. https://www.uoguelph.ca/ccs/connect)
 
 ## To Add Social Media
 2. On the Administration bar, select `Add Content`.
