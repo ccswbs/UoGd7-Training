@@ -77,4 +77,4 @@ It is the responsibility of the owner/creator of PDFs and other documents to ens
 
 ## 18. Why can't other people see the changes I just made to the website?
 
-When you are logged into drupal you see the most common changes made to the site when you load a page. For other users, drupal saves a copy of the website (Cache). This "chached" copy of the website will update itself with your new changes anywhere between 5 mins to an hour after making these changes. Thus, if others are reporting on not being able to see the changes that you've juse made, tell them to wait for an hour and to check again.
+When you are logged into drupal you see the most recent changes made to the site when you load a page. For other users, drupal saves a copy of the website (Cache). This "chached" copy of the website will update itself with your new changes anywhere between 5 mins to an hour after making your changes. Thus, if others are not able to see the changes you've juse made, their drupal cache has most likely not updated and they have to wait.
