@@ -73,4 +73,8 @@ No You cannot. In order to limit the ammount of ways a site can become inaccessi
 
 ## 17. Am I responsible for making sure a PDF file is accessible if it is from another website?
 
-It is the responsibility of the owner/creator of PDFs and other documents to ensure their content conforms to WCAG 2.0 AA standards. It is recommended to not host documents on your webpage if you are not the owner or creator of them, instead link to the origional webpage of which they can be accessed at. 
+It is the responsibility of the owner/creator of PDFs and other documents to ensure their content conforms to WCAG 2.0 AA standards. It is recommended to not host documents on your webpage if you are not the owner or creator of them, instead link to the origional webpage of which they can be accessed at.
+
+## 18. Why can't other people see the changes I just made to the website?
+
+When you are logged into drupal you see the most common changes made to the site when you load a page. For other users, drupal saves a copy of the website (Cache). This "chached" copy of the website will update itself with your new changes anywhere between 5 mins to an hour after making these changes. Thus, if others are reporting on not being able to see the changes that you've juse made, tell them to wait for an hour and to check again.
