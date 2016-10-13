@@ -7,7 +7,6 @@ The content editor has a collection of tools located at the top of the main Body
 ![image](images/imgsel.png)
 
 3. And then click `Browse Server`.
-
 ![image](images/imgprop.png)
 
 4. If image isn't already uploaded to your filesystem select upload from the menu bar.
@@ -45,4 +44,10 @@ To do this in the **body** section:
 `insert image of link icon`
 3. Insert the URL that you want to link to:
     1. External links - use a link copied from the browser *i.e. www.uoguelph.ca*.
-    2. Internal links - use the page name copied from the browser *content/sample-page-one* and ensure the protocol is selected to < other >
+    2. Internal links
+        - **Using Link type: Internal path** (the default)
+            - type the first few characters of the page name in the *Link* field ![image](images/ckeditorlinkinternalpath.png)
+            - select the page you want to link from the list of suggestions ![image](images/ckeditorlinksuggestions.png)
+            - click *OK*
+        - **Using Link type: URL**
+            - use the page name copied from the browser *content/sample-page-one* and ensure the protocol is selected to < other >
