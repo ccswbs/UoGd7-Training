@@ -43,7 +43,9 @@ To do this in the **body** section:
 2. Click on the Link icon (in the Editor).
 `insert image of link icon`
 3. Insert the URL that you want to link to:
-    1. External links - use a link copied from the browser *i.e. www.uoguelph.ca*.
+    1. External links
+        - Select **Link type:** *URL*
+        - use a link copied from the browser *i.e. www.uoguelph.ca*.
     2. Internal links
         - **Using Link type: Internal path** (the default)
             - type the first few characters of the page name in the *Link* field ![image](images/ckeditorlinkinternalpath.png)
