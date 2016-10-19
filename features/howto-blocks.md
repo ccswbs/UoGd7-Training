@@ -1,7 +1,7 @@
 # How to Create a New Block
 1. View bottom of the page and click **Customize this page**
 
-    a) Click on **Left side**
+  a) Click on **Left side**
 
     * Select Region Style (Paint Brush)
 
@@ -10,8 +10,8 @@
     * Change **Column size** to **--None--**
 
     * Change **Offset size** to **--None--**
-
-    b) Click on **Middle Column**
+    
+  b) Click on **Middle Column**
 
     * Select Region Style (Paint Brush)
 
@@ -21,7 +21,7 @@
 
     * Change **Offset size** to **--None--**
         
-    c) Click on **Right side**
+  c) Click on **Right side**
 
     * Select Region Style (Paint Brush)
 
