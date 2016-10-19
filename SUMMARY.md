@@ -15,6 +15,7 @@
 * [Features: How-to](features.md)
    * [Basic Page](features/howto-page.md)
    * [Banners](features/howto-banner.md)
+   * [Blocks](features/howto-blocks.md)
    * [News Article](features/howto-news.md)
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
