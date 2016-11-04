@@ -30,5 +30,6 @@
 * [Google reCAPTCHA](recaptcha.md)
 * [Best Practice TIps](practips.md)
 * [Top 5 Accessibility Tips](accessibilitytop.md)
+* [Style Guide Code Snippets](https://github.com/ccswbs/hjckrrh/wiki/Style-Guide)
 * [Frequently Asked Client Questions](FreqAQ.md)
 
