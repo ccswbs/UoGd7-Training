@@ -10,7 +10,7 @@ The following guide can assist you with structuring and styling content on a pag
 4. [Templates](#templates)
 
 # Buttons
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/buttons.jpg)
+![Image of all bootstrap buttons](/images/buttons.jpg)
 
 The following code snippets demonstrate the style classes you would use to style a button or a link so that it looks like a button. You can control the colour and size of each button.
 
