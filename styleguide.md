@@ -8,6 +8,7 @@ The following guide can assist you with structuring and styling content on a pag
 2. [Images](#images)
 3. [Slideshows](#slideshows)
 4. [Templates](#templates)
+5. [Miscellaneous](#miscellaneous)
 
 # Buttons
 ![Image of all bootstrap buttons](/images/buttons.jpg)
@@ -318,3 +319,31 @@ This code snippet demonstrates the method you would use to create a listing of c
 - You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
 
 ![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
+
+# Miscellaneous
+
+## Icons
+### Icon Only
+![Image of University Icon](/images/universityIcon.PNG)
+```HTML
+<i aria-hidden="true" class="fa fa-university">&nbsp;</i>
+```
+
+### Icon with Link Text/Text
+![Image of University Icon with University of Guelph Link Text](/images/universityIconWithText.PNG)
+```HTML
+<h2><i aria-hidden="true" class="fa fa-university">&nbsp;</i><a href="www.uoguelph.ca">University of Guelph</a></h2>
+```
+
+### How do I view all available icons, class names, character codes and aliases?
+- Font Awesome provides a cheatsheet page where all of that information can be found: http://fontawesome.io/cheatsheet/
+
+### How do I increase the size of my icon?
+- To increase icon sizes relative to their container, use the ```fa-lg``` (33% increase), ```fa-2x```, ```fa-3x```, ```fa-4x```, or ```fa-5x``` classes.
+```HTML
+<i class="fa fa-university fa-lg"></i> fa-lg
+<i class="fa fa-university fa-2x"></i> fa-2x
+<i class="fa fa-university fa-3x"></i> fa-3x
+<i class="fa fa-university fa-4x"></i> fa-4x
+<i class="fa fa-university fa-5x"></i> fa-5x
+```
