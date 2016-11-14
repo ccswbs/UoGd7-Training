@@ -27,8 +27,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ### Colours
 
 #### Default / White
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/whiteButton.jpg)
-
+![Image of white bootstrap button](/images/whiteButton.jpg)
 ```HTML
 <!-- Standard button style -->
 <button type="button" class="btn btn-default">Default</button>
