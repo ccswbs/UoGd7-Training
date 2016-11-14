@@ -341,9 +341,9 @@ This code snippet demonstrates the method you would use to create a listing of c
 ### How do I increase the size of my icon?
 - To increase icon sizes relative to their container, use the ```fa-lg``` (33% increase), ```fa-2x```, ```fa-3x```, ```fa-4x```, or ```fa-5x``` classes.
 ```HTML
-<i class="fa fa-university fa-lg"></i> fa-lg
-<i class="fa fa-university fa-2x"></i> fa-2x
-<i class="fa fa-university fa-3x"></i> fa-3x
-<i class="fa fa-university fa-4x"></i> fa-4x
-<i class="fa fa-university fa-5x"></i> fa-5x
+<i class="fa fa-university fa-lg">&nbsp;</i>
+<i class="fa fa-university fa-2x">&nbsp;</i>
+<i class="fa fa-university fa-3x">&nbsp;</i>
+<i class="fa fa-university fa-4x">&nbsp;</i>
+<i class="fa fa-university fa-5x">&nbsp;</i>
 ```
