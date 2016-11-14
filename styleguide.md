@@ -35,7 +35,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Primary / Blue
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/primaryBlueButton.jpg)
+![Image of all bootstrap buttons](/images/primaryBlueButton.jpg)
 
 ```HTML
 <!-- Identifies the primary action in a set of buttons -->
@@ -43,7 +43,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 <a href="#" class="btn btn-primary">Primary</a>
 ```
 #### Success / Green
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/successGreenButton.jpg)
+![Image of all bootstrap buttons](/images/successGreenButton.jpg)
 
 ```HTML
 <!-- Indicates a successful or positive action -->
@@ -52,7 +52,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Info / Grey
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/infoGreyButton.jpg)
+![Image of all bootstrap buttons](/images/infoGreyButton.jpg)
 
 ```HTML
 <!-- Contextual button for informational alert messages -->
@@ -61,7 +61,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Warning / Orange
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/warningOrangeButton.jpg)
+![Image of all bootstrap buttons](/images/warningOrangeButton.jpg)
 
 ```HTML
 <!-- Indicates caution should be taken with this action -->
@@ -70,7 +70,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Danger / Red
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/dangerRedButton.jpg)
+![Image of all bootstrap buttons](/images/dangerRedButton.jpg)
 
 ```HTML
 <!-- Indicates a dangerous or potentially negative action -->
@@ -81,7 +81,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ### Sizes
 
 #### Large
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/largeButton.jpg)
+![Image of all bootstrap buttons](/images/largeButton.jpg)
 
 ```HTML
 <!-- Large button: This can be done with any of the aforementioned colours  -->
@@ -90,7 +90,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Small
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/smallButton.jpg)
+![Image of all bootstrap buttons](/images/smallButton.jpg)
 
 ```HTML
 <!-- Smallbutton: This can be done with any of the aforementioned colours  -->
@@ -99,7 +99,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 #### Full Width
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/fullWidthButton.jpg)
+![Image of all bootstrap buttons](/images/fullWidthButton.jpg)
 
 ```HTML
 <!-- Full Width Button: This can be done with any of the aforementioned colours  -->
@@ -130,19 +130,19 @@ This demonstrates an image with rounded corners using the img-rounded class.
 ```HTML
 <img src="/link/to/image" class="img-responsive img-rounded" />
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/roundedImage.jpg)
+![Image of all bootstrap buttons](/images/roundedImage.jpg)
 
 This demonstrates an image with rounded square corners and a border using the img-thumbnail class.
 ```HTML
 <img src="/link/to/image" class="img-responsive img-thumbnail" />
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/thumbnailImage.jpg)
+![Image of all bootstrap buttons](/images/thumbnailImage.jpg)
 
 This demonstrates a circular image using the img-circle class.
 ```HTML
 <img src="/link/to/image" class="img-responsive img-circle" />
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/circleImage.jpg)
+![Image of all bootstrap buttons](/images/circleImage.jpg)
 
 ### Aligning Images
 
@@ -195,7 +195,7 @@ Use the following code to create one row of a 2 column grid. Repeat for as many 
    </div>
 </div>
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/imageGrid.jpg)
+![Image of all bootstrap buttons](/images/imageGrid.jpg)
 
 #### 3 Column Responsive Image Grid
 Use the following code to create one row of a 3 column grid. Repeat for as many rows as you need. Remember to replace each img element with a decorative image that relates to the associated text link.
@@ -224,7 +224,7 @@ Use the following code to create one row of a 3 column grid. Repeat for as many 
    </div>
 </div>
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/imageGrid3.jpg)
+![Image of all bootstrap buttons](/images/imageGrid3.jpg)
 
 #Slideshows
 Use the following code to create an inline paginated slideshow.
@@ -261,7 +261,7 @@ Use the following code to create an inline paginated slideshow.
 	</div>
 </div>
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/slideshow.jpg)
+![Image of all bootstrap buttons](/images/slideshow.jpg)
 
 #Templates
 
@@ -287,7 +287,7 @@ This code snippet demonstrates the method you would use to create two columns.
 	</div>
 </div>
 ```
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/twoColumn.jpg)
+![Image of all bootstrap buttons](/images/twoColumn.jpg)
 
 ## Listing Text Content with a Left-Aligned Image
 This code snippet demonstrates the method you would use to create a listing of content with a left-aligned image with text.
@@ -317,4 +317,4 @@ This code snippet demonstrates the method you would use to create a listing of c
 - Only need a single "media-listing-page" tag around all article tags
 - You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
 
-![Image of all bootstrap buttons](/ccswbs/UoGd7-Training/blob/master/images/leftAllignedImage.jpg)
+![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
