@@ -70,3 +70,15 @@
     
 **2.2 How it will appear on your site (Placed in Primary Region)**
 ![Demo block being created](../images/blockAppearance.PNG)
+
+## Common Usage for Blocks
+1. Display Menu on Specific Pages
+Follow the above steps with these steps in mind.
+   - When creating a new block, select Add Menu Block instead of Add Block.
+   - Fill out the Block Title and Administrative Title.
+   - Select the menu you would like to display. (Based off the assumption the menu you would like to display already exists)
+   - Select starting level.
+2. Display Image/Logo on Specific Pages
+Follow the above steps with these steps in mind.
+   - Leave the title of the block empty.
+   - Put the image, with appropriate alt text, in the block using the Drupal Text Editor.
