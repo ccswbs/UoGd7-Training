@@ -41,9 +41,9 @@ No cases have been brought to light yet so it is uncertian how events will ultim
 
 The remediation team has many clients with different needs and so we have opted to create a solution that can adapt to as many clients needs as possible. The WYSIWYG editor allows this.
 
-## 9. Why is there no map option?
+## 9. Why is there no map option? / How do I embed a Google Map into my website?
 
-You may add a map image to the location field. The remediation team has many clients with different needs and so we have opted to create a solution that can adapt to as many clients needs as possible.
+The option to embed a Google Map into your website is currently not availiable but will be in the future. Currently, we suggest that you provide an image of the map with alternative text. Allong with the image, we encourage you to provide alternative routs, close landmarks and other notable information to the user in the form of text to provide similar information for the non-visual users.
 
 ## 10. Does the news archive get generated automatically?
 
@@ -51,6 +51,7 @@ Yes. Once a news item is created it gets automacilly added to the news archive i
 
 ## 11. In the news feature, does the "posted" date change every time someone edits?
 
+No. The posted date does not change if a user edits the news item. The only time the news item's date will change is if someone edits the authoring date at the bottom of the edit section.
 
 ## 12. Can we add and image slideshow in body of page?
 
