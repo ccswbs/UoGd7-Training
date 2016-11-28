@@ -73,6 +73,7 @@
 
 ## Common Usage for Blocks
 1. Display Menu on Specific Pages
+   - Follow steps 1 and 2 under "How to Create a New Block" before completing the following steps.
    - When creating a new block, select Add Menu Block instead of Add Block.
    ![Demo block being created](../images/menuBlock.jpg)
    - Fill out the Block Title and Administrative Title.
@@ -83,6 +84,7 @@
 2. Display Image/Logo on Specific Pages
 Follow the above steps with these steps in mind.
 ![Demo block being created](../images/logoBlock.jpg)
+   - Follow steps 1 and 2 under "How to Create a New Block" before completing the following steps.
    - Leave the title of the block empty.
    - Put the image, with appropriate alt text, in the block using the Drupal Text Editor.
    - At the bottom, select what pages you would like the menu to display on.
