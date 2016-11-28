@@ -1,8 +1,8 @@
 # Embedded Google Maps
 
 In order to put an embedded google map into your website, you must ensire the following:
-  - It does not create a keyboard trap.
-  - It has appropriate alt text.
+  - The map does not create a keyboard trap.
+  - The map has a title attribute.
   - There is descriptive text before/after the map that details the important information relayed in the map.
   
   ## Avoiding Keyboard Traps
@@ -15,4 +15,10 @@ In order to put an embedded google map into your website, you must ensire the fo
   - Directions to a place: Provide text alternatives of routs from specific land marks that lead to the place.
   - Location of Buildings/Objects around campus: Provide a chart which references what item/building can be found where.
   
-  ## Code Example for Embedded Google Map
+  ## How to Embed a Google Map
+  1. Navigate to the location on the map that you would like to embed normally via google maps.
+  2. Click "Share" on the side menu.
+  3. Click "Embed Map".
+  4. Copy that code and paste it into the plain text editor.
+  5. Find the < iframe> attribute and put a title attribute. Eg: < iframe title="Title of Map" ... >
+  6. Provide text alternative for the map below detailing the important information.
