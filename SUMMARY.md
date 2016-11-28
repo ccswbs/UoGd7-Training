@@ -27,6 +27,7 @@
 * [Customizing the Page Layout](customizingpage.md)
 * [SiteImprove](siteimprove.md)
 * [Google Analytics](analytics.md)
+* [Google Maps](GoogleMaps.md)
 * [Google reCAPTCHA](recaptcha.md)
 * [Best Practice TIps](practips.md)
 * [Top 5 Accessibility Tips](accessibilitytop.md)
