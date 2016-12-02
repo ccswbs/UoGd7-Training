@@ -313,6 +313,16 @@ This code snippet demonstrates the method you would use to create a listing of c
  </div>
 ```
 
+##Home Pages
+###Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
+![Image of 3 columns, 2 rows grid layout](/images/welcome_3column_2row.PNG)
+
+###Layout 2: Intro area with three main buttons. Right below intro are Links with icons to main sections of the website. Search and News located to the right of the links.
+![Image of intro and links with icons layout](/images/welcome_icon_links.PNG)
+
+###Layout 3: 3 column top level lead-ins. Info banner midway through the page. News, Features, Upcoming Events, and Stay Connected at the bottom of the page.
+![Image of 3 column with info banner layout](/images/3column_infoBanner.PNG)
+
 ### Notes:
 - Add more "<article class='row media'>" tags to add new content
 - Only need a single "media-listing-page" tag around all article tags
