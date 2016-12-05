@@ -324,7 +324,7 @@ This code snippet demonstrates the method you would use to create a listing of c
 ![Image of 3 column with info banner layout](/images/3column_infoBanner.PNG)
 
 ###Layout 4: 4 column top level lead-ins
-![Image of 4 columns grid layout](/images/4column.PNG)
+![Image of 4 columns grid layout](/images/4columns.PNG)
 
 ### Notes:
 - Add more "<article class='row media'>" tags to add new content
