@@ -323,6 +323,9 @@ This code snippet demonstrates the method you would use to create a listing of c
 ###Layout 3: 3 column top level lead-ins. Info banner midway through the page. News, Features, Upcoming Events, and Stay Connected at the bottom of the page.
 ![Image of 3 column with info banner layout](/images/3column_infoBanner.PNG)
 
+###Layout 4: 4 column top level lead-ins
+![Image of 4 columns grid layout](/images/4column.PNG)
+
 ### Notes:
 - Add more "<article class='row media'>" tags to add new content
 - Only need a single "media-listing-page" tag around all article tags
