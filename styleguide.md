@@ -313,6 +313,14 @@ This code snippet demonstrates the method you would use to create a listing of c
  </div>
 ```
 
+### Notes:
+- Add more "<article class='row media'>" tags to add new content
+- Only need a single "media-listing-page" tag around all article tags
+- You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
+
+![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
+
+
 ##Home Pages
 ###Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
 ![Image of 3 columns, 2 rows grid layout](/images/welcome_3column_2row.PNG)
@@ -325,13 +333,6 @@ This code snippet demonstrates the method you would use to create a listing of c
 
 ###Layout 4: 4 column top level lead-ins
 ![Image of 4 columns grid layout](/images/4columns.PNG)
-
-### Notes:
-- Add more "<article class='row media'>" tags to add new content
-- Only need a single "media-listing-page" tag around all article tags
-- You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
-
-![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
 
 # Miscellaneous
 
