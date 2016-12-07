@@ -23,7 +23,7 @@ A textfield is for short entries like names while a textarea is a large area for
 1. Fill in a new label and choose the **Select options** type from the drop down. Click **Add** and complete the options on the next screen
 1. To create the list of options, go to Options and create Key Value Pairs
   - These pairs consist of a machine readable key and a plain language value separated by a "|" - you can find it by holding shift while pressing the backslash key "\" key on most keyboards.
-1. Key-value pairs MUST be specified as "safe_key|Some readable option"
+1. Key-value pairs MUST be specified as **safe_key|Some readable option**
 1. Enter one option per line
 1. Click **Save component**
 
@@ -42,8 +42,8 @@ When you are creating lists, the default type is radio buttons.The option to sel
 1. Select the Webform tab
 1. Select the Form components tab
 1. Under the list of form components, search for the Email form component that captures the email address for the confirmation email.
-  - If there is an Email form component and the “Type” is “E-mail” proceed to Step 2
-  - If there is an Email form component, but the “Type” is not “E-mail” proceed to Step 1b
+  - If there is an Email form component and the **Type** is **E-mail** proceed to Step 2
+  - If there is an Email form component, but the **Type** is not **E-mail** proceed to Step 1b
   - If there is no Email form component and you wish to add one, proceed to Step 1c.
 
 #####Step 1b – Delete the old Email input field that is not using Type: E-mail
@@ -51,16 +51,16 @@ This step is only necessary if the “Type” for your Email form component is n
 
 1. At this point, you should be viewing the Webform / Form components tab of your webform. If you are not viewing this page, return to Step 1a.
 1. Take note of any settings for the Email input field you wish to delete (eg. Label, Required checkbox) Remember that you will want to recreate these settings when you recreate the Email input field.
-1. Select “Delete” on the Email form component row
+1. Select **Delete** on the Email form component row
 1. Proceed to Step 1c
 
 #####Step 1c – Create a new Email input field that uses Type: E-mail
 1. At this point, you should be viewing the Webform / Form components tab of your webform. If you are not viewing this page, return to Step 1a.
 1. At the bottom of the Form components table, use the very last row to add a new component:
-  - Add the name of your new component using the “New component name”input field
-  - Select “E-mail” under the Type dropdown for your new component row
-  - Check “Required” if the email field is required
-  - Select “Add”
+  - Add the name of your new component using the **New component name**input field
+  - Select **E-mail** under the Type dropdown for your new component row
+  - Check **Required** if the email field is required
+  - Select **Add**
 
 #####Step 2 – Configure your webform to send confirmation emails to users.
 At this point, you should have at least one Email form component on your webform that uses Type: E-mail. If you do not have an Email form component of type E-Mail, return to Step 1c.
@@ -69,7 +69,7 @@ At this point, you should have at least one Email form component on your webform
 1. Select **Edit**
 1. Select the **WEBFORM** tab
 1. Select the **E-mails** tab
-1. Click on the “Component value” radio button and select the component of the webform that captures the email address (it should match the label for your Email field)
-1. Click on the “Add” button
+1. Click on the **Component value** radio button and select the component of the webform that captures the email address (it should match the label for your Email field)
+1. Click on the **Add** button
 1. On the next page, you can set the E-mail subject, E-mail From Address, E-mail From Name, and E-mail contents
-1. Once you’ve set the email details, click “Save e-mail settings”
+1. Once you’ve set the email details, click **Save e-mail settings**
