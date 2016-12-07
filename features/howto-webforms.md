@@ -66,9 +66,9 @@ This step is only necessary if the “Type” for your Email form component is n
 At this point, you should have at least one Email form component on your webform that uses Type: E-mail. If you do not have an Email form component of type E-Mail, return to Step 1c.
 
 1. Under Find content, search for your webform
-1. Select Edit
-1. Select the Webform tab
-1. Select the E-mails tab
+1. Select **Edit**
+1. Select the **WEBFORM** tab
+1. Select the **E-mails** tab
 1. Click on the “Component value” radio button and select the component of the webform that captures the email address (it should match the label for your Email field)
 1. Click on the “Add” button
 1. On the next page, you can set the E-mail subject, E-mail From Address, E-mail From Name, and E-mail contents
