@@ -16,6 +16,13 @@ The content editor has a collection of tools located at the top of the main Body
 6. Unless the image is decorative it is **mandatory** to add Alternative Text.
 7. Select OK and your image should be inserted.
 
+## Aligning Images
+1. Click to select the image.
+2. From the *Styles* dropdown, select one of the following styles:
+    - *Image on Left*
+    - *Image on Right*
+    - *Image Centered*
+
 ## Adding Tables
 The **WCAG 2.0** standard for table settings dictates that table markup must be properly structured to differentiate and properly link between header and data cells.
 
