@@ -24,26 +24,4 @@ steps to add a reCAPTCHA challenge to web forms.
 
 ## Configuring the Google reCAPTCHA Module
 
-> **Note:** If your website is managed by CCS Web Solutions, the
-> Google reCAPTCHA module will be configured for you when your site is
-> launched. Only attempt to configure the reCAPTCHA module
-> with your site key if you host the site yourself.
-
-Before you can configure the reCAPTCHA module, you must 
-[register for the reCAPTCHA service](https://www.google.com/recaptcha/admin)
-to obtain a site key and secret key.
-
-> **Note:** If your website is managed by CCS Web Solutions, you **do not**
-> need to register for the reCAPTCHA service or obtain keys.
-
-After you have registered for the service and obtained your keys:
-
-1. Log in to your site as administrator.
-
-2. Go to Administration >> Configuration >> People >> CAPTCHA >> RECAPTCHA
-   (admin/config/people/captcha/recaptcha).
-
-3. Enter your site key and secret key.
-
-4. Click *Save Configuration*.
-
+If Google reCAPTCHA is not enabled on your site please email your Drupal Contact at CCS or email ccs.websolutions@uoguelph.ca to enable this feature.
