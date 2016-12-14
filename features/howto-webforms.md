@@ -3,6 +3,8 @@ Webform is the module for making forms and surveys in Drupal.
 After a submission, users may be sent an e-mail confirmation as well as sending a notification to administrators.
 Results can be exported into Excel or other spreadsheet applications.
 
+**_/!\ Note_**: If Google reCAPTCHA is not enabled on your site please email your Drupal Contact at CCS or email ccs.websolutions@uoguelph.ca to enable this feature.
+
 ## Creating a Webform
 ###Basic Form Details
 1. From the Administration bar, navigate to **Add content** > **Webform** 
