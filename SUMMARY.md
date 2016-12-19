@@ -11,7 +11,7 @@
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [Multimedia Accessibility](multimedia.md)
-* [UG Drupal Content Types](features.md)
+* [UG Drupal Content Types](ugcontenttypes.md)
    * [Basic Page](features/howto-page.md)
    * [Banners](features/howto-banner.md)
    * [Blocks](features/howto-blocks.md)
