@@ -1,18 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-* [General](general.md)
-   * [Features and Terms](Drupal_Features_Terms_Acroynms.md)
-* [Accessibility and Website Managment Best Practices](Whyaccessibility.md)
+* [Drupal Platform Introduction](Drupal_Features_Terms_Acroynms.md)
+* [Accessibility & Website Managment](Whyaccessibility.md)
    * [Roles and Responsibilities](rolesandresp.md)
        * [Website Managers](webman.md)
        * [Content Creators and Editors](contentcreators.md)
-* [Basic Beginners Guide](basicbeginner.md)
+* [Beginners Guide to Drupal Website Architecture](basicbeginner.md)
    * [WYSIWYG Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [Multimedia Accessibility](multimedia.md)
-* [Features: How-to](features.md)
+* [UG Drupal Content Types](features.md)
    * [Basic Page](features/howto-page.md)
    * [Banners](features/howto-banner.md)
    * [Blocks](features/howto-blocks.md)
@@ -35,4 +34,3 @@
 * [Top 5 Accessibility Tips](accessibilitytop.md)
 * [Style Guide Code Snippets](styleguide.md)
 * [Frequently Asked Client Questions](FreqAQ.md)
-
