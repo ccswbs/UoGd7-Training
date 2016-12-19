@@ -1,4 +1,4 @@
-# Web Editors and Content Creators
+# Content Creators & Content Editors
 As a **Content Creator or Content Editor** you must familiarize yourself with the normative criteria of [WCAG 2.0](https://www.w3.org/TR/WCAG20/). Content Creators and Content Editors are responsible for ensuring the accessibility of any web content that they upload or publish on the website. In many cases the Drupal Platform will cover the basic WCAG 2.0 Criteria but it is up to the Content Creator /  Content Editor to ensure that the content they produce is WCAG 2.0 Compliant.
 
 ## Guidlines to Making Content Accessible
