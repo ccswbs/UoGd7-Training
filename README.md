@@ -41,10 +41,10 @@ A lot can be accomplished through exploration of the Drupal interface. Exploring
 
 ## Contributing to the Training Module
 
-The University of Guelph Business Web & Development Solutions department strives to provide top notch documentation to users. In order to help us improvde this docume
+The University of Guelph Business Web & Development Solutions department strives to provide top notch documentation to users. In order to help us improvde this documentation you can submit an email to ccs-websolutions@uoguelph.ca with your feedback or you can follow the steps below to directly contribute to the training documentation.
 
 
-If you want to contribute to this module, you have a few options:
+If you want to directly contribute to this module, you have a few options:
 
 1. Submit a pull requests on github for updates or new chapters https://github.com/ccswbs/UoGd7-Training.git
 2. Subscribe to the repo and review new updates as they come in
