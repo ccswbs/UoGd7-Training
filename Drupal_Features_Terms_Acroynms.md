@@ -1,4 +1,5 @@
-# Terms & Features
+# Drupal Platform Introduction (Terms & Features)
+
 ## Administration Menu Bar
 When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
 
