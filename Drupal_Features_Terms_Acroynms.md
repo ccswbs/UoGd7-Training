@@ -50,10 +50,12 @@ Every node belongs to a single *node type* or *content type*, which defines vari
     * The **Blog** feature allows authorized users to maintain a blog. Blogs are a series of posts that are time stamped and are typically viewed by date as you would view a journal. Blog entries can be made public or private to the site members, depending on which roles have access to view content.
 12. [Web Forms](features/howto-webforms.md)
     * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt" as well as sending a notification to administrators. Results can be exported into Excel or other spreadsheet applications.
-13. [Landing Page](features/howto-landingpag.md)
-14. [Special Alert](features/howto-specialalert.md)
-15. [Course Outlines](features/howto-courseoutlines.md)
-16. [Custom Content](features/howto-customcon.md)
+13. Landing Page
+    * A **Landing Page** is a basic page that is created by the Drupal platform and is used to link all pages related to each other under a menu item. This page is created due to the breadcrumbs needing a page that acts as a parent for all subsequent pages below it in the menu hierarchy structure.
+14. [Course Outlines](features/howto-courseoutlines.md)
+    * The **Course Outlines** content type allows content creators to create and edit course outlines. Anonymous users can browse through these outlines in a listing page view and find more detail about a specific course.
+15. [Custom Content (Style Guide)](styleguide.md)
+    * The **Style Guide** allows content creators to create custom content that can be easily inserted into their code as well as being accessable. The style guide features many examples of code as well as snippets of code that can be reused within the page.
 
 ## Field
 *Fields* are elements of data that can be attached to a node or other *Drupal* entity. Fields commonly contain text, images, or terms.
