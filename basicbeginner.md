@@ -1,38 +1,99 @@
-# Basic Beginner Functions
+# Beginner Guide to Drupal Website Architecture
 
-## How to Login/Logout
-1. Navigate to your website: www.uoguelph.ca/*sitename*/user
+This guide is designed to help those who are just starting their journey with the UG Drupal Platform in the world of Website Archetecture. If you require more advanced information and how to use specific content types, please check out the [UG Drupal Content Types](ugcontenttypes.md) section of the training module.
+
+The Beginner Guide to Drupal Website Architecture will cover:
+
+* How to Login / Logout
+* Introduction to the Admin Menu Bar
+* Creating Basic Content
+* Editing Pre-existing Content
+* Adding Users to the Website
+* WYSIWYG Editor
+* Managing Menues
+* Taxonomies
+* Multimedia and Accessibility
+
+## How to Login / Logout
+### Logging In
+1. Navigate to your website: www.uoguelph.ca/*sitename*/user Once there you will be brought to the following page.
 ![Login example](images/userlogin.png)
-2. To `login` use your Central Login ID and Password in the user login fields.
-3. To `logout` select or click the `logout` option located on the menu bar.
+2. Enter your Central Login ID in the "Username" field.
+3. Enter your Central Login Password in the "Password" field.
+4. Select the "Login Button".
 
-## How to Perform Administration and Content Tasks
-To add any type of pre-defined content, the methods are the same. When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
+### Logging Out
+There are many ways in which a user can logout. The simpliest way is to click the `logout` option located on the menu bar.
+
+## Introduction to the Admin Menu Bar
+When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
 
 ![Admin Menu Bar](images/admin_menu_bar.png)
 
-## Finding and Editing Content
-All content created on your website can be viewed by selecting the `Find Content` shortcut located on the Administration Menu shortcut bar, or by selecting `Content` on the Administration Menu bar itself.
-![Find Content Highlighted](images/findcontent.png)
+On the Admin Bar, the important features to note are:
 
-To Edit content you can search using the filter drop-down menus for a particular content type and then select `edit` for that particular item.
+* **House Icon**: When selected, the user will be brought to the home page.
+* **Content**: When selected, the user will be brought to a table in which all content types are listed and availiable for selection.
+* **Structure**: When selected, the user will be brought to a list of content types in which they can edit the overall structure of those types.
+* **People**: When selected, the user will be brought to a table in which all users registered with the site are listed.
+
+## Creating Basic Content
+In order to publish content on your website, you must select a content type in which this new content should be displayed. Once you have selected the content type in which to put your content, the rest is easy.
+
+There are a few ways in which you can add content to your websire:
+
+### Option 1
+Select the "Add Content" shortcut located on the Administration Bar.
+![Add Content Button on Administration Bar](images/Content.png)
+
+### Option 2
+Select the "Content" button on the Administration Bar and then selecting the "+ Add Content" option.
+
+Both Option 1 and Option 2 will bring you to the "Add Content" menu.
+![Add Content Menu](images/addcon.png)
+From this step, simply select the content type in which you would like to add.
+For more information in regards to each content type, please visit the [UG Drupal Content Types](ugcontenttypes.md) section.
+
+
+## Editing Pre-existing Content
+All content created on your website can be viewed by selecting the "Find Content" shortcut located on the Administration Menu shortcut bar, or by selecting "Content" on the Administration Bar itself.
+![Find Content Button Highlighted](images/findcontent.png)
+
+Once selected, you will be brought to a page with the content listed in a table.
+![Website Content Listings](images/contentMenu.png)
+
+You can search for specific content through the "SHOW ONLY ITEMS WHERE" filter options.
+These options consist of searching for the content using a combination of its status and type through the drop-down menus.
 ![Filter and edit content options displayed](images/filterandedit.png)
 
-## How to Create Content
-**Add Content:**  To create new content on your website, select the `Add Content` shortcut located on the **Administration Bar**.
-**Example of Content Types:**  Banner, Event, Feature, News, Page, Social Media.
+## Adding Users to the Website
+To simplify the process in adding users to a website, we suggest that you ask the user to attempt to login to the site. Through doing this, the user is added into the system as a user of the website. Once this is done, the permission roles ca be easiy set.
 
-## Adding Users
-Request that new users attempt to login to the site - this provides their Username (which is their Central Login-ID for U of G staff).
+**/!\ Note**: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
 
-1. At the top of the **Administration Menu Bar** select `People`.
-2. Either use the filter or scroll down to find the Username.
-3. Select appropriate Username.
-4. Select `Role` (i.e. editor).
-5. Enter a *random* password information (It will not be retained since the Central Login ID and Password will override and provide access to the website).
-6. Select `Save`.
+### Adding a New User
+1. At the top of the Administration Menu Bar select "People".
+2. Select the "+ Add User"
+3. Under the "Role" category, select the roles in which you would like the user to have. 
+    * All Unchecked (Except Authenticated User): User is a normal user with no creation/editing capabilities.
+    * For more information on the user roles, please visit the [Drupal User Roles and Responsibilities](rolesandresp.md) section.
+4. For the sake of saving the information you just edited, enter a *random* password in the "Password" and "Confirm Password" field. (This step is purely for the sake of saving. This password is **NOT IMPORTANT**!!! It will not be retained since the User's Central Login ID and Password will override and provide that user access to the website).
+5. Select the "Save" button.
 
-*Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
+![Add New User Image](images/newUser.png)
+
+### Adding /  Removing Permissions on Pre-existing Site
+
+1. At the top of the Administration Menu Bar select "People".
+2. Locate the appropriate user you would like to exit. You can do this by either using the filter provided, scrolling through the list or in-browser search feature.
+4. Once the user is located, select the "edit" option for that user.
+5. Under the "Role" category, select or deselect the roles in which you would like the user to have. 
+    * All Unchecked (Except Authenticated User): User is a normal user with no creation/editing capabilities.
+    * For more information on the user roles, please visit the [Drupal User Roles and Responsibilities](rolesandresp.md) section.
+5. For the sake of saving the information you just edited, enter a *random* password in the "Password" and "Confirm Password" field. (This step is purely for the sake of saving. This password is **NOT IMPORTANT**!!! It will not be retained since the User's Central Login ID and Password will override and provide that user access to the website).
+6. Select the "Save" button.
+
+![Edit Pre-existing User](images/editUser.png)
 
 ## Common Web Errors
 When creating, editing or managing content with the Drupal platform there are a few common web errors that you should look out for. These web errors are not only found on our Drupal platform, so they're benificial to know and understand their causes.
