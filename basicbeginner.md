@@ -4,15 +4,15 @@ This guide is designed to help those who are just starting their journey with th
 
 The Beginner Guide to Drupal Website Architecture will cover:
 
-* How to Login / Logout
-* Introduction to the Admin Menu Bar
-* Creating Basic Content
-* Editing Pre-existing Content
-* Adding Users to the Website
-* WYSIWYG Editor
-* Managing Menues
-* Taxonomies
-* Multimedia and Accessibility
+* [How to Login / Logout](basicbeginner.md#how-to-login--logout)
+* [Introduction to the Admin Menu Bar](basicbeginner.md#introduction-to-the-admin-menu-bar)
+* [Creating Basic Content](basicbeginner.md#creating-basic-content)
+* [Editing Pre-existing Content](basicbeginner.md#editing-pre-existing-content)
+* [Adding Users to the Website](basicbeginner.md#adding-users-to-the-website)
+* [WYSIWYG Editor](wysiwyg-editor.md)
+* [Managing Menues](menuitems.md)
+* [Taxonomies](taxonomies.md)
+* [Multimedia and Accessibility](multimedia.md)
 
 ## How to Login / Logout
 ### Logging In
