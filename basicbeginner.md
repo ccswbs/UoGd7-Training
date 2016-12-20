@@ -33,3 +33,11 @@ Request that new users attempt to login to the site - this provides their Userna
 6. Select `Save`.
 
 *Note: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.*
+
+## Common Web Errors
+When creating, editing or managing content with the Drupal platform there are a few common web errors that you should look out for. These web errors are not only found on our Drupal platform, so they're benificial to know and understand their causes.
+These common web errors include:
+
+* **Error 404**: This error arises when the URL you have navigated to points to something that does not exist. Common causes of this error are typos in the URL provided when clicking a link, deletion/non existance of the node in which the URL links too. To fix these problems, simply update the link with the correct one, create the page in which the link points too or add a URL Alias to a page that should have this link but doesnt.
+* **Error 403**: This error arises when the user does not have permission to access the URL they have navigated to. Common causes of this error are unauthenticated users (users not logged in to the website) trying to access webpages that are either unpublished or privated. Pages that are private may also limit access to specific types of users through their authentication privlidges.
+* **Error 500**: This error arises when the webpage you have navigated to has problems connecting with its back-end server. This is most commonly seen from a content creator/editor and site manager point of view. Common causes of this error are timing out (more common) or input of incorrect information during critical periods (less common). To fix this error, simply refresh the page. If the error persists ensure that the data in which you are inputting is correct, then contact your Web Manager / Site Owner.
