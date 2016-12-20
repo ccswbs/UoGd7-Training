@@ -7,7 +7,7 @@
    * [Website Managers](webman.md)
    * [Content Creators and Editors](contentcreators.md)
 * [Beginners Guide to Drupal Website Architecture](basicbeginner.md)
-   * [WYSIWYG Editor](wysiwyg-editor.md)
+   * [Drupal Text (WYSIWYG) Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [Multimedia Accessibility](multimedia.md)
