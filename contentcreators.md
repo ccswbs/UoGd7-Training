@@ -49,15 +49,15 @@ When uploading documents to your website it is important to ask yourself these q
 **/!\ Strong Recomendation**: The AODA Team strongly suggests that any information in a document that can be uploaded as a basic webpage be done as to grant the user with the most amount or accessible content.
 
 ### Images
-When you add images to a web page consider the fact that some users cannot see images and therefore require a text alternative in orde to recieve the same amount of information as a user who can visually see the image. In our CMS, providing a text alternative to images is refered to as ”alternative text” or ”alt text.” The text given here is not visually displayed on the page but is hidden in the code to be accessed by screen readers.
+When you add images to a web page consider the fact that some users cannot see images and therefore require a text alternative in order to recieve the same amount of information as a user who can visually see the image. In our CMS, providing a text alternative to images is refered to as ”alternative text” or ”alt text.” The text given here is not visually displayed on the page but is hidden in the code to be accessed by screen readers.
 
 ### How to write appropriate alternative "alt" text
 * Describe the purpose of the image and not necessarily what the image is of. 
-    * If the image is hyperlinked, it is important to describe where the link goes to/what happens whenthe image is selected.
+    * If the image is hyperlinked, it is important to describe where the link goes to/what happens when the image is selected.
     * If the image is solely used for decorative purposes such as creating an ambience or a visual context, then it should have no alternative text. 
     * If the image contains information that can only be found within the image then that information should be given in the alternative text.
 * Avoid using images of text. This means that you should avoid writing text in an image editing program and saving it as an image. Many of the types of software that reads text aloud (for instance used by dyslexics) cannot read images of text. This is because you cannot highlight text within an image to have it read out to you. (Some of these types of software can read alternative texts, but far from all. And they should not be confused with screen reader software used by the visually impaired. These are much more advanced). Images of text also tend to pixelate and become blurry upon magnification making them difficult to read.
-* If the image is purely decorative and provides absolutely no information to the user other than to make the page look better. Ensure that there is no alt text provided BUT the alt attribute must remain. Eg: alt=""
+* If the image is purely decorative and provides absolutely no information to the user other than to make the page look better, ensure that there is no alt text provided BUT the alt attribute must remain. (Eg: alt="")
 
 ### Audio & Video
 If you are using video or audio clips on a web page there are several criteria to consider, such as captioning and audio description of video. Audio description is an extra track explaining what happens on the screen to visually impaired users. If you are not able to provide your videos with audio descriptions then give an alternative in the form of a transcript that is uploaded or linked to from the page. But be aware that without audio descriptions you cannot be AA compliant, only A-compliant. If the content is solely visual (no sound) or only audio (no visual) then a text version is an accepted alternative on both levels.
