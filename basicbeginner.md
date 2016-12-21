@@ -10,7 +10,7 @@ The Beginner Guide to Drupal Website Architecture will cover:
 * [Editing Pre-existing Content](basicbeginner.md#editing-pre-existing-content)
 * [Adding Users to the Website](basicbeginner.md#adding-users-to-the-website)
 * [WYSIWYG Editor](wysiwyg-editor.md)
-* [Managing Menues](menuitems.md)
+* [Managing Menus](menuitems.md)
 * [Taxonomies](taxonomies.md)
 * [Multimedia and Accessibility](multimedia.md)
 
@@ -23,7 +23,7 @@ The Beginner Guide to Drupal Website Architecture will cover:
 4. Select the "Login Button".
 
 ### Logging Out
-There are many ways in which a user can logout. The simpliest way is to click the `logout` option located on the menu bar.
+There are many ways in which a user can logout. The simplest way is to click the `logout` option located on the menu bar.
 
 ## Introduction to the Admin Menu Bar
 When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
@@ -67,7 +67,9 @@ These options consist of searching for the content using a combination of its st
 ![Filter and edit content options displayed](images/filterandedit.png)
 
 ## Adding Users to the Website
-To simplify the process in adding users to a website, we suggest that you ask the user to attempt to login to the site. Through doing this, the user is added into the system as a user of the website. Once this is done, the permission roles ca be easiy set.
+**/!\ Note**: The ability to add users to a website is restricted to Site Owners / Web Managers.
+
+To simplify the process in adding users to a website, we suggest that you ask the user to attempt to login to the site. Through doing this, the user is added into the system as a user of the website. Once this is done, the permission roles can be easily set.
 
 **/!\ Note**: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
 
@@ -85,7 +87,7 @@ To simplify the process in adding users to a website, we suggest that you ask th
 ### Adding /  Removing Permissions on Pre-existing Site
 
 1. At the top of the Administration Menu Bar select "People".
-2. Locate the appropriate user you would like to exit. You can do this by either using the filter provided, scrolling through the list or in-browser search feature.
+2. Locate the appropriate user you would like to edit. You can do this by either using the filter provided, scrolling through the list or in-browser search feature.
 4. Once the user is located, select the "edit" option for that user.
 5. Under the "Role" category, select or deselect the roles in which you would like the user to have. 
     * All Unchecked (Except Authenticated User): User is a normal user with no creation/editing capabilities.
@@ -99,6 +101,6 @@ To simplify the process in adding users to a website, we suggest that you ask th
 When creating, editing or managing content with the Drupal platform there are a few common web errors that you should look out for. These web errors are not only found on our Drupal platform, so they're benificial to know and understand their causes.
 These common web errors include:
 
-* **Error 404**: This error arises when the URL you have navigated to points to something that does not exist. Common causes of this error are typos in the URL provided when clicking a link, deletion/non existance of the node in which the URL links too. To fix these problems, simply update the link with the correct one, create the page in which the link points too or add a URL Alias to a page that should have this link but doesnt.
-* **Error 403**: This error arises when the user does not have permission to access the URL they have navigated to. Common causes of this error are unauthenticated users (users not logged in to the website) trying to access webpages that are either unpublished or privated. Pages that are private may also limit access to specific types of users through their authentication privlidges.
+* **Error 404**: This error arises when the URL you have navigated to points to something that does not exist. Common causes of this error are typos in the URL provided when clicking a link, deletion/non existance of the node in which the URL links to. To fix these problems, simply update the link with the correct one, create the page in which the link points to or add a URL Alias to a page that should have this link but doesnt.
+* **Error 403**: This error arises when the user does not have permission to access the URL they have navigated to. Common causes of this error are unauthenticated users (users not logged in to the website) trying to access webpages that are either unpublished or private. Pages that are private may also limit access to specific types of users through their authentication privileges.
 * **Error 500**: This error arises when the webpage you have navigated to has problems connecting with its back-end server. This is most commonly seen from a content creator/editor and site manager point of view. Common causes of this error are timing out (more common) or input of incorrect information during critical periods (less common). To fix this error, simply refresh the page. If the error persists ensure that the data in which you are inputting is correct, then contact your Web Manager / Site Owner.
