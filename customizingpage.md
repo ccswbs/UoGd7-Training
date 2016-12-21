@@ -1,4 +1,4 @@
-# How to Customize the Page
+# Customizing Content Layout
 
 
 ## Adding view panes
