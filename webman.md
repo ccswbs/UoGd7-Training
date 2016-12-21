@@ -1,7 +1,7 @@
 # Web Managers / Site Owners
 As a Web Manager / Site Owner, you have the responsibility of ensuring accessibility to the users of the website you manage. The University of Guelph has a goal for all websites to be Level AA Compliant in regards to [WCAG 2.0](https://www.w3.org/TR/WCAG20/) Normative Criteria. 
 
-In order for you to be able to manege the other Content Creators/Editors, it is then necessary that you have a fundamental understanding of these criteria and how to ensure that you are within the guidelines. It is also important that you communicate and train your Content Creators/Editors on how to publish content in an ‘accessible way’.
+To manage the other Content Creators/Editors, it is necessary that you have a fundamental understanding of these criteria and to ensure you are within the guidelines. It is also important that you communicate and train your Content Creators/Editors on how to publish content in an ‘accessible way’.
 
 Ensuring that your Content Creators/Editors create accessible furthers your site’s accessibility rather than introducing new accessibility issues in which more time will need to be spent to fix these issues. A good place to start in regards to accessibility testing is tools that can assist you in getting a quick overview of issues. For large websites the effort most likely needs to be prioritized.
 
