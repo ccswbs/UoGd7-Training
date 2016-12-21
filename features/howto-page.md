@@ -1,4 +1,13 @@
-# How to Create a Basic Page
+# UG Drupal Content Type: Basic Page
+
+* [Creating a Basic Page]()
+* [Editing a Basic Page]()
+* [Deleting a Basic Page]()
+* [Attaching a File to a Page]()
+* [Assigning a Category to a Page]()
+* [Page Keywords]()
+
+
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 
 ![An Example of a Basic Page](../images/paex.png "Example of a Basic Page")
@@ -21,3 +30,13 @@ The *Basic Page* content type is used for static content that can (but are not r
 8. If you have the proper authority to publish right away, select `Published` in `Publishing options`.
 9. Select `Save` when you are done.
 ![Image of Save Button](../images/save.png)
+
+## Editing a Basic Page
+
+## Deleting a Basic Page
+
+## Attaching a File to a Page
+
+## Assigning a Category to a Page
+
+## Page Keywords
