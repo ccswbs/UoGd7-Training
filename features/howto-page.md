@@ -93,7 +93,7 @@ To attach a document to the page, please follow these steps:
 
 Page categories allow for pages to be sorted via the given term /  category.
 
-**/!\ Note**: The following steps assume that the ctegory has already been created.
+**/!\ Note**: The following steps assume that the category has already been created.
 
 1. Navigate to the page in which you would like to edit. This can be done via URL, Menu Structure or Administration Bar: Content or Find Content.
 2. Select "Edit".
