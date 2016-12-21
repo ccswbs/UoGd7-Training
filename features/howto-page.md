@@ -46,9 +46,8 @@ If you would like to go back to a previous version of the page, follow the below
 4. You can compare revisions by selecting what versions you would like to compare by the circle select options. Then select the "Compare" button.
 
 ## Deleting a Page
-A basic page can be deleted in two ways.
 
-**/!\ Note**: if the page is a parent item in a menu for other pages, the page will be deleted but not removed from the menu structure. Therefore, if selected, the user will encounter a [404 Error](../basicbeginner.md#common-web-errors).
+**/!\ Note**: If the page is a parent item in a menu for other pages, the page will be deleted but not removed from the menu structure. Therefore, if selected, the user will encounter a [404 Error](../basicbeginner.md#common-web-errors).
 
 1. Select "Find Content" on the Administration Bar.
 2. Find the page you would like to delete. **!IMPORTANT!**:Ensure that the page selected is the page you would like to delete.) 
