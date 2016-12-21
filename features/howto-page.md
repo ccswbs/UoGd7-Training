@@ -1,11 +1,11 @@
 # UG Drupal Content Type: Basic Page
 
-* [Creating a Basic Page](features/howto-page.md#creating-a-basic-page)
-* [Editing a Basic Page](features/howto-page.md#editing-a-basic-page)
-* [Deleting a Basic Page](features/howto-page.md#deleting-a-basic-page)
-* [Attaching a File to a Page](features/howto-page.md#attaching-a-file-to-a-page)
-* [Assigning a Category to a Page](features/howto-page.md#assigning-a-category-to-a-page)
-* [Page Keywords](features/howto-page.md#page-keywords)
+* [Creating a Basic Page](howto-page.md#creating-a-basic-page)
+* [Editing a Basic Page](howto-page.md#editing-a-basic-page)
+* [Deleting a Basic Page](howto-page.md#deleting-a-basic-page)
+* [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page)
+* [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page)
+* [Page Keywords](howto-page.md#page-keywords)
 
 
 The *Basic Page* content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
