@@ -4,12 +4,11 @@ Menus are a collection of links (menu items) that are used to navigate a
 website. Site Managers have the ability to remove, add and rename menus
 and menu items/tabs. Editors can only add menu items to existing menus.
 
-* [Creating a New Menu]()
-* [Editing a Pre-existing Menu]()
-* [Adding / Editing Menu Links]()
-* [Adding Content to a Menu]()
-* [Using Categories in Menus]()
-
+* [Creating a New Menu](menuitems.md#creating-a-new-menu)
+* [Editing a Pre-existing Menu](menuitems.md#editing-a-pre-existing-menu)
+* [Adding / Editing Menu Links](menuitems.md#adding--editing-menu-links)
+* [Adding Content to a Menu](menuitems.md#adding-content-to-a-menu)
+* [Using Categories in Menus](menuitems.md#using-categories-in-menus)
 
 
 ## Creating a New Menu
