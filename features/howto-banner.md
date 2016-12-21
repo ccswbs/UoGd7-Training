@@ -1,10 +1,10 @@
 # UG Drupal Content Type: Banner
 
-* [Creating a Banner Image](features/howto-banner.md#creating-a-banner-image)
-* [Editing a Banner Image](features/howto-banner.md#editing-a-banner-image)
-* [Removing a Banner Image](features/howto-banner.md#removing-a-banner-image)
-* [Displaying a Banner](features/howto-banner.md#displaying-a-banner)
-* [Filtering Banner Images by Category on Specific Pages](features/howto-banner.md#filtering-banner-images-by-category-on-specific-pages)
+* [Creating a Banner Image](howto-banner.md#creating-a-banner-image)
+* [Editing a Banner Image](howto-banner.md#editing-a-banner-image)
+* [Removing a Banner Image](howto-banner.md#removing-a-banner-image)
+* [Displaying a Banner](howto-banner.md#displaying-a-banner)
+* [Filtering Banner Images by Category on Specific Pages](howto-banner.md#filtering-banner-images-by-category-on-specific-pages)
 
 **Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner image it is recomended the dimensions be **1140 x 292**.
 
@@ -87,7 +87,7 @@ By following the steps below, you can create a banner slideshow that is (a) filt
     6. Select "Save".
     7. After selecting save, take note of the term ID associated with your new term (you can find this is the URL when you edit the term after creating one and clicking the edit button ). Write it down or remember it for later.
    ![Demo block being created](../images/editBannerCategory.jpg)
-   8. Navigate to each banner that you want to show in this slideshow and set its category to match the one you just created. For steps on how to do this follow the [Editing a Banner Image](features/howto-banner.md#editing-a-banner-image) section. 
+   8. Navigate to each banner that you want to show in this slideshow and set its category to match the one you just created. For steps on how to do this follow the [Editing a Banner Image](howto-banner.md#editing-a-banner-image) section. 
 
 2. Create a Mini Panel for you new Banner Category
     1. On the Administration bar, select "Structure".
@@ -104,7 +104,7 @@ By following the steps below, you can create a banner slideshow that is (a) filt
 3. Place your Mini Panel
     1. On the Administration bar, select "Structure".
     2. Select "Blocks".
-      3. Locate the Banner Mini panel you created in step 2. Configure the settings for the banner using the steps from [Displaying a Banner](features/howto-banner.md#displaying-a-banner). Ensure that you specify the pages in which you would like to add the banner to.
+      3. Locate the Banner Mini panel you created in step 2. Configure the settings for the banner using the steps from [Displaying a Banner](howto-banner.md#displaying-a-banner). Ensure that you specify the pages in which you would like to add the banner to.
 
 4. Add a Category-filtered Banner View Pane to your Mini Panel
     1. Navigate to one of the page where you have configured your banner mini-panel to show. This can be done via URL, Menu Structure or Administration Bar: Content or Find Content.
