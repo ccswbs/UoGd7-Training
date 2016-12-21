@@ -1,45 +1,86 @@
-# Creating and Editing Menus
-
-## Menu Creation
+# Managing Menus
 
 Menus are a collection of links (menu items) that are used to navigate a
 website. Site Managers have the ability to remove, add and rename menus
 and menu items/tabs. Editors can only add menu items to existing menus.
 
-### Creating a menu
+* [Creating a New Menu]()
+* [Editing a Pre-existing Menu]()
+* [Adding / Editing Menu Links]()
+* [Adding Content to a Menu]()
+* [Using Categories in Menus]()
 
-1.  Navigate to the Menus page (***Structure &gt; Menus)***
-2.  Click **Add menu**.
-3.  In the **Title** field, enter a title (required).
-4.  In the **Description** field, enter a description (optional).
-5.  Click **Save**.
 
-### Adding a Menu Item Automatically When Creating New Content
-* At the end of the page there are a few options you can select to customize your content. To add a menu item when your content is created follow these steps:
-1. Check the checkbox labeled `Provide a menu link`.
-2. In the **Menu Link Title** enter a menu title, this will be the text that users can click on to get to this page.
-3. Enter a **Description**	If a user's mouse hovers over this link, after a moment the description you type here will show.
-4. Choose the **Parent Item** for this page. For example, if we later created a *Event listing* page, we may want to file it under *Events of the month*, and we could do that here.
-5. You can adjust the **Weight** to change in which order this link will appear.
-6. Select `Save`.
 
-### Adding a New Custom Menu Item Manually
-1. Navigate to the Menus page `Structure > Menus` or http://example.com/admin/structure/menu
-2. Locate a menu to edit and click `add link`.
-3. In the **Menu link title field**, enter the title as it will be displayed in the menu.
-4. In the **Path** field, enter a path for the link. This can be an internal Drupal path such as about/example or an external URL such as http://example.com. Enter <front> to link to the front page.
-5. In the **Description field**, enter the text that will be displayed when a user hovers over the link.
-6. Enable any of the following options:
-  * **Enabled**: If the link is not enabled, it will not be displayed in the menu.
-  * **Expanded**: If this option is enabled and the menu link has children, the first level children of the menu link will always be expanded. (NOTE: This rule doesn't cascade down for subsequent levels of children links. You must enable this option at each level where you want the next level to be expanded.)
-7. In the Parent link list, select the parent of the link.
-8. (Optional) In the Weight list, select the relative weight of the link. Links with the "lightest" weight will display higher in a menu. Links with the same weight will display in alphabetical order.*
-9. Click Save.
+## Creating a New Menu
 
-#### Using Categories in Menus
-The menus on your site can call for items that match specific taxonomy terms. To create a menu using Taxonomy, follow these steps:
+1. Select "Structure" on the Admininistration Bar.
+2. Select "Menus".
+3. Select "+ Add Menu". Once selected you will be able to create a new menu.
+   ![Add Menu Page](images/createMenu.png)
+4. Enter the title you would like to give the menu in the "Title" field.
+5. Enter the description you would like to give the menu in the "Description" field. (Optional)
+6. Select the checkbox if applicable.
+7. Once completed, select "Save".
 
-1. Find the autopath given to your taxonomy term (*Note: To find the autopath, go to the Taxonomy > list terms page for the category to which your term belongs, and click the term. You'll be sent to a page with the autopath of your taxonomy term - save it*).
-2. Go to the menus page `(Structure > Menus)`.
-3. Select `Add link` to the Main Menu.
-4. When you fill in the Path field you add your term as follows: category/term/ *i.e. event-heading/socials*
+## Editing a Pre-existing Menu
+1. Select "Structure" on the Admininistration Bar.
+2. Select "Menus". 
+3. Locate the menu in which you would like to edit.
+4. Select "edit menu" to edit the menu.
+
+## Adding / Editing Menu Links
+1. Select "Structure" on the Admininistration Bar.
+2. Select "Menus". 
+3. Locate the menu in which you would like to configure.
+4. Select "list links" to edit the menu.
+
+### Adding a Link to the Menu
+1. After following the above generic steps, do the following:
+2. Select "+ Add Link". On the new page, fill out the following:
+   ![image](images/addMenuLink.png)
+3. Enter the title for the menu item in the "Menu link title" field.
+4. Enter the path where the menu item leads in the "Path" field. **/!\ Note**: use relative links instead of absolute links.
+5. Enter a description if needed.
+6. If the menu item is a "parent" item for a dropdown menu, select "Show as expanded".
+7. If you know the correct weight to give the item then you may change the weight here. Else, you can use the interface on the previous page. **/!\ Note**: You can configure menu hieracrhy through the drag interface.
+8. Once the above steps are completed, select "Save".
+
+### Editing a Link in the Menu
+1. After following the above generic steps, do the following:
+2. Locate the menu item in which you would like to edit.
+3. Select "edit". To delete the link, select "delete".
+4. Once you have finished editing the menu link options, select "Save".
+
+## Adding Content to a Menu
+Located at the bottom of the content type edit page, there is the option to add the selected content item to a menu.
+![Add Item to Menu](images/pagekeyoptmenu.png)
+
+1. Select "Menu Settings".
+2. Ensure "Provide a menu link" is checked.
+3. Enter the content's title in the "Menu Link Title" field.
+4. Enter a description in the "Description" field.	By adding a description, if a user's mouse hovers over this link, after a moment the description you type here will show.
+5. Choose the menu parent item for the content type by using the "Parent Item" dropdown menu. (Eg: Main Menu if we would like the page to be displayed under main menu. If the current item should be placed under another item in the menu then select the item in which this item should be placed under.)
+6. You can adjust the weight of the page by using the "Weight" dropdown menu. The lower the weight the higher the item appears in the menu. (-50 is highest and 50 is lowest)
+7. Once completed, select "Save".
+
+## Using Categories in Menus
+The menus on your site can call for items that match specific taxonomy terms. 
+
+To create a menu using Taxonomy, follow these steps:
+
+1. Find the autopath given to your taxonomy term by following these steps:
+    1. Select "Structure" on the Admininistration Bar.
+    2. Select "Taxonomy". 
+    3. Locate the vocabulary name you would like and then click "list terms".
+    4. Select the term from the list of terms.
+    5. Save / Copy the URL at the top of the page.
+2. Once the above step is completed, select "Structure" on the Admininistration Bar.
+3. Select "Menues". 
+3. Select "+ Add Link". On the new page, fill out the following:
+   ![image](images/addMenuLink.png)
+4. Enter the title for the menu item in the "Menu link title" field.
+5. Enter the path you copied in step one in the "Path" field.
+6. Enter a description if needed.
+8. If you know the correct weight to give the item then you may change the weight here. Else, you can use the interface on the previous page. **/!\ Note**: You can configure menu hieracrhy through the drag interface.
+9. Once the above steps are completed, select "Save".
