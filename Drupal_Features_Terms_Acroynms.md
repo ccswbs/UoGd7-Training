@@ -20,7 +20,7 @@ Blocks are a method for positioning data within a page.
 
 **Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
-## Positioning Nodes Using In-Place Ediotr
+## Positioning Nodes Using In-Place Editor
 
 
 ## Content Type
@@ -56,7 +56,7 @@ Every node belongs to a single *node type* or *content type*, which defines vari
 14. [Course Outlines](features/howto-courseoutlines.md)
     * The **Course Outlines** content type allows content creators to create and edit course outlines. Anonymous users can browse through these outlines in a listing page view and find more detail about a specific course.
 15. [Custom Content (Style Guide)](styleguide.md)
-    * The **Style Guide** allows content creators to create custom content that can be easily inserted into their code as well as being accessable. The style guide features many examples of code as well as snippets of code that can be reused within the page.
+    * The **Style Guide** allows content creators to create custom content that can be easily inserted into their code as well as being accessible. The style guide features many examples of code as well as snippets of code that can be reused within the page.
 
 ## Field
 *Fields* are elements of data that can be attached to a node or other *Drupal* entity. Fields commonly contain text, images, or terms.
