@@ -1,18 +1,18 @@
-# UG Drupal Content Type: Basic Page
+# UG Drupal Content Type: Page
 
-* [Creating a Basic Page](howto-page.md#creating-a-basic-page)
-* [Editing a Basic Page](howto-page.md#editing-a-basic-page)
-* [Deleting a Basic Page](howto-page.md#deleting-a-basic-page)
+* [Creating a Page](howto-page.md#creating-a-basic-page)
+* [Editing a Page](howto-page.md#editing-a-basic-page)
+* [Deleting a Page](howto-page.md#deleting-a-basic-page)
 * [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page)
 * [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page)
 * [Page Keywords](howto-page.md#page-keywords)
 
 
-The **Basic Page** content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
+The **Page** content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
 
-![An Example of a Basic Page](../images/paex.png "Example of a Basic Page")
+![An Example of a Page](../images/paex.png "Example of a Basic Page")
 
-## Creating a Basic Page
+## Creating a Page
 1. On the Administration bar, select "Add Content".
  ![Add Content Highlighted](../images/ambac.png)
 2. Select "Page".
@@ -25,7 +25,7 @@ The **Basic Page** content type is used for static content that can (but are not
 8. If you have the [proper authority](../rolesandresp.md) to publish right away, ensure that the "Published" checkbox is checked under "Publishing options".
 9. Once the above steps are completed, select "Save".
 
-## Editing a Basic Page
+## Editing a Page
 
 **/!\ Note**: Only one user can edit a page at a time. If multiple users are editing a page then content may be unsaved or lost.
 
@@ -45,7 +45,7 @@ If you would like to go back to a previous version of the page, follow the below
  ![File Attachment option](../images/revisionsPage.png)
 4. You can compare revisions by selecting what versions you would like to compare by the circle select options. Then select the "Compare" button.
 
-## Deleting a Basic Page
+## Deleting a Page
 A basic page can be deleted in two ways.
 
 **/!\ Note**: if the page is a parent item in a menu for other pages, the page will be deleted but not removed from the menu structure. Therefore, if selected, the user will encounter a [404 Error](../basicbeginner.md#common-web-errors).
