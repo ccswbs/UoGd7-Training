@@ -1,8 +1,8 @@
 # UG Drupal Content Type: Page
 
-* [Creating a Page](howto-page.md#creating-a-basic-page)
-* [Editing a Page](howto-page.md#editing-a-basic-page)
-* [Deleting a Page](howto-page.md#deleting-a-basic-page)
+* [Creating a Page](howto-page.md#creating-a-page)
+* [Editing a Page](howto-page.md#editing-a-page)
+* [Deleting a Page](howto-page.md#deleting-a-page)
 * [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page)
 * [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page)
 * [Page Keywords](howto-page.md#page-keywords)
