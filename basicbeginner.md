@@ -1,6 +1,6 @@
 # Beginner Guide to Drupal Website Architecture
 
-This guide is designed to help those who are just starting their journey with the UG Drupal Platform in the world of Website Archetecture. If you require more advanced information and how to use specific content types, please check out the [UG Drupal Content Types](ugcontenttypes.md) section of the training module.
+This guide is designed to help those who are just starting their journey with the UG Drupal Platform in the world of Website Archetecture. If you require more advanced information and how to use specific content types, please check out the [UG Drupal Content Types](ugcontenttypes.md) section or the [Advanced Guide to Drupal Website Architecture](advancedGuide.md) section of the training module.
 
 The Beginner Guide to Drupal Website Architecture will cover:
 
