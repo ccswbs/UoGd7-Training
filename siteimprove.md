@@ -1,4 +1,13 @@
-# Guide to SiteImprove Quality Assurance
+# Guide to SiteImprove & Website Quality Assurance
+
+* [What is SiteImprove Quality Assurance?](siteimprove.md#what-is-siteimprove-quality-assurance)
+* [Getting Access to SiteImprove](siteimprove.md#getting-access-to-siteimprove)
+* [Logging In To SiteImprove](siteimprove.md#logging-in-to-siteimprove)
+* [Introduction to SiteImprove Quality Assurance](siteimprove.md#introduction-to-siteimprove-quality-assurance)
+* [Correcting Spelling Mistakes](siteimprove.md#correcting-spelling-mistakes)
+* [Fixing a Broken Link](siteimprove.md#fixing-a-broken-link)
+* [Fixing Accessibility Issues](siteimprove.md#fixing-accessibility-issues)
+
 ## What is SiteImprove Quality Assurance?
 * SiteImprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
 * Fixing any spelling or link errors reported by SiteImprove requires the user to edit a page within the University of Guelph's content management system, Drupal 7.
