@@ -8,10 +8,11 @@ The Communications & Public Affairs (C&PA) department provides official [web des
 * A website that is copyrighted by the University of Guelph
 * A website that is directly controlled by the University of Guelph
 
-If you are unsure whether your website is a University of Guelph website, [contact the AODA Web Team](aodaweb@uoguelph.ca) for guidance.
+If you are unsure whether your website is a University of Guelph website, [contact the AODA Web Team by email](aodaweb@uoguelph.ca) for guidance.
 
 ## 2. Is there a limit in creating new revisions?
 
+No. There is no limit to the amount of revisions a node can have. A new revision is created every time the "Save" button is selected.
 
 ## 3. How small can the images be?
 
@@ -67,6 +68,7 @@ Please contact the AODA Remediation Team to add additional authors/editors/sitem
 
 ## 15. Are there RSS feeds?
 
+Yes! With the drupal platform you have the ability to include RSS feeds as through the [Social Media content type](features/howto-socialmedia.md).
 
 ## 16. Can you change heading colour and font?
 
