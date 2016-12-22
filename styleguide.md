@@ -1,21 +1,20 @@
-#Introduction
+# Style Guide & Code Snippets 
 
 The following guide can assist you with structuring and styling content on a page using the AODA Drupal Theme. Many of the recommended code snippets are from the Bootstrap Framework. Visit [Bootstrap CSS](http://getbootstrap.com/css/) for a full list of CSS classes.
 
-# Table of Contents
+* [Buttons](#buttons)
+* [Images](#images)
+* [Slideshows](#slideshows)
+* [Templates](#templates)
+* [Home Page Layouts](#home-pages)
+* [Miscellaneous](#miscellaneous)
 
-1. [Buttons](#buttons)
-2. [Images](#images)
-3. [Slideshows](#slideshows)
-4. [Templates](#templates)
-5. [Miscellaneous](#miscellaneous)
-
-# Buttons
-![Image of all bootstrap buttons](/images/buttons.jpg)
+## Buttons
 
 The following code snippets demonstrate the style classes you would use to style a button or a link so that it looks like a button. You can control the colour and size of each button.
+![Image of all bootstrap buttons](/images/buttons.jpg)
 
-### When to use a button vs a link
+### Button vs Link?
 If clicking the button causes the user to go to a different page, use a link. 
 ```HTML
 <a href="#" class="btn btn-default>Link styled as a button</a>
@@ -25,7 +24,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 <button class="btn btn-default>Button that causes a change on the current page</button>
 ```
 
-### Colours
+### Bootstrap Button Colours
 
 #### Default / White
 ![Image of white bootstrap button](/images/whiteButton.jpg)
@@ -79,7 +78,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 <a href="#" class="btn btn-danger">Danger</a>
 ```
 
-### Sizes
+### Bootstrap Button Sizes
 
 #### Large
 ![Image of all bootstrap buttons](/images/largeButton.jpg)
@@ -108,7 +107,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 <a href="#" class="btn btn-default btn-block">Full-width button</a>
 ```
 
-## Expanding and Collapsing Buttons
+### Expanding and Collapsing Buttons
 The following code snippets demonstrates a button toggle that will show or hide the section of text below it. Replace 'uniqueNameForControl' with a unique name for the code snippet. Every time you use this snippet on a page, you will need to provide a different 'uniqueNameForControl' for that particular code snippet (eg. uniqueName1, uniqueName2, uniqueName3, etc.)
 
 ```HTML
@@ -123,10 +122,9 @@ The following code snippets demonstrates a button toggle that will show or hide 
 </div>
 ```
 
-# Images
+## Images
 
-### Shapes
-#### Rounded Images
+### Rounded Images
 This demonstrates an image with rounded corners using the img-rounded class.
 ```HTML
 <img src="/link/to/image" class="img-responsive img-rounded" />
@@ -147,26 +145,26 @@ This demonstrates a circular image using the img-circle class.
 
 ### Aligning Images
 
-####Centering Images
+#### Centering Images
 Avoid using ```<center>``` to center images on the page. Instead, use the "center-block" class.
 
 ```HTML
 <img src="..." class="img-responsive center-block" alt="Descriptive alt text" />
 ```
 
-####Floating Images Left
+#### Floating Images Left
 Use the "pull-left" or "pull-right" classes to float images left or right.
 ```HTML
 <img src="..." class="img-responsive pull-left" alt="Descriptive alt text" />
 ```
 
-####Floating Images Right
+#### Floating Images Right
 
 ```HTML
 <img src="..." class="img-responsive pull-right" alt="Descriptive alt text" />
 ```
 
-####Clearing Floated Images
+#### Clearing Floated Images
 To clear a float, you can put a "clearfix" class on the parent element.
 
 ```HTML
@@ -174,7 +172,7 @@ To clear a float, you can put a "clearfix" class on the parent element.
 ```
 
 
-### Creating a Responsive Image Grid
+### Creating a Responsive Image Grid with Bootstrap
 
 #### 2 Column Responsive Image Grid
 Use the following code to create one row of a 2 column grid. Repeat for as many rows as you need. Remember to replace each img element with a decorative image that relates to the associated text link.
@@ -227,7 +225,7 @@ Use the following code to create one row of a 3 column grid. Repeat for as many 
 ```
 ![Image of all bootstrap buttons](/images/imageGrid3.jpg)
 
-#Slideshows
+## Slideshows
 Use the following code to create an inline paginated slideshow.
 
 ```HTML
@@ -264,10 +262,10 @@ Use the following code to create an inline paginated slideshow.
 ```
 ![Image of all bootstrap buttons](/images/slideshow.jpg)
 
-#Templates
+## Templates
 
-##Two Columns
-This code snippet demonstrates the method you would use to create two columns.
+### Two Columned List
+This code snippet demonstrates the method you would use to create a two columned list.
 
 ```HTML
 <div class="row">
@@ -290,7 +288,7 @@ This code snippet demonstrates the method you would use to create two columns.
 ```
 ![Image of all bootstrap buttons](/images/twoColumn.jpg)
 
-## Listing Text Content with a Left-Aligned Image
+### Listing Text Content with a Left-Aligned Image
 This code snippet demonstrates the method you would use to create a listing of content with a left-aligned image with text.
 
 ```HTML
@@ -314,46 +312,49 @@ This code snippet demonstrates the method you would use to create a listing of c
 ```
 
 ### Notes:
-- Add more "<article class='row media'>" tags to add new content
-- Only need a single "media-listing-page" tag around all article tags
-- You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
+* Add more ```<article class='row media'>``` tags to add new content
+* Only need a single "media-listing-page" tag around all article tags
+* You may need to use "Full HTML" mode before entering this HTML code. Note that only site managers have access to this mode.
 
 ![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
 
 
-##Home Pages
-###Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
+## Home Pages
+
+Below are different layouts that are availiable with our platform. If you would like to use the layouts below, please contact a member of the AODA Web Team for help. A combination of the below layouts can be used to design a home page.
+
+### Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
 ![Image of 3 columns, 2 rows grid layout](/images/welcome_3column_2row.PNG)
 
-###Layout 2: Intro area with three main buttons. Right below intro are Links with icons to main sections of the website. Search and News located to the right of the links.
+### Layout 2: Intro area with three main buttons. Right below intro are Links with icons to main sections of the website. Search and News located to the right of the links.
 ![Image of intro and links with icons layout](/images/welcome_icon_links.PNG)
 
-###Layout 3: 3 column top level lead-ins. Info banner midway through the page. News, Features, Upcoming Events, and Stay Connected at the bottom of the page.
+### Layout 3: 3 column top level lead-ins. Info banner midway through the page. News, Features, Upcoming Events, and Stay Connected at the bottom of the page.
 ![Image of 3 column with info banner layout](/images/3column_infoBanner.PNG)
 
-###Layout 4: 4 column top level lead-ins
+### Layout 4: 4 column top level lead-ins
 ![Image of 4 columns grid layout](/images/4columns.PNG)
 
-# Miscellaneous
+## Miscellaneous
 
-## Icons
-### Icon Only
+### Icons
+#### Icon Only
 ![Image of University Icon](/images/universityIcon.PNG)
 ```HTML
 <i aria-hidden="true" class="fa fa-university">&nbsp;</i>
 ```
 
-### Icon with Link Text/Text
+#### Icon with Link Text/Text
 ![Image of University Icon with University of Guelph Link Text](/images/universityIconWithText.PNG)
 ```HTML
 <h2><i aria-hidden="true" class="fa fa-university">&nbsp;</i><a href="www.uoguelph.ca">University of Guelph</a></h2>
 ```
 
-### How do I view all available icons, class names, character codes and aliases?
-- Font Awesome provides a cheatsheet page where all of that information can be found: http://fontawesome.io/cheatsheet/
+#### How do I view all available icons, class names, character codes and aliases?
+* Font Awesome provides a cheatsheet page where all of that information can be found: http://fontawesome.io/cheatsheet/
 
-### How do I increase the size of my icon?
-- To increase icon sizes relative to their container, use the ```fa-lg``` (33% increase), ```fa-2x```, ```fa-3x```, ```fa-4x```, or ```fa-5x``` classes.
+#### How do I increase the size of my icon?
+* To increase icon sizes relative to their container, use the ```fa-lg``` (33% increase), ```fa-2x```, ```fa-3x```, ```fa-4x```, or ```fa-5x``` classes.
 ```HTML
 <i class="fa fa-university fa-lg">&nbsp;</i>
 <i class="fa fa-university fa-2x">&nbsp;</i>
