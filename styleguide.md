@@ -1,6 +1,6 @@
 # Style Guide & Code Snippets 
 
-The following guide can assist you with structuring and styling content on a page using the AODA Drupal Theme. Many of the recommended code snippets are from the Bootstrap Framework. Visit [Bootstrap CSS](http://getbootstrap.com/css/) for a full list of CSS classes.
+When trying to include the following content into your side, please use the following guide to assist you with structuring and styling content on a page within the AODA Drupal Theme. Many of the recommended code snippets are from the Bootstrap Framework. Visit [Bootstrap CSS](http://getbootstrap.com/css/) for a full list of CSS classes. Please note that a majority of the following information requires a high level of technical understanding and general knowledge of web development.
 
 * [Buttons](#buttons)
 * [Images](#images)
