@@ -75,7 +75,7 @@ To create a menu using Taxonomy, follow these steps:
     4. Select the term from the list of terms.
     5. Save / Copy the URL at the top of the page.
 2. Once the above step is completed, select "Structure" on the Admininistration Bar.
-3. Select "Menues". 
+3. Select "Menus". 
 3. Select "+ Add Link". On the new page, fill out the following:
    ![image](images/addMenuLink.png)
 4. Enter the title for the menu item in the "Menu link title" field.
