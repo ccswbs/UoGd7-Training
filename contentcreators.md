@@ -46,36 +46,36 @@ When uploading documents to your website it is important to ask yourself these q
 3. Have you reviewed the Office of Diversity and Human Rights' [Tipsheets on Document Accessibility](https://www.uoguelph.ca/diversity-human-rights/accessibility/information-and-communication-document-accessibility)?
 4. Have you visited the [Accessible Digital Office Document Project (ADOD)](http://adod.idrc.ocad.ca/) for additional guidance?
 
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that any information in a document that can be uploaded as a basic webpage be done as to grant the user with the most amount or accessible content.
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that any information in a document that can be is uploaded as a basic webpage. This will provide users with the most accessible content.
 
 ### Images
-When you add images to a web page consider the fact that some users cannot see images and therefore require a text alternative in order to recieve the same amount of information as a user who can visually see the image. In our CMS, providing a text alternative to images is refered to as ”alternative text” or ”alt text.” The text given here is not visually displayed on the page but is hidden in the code to be accessed by screen readers.
+When you add images to a web page, consider the fact that some users cannot see images and therefore require a text alternative in order to recieve the same amount of information as a user who can see the image. In our CMS, providing a text alternative to images is referred to as ”alternative text” or ”alt text.” The text given here is not visually displayed on the page but is hidden in the code to be accessed by screen readers.
 
 ### How to write appropriate alternative "alt" text
-* Describe the purpose of the image and not necessarily what the image is of. 
-    * If the image is hyperlinked, it is important to describe where the link goes to/what happens when the image is selected.
-    * If the image is solely used for decorative purposes such as creating an ambience or a visual context, then it should have no alternative text. 
-    * If the image contains information that can only be found within the image then that information should be given in the alternative text.
-* Avoid using images of text. This means that you should avoid writing text in an image editing program and saving it as an image. Many of the types of software that reads text aloud (for instance used by dyslexics) cannot read images of text. This is because you cannot highlight text within an image to have it read out to you. (Some of these types of software can read alternative texts, but far from all. And they should not be confused with screen reader software used by the visually impaired. These are much more advanced). Images of text also tend to pixelate and become blurry upon magnification making them difficult to read.
-* If the image is purely decorative and provides absolutely no information to the user other than to make the page look better, ensure that there is no alt text provided BUT the alt attribute must remain. (Eg: alt="")
+* Describe the purpose of the image and not necessarily the image itself. 
+    * If the image is hyperlinked, it is important to describe the link destination, or what happens when the linked image is selected.
+    * If the image is solely used for decorative purposes such as creating ambience or visual context, then it should have no alternative text. 
+    * If the image contains information that can only be found within the image, then that information should be given in the alternative text.
+* Avoid using images of text. This means that you should avoid writing text in an image editing program and saving it as an image. Many assistive technology applications cannot read images of text. This is because you cannot highlight text within an image to have it read out to you. Images of text also tend to pixelate and become blurry upon magnification, making them difficult to read.
+* If the image is purely decorative and provides absolutely no information to the user other than to make the page look better, ensure that there is no alt text provided, BUT there is an empty alt attribute (Eg: alt="").
 
 ### Audio & Video
-If you are using video or audio clips on a web page there are several criteria to consider, such as captioning and audio description of video. Audio description is an extra track explaining what happens on the screen to visually impaired users. If you are not able to provide your videos with audio descriptions then give an alternative in the form of a transcript that is uploaded or linked to from the page. But be aware that without audio descriptions you cannot be AA compliant, only A-compliant. If the content is solely visual (no sound) or only audio (no visual) then a text version is an accepted alternative on both levels.
+If you are using video or audio clips on a web page there are several criteria to consider, such as captioning and audio description of the video. Audio description is an extra track explaining what happens on the screen to visually impaired users. If you are not able to provide your videos with audio descriptions then give an alternative in the form of a transcript that is uploaded or linked to from the page. Be aware that without audio descriptions your site cannot be Level AA-compliant, only Level A-compliant. If the content is solely visual (no sound) or only audio (no visual) then a text version is an accepted alternative on both levels.
 
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that instead of embedding a youtube video, a hyperlinked image of the video is provided with appropriate alt text.
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that instead of embedding a YouTube video, a hyperlinked image of the video is provided with appropriate alt text.
 
 ### Tables
-When using data tables with information, it is important to indicate headings for rows and/ or columns. The way to do this is very CMS specific. In some cases the editor provides an accessibility tab where this information can be entered when using data tables.
+When using data tables with information, it is important to indicate headings for rows and/or columns. The way to do this is very CMS specific. In some cases the editor provides an accessibility tab where this information can be entered when using data tables.
 
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that tables are purely used for tabluar data and not for layout. If you require assistance in terms of layout please speak with your Web Manager/ Site Owner for assistance.
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that tables are purely used for tabluar data and not for layout. If you require assistance in terms of layout, please speak with your Web Manager/Site Owner for assistance.
 
 ### Lists
 When using a list of items make sure to use the function for this that is built into the editor in the CMS. This will ensure that accessible code is entered for lists. Avoid just making dots that
 look like a list (such as asterisk, dash etc.).
 
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that items that are visually in a list be placed in a list. Example: A list of links under a heading can be placed in a list.
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that items that appear to be in a list on the page are also placed in a list in the code. Example: A list of links under a heading can be placed in a list.
 
 ![Example of Link List](images/linkListExample.png)
 
 ## Making Other General Content Accessible
-When adding other types of content,for example a button or icon, please keep in mind the [Top 5 Accessibility Tips](accessibilitytop.md) as well as ensure that you reference the [Style Guide](styleguide.md) for assistance. If you require more assistance, we suggest that you reach out to your Web Managers / Site Owners.
+When adding other types of content, for example a button or icon, please keep in mind the [Top 5 Accessibility Tips](accessibilitytop.md), and that you reference the [Style Guide](styleguide.md) for assistance. If you require more assistance, we suggest that you reach out to your Web Managers/Site Owners.
