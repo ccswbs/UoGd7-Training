@@ -8,15 +8,15 @@
 
 **Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner image it is recomended the dimensions be **1140 x 292**.
 
-![An Example of a Banner](../images/baex.png)
+![An Example of a Banner](/images/baex.png)
 
 ## Creating a Banner Image
 
 1. On the Administration bar, select "Add Content".
- ![Add Content Highlighted](../images/ambac.png)
+ ![Add Content Highlighted](/images/ambac.png)
 2. Select "Banner".
 3. Once selected, the folowing page will appear.
- ![Banner Creation Page](../images/bannerCreate.png)
+ ![Banner Creation Page](/images/bannerCreate.png)
 3. Enter the required information:
     1. **Title**:
     2. **Category**:
@@ -32,7 +32,7 @@
 ## Editing a Banner Image
 1. On the Administration bar, select "Find Content".
 2. Filter the content by "Banner" using the "type" dropdown menu.
- ![Banner Sort](../images/filterBanner.png)
+ ![Banner Sort](/images/filterBanner.png)
 3. On the desired banner, select "edit".
 4. Make the changes required.
 5. Once the above steps are completed, select "Save".
@@ -41,7 +41,7 @@
 
 1. On the Administration bar, select "Find Content".
 2. Filter the content by "Banner" using the "type" dropdown menu.
- ![Banner Sort](../images/filterBanner.png)
+ ![Banner Sort](/images/filterBanner.png)
 3. On the desired banner, select "delete". **!IMPORTANT!**: Ensure that you are removing the correct banner image.
 
 ## Displaying a Banner
@@ -53,7 +53,7 @@
 3. Locate the "View: B1 - Image slider (Banner): Block - Autoplay" display.
 4. Select "configure"
 5. After selecting "configure", the banner block configure page will open.
- ![Configure Banner Block Page](../images/configureBannerBlock.png)
+ ![Configure Banner Block Page](/images/configureBannerBlock.png)
 4. Select "Top Bar" in the drop-down menu under "Region Settings".
 5. Under "Show block on specific pages" in the "Visibility Settings" section, you can choose the following display options:
     * **all pages except those listed**: The block will be displayed on all pages of the website **EXCEPT** for those listed in the field below.
@@ -67,7 +67,7 @@
 3. Locate the "View: B1 - Image slider (Banner): Block - Autoplay" display.
 4. Select "configure"
 5. After selecting "configure", the banner block configure page will open.
- ![Configure Banner Block Page](../images/configureBannerBlock.png)
+ ![Configure Banner Block Page](/images/configureBannerBlock.png)
 4. Select "Top Bar" in the drop-down menu under "Region Settings".
 5. Under "Show block on specific pages" select "only the listed pages".
 6. In the text field below, enter "`<front>`".
@@ -95,7 +95,7 @@ By following the steps below, you can create a banner slideshow that is (a) filt
     3. Select "+ Add".
     4. Enter a descriptive Administrative title for your unique slideshow.
     5. Enter a description if needed.
-    ![Demo block being created](../images/createBannerPanel.jpg)
+    ![Demo block being created](/images/createBannerPanel.jpg)
     6. Select "Continue". 
     7. Select "Continue" again. 
     8. Select "Continue" again.
