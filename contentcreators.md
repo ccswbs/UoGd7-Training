@@ -1,26 +1,26 @@
 # Content Creators & Content Editors
-As a **Content Creator or Content Editor** you must familiarize yourself with the normative criteria of [WCAG 2.0](https://www.w3.org/TR/WCAG20/). Content Creators and Content Editors are responsible for ensuring the accessibility of any web content that they upload or publish on the website. In many cases the Drupal Platform will cover the basic WCAG 2.0 Criteria but it is up to the Content Creator /  Content Editor to ensure that the content they produce is WCAG 2.0 Compliant.
+As a **Content Creator or Content Editor** you must familiarize yourself with the normative criteria of [WCAG 2.0](https://www.w3.org/TR/WCAG20/). Content Creators and Content Editors are responsible for ensuring the accessibility of any web content that they upload or publish on the website. In many cases the Drupal Platform will cover the basic WCAG 2.0 Criteria but it is up to the Content Creator/Content Editor to ensure that the content they produce is WCAG 2.0 compliant.
 
-## Guidlines to Making Content Accessible
+## Guidelines to Making Content Accessible
 
 ### Content Titles
-As part of the UG Drupal platform, every content type you create requires a title in order for the content to be successfully created. This specific field for this is called ‘Title’. It is important that this title is descriptive enough of what the content is about but not too long. The title is the first thing that is shown on each page and it gives the user a general understanding of what the content below is about. A simple example of a content title is the title at the top of a basic page.
+As part of the UG Drupal platform, every content type you create requires a title in order for the content to be successfully created. This specific field for this is called 'Title.' It is important that this title is descriptive enough of what the content is about but not too long. The title is the first thing that is shown on each page and it gives the user a general understanding of what the content below is about. A simple example of a content title is the title at the top of a basic page.
 
 ![Basic Page Title](images/pageTitleExaple.png)
 
 ### Text
-When writing text for web pages, consider the fact that some users cannot get an overview of a page visually, as opposed to structurally. Make sure that pages are divided into logical sections each given a heading that is descriptive of the section. You can use several levels of headings: Heading 2, Heading 3, etc. so that assistive technologies can render them as headings.
+When writing text for web pages, consider the fact that some users cannot get an overview of a page visually, as opposed to structurally. Make sure that pages are divided into logical sections, each with a heading that is descriptive of the section. You can use several levels of headings: Heading 2, Heading 3, etc., so that assistive technologies can render them as headings.
 
-Because of low vision some users will perceive a web page very differently to the way other users would visually perceive it. Therefore, make sure not to give important information solely by the use of color or with an instruction requiring sensory skills. For example, avoid writing only things like: …you can read more about the event in the blue box to the right’. It is fine to write something like this if you supplement it with something that all users can find, such as an additional text: ‘…you can read more about the event in the blue box to the right by the heading Events in March.’ This way you are also giving text that all users will be able to find.
+Because of low vision some users will perceive a web page very differently to the way other users would visually perceive it. Therefore, make sure not to give important information solely by the use of colour or with an instruction requiring sensory skills. For example, avoid writing only things like: …you can read more about the event in the blue box to the right’. It is fine to write something like this if you supplement it with something that all users can find, such as an additional text: 'you can read more about the event in the blue box to the right with the heading Events in March.' This way you are also giving text that all users will be able to find.
 
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that headings be used in successive order. Meaning that any headings related to the Overall Page title be H2 and so on and so forth. Picture example below:
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that headings be used in successive order. This means that any headings related to the Overall Page title (h1) start with h2 and then follow in order. Picture example below:
 
 ![Example of Nested Headings](images/headingExample.png)
 
 ### Links
-When adding links to a page there are two things that you should keep in mind.
+When adding links to a page there are two things that you should keep in mind:
 
-1. Ensure that the user knows where they are going upon clicking the link. Avoid using ambiguous terms like "Click Here", "Here" or "This". We suggest using descriptive link text (number 2) as users with screen readers have the ability to gather all links on the page into a list.
+1. Ensure that the user knows where they are going upon clicking the link. Avoid using ambiguous terms like [Click Here], [More] or [This]. We suggest using descriptive link text (number 2) as users with screen readers have the ability to gather all links on the page into a list.
 
 2. Ensure that the link text is descriptive. Descriptive link text not only helps users with a screen reader understand the context of the link but also the average user as well. Descriptive link text allows the user to know where they are going upon clicking the link. For example instead of "Click Here" you can use "read more about this topic here".
 
