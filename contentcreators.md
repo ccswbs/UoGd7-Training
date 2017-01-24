@@ -18,23 +18,19 @@ Because of low vision some users will perceive a web page very differently to th
 ![Example of Nested Headings](images/headingExample.png)
 
 ### Links
-When adding links to a page there are two things that you should keep in mind:
+When adding links to a page, ensure that the user can determine the destination of the link. Avoid using ambiguous terms like "click here," "more" or "this" for link text. Instead, use descriptive link text to help users with a screen reader understand the context and destination of the link. For example, instead of "Click Here" you can use "read more about this topic here."
 
-1. Ensure that the user knows where they are going upon clicking the link. Avoid using ambiguous terms like [Click Here], [More] or [This]. We suggest using descriptive link text (number 2) as users with screen readers have the ability to gather all links on the page into a list.
-
-2. Ensure that the link text is descriptive. Descriptive link text not only helps users with a screen reader understand the context of the link but also the average user as well. Descriptive link text allows the user to know where they are going upon clicking the link. For example instead of "Click Here" you can use "read more about this topic here".
-
-**/!\ Strong Recomendation**: The AODA Team strongly suggests that when adding links to the page, do not paste the raw URL on the page. By "raw URL" we mean the "https://www.this.com/this/is/an/example" because the screen reader will read the entire link which is annoying. Not only is it annoying but if the link is a random sequense of numbers and letters then the user does not know where the link goes.
+**/!\ Strong Recomendation**: The AODA Team strongly suggests that when adding links to the page, do not paste the raw URL on the page. By "raw URL" we mean the "https://www.this.com/this/is/an/example" because the screen reader will read the entire link which is annoying. Also, if the link is a sequense of numbers and letters then the user does not know where the link goes. Use link text that can be easily interpreted instead. 
 
 ### Colours
-When using colour in your website you must keep in mind two main points.
+When using colour in your website you must keep in mind two main points:
 
-1. Colour is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. For example, a calendar that only shows what day it is by highlighting the day in green would fail the standard due to there being no other way of knowing what day it is other than through visual representation.
+1. Colour must not be used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. For example, a calendar that only shows what day it is by highlighting the day in green would fail the standard due to there being no other way of knowing what day it is other than through visual representation.
 
-2. The colour that is used in the text or image has the correct contrast ratio.
-    * **Small Text & Images**: Small-scale text and images of small-scale text have a contrast ratio of at least 4.5:1.
-    * **Large Text & Images**: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;
-    * **Incidental**: Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.
+2. The colour that is used in the text or image must have the correct contrast ratio.
+    * **Small Text & Images**: Small-scale text and images of small-scale text must have a contrast ratio of at least 4.5:1.
+    * **Large Text & Images**: Large-scale text and images of large-scale text must have a contrast ratio of at least 3:1;
+    * **Incidental**: Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content have no contrast requirement.
     * **Logotypes**: Text that is part of a logo or brand name has no minimum contrast requirement.
 
 **/!\ Note**: In order to check if a colour is okay to use, you can use a [Colour Contrast Checker](https://snook.ca/technical/colour_contrast/colour.html)
