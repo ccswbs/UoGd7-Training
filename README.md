@@ -32,7 +32,7 @@ This documentation provides users with an abundence of information. This informa
 
 ## What is Drupal?
 ### A Brief Description
-Websites are often thought of as a collection of static pages, perhaps with some functions like a blog or a comments section. When they go to manage their site, they are thinking in terms of a tree-like hierarchy of pages that they will edit.
+Websites are often thought of as a collection of static pages, perhaps with some functions like a blog or a comments section. Site managers often think of their site in terms of a tree-like hierarchy of pages that they will edit.
 
 **The University of Guelph Business Web & Development Solutions** department uses a **Content Management System** (CMS) called **Drupal**. Drupal, unlike traditional websites, treats most [Content Types](Drupal_Features_Terms_Acroynms.md#Content Type)  as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
 
@@ -50,11 +50,11 @@ Alternatively, if you want to directly contribute to this module, you have a few
 3. Contact CCS Web Business Solutions
 
 ### Basic Github Workflow Guidelines
-* The Documentation Team takes note when a new feature is being developed / getting ready for testing.
+* The Documentation Team takes note when a new feature is being developed/prepared for testing.
 * Create a new issue to track the feature and discuss.
-* When ready, open a pull / fork to start iterating on the content.
+* When ready, open a pull/fork to start iterating on the content.
 * When the content is in a good place, @mention the doc team and have a peer editor review the content and edits.
-* When the feature is ready to go to their master, merge the pull request into the documentation master. GitBooks will update automatically unless it is a new article, in which point a link will be made to the doc in gitbooks.
+* When the feature is ready to go to its master, merge the pull request into the documentation master. GitBooks will update automatically unless it is a new article, in which case a link will be made to the doc in GitBooks.
 * Update book the module on the CCS Website to keep it up to date.
 
 Created by: Pasquale J. Mancuso & Saman Asif
