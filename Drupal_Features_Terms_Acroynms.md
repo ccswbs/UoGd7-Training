@@ -1,15 +1,15 @@
 # Drupal Platform Introduction (Terms & Features)
 
 ## Administration Menu Bar
-When Logged in as a Site Manager or Content Creator the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration specific tasks.
+When Logged in as a Site Manager or Content Creator, the first bar at the top of the page is called the **Administration Menu Bar** and it allows users with the correct permissions to add/view/delete/edit content as well as other administration-specific tasks.
 
 ![Administration Menu Bar](images/admin_menu_bar.png)
 
 ## Nodes
-A node is the generic term for a piece of content on your web site. The content type of the node will define what fields are included with it. Depending on the type of node, different fields will be attached, and this is known as a content type. For example, a basic Page content type has attached fields such as title and body fields. Other examples of content type are: Book pages for use in Books, Discussion topics in forums, Blog pages in blogs, and News articles.
+A node is the generic term for a piece of content on your website. The content type of the node will define what fields are included with it. Depending on the type of node, different fields will be attached, and this is known as a content type. For example, a basic Page content type has attached fields such as title and body fields. Other examples of content types include Book pages for use in Books, Discussion topics in forums, Blog pages in blogs, and News articles.
 
 ### The Flexibility of Nodes
- Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining it's body text, but also it's title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
+ Essentially, a **node** is a set of related bits of information. When you create a new blog post, you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc. Some of these elements will be shown by the theme layer when the node is displayed. Others are meta-data that control when the node will show up at all - such as taxonomy or publishing status.
 
 ## Regions and Blocks
 ![Image of Block Areas highlighted](images/Block_Areas.jpg)
@@ -24,15 +24,15 @@ Blocks are a method for positioning data within a page.
 
 
 ## Content Type
-Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Common *Content Types* that just about any website would have include: blog post and page. Content types can have different fields and modules can define their own content types. The core *Drupal* Book and News modules are two examples of modules that define content types.
+Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Content types can have different fields and modules can define their own content types. The core *Drupal* Book and News modules are two examples of modules that define content types.
 
-### Site Architecture - Content Types The UoG Template Provides:
+### Site Architecture - Content Types the UoG Template Provides:
 1. [Basic Page](features/howto-page.md)
-    * The **Basic page** content type is used for static content that can (but are not required to) be linked into the main navigation bar. This is one of the most "basic" content types and can be very flexible.
+    * The **Basic page** content type is used for static content that can be linked into the main navigation bar. This is one of the most basic content types and can be very flexible.
 2. [Featured Items](features/howto-featured.md)
     * The **Featured Item** allows content authors to create a lead-in to any page content on the website (e.g. Events, News, Basic Page, People Profiles, etc.) or an external URL.
 3. [Banner](features/howto-banner.md)
-    * The **Banner** feature provides editors with an image carousel at the top of the page which can feature multiple pieces of content.
+    * The **Banner** feature provides editors with an image carousel at the top of the page which can feature multiple pieces of content. The Banner can be configured for manual rotation (controlled by the user), or autoplay. 
 4. [News](features/howto-news.md)
     * The **News** feature allows content authors to add news articles to the website and display them in a Listing Page view, an Article Detail Page view, and a Recent News Teaser List view. Any article can be featured on any page using the Featured News Article view. Site visitors can also browse for news articles by date and category tag.
 5. [Events](features/howto-events.md)
@@ -50,9 +50,9 @@ Every node belongs to a single *node type* or *content type*, which defines vari
 11. [Blog](features/howto-blog.md)
     * The **Blog** feature allows authorized users to maintain a blog. Blogs are a series of posts that are time stamped and are typically viewed by date as you would view a journal. Blog entries can be made public or private to the site members, depending on which roles have access to view content.
 12. [Web Forms](features/howto-webforms.md)
-    * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt" as well as sending a notification to administrators. Results can be exported into Excel or other spreadsheet applications.
+    * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt," and administrators can also be notified. Results can be exported into Excel or other spreadsheet applications.
 13. Landing Page
-    * A **Landing Page** is a basic page that is created by the Drupal platform and is used to link all pages related to each other under a menu item. This page is created due to the breadcrumbs needing a page that acts as a parent for all subsequent pages below it in the menu hierarchy structure.
+    * A **Landing Page** is a basic page that is created by the Drupal platform and is used to link all pages related to each other under a menu item. This page is created because the "breadcrumbs" that track site navigation require a page that acts as a parent for all subsequent pages below it ("children") in the menu hierarchy structure.
 14. [Course Outlines](features/howto-courseoutlines.md)
     * The **Course Outlines** content type allows content creators to create and edit course outlines. Anonymous users can browse through these outlines in a listing page view and find more detail about a specific course.
 15. [Custom Content (Style Guide)](styleguide.md)
@@ -74,7 +74,7 @@ There are four standard menus in *Drupal 7*:
 4. **User Menu** contains links to the User account and the logout link.
 
 ## Module
-A module is software (code) that extends *Drupal* features and functionality. The University of Guelph supplies and maintains it's own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
+A module is software (code) that extends *Drupal* features and functionality. The University of Guelph supplies and maintains its own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
 
 ## Path
 In *Drupal* terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is CCS/AODA.
@@ -90,7 +90,7 @@ Every visitor to your site, whether they have an account and log in or visit the
 
 ### Types of UoG Users
 #### Anonymous User
-This is anyone visiting the website which is not logged in.
+This is anyone visiting the website who is not logged in.
 - Can view the front-end of the website.
 
 #### Authenticated User
@@ -100,7 +100,7 @@ These users are assigned a user ID when they register for the website. A user na
 
 #### Author
 - Can create new content drafts.
-- Can edit (their own) content drafts.
+- Can edit their own content drafts.
 - Can view their content revisions.
 
 #### Editor
@@ -112,7 +112,7 @@ These users are assigned a user ID when they register for the website. A user na
 #### Site Manager
 - User: administer permissions.
 - User: administer users.
-- User: Allow editing of page layouts, includes: changing view categories, Titles, and number of items to display.
+- User: Allow editing of page layouts, includes: changing view categories, titles, and number of items to display.
 - Can create/edit taxonomies.
 - Can create/edit menus.
 
