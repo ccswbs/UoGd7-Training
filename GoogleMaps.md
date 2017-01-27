@@ -1,7 +1,7 @@
 # Embedded Google Maps
 
-In order to put an embedded google map into your website, you must ensire the following:
-  - The map does not create a keyboard trap.
+In order to put an embedded Google map into your website, you must ensure the following:
+  - The map does not create a keyboard trap, i.e. the user is able to exit the map using only keyboard controls. 
   - The map has a title attribute.
   - There is descriptive text before/after the map that details the important information relayed in the map.
   
@@ -9,10 +9,10 @@ In order to put an embedded google map into your website, you must ensire the fo
   To determine if your map has created a keyboard trap, you must test the map. This can be done by pressing the tab button on your keyboard and watching tab focus go town the page. If you are able to tab out of the map, the map is not a keyboard trap.
   
   ## Google Map Text Alternatives
-  Allong with the map there should be explanations of the key points the map is trying to relay.
+  Along with the map, there should be explanations of the key points the map is trying to relay.
   
   General Use Cases for an Embedded Google Map:
-  - Location/directions to a building: Provide routs from a couple key landmarks/intersections in the area.
+  - Location/directions to a building: Provide routes from a couple key landmarks/intersections in the area.
   - Location of booths around campus: Provide a chart with the booth names and relative locations.
   
   ## How to Embed a Google Map
