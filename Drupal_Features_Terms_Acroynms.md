@@ -47,8 +47,6 @@ Every node belongs to a single *node type* or *content type*, which defines vari
     * The **Book** feature is a set of pages tied together in a hierarchical sequence, perhaps with chapters, sections, subsections, and so on. You can use books for manuals, site resource guides, Frequently Asked Questions (FAQs), or whatever you'd like.
 10. [People Profiles](features/howto-profiles.md)
     * The **People Profiles** feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
-11. [Blog](features/howto-blog.md)
-    * The **Blog** feature allows authorized users to maintain a blog. Blogs are a series of posts that are time stamped and are typically viewed by date as you would view a journal. Blog entries can be made public or private to the site members, depending on which roles have access to view content.
 12. [Web Forms](features/howto-webforms.md)
     * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt," and administrators can also be notified. Results can be exported into Excel or other spreadsheet applications.
 13. Landing Page
