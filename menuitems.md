@@ -1,12 +1,12 @@
 # Managing Menus
 
 Menus are a collection of links (menu items) that are used to navigate a
-website. Site Managers have the ability to remove, add and rename menus
+website. Site Managers have the ability to remove, add, and rename menus
 and menu items/tabs. Editors can only add menu items to existing menus.
 
 * [Creating a New Menu](menuitems.md#creating-a-new-menu)
 * [Editing a Pre-existing Menu](menuitems.md#editing-a-pre-existing-menu)
-* [Adding / Editing Menu Links](menuitems.md#adding--editing-menu-links)
+* [Adding/Editing Menu Links](menuitems.md#adding--editing-menu-links)
 * [Adding Content to a Menu](menuitems.md#adding-content-to-a-menu)
 * [Using Categories in Menus](menuitems.md#using-categories-in-menus)
 
@@ -18,24 +18,24 @@ and menu items/tabs. Editors can only add menu items to existing menus.
 3. Select "+ Add Menu". Once selected you will be able to create a new menu.
    ![Add Menu Page](images/createMenu.png)
 4. Enter the title you would like to give the menu in the "Title" field.
-5. Enter the description you would like to give the menu in the "Description" field. (Optional)
+5. Enter the description you would like to give the menu in the "Description" field (optional).
 6. Select the checkbox if applicable.
 7. Once completed, select "Save".
 
 ## Editing a Pre-existing Menu
 1. Select "Structure" on the Admininistration Bar.
 2. Select "Menus". 
-3. Locate the menu in which you would like to edit.
-4. Select "edit menu" to edit the menu.
+3. Locate the menu you would like to edit.
+4. Select "edit menu".
 
-## Adding / Editing Menu Links
-1. Select "Structure" on the Admininistration Bar.
+## Adding/Editing Menu Links
+1. Select "Structure" from the Admininistration Bar.
 2. Select "Menus". 
-3. Locate the menu in which you would like to configure.
+3. Locate the menu you would like to configure.
 4. Select "list links" to edit the menu.
 
 ### Adding a Link to the Menu
-1. After following the above generic steps, do the following:
+1. After following steps one to four for "adding/editing menu links," do the following:
 2. Select "+ Add Link". On the new page, fill out the following:
    ![image](images/addMenuLink.png)
 3. Enter the title for the menu item in the "Menu link title" field.
