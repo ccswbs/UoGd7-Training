@@ -1,8 +1,8 @@
-# Advanced Guide to Drupal Website Architecture
+# Advanced Guide to Drupal Websites
 
-This guide is designed to cover more complicated topics on our Drupal Platform. It is strongly suggested that you have a firm understanding of the drupal platform before exploring the more complicated topics.
+This guide is designed to cover more complicated topics on our *Drupal* platform. It is strongly suggested that you have a firm understanding of the *Drupal* platform before exploring these more complicated topics.
 
-The Advanced Guide to Drupal Website Architecture will cover:
+The Advanced Guide to *Drupal* websites will cover:
 * [Blocks](features/howto-blocks.md)
 * [Customizing Content Layout](customizingpage.md)
 * [Google Maps](GoogleMaps.md)
