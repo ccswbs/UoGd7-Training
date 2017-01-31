@@ -16,7 +16,7 @@ A node is the generic term for a piece of content on your website. The content t
 
 Blocks are a method for positioning data within a page.
 
-**Nodes** on your *Drupal* site are laid out in **Regions**. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
+**Nodes** on your Drupal site are laid out in **Regions**. These can include the header, footer, sidebars, and main content regions. Your theme may define additional regions.
 
 **Blocks** are discrete chunks of information that are displayed in the regions of your site's pages. Blocks can take the form of static chunks of HTML or text, menus (which are for site navigation), the output from modules (e.g. hot forum topics), or dynamic listings that you've created yourself (e.g. a list of upcoming events).
 
@@ -24,7 +24,7 @@ Blocks are a method for positioning data within a page.
 
 
 ## Content Type
-Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Content types can have different fields and modules can define their own content types. The core *Drupal* Book and News modules are two examples of modules that define content types.
+Every node belongs to a single *node type* or *content type*, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Content types can have different fields and modules can define their own content types. The core Drupal Book and News modules are two examples of modules that define content types.
 
 ### Site Architecture - Content Types the UoG Template Provides:
 1. [Basic Page](features/howto-page.md)
@@ -48,7 +48,7 @@ Every node belongs to a single *node type* or *content type*, which defines vari
 10. [People Profiles](features/howto-profiles.md)
     * The **People Profiles** feature allows an authorized user to create and edit an organizational profile. Anonymous users can browse through these profiles in a Listing Page view and find more detail about a specific member of the organization in the Profile Detail Page view. Editors can highlight (or “feature”) any profile on any page using the Featured Profile view.
 12. [Web Forms](features/howto-webforms.md)
-    * The **Web Forms** feature is for making forms and surveys in *Drupal*. After a submission, users may be sent an e-mail "receipt," and administrators can also be notified. Results can be exported into Excel or other spreadsheet applications.
+    * The **Web Forms** feature is for making forms and surveys in Drupal. After a submission, users may be sent an e-mail "receipt," and administrators can also be notified. Results can be exported into Excel or other spreadsheet applications.
 13. Landing Page
     * A **Landing Page** is a basic page that is created by the Drupal platform and is used to link all pages related to each other under a menu item. This page is created because the "breadcrumbs" that track site navigation require a page that acts as a parent for all subsequent pages below it ("children") in the menu hierarchy structure.
 14. [Course Outlines](features/howto-courseoutlines.md)
@@ -57,34 +57,34 @@ Every node belongs to a single *node type* or *content type*, which defines vari
     * The **Style Guide** allows content creators to create custom content that can be easily inserted into their code as well as being accessible. The style guide features many examples of code as well as snippets of code that can be reused within the page.
 
 ## Field
-*Fields* are elements of data that can be attached to a node or other *Drupal* entity. Fields commonly contain text, images, or terms.
+*Fields* are elements of data that can be attached to a node or other Drupal entity. Fields commonly contain text, images, or terms.
 
 ## Input format
 These are settings that define the filtering of user-entered text before it is displayed. This can be used to control formatting or malicious input.
 
 ## Menus
-*Menus* refer to the navigation elements on a page, and to *Drupal's* internal system for handling requests. When a request is sent to *Drupal*, the menu system uses the provided URL to determine what functions to call.
+*Menus* refer to the navigation elements on a page, and to Drupal's internal system for handling requests. When a request is sent to Drupal, the menu system uses the provided URL to determine what functions to call.
 
-There are four standard menus in *Drupal 7*:
+There are four standard menus in Drupal 7:
 1. **The Main Menu** is built by site administrators and displayed automatically in the page header of many themes (and if not, you can enable their blocks to display them).
 2. **Management** is the Administration Bar Menu, and is presented as the first item at the top of the page for Content Creators and Site Managers.
 3. **Navigation** is a catch-all menu that usually contains links supplied by modules on your site.
 4. **User Menu** contains links to the User account and the logout link.
 
 ## Module
-A module is software (code) that extends *Drupal* features and functionality. The University of Guelph supplies and maintains its own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
+A module is software (code) that extends Drupal features and functionality. The University of Guelph supplies and maintains its own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
 
 ## Path
-In *Drupal* terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is CCS/AODA.
+In Drupal terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is CCS/AODA.
 
 ## Path Alias
 This changes default paths such as node/7 into user-friendly paths such as about/contact. This is automated with UoG enabled modules.
 
 ## Taxonomy
-*Drupal* has a system for classifying content known as taxonomy. This is provided by the core Taxonomy module. You can define your own vocabularies (groups of taxonomy terms) and add terms to each vocabulary. Each vocabulary can then be attached to one or more content types, and in this way, nodes on your site can be grouped into categories, tagged, or classified in any way you choose. Go to [the taxonomies page for more information.](taxonomies.md)
+Drupal has a system for classifying content known as taxonomy. This is provided by the core Taxonomy module. You can define your own vocabularies (groups of taxonomy terms) and add terms to each vocabulary. Each vocabulary can then be attached to one or more content types, and in this way, nodes on your site can be grouped into categories, tagged, or classified in any way you choose. Go to [the taxonomies page for more information.](taxonomies.md)
 
 ## Users, Permissions, and Roles
-Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to *Drupal*. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, *Drupal* will let them do the actions that role has permissions for.
+Every visitor to your site, whether they have an account and log in or visit the site anonymously, is considered a user to Drupal. Every user when created also has a role assigned to them, these roles grant the user certain permissions. When those users are logged in, Drupal will let them do the actions that role has permissions for.
 
 ### Types of UoG Users
 #### Anonymous User
