@@ -68,7 +68,7 @@ Please contact the AODA Remediation Team to add additional authors/editors/sitem
 
 ## 15. Are there RSS feeds?
 
-Yes! With the *Drupal* platform you have the ability to include RSS feeds as through the [Social Media content type](features/howto-socialmedia.md).
+Yes! With the Drupal platform you have the ability to include RSS feeds as through the [Social Media content type](features/howto-socialmedia.md).
 
 ## 16. Can you change heading colour and font?
 
@@ -80,4 +80,4 @@ It is the responsibility of the owner/creator of PDFs and other documents to ens
 
 ## 18. Why can't other people see the changes I just made to the website?
 
-When you are logged into *Drupal* you see the most recent changes made to the site when you load a page. For other users, *Drupal* saves a copy of the website (cache). This "cached" copy of the website will update itself with your new changes anywhere between 5 mins to an hour after making your changes. Thus, if others are not able to see the changes you've just made, their *Drupal* cache has most likely not updated and they have to wait.
+When you are logged into Drupal you see the most recent changes made to the site when you load a page. For other users, Drupal saves a copy of the website (cache). This "cached" copy of the website will update itself with your new changes anywhere between 5 mins to an hour after making your changes. Thus, if others are not able to see the changes you've just made, their Drupal cache has most likely not updated and they have to wait.
