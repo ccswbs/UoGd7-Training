@@ -5,7 +5,7 @@
 
 1. In order to customize the way a page appears, select the `Customize this page` option that appears at the bottom of your screen. *Please note:* **Only Site Managers** have access to this option.
   * ![example of customize this page](/images/Customize.png)
-2. Select the preferred side/column you would like a "view pane" to be visible, then select `+`
+2. Select the preferred side/column where you would like a "view pane" to be visible, then select `+`
   * ![example of page layout](/images/pagelayout.png)
 3. There are several content options listed that can be added to the page:
 
@@ -30,7 +30,7 @@ Each view pane permits content creators to configure the view panes in many ways
 ### Adding a "More" Button:
 
 1. Select the `Provide a "more" link` option
-2. Type in a desired "more" text (ex. More Features )
+2. Type in some descriptive "more" text that indicates where the link is going (ex. More Features )
 3. Select `Finish`
     * ![example of adding more link text](/images/morelink.png)
 
