@@ -34,5 +34,5 @@ by Google Analytics by adding a Javascript tracking code to every page.
 
 3. Enter your Web Property ID.
 
-4. Click *Save Configuration*.
+4. Click `Save Configuration`.
 
