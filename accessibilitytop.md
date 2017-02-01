@@ -19,7 +19,7 @@ Create a website that can be used by as many as possible, in as many ways as pos
 ## 3. Association
 * Text, headings, buttons, fields, etc. that are visually connected must also be programmatically connected.
 * Make sure not to give instructions based solely on a location of content, such as 'In the box to your right.' This information is useless if you cannot see the screen. Supplement the instructions by naming a heading that users can navigate to.
-* Ensure link text can be read out of context. Avoid link test like 'Click here,' 'Read more.'
+* Ensure link text can be read out of context. Avoid link test like 'Click here,' or 'Read more.'
 
 ## 4. Colour for everyone
 * Ensure that the colour of the background and the colour of the text are of sufficient contrast to each other. That way, people with low vision can also read it.
