@@ -59,4 +59,4 @@ Alternatively, if you want to directly contribute to this module, you have a few
 
 Created by: Pasquale J. Mancuso & Saman Asif
 
-Edited By: Nicholas Macedo, Kabir Olatinwo
+Edited By: Nicholas Macedo, Kabir Olatinwo, Morgan Rees
