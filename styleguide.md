@@ -108,7 +108,7 @@ If clicking the button triggers a change on the page (but does not go to a diffe
 ```
 
 ### Expanding and Collapsing Buttons
-The following code snippets demonstrates a button toggle that will show or hide the section of text below it. Replace 'uniqueNameForControl' with a unique name for the code snippet. Every time you use this snippet on a page, you will need to provide a different 'uniqueNameForControl' for that particular code snippet (eg. uniqueName1, uniqueName2, uniqueName3, etc.)
+The following code snippets demonstrates a button toggle that will show or hide the section of text below it. Replace 'uniqueNameForControl' with a unique name for the code snippet. Every time you use this snippet on a page, you will need to provide a different 'uniqueNameForControl' for that particular code snippet (eg. uniqueName1, uniqueName2, uniqueName3, etc.).
 
 ```HTML
 <h2><button aria-controls="uniqueNameForControl" aria-expanded="false" class="btn btn-primary" data-target="#uniqueNameForControl" data-toggle="collapse" type="button">More Info about Expandable Section</button></h2>
@@ -175,7 +175,7 @@ To clear a float, you can put a "clearfix" class on the parent element.
 ### Creating a Responsive Image Grid with Bootstrap
 
 #### 2 Column Responsive Image Grid
-Use the following code to create one row of a 2 column grid. Repeat for as many rows as you need. Remember to replace each img element with a decorative image that relates to the associated text link.
+Use the following code to create one row of a 2 column grid. Repeat for as many rows as you need. Remember to replace each `img` element with a decorative image that relates to the associated text link.
 
 ```HTML
 <div class="row">
@@ -197,7 +197,7 @@ Use the following code to create one row of a 2 column grid. Repeat for as many 
 ![Image of all bootstrap buttons](/images/imageGrid.jpg)
 
 #### 3 Column Responsive Image Grid
-Use the following code to create one row of a 3 column grid. Repeat for as many rows as you need. Remember to replace each img element with a decorative image that relates to the associated text link.
+Use the following code to create one row of a 3 column grid. Repeat for as many rows as you need. Remember to replace each `img` element with a decorative image that relates to the associated text link.
 
 ```HTML
 <div class="row">
@@ -265,7 +265,7 @@ Use the following code to create an inline paginated slideshow.
 ## Templates
 
 ### Two Columned List
-This code snippet demonstrates the method you would use to create a two columned list.
+This code snippet demonstrates the method you would use to create a list with two columns.
 
 ```HTML
 <div class="row">
@@ -321,7 +321,7 @@ This code snippet demonstrates the method you would use to create a listing of c
 
 ## Home Pages
 
-Below are different layouts that are availiable with our platform. If you would like to use the layouts below, please contact a member of the AODA Web Team for help. A combination of the below layouts can be used to design a home page.
+Below are different layouts that are availiable with our platform. If you would like to use the layouts below, please contact a member of the AODA Web Team for help. A combination of the following layouts can be used to design a home page:
 
 ### Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
 ![Image of 3 columns, 2 rows grid layout](/images/welcome_3column_2row.PNG)
