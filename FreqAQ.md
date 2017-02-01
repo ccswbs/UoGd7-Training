@@ -17,9 +17,13 @@ No. There is no limit to the number of revisions a node can have. A new revision
 ## 3. How small can the images be?
 
 Here are the recommended image sizes for the following features:
+
 **Banners:** The recommended image size is 1140 x 292 pixels.
+
 **Event Featured Image:** Images must be between 200x160 and 1140x570 pixels.
+
 **Featured Items:** Images must be between 380x200 and 1140x570 pixels.
+
 **News Featured Image:** Images must be between 640x240 and 1140x570 pixels.
 
 ## 4. Why can I not see the layout options?
