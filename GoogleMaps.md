@@ -18,9 +18,9 @@ In order to put an embedded Google map into your website, you must ensure the fo
   ## How to Embed a Google Map
   
   1. Using Google Maps, navigate to the location you would like to embed.
-  2. Click "Share" on the side menu.
-  3. Click the "Embed Map" tab.
-  4. Copy the given code and paste it into the plain text editor on the website. Click "Switch to plain text editor" and navigate to the part of the page you would like to place the map.
+  2. Click `Share` on the side menu.
+  3. Click the `Embed Map` tab.
+  4. Copy the given code and paste it into the plain text editor on the website. Click `Switch to plain text editor` and navigate to the part of the page you would like to place the map.
   
   ![Click Plain Text Option](images/plainTextEditor.jpg)
   
