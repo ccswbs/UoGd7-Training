@@ -99,7 +99,7 @@ Use this format instead:
    * ***Link to Anchor in Text***: This option can be used to direct the user to a pre-existing anchor on the page.
         * Ensure that the "link type" dropdown menu is set to "Link to Anchor in the Text".
         ![Insert Anchor Image](images/selectAnchor.png)
-        * Select the anchor in which you would like this text to link to by selecting the anchor name from the "By Anchor Name" dropdown menu.
+        * Select the anchor in which you would like this text to link to by selecting the anchor name from the "By Element ID" dropdown menu.
         * Once completed, select "Okay".
    * ***Email***: Hyperlink text to an email address that, upon selection, will prompt the user to email the specified address.
         * Ensure that the "link type" dropdown menu is set to "E-mail".
