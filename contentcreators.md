@@ -20,6 +20,8 @@ Because of low vision some users will perceive a web page very differently to th
 ### Links
 When adding links to a page, ensure that the user can determine the destination of the link. Avoid using ambiguous terms like "click here," "more" or "this" for link text. Instead, use descriptive link text to help users with a screen reader understand the context and destination of the link. For example, instead of "Click Here" you can use "read more about this topic here."
 
+When adding links to anchors in the text, ensure the anchor is selected by element ID and not by name.
+
 **/!\ Strong Recomendation**: The AODA Team strongly suggests that when adding links to the page, do not paste the raw URL on the page. By "raw URL" we mean the "https://www.this.com/this/is/an/example" because the screen reader will read the entire link which is annoying. Also, if the link is a sequense of numbers and letters then the user does not know where the link goes. Use link text that can be easily interpreted instead. 
 
 ### Colours
