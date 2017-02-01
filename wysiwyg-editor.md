@@ -1,6 +1,6 @@
 #  Drupal Text (WYSIWYG) Editor
 
-Drupal provides its users with a simple text editor that is universal amongst all content types. The Drupal Text Editor (A.K.A the WYSIWYG Editor) allows users to add their custom content to the page through its collection of tools. *WYSIWYG* stands for What You See Is What You Get - which is the merit in which the Drupal.
+Drupal provides its users with a simple text editor that is universal amongst all content types. The Drupal Text Editor (A.K.A the WYSIWYG Editor) allows users to add custom content to the page through its collection of tools. *WYSIWYG* stands for "What You See Is What You Get."
 
 Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 ![Drupal Text (WYSIWYG) Editor](images/WYSIWYGEditor.png)
@@ -8,28 +8,28 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 ## Buttons on the Drupal Text (WYSIWYG) Editor
 ### First Row
 * **Source**: Allows the user to input raw HTML and CSS. Commonly used for adding content from the [Style Guide](styleguide.md) into your content.
-* **Cut (Scissors)**: Acts like your basic cut functionality in word.
-* **Paste (Papers)**: Acts like your basic paste functionality in word.
+* **Cut (Scissors)**: Acts like a basic cut functionality in MS Word.
+* **Paste (Papers)**: Acts like a basic paste functionality in MS Word.
 * **Paste as Plain Text (Clipboard with T)**: Pastes entered content into the editor and removes **ALL** text styling.
 * **Paste as "Plain Text" from Word (Clipboard with W)**: Pastes entered content into the editor and removes text styling but keeps formatting.
 * **Remove Existing Text Formatting (Tx)**: Removes styling from selected text.
-* **Undo & Redo (Arrows)**: Undo / Redo the most recent action done in the editor.
+* **Undo & Redo (Arrows)**: Undo/Redo the most recent action done in the editor.
 * **Insert Image (Image Icon)**: Allows the user to insert an image.
-* **Insert Table (Table Icon)**: Allows the user to insert an image.
-* **Insert Thematic Break (Horizontal Line)**: Produces a horizontal line in your content. Most collonly used for seperating different sections within a page. 
-* **Insert Special Character (Omega Symbol)**: Allows the user to insert special characters into the page. (Eg: &, $ or %)
+* **Insert Table (Table Icon)**: Allows the user to insert a table.
+* **Insert Thematic Break (Horizontal Line)**: Produces a horizontal line in your content. Most commonly used for separating different sections within a page. 
+* **Insert Special Character (Omega Symbol)**: Allows the user to insert special characters and symbols into the page.
 
 ### Second Row
-* **Bold & Italics (B and I)**: Bold and Italic selected text. Similar functionality to word.
-* **Subscript and Superscript (X lower 2 & X upper 2)**: Subscript and superscript text. Similar functionality to word.
-* **Numbered List (Numbered List Icon)**: Create a numbered list or place selected items into a numbered list. Similar functionality to word.
-* **Unordered List (Unordered List Icon)**: Create an unordered list or place selected items into an unordered list. Similar functionality to word.
-* **Decrease Indent (Increase Indent Icon)**: Decrease an existig indent on selected text. Similar functionality to word.
-* **Increase Indent (Decrease Indent Icon)**: Indent selected text. Similar functionality to word.
-* **Insert Block Quote (Quotation mark)**: Create a block quote or place selected information into a block quote. For more information on block quote check out the [Official Bootstrap Style Guide](http://v4-alpha.getbootstrap.com/content/typography/#blockquotes).
-* **Text Allign (Left, Center, Right, Justify)**: Allign selected text. Similar functionality to word.
+* **Bold & Italics (B and I)**: Bold and Italicize selected text.
+* **Subscript and Superscript**: Subscript and superscript text.
+* **Numbered List (Numbered List Icon)**: Create a numbered list or place selected items into a numbered list.
+* **Unordered List (Unordered List Icon)**: Create an unordered list or place selected items into an unordered list. 
+* **Decrease Indent**: Decrease an existing indent on selected text.
+* **Increase Indent**: Indent selected text.
+* **Insert Block Quote (Quotation mark)**: Create a block quote or place selected information into a block quote. For more information on block quotes check out the [Official Bootstrap Style Guide](http://v4-alpha.getbootstrap.com/content/typography/#blockquotes).
+* **Text Align (Left, Center, Right, Justify)**: Align selected text.
 * **Create Hyperlink (Paperclip)**: Allows the user to Hyperlink selected text.
-* **Remove Hyperlink (Paperclip with x)**: Allows the user to remove a hyperlink from text. Similar functionality to word.
+* **Remove Hyperlink (Paperclip with x)**: Allows the user to remove a hyperlink from text.
 * **Create Anchor (Flag)**: Allows the user to create a text anchor. [More information about anchors]() below.
 
 ### Third Row
