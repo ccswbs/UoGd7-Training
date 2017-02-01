@@ -1,14 +1,14 @@
 # Taxonomies
 
 ## Summary
-*Taxonomy* is the practice of classifying content. In *Drupal*, the
+*Taxonomy* is the practice of classifying content. In Drupal, the
 taxonomy module allows you to classify your website content, and it can
 be an important part of your information architecture. This module is
-beneficial for everything from menu and navigation organization, to view
+useful for everything from menu and navigation organization, to view
 & display options.
 
 ## Planning Taxonomies
-The first step in establishing a taxonomy is creating a new vocabulary. Next you provide the terms that fall within that vocabulary. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The university of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
+The first step in establishing a taxonomy is creating a new vocabulary. Next, terms that fall within that vocabulary are defined. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The University of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
 
 An example of how you might create taxonomy for a site using our
 predefined vocabularies:
@@ -17,7 +17,7 @@ predefined vocabularies:
 
 **Term = Workshops**
 
-Our platform uses a *controlled vocabulary*, where only Site Managers
+Our platform uses a *controlled vocabulary*, in which only Site Managers
 can assign terms to vocabularies. Site Managers must add the terms in
 advance.
 
@@ -53,7 +53,7 @@ To view or manage the terms of each vocabulary:
     not exist.
 -   You can delete a term altogether.
 
-On the `list terms` page you can edit each term by clicking the `edit` link. You can delete a term from the edit page.
+On the "List Terms" page you can edit each term by clicking the `edit` link. You can delete a term from the edit page.
 
 ### Filtering with Taxonomies
 
