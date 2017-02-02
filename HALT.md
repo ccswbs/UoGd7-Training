@@ -31,3 +31,5 @@ In HTML, headings are denoted with `<h>` tags. These tags have six levels, which
 * `<h4>`
 * `<h5>`
 * `<h6>`
+
+However, when using Drupal, you will probably not need to deal with pieces of code. Instead,
