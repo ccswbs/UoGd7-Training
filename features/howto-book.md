@@ -16,52 +16,52 @@ Books have a built-in hierarchical navigation, which means that they can be orga
 
 ## Creating a Book
 
-1. On the Administration bar, select "Add Content".
+1. On the Administration bar, select `Add Content`.
  ![Add Content Highlighted](../images/ambac.png)
-2. Select "Book Page".
+2. Select `Book Page`.
 3. Enter the title of the book in the "Title" field.
-4. If you have [book categories](../taxonomies.md) defined, select the appropriate one. For more please see the [Assigning a Category to a book](howto-book.md#assigning-a-category-to-a-book) section.
+4. If you have [book categories](../taxonomies.md) defined, select the appropriate one. For more information, please see the [Assigning a Category to a book](howto-book.md#assigning-a-category-to-a-book) section.
 5. Use the [Drupal Text (WYSIWYG) Editor](../wysiwyg-editor.md) to fill the book with your desired content.
-6. If you want to add any files (PDF, Docs, Images) to be attached to the book page and availiable for download by the user, you can do so by attaching them using the "File Attachment" option. For more please see the [Attaching a File to a Book](howto-page.md#attaching-a-file-to-a-page) section.
-7. Enter any *tags or keywords* that help categorize and organize your book page.
-8. Under `Book outline`, select the book you want to publish the page to, if this is the first page of a new book select the `create a new book` and enter the appropriate information.  
+6. If you want to add any files (PDF, Docs, Images) to be attached to the book page and available for download by the user, you can do so by attaching them using the "File Attachment" option. For more iinformation, please see the [Attaching a File to a Book](howto-page.md#attaching-a-file-to-a-page) section.
+7. Enter any *tags* or *keywords* that help categorize and organize your book page.
+8. Under `Book outline`, select the book you want to publish the page to. If this is the first page of a new book, select the `create a new book` and enter the appropriate information.  
  ![Book outline options](../images/bookoutline.png)
-9. Under Book Outline you have two options as to where to place the new Book Page:
+9. Under Book Outline, you have two options as to where to place the new Book Page:
     1. **Create a new book**: This will create a new Book and make the current page the "Top Level Page".
-    2. **pick from previously created books**: This will add the book page to an already existing book. You have the ability to choose the page that is before the new book page you are creating. If adding a book page to a specific book, it is important to add a **Parent item** in the book and select the appropriate "weight" to the page.
+    2. **pick from previously created books**: This will add the book page to an already existing book. You have the ability to choose the location of the new page within the book. If adding a book page to a specific book, it is important to add a **Parent item** in the book and select the appropriate "weight" for the page.
  ![Book parent item option](../images/bookparentitem.png)
-10. If you have the [proper authority](../rolesandresp.md) to publish right away, ensure that the "Published" checkbox is checked under "Publishing options".
-11. Once the above steps are completed, select "Save".
+10. If you have the [proper authority](../rolesandresp.md) to publish right away, ensure that the `Published` checkbox is checked under "Publishing options".
+11. Once the above steps are completed, select `Save`.
 
 ## Editing a Book Page
 
 **/!\ Note**: Only one user can edit a book page at a time. If multiple users are editing a book page then content may be unsaved or lost.
 
-1. Navigate to the book page in which you would like to edit. This can be done via URL, Menu Structure or Administration Bar: Content or Find Content.
-2. Once you are at the book page you would like to edit, select the "Edit" option.
+1. Navigate to the book page you would like to edit.
+2. Once you are at the book page you would like to edit, select `Edit`.
  ![Edit Tab](../images/contentEditTab.png)
-3. Edit the content you would like to edit on the book page by using the Drupal Text (WYSIWYG) Editor.
-4. Once you have completed the above steps, select "Save".
+3. Edit the content on the book page by using the Drupal Text (WYSIWYG) Editor.
+4. Once you have completed the above steps, select `Save`.
 
 ## Deleting a Book Page
 
 **/!\ Note**: If the book page is a parent item in a menu for other book pages, the book page will be deleted from the book page hierarchy.
 
-1. Select "Find Content" on the Administration Bar.
-2. Find the book page you would like to delete. **!IMPORTANT!**:Ensure that the book page selected is the book page you would like to delete.) 
-3. Select "delete".
+1. Select `Find Content` on the Administration Bar.
+2. Find the book page you would like to delete. **!IMPORTANT!**:Ensure you are deleting the correct book page.
+3. Select `delete`.
 
 ## Attaching a File to a Book
 
 In order to attach a file to a book, the file must be **less than 20MB** and one of the following formats:
-* .txt
-* .pdf
-* .doc
-* .docx
-* .rtf
-* .png
-* .gif
-* .jpg
+* .txt   * .jpeg
+* .pdf   * .zip
+* .doc   * .xls
+* .docx  * .xlsx
+* .rtf   * .ppt
+* .png   * .pptx 
+* .gif   * .csv
+* .jpg   * .dmg
 * .jpeg
 * .zip
 * .xls
