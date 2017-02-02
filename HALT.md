@@ -7,11 +7,14 @@ Most of the information presented here requires a basic understanding of hyperte
 uses a system of tags to control the presentation of information on a web page. Anyone can view the HTML version of a webpage by
 right-clicking on the page and selecting "view source."
 
-What is H.A.L.T?
+##What is H.A.L.T?
 
 **H**eadings
+
 **A**lternative Text
+
 **L**ists
+
 **T**ables
 
 H.A.L.T
