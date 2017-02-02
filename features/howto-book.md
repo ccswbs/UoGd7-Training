@@ -54,14 +54,14 @@ Books have a built-in hierarchical navigation, which means that they can be orga
 ## Attaching a File to a Book
 
 In order to attach a file to a book, the file must be **less than 20MB** and one of the following formats:
-* .txt   * .jpeg
-* .pdf   * .zip
-* .doc   * .xls
-* .docx  * .xlsx
-* .rtf   * .ppt
-* .png   * .pptx 
-* .gif   * .csv
-* .jpg   * .dmg
+* .txt 
+* .pdf  
+* .doc   
+* .docx  
+* .rtf  
+* .png 
+* .gif
+* .jpg
 * .jpeg
 * .zip
 * .xls
@@ -73,26 +73,26 @@ In order to attach a file to a book, the file must be **less than 20MB** and one
 
 To attach a document to the book, please follow these steps:
 
-1. Navigate to the book in which you would like to edit. This can be done via URL, Menu Structure or Administration Bar: Content or Find Content.
-2. Select "Edit".
+1. Navigate to the book you would like to edit.
+2. Select `Edit`.
 3. Navigate to the "File Attachments" section.
  ![File Attachment Option](../images/pageattach.png)
-4. Select the "Choose file" button and navigate to the file in which you would like to attach.
-5. Select "Upload"
-5. Once the file is uploaded, it will appear in a table under "File Attachments".
+4. Select the `Choose file` button and navigate to the file you would like to attach.
+5. Select `Upload`.
+5. Once the file is uploaded, it will appear in the file attachments table.
  ![File Attachment Table](../images/fileattachmentchart-new.png)
 6. For each attachment, you have the following options:
     * **Description Field**: Provide a description for the file so the user knows what the file contains. 
-    * **Display Checkbox**: If checked, the book attachment is visible to all users.
+    * **Display Checkbox**: If checked, the book attachment is visible to all users. If unchecked, the file is still attached to the book page and may be linked to, but it is not visible to site users. 
     * **Remove Button**: Once selected, the attacment is removed.
 
 ## Assigning a Category to a Book
 
-Book categories allow for Books to be sorted via the given term / category.
+Book categories allow for Books to be sorted via the given term/category.
 
 **/!\ Note**: The following steps assume that the book category has already been created.
 
-1. Navigate to the book in which you would like to edit. This can be done via URL, Menu Structure or Administration Bar: Content or Find Content.
-2. Select "Edit".
-3. Select the category you would like to place the book under using the dropdown menu under "Book Category".
-4. Select "Save".
+1. Navigate to the book you would like to edit.
+2. Select `Edit`.
+3. Select the category you would like to place the book under using the dropdown menu under "Book Category."
+4. Select `Save`.
