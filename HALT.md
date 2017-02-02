@@ -1,6 +1,6 @@
 #H.A.L.T.
 
-This module is designed as a quick overview of techniques that content creators can use to make websites more accessible.
+This module is designed as an overview of techniques that content creators can use to make websites more accessible.
 Small changes based on these guidelines will make a big difference for assistive technology users. 
 
 Most of the information presented here requires a basic understanding of hypertext markup language (HTML). This programming language
@@ -11,10 +11,23 @@ right-clicking on the page and selecting "view source."
 
 ***H***eadings
 
-**A**lternative Text
+***A***lternative Text
 
-**L**ists
+***L***ists
 
-**T**ables
+***T***ables
 
-H.A.L.T
+H.A.L.T addresses some common accessibility issues for static content commonly found on basic pages on the Drupal content management
+system (CMS). 
+
+##Headings
+
+For users who cannot visually perceive the layout of information on a web page, assistive technology helps them navigate quickly by reading a list of headings found on the page. However, assitive technology can only tell that a piece of text is a content heading if the code indicates that it is. This is why it is the responsibility of content creators to add the HTML tags required to denote headings. 
+
+In HTML, headings are denoted with `<h>` tags. These tags have six levels, which look like this: 
+* `<h1>`
+* `<h2>`
+* `<h3>`
+* `<h4>`
+* `<h5>`
+* `<h6>`
