@@ -9,7 +9,7 @@ right-clicking on the page and selecting "view source."
 
 ##What is H.A.L.T?
 
-****H****eadings
+***H***eadings
 
 **A**lternative Text
 
