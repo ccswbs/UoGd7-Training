@@ -41,6 +41,6 @@ term ID of a term in the Course outline term vocabulary.
 ## Filtering by category
 
 1. On a course outline listing page, click `Customize this page`.
-2. Select the cog icon (settings) for "View: C01 - Listing page for Mulitple Course Outlines"
+2. Select the cog icon (settings) for "View: C01 - Listing page for Mulitple Course Outlines."
 3. In the "Category" field, enter the term ID of a term in the Course outline category vocabulary.
 
