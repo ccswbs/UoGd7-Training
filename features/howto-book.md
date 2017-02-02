@@ -80,7 +80,7 @@ To attach a document to the book, please follow these steps:
 4. Select the "Choose file" button and navigate to the file in which you would like to attach.
 5. Select "Upload"
 5. Once the file is uploaded, it will appear in a table under "File Attachments".
- ![File Attachment Table](../images/fileAttachmentChart.png)
+ ![File Attachment Table](../images/fileattachmentchart-new.png)
 6. For each attachment, you have the following options:
     * **Description Field**: Provide a description for the file so the user knows what the file contains. 
     * **Display Checkbox**: If checked, the book attachment is visible to all users.
