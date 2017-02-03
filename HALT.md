@@ -3,7 +3,7 @@
 This module is designed as an overview of techniques that content creators can use to make websites more accessible.
 Small changes based on these guidelines will make a big difference for assistive technology users. 
 
-Most of the information presented here requires a basic understanding of hypertext markup language (HTML). This programming language
+Most of the information presented here requires a basic familiarity of hypertext markup language (HTML). This programming language
 uses a system of tags to control the presentation of information on a web page. Anyone can view the HTML version of a webpage by
 right-clicking on the page and selecting `View page source.`
 
@@ -39,7 +39,7 @@ For each piece of text, the bottom bar of the text editor lists the HTML element
 
 ##Alternative Text
 
-Alternative text, or "alt text" for short, is a brief description of a image on a webpage. Alt text is not visible on the page, but it is essential for creating accessible content. There are a few important things to know about alt text:
+Alternative text, or "alt text" for short, is a brief description of a image on a webpage. Alt text is not visible on the page, but it is essential for creating accessible content. Users who cannot see images on the screen depend on alt text, which can be read aloud by assistive technology. There are a few important things to know about alt text:
 * Alt text should be kept short and descriptive.
 * Alt text is necessary for images that provide information to the user. 
 * Alt text should not be attached to images that are purey decorative. 
@@ -48,7 +48,10 @@ Alternative text, or "alt text" for short, is a brief description of a image on 
 ###Adding Alt Text from the Drupal Text Editor
 
 From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
+
 ![WYSIWYG image properties window](/images/alt-text-wysiwyg.png)
+
+Add short, descriptive alternative text in the "Alternative Text" field.
 
 ##Lists
 
