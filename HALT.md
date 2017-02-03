@@ -5,7 +5,7 @@ Small changes based on these guidelines will make a big difference for assistive
 
 Most of the information presented here requires a basic understanding of hypertext markup language (HTML). This programming language
 uses a system of tags to control the presentation of information on a web page. Anyone can view the HTML version of a webpage by
-right-clicking on the page and selecting "view source."
+right-clicking on the page and selecting `View page source.`
 
 ##What is H.A.L.T?
 
