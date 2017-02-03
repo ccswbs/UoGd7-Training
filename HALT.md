@@ -32,13 +32,23 @@ In HTML, headings are denoted with `<h>` tags. These tags have six levels, which
 * `<h5>`
 * `<h6>`
 
-When using Drupal, you can set headings with the text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the dropdown menu:
+When using Drupal, you can set headings with the rich text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the dropdown menu:
 ![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG 2.png)
 
 For each piece of text, the bottom bar of the text editor lists the HTML elements it is marked up with, including any heading tags.
 
 ##Alternative Text
 
+Alternative text, or "alt text" for short, is a brief description of a image on a webpage. Alt text is not visible on the page, but it is essential for creating accessible content. There are a few important things to know about alt text:
+* Alt text should be kept short and descriptive.
+* Alt text is necessary for images that provide information to the user. 
+* Alt text should not be attached to images that are purey decorative. 
+* Alt text for a linked image must describe the link destination, not the image itself. 
+
+###Adding Alt Text from the Drupal Text Editor
+
+From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
+![WYSIWYG image properties window](/images/
 ##Lists
 
 ##Tables
