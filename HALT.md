@@ -33,4 +33,4 @@ In HTML, headings are denoted with `<h>` tags. These tags have six levels, which
 * `<h6>`
 
 When using Drupal, you can set headings when creating content with the text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the dropdown menu:
-![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG)
+![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG.png)
