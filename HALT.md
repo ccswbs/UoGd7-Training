@@ -48,7 +48,8 @@ Alternative text, or "alt text" for short, is a brief description of a image on 
 ###Adding Alt Text from the Drupal Text Editor
 
 From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
-![WYSIWYG image properties window](/images/
+![WYSIWYG image properties window](/images/alt-text-wysiwyg.png)
+
 ##Lists
 
 ##Tables
