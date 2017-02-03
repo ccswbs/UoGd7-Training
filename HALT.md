@@ -37,6 +37,8 @@ When using Drupal, you can set headings with the rich text editor, also known as
 
 For each piece of text, the bottom bar of the text editor lists the HTML elements it is marked up with, including any heading tags.
 
+**/!\ Note**: Do not use heading elements simply to increase font size, and do not use *empty* heading elements to create space on the page. These improper uses of headings will make the web page less accessible. 
+
 ##Alternative Text
 
 Alternative text, or "alt text" for short, is a brief description of a image on a webpage. Alt text is not visible on the page, but it is essential for creating accessible content. Users who cannot see images on the screen depend on alt text, which can be read aloud by assistive technology. There are a few important things to know about alt text:
