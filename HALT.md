@@ -38,7 +38,7 @@ Alternative text, or "alt text" for short, is a brief description of a image on 
 * Alt text should not be attached to images that are purely decorative.
 * Alt text for a linked image must describe the link destination, not the image itself. 
 
-###Adding Alt Text from the Drupal Text Editor
+###Adding Alt Text in the Drupal Text Editor
 
 From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
 
