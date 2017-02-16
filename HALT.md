@@ -54,5 +54,7 @@ Lists are an important feature for organizing information on a web page. For acc
 
 In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. 
 
+![Drupal text editor example list](/images/Lists example.png)
+
 
 ##Tables
