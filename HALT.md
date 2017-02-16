@@ -56,5 +56,7 @@ In the Drupal text editor, content creators have the choice between ordered (num
 
 ![Drupal text editor example list](/images/Lists example.png)
 
+Ordered and unordered lists can also be nested within one another: 
 
+![Example of ordered and unordered nested list](
 ##Tables
