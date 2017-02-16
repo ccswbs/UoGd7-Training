@@ -72,4 +72,3 @@ Tables are useful for organizing information into a grid of cells. To make sure 
 ![Empty table cells](/images/tables 3.png)
 7. Click `Save`.
 
-###Table Headers and Captions
