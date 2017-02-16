@@ -69,7 +69,8 @@ Tables are useful for organizing information into a grid of cells. To make sure 
 3. Using the drop-down `Headers` menu, select your preference for column and row headers. This will bold the text in the selected cells.
 4. Add a caption to the table. This will serve as its title. 
 5. Add a summary if appropriate. This is useful if the table is meant to convey certain findings that can be briefly summarized in text.
-6. Click `OK`. The empty cells will appear in the Drupal text editor:
+6. Click `OK`. The empty cells will appear in the Drupal text editor for you to fill in:
 ![Empty table cells](/images/tables 3.png)
+7. Click `Save`.
 
 ###Table Headers and Captions
