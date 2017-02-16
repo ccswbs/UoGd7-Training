@@ -41,23 +41,23 @@ Alternative text, or "alt text" for short, is a brief description of a image on 
 
 ###Adding Alt Text in the Drupal Text Editor
 
-From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
-
+1. From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
 ![WYSIWYG image properties window](/images/alt-text-wysiwyg.png)
-
-Add short, descriptive alternative text in the "Alternative Text" field.
+2. Add short, descriptive alternative text in the "Alternative Text" field.
+3. Click `OK`. 
+4. Click `Save`.
 
 ##Lists
 
 Lists are an important feature for organizing information on a web page. For a web page to be accessible, any content that is visually presented as a list must also be marked up as a list in the source code. 
 
-In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. When creating a list, either select a list button and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list.
+In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bulleted) lists. When creating a list, either select one of two list buttons and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list.
 
 ![Drupal text editor example list](/images/Lists example 2.png)
 
 ##Tables
 
-Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider splitting into multiple tables if possible. In order to assess complexity, imagine hearing the information over the phone. Can the information be understood without a visual aid? 
+Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider splitting the information into multiple tables if possible. In order to assess complexity, imagine hearing the information over the phone. Can the it be understood without a visual aid? 
 
 ###Using Tables in Drupal
 
