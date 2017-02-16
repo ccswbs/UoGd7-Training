@@ -52,10 +52,18 @@ Add short, descriptive alternative text in the "Alternative Text" field.
 
 Lists are an important feature for organizing information on a web page. For a web page to be accessible, any content that is visually presented as a list must also be marked up as a list in the source code. 
 
-In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. When creating a list, either select a list button and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list. BOB
+In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. When creating a list, either select a list button and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list.
 
 ![Drupal text editor example list](/images/Lists example 2.png)
 
 ##Tables
 
+Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider splitting into multiple tables if possible. In order to assess complexity, imaging hearing the information over the phone. Can the information be understood without a visual aid? 
 
+###Using Tables in Drupal
+
+1. Start by selecting the table button in the Drupal text editor.
+![Highlight of the table button in the Drupal text editor]
+2. The following dialog box will appear:
+![Table properties dialog box]
+###Table Headers and Captions
