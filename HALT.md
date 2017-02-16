@@ -52,7 +52,7 @@ Add short, descriptive alternative text in the "Alternative Text" field.
 
 Lists are an important feature for organizing information on a web page. For accessibility, any content that is visually presented as a list must also be marked up a list in the code. 
 
-In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. 
+In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. When creating a list, either select a list and beging typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list. 
 
 ![Drupal text editor example list](/images/Lists example.png)
 
