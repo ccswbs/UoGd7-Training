@@ -63,7 +63,9 @@ Tables are useful for organizing information into a grid of cells. To make sure 
 ###Using Tables in Drupal
 
 1. Start by selecting the table button in the Drupal text editor.
-![Highlight of the table button in the Drupal text editor]
-2. The following dialog box will appear:
-![Table properties dialog box]
+![Highlight of the table button in the Drupal text editor](/images/tables 1.png)
+2. The following dialog box will appear. Enter the appropriate number of rows and columns.
+![Table properties dialog box](/images/tables 2.png)
+3. 
+
 ###Table Headers and Captions
