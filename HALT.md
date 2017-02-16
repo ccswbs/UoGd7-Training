@@ -50,4 +50,9 @@ Add short, descriptive alternative text in the "Alternative Text" field.
 
 ##Lists
 
+Lists are an important feature for organizing information on a web page. For accessibility, any content that is visually presented as a list must also be marked up a list in the code. 
+
+In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bullet) lists. 
+
+
 ##Tables
