@@ -23,12 +23,7 @@ For users who cannot visually perceive the layout of information on a web page, 
 
 In HTML, headings are denoted with `<h>` tags. These tags have six levels:
 
-H1
-* H2
-  H3
-    H4
-      H5
-        H6
+![Heading Tag Levels H1-H6]
 
 When using Drupal, you can set headings with the rich text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the dropdown menu:
 ![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG 2.png)
