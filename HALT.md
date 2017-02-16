@@ -58,7 +58,7 @@ In the Drupal text editor, content creators have the choice between ordered (num
 
 ##Tables
 
-Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider splitting into multiple tables if possible. In order to assess complexity, imaging hearing the information over the phone. Can the information be understood without a visual aid? 
+Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider splitting into multiple tables if possible. In order to assess complexity, imagine hearing the information over the phone. Can the information be understood without a visual aid? 
 
 ###Using Tables in Drupal
 
