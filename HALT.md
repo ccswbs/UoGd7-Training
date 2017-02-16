@@ -21,7 +21,14 @@ system (CMS).
 
 For users who cannot visually perceive the layout of information on a web page, assistive technology helps them navigate quickly by reading a list of headings found on the page. However, assistive technology can only tell that a piece of text is a content heading if the code indicates that it is.
 
-In HTML, headings are denoted with `<h>` tags. These tags have six levels.
+In HTML, headings are denoted with `<h>` tags. These tags have six levels:
+
+H1
+* H2
+  H3
+    H4
+      H5
+        H6
 
 When using Drupal, you can set headings with the rich text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the dropdown menu:
 ![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG 2.png)
