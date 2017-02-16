@@ -14,8 +14,7 @@ Small changes based on these guidelines will make a big difference for assistive
 
 ***T***ables
 
-H.A.L.T addresses some common accessibility issues for static content commonly found on basic pages on the Drupal content management
-system (CMS). 
+H.A.L.T addresses some common accessibility issues for static content on the Drupal content management system (CMS). 
 
 ##Headings
 
