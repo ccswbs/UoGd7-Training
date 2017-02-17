@@ -6,7 +6,7 @@ In order to put an embedded Google map into your website, you must ensure the fo
   - There is descriptive text before/after the map that details the important information relayed in the map.
   
   ## Avoiding Keyboard Traps
-  To determine if your map has created a keyboard trap, you must test the map. This can be done by pressing the tab button on your keyboard and watching tab focus go town the page. If you are able to tab out of the map, the map is not a keyboard trap.
+  To determine if your map has created a keyboard trap, you must test the map. This can be done by pressing the tab button on your keyboard and watching tab focus go down the page. If you are able to tab out of the map, the map is not a keyboard trap.
   
   ## Google Map Text Alternatives
   Along with the map, there should be explanations of the key points the map is trying to relay.
