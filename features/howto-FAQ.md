@@ -7,7 +7,7 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
 ## Create some FAQ nodes (Questions and Answers)
 1. On the Administration bar, select `Add Content`.
 ![Add Content Highlighted](../images/ambac.png)
-2. If you have [book page categories](../taxonomies.md#categories) defined, select the appropriate one.
+2. If you have [FAQ categories](../taxonomies.md#categories) defined, select the appropriate one. See more information on this below
 3. Select `FAQ`.
 4. Enter the Question in the "Question" field.
 5. Enter the Answer in the "Answer" field.
