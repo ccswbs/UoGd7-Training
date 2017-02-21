@@ -64,9 +64,7 @@ The **WCAG 2.0** standard for table settings dictates that table markup must be 
 4. If your table requires table headers, select the appropriate markup using the "Headers" dropdown menu. For more information about table headers, please visit [the WebAIM tutorial on tables](http://webaim.org/techniques/tables/data).
 5. Add a `Caption` if a title is not provided elsewhere. A caption will act as a title above a table.
 6. Adding a `Summary` is optional, but recommended if the table is complicated and the information is not provided elsewhere.
-
-![Insert Table Window](images/insertTableWindow.png)
-
+ ![Insert Table Window](images/insertTableWindow.png)
 7. Upon completing the above steps, select `OK`. Once selected, the table should be inserted into the text area of the editor. You may proceed to insert the information into the table.
 
 **/!\ Note**: To modify an existing table, right-click on a cell in the table and additional options will be displayed.
