@@ -76,5 +76,13 @@ look like a list (such as asterisk, dash etc.).
 
 ![Example of Link List](images/linkListExample.png)
 
+####Nesting Lists
+
+![Nested lists example](/images/
+
+If you have a main list that requires a nested sub-list, you can use the same list formatting commands you would use in MS Word. To start a nested list, press `Enter` or `Return` from the main list item, then press `Tab`. Once the nested sub-list in complete and you need to return to the main list, press `Enter` or `Return` twice.
+
+To create a list that uses both numbered points and bullet points, please refer to [Advanced guide].
+
 ## Making Other General Content Accessible
 When adding other types of content, for example a button or icon, please keep in mind the [Top 5 Accessibility Tips](accessibilitytop.md), and that you reference the [Style Guide](styleguide.md) for assistance. If you require more assistance, we suggest that you reach out to your Web Managers/Site Owners.
