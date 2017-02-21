@@ -50,7 +50,7 @@ Additionally, tags can be used across Drupal content types, not just FAQ. This m
 4. Enter a name for the tag. Keep in mind that these names will be visible to your site users. Examples include "Undergraduate Students" and "Graduate Students."
 5. Select `Save`.
 
-###Assigning Tags to FAQ Nodes
+###Associating Tags with FAQ Nodes
 1. Now that you have created a tag, you need to associate questions with it. 
 2. From your FAQ page, select a question. You will be brought to that question's page.
 3. Select `Edit`.
