@@ -38,3 +38,24 @@ Your website may have a variety of FAQ that are directed at different groups of 
 5. Select `Save`.
 
 ##FAQ Tags
+
+Your website may have some questions that apply to two or more groups of site users. In this case, you must use *tags* in addition to categories to organize FAQ, because a question can only belong to one category.
+
+Additionally, tags can be used across Drupal content types, not just FAQ. This means you can tag a variety of news articles, events, FAQ, features, and more, as they pertain to a particular group. 
+
+###Creating Tags
+1. When logged into your website, navigate to `Structure` > `Taxonomy`.
+2. Select `list terms` from the `Tags` row.
+3. Select `Add term`.
+4. Enter a name for the tag. Keep in mind that these names will be visible to your site users. Examples include "Undergraduate Students" and "Graduate Students."
+5. Select `Save`.
+
+###Assigning Tags to FAQ Nodes
+1. Now that you have created a tag, you need to associate questions with it. 
+2. From your FAQ page, select a question. You will be brought to that question's page.
+3. Select `Edit`.
+4. In the "Keywords" field, type in the name of the tag. You can add multiple tags if needed, separated by a comma and a space.
+ ![FAQ Keyword Field](/images/FAQ-tags.png)
+5. Select `Save`.
+6. When you return to the question page you were editing, you should see a listing of its associated keywords (tags) in the sidebar.
+ ![FAQ Associated Keyword Listing](/images/FAQ-keywords.png)
