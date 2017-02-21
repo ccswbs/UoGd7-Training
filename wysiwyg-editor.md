@@ -40,18 +40,13 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 ## Inserting an Image
 1. Ensure that the location you are trying to add the image to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, click on the image icon.
-![image](images/imgsel.png)
-
+ ![image](images/imgsel.png)
 3. On the new popup window, select `Browse Server`. If the image is already uploaded to the website, then proceed to step 5.
-![image](images/imgprop.png)
-
+ ![image](images/imgprop.png)
 4. Uploaded the image to the website filesystem by selecting `Upload` from the menu bar. Upload the file and select the appropriate settings, then select `Upload`.
-![upload](images/dialogpic.png)
-
+ ![upload](images/dialogpic.png)
 5. Locate the image you would like to insert. Then, select `Insert File` on the menu bar.
-
-6. Ensure that you give the image appropriate alternative text. For more information on appropriate altetnative text, please visit [the WebAIM turotial on alternative text](http://webaim.org/techniques/alttext/).
-
+6. Ensure that you give the image appropriate alternative text. For more information on appropriate altetnative text, please visit [the  WebAIM turotial on alternative text](http://webaim.org/techniques/alttext/).
 7. Once your image has been selected and the appropriate alternative text has been added, insert the image by selecting `OK`.
 
 ## Inserting a Table 
