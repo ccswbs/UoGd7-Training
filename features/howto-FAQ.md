@@ -58,4 +58,4 @@ Additionally, tags can be used across Drupal content types, not just FAQ. This m
  ![FAQ Keyword Field](/images/FAQ-tags.png)
 5. Select `Save`.
 6. When you return to the question page you were editing, you should see a listing of its associated keywords (tags) in the sidebar.
- ![FAQ Associated Keyword Listing](/images/FAQ-keywords.png)
+ ![FAQ Associated Keyword Listing](/images/FAQ-keywords listing.png)
