@@ -8,11 +8,11 @@ Small changes based on these guidelines will make a big difference for assistive
 
 [***H***eadings](#headings)
 
-***A***lternative Text
+[***A***lternative Text](#alternative-text)
 
-***L***ists
+[***L***ists](#lists)
 
-***T***ables
+[***T***ables](#tables)
 
 H.A.L.T addresses some common accessibility issues for static content on the Drupal content management system (CMS). 
 
