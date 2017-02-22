@@ -10,10 +10,12 @@ To manage the other Content Creators/Editors, it is necessary that you have a fu
 
 A good place to start in regards to accessibility testing is finding tools that can assist you in getting a quick overview of issues. For large websites the effort most likely needs to be prioritized.
 
-## [Content Creators & Content Editors](contentcreators.md)
+##Content Creators & Content Editors
 A user with the role of **Content Creator OR Content Editor** has the ability to create and edit the various content types provided with the UG Drupal platform. There are two types of Content Creator.
 
 Types of Content Creators are:
 
 * **Authors**: Ability to create, edit and publish/unpublish their OWN content.
 * **Editors**: Ability to create, edit, and publish/unpublish any content produced by them or others.
+
+As a **Content Creator or Content Editor** you must familiarize yourself with the normative criteria of [WCAG 2.0](https://www.w3.org/TR/WCAG20/). Content Creators and Content Editors are responsible for ensuring the accessibility of any web content that they upload or publish on the website. In many cases the Drupal Platform will cover the basic WCAG 2.0 Criteria but it is up to the Content Creator/Content Editor to ensure that the content they produce is WCAG 2.0 compliant.
