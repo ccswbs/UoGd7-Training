@@ -1,4 +1,4 @@
-# Accessibility Top 5
+# Accessible Design Intro
 As content creators and managers you will not necessarily need to know all the WCAG 2.0 details. The following list was created with content managers and creators in mind:
 
 ## 1. Text for everyone
