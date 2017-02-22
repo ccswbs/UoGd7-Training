@@ -5,10 +5,10 @@
 * [Drupal User Roles & Responsibilities](rolesandresp.md)
 * [Drupal Websites: Getting Started](basicbeginner.md)
    * [Login/Logout](basicbeginner.md#how-to-login--logout)
-   * [Admin Menu Bar]
-   * [Creating Basic Content]
-   * [Editing Content]
-   * [Adding Users]
+   * [Admin Menu Bar](basicbeginner.md)
+   * [Creating Basic Content](basicbeginner.md)
+   * [Editing Content](basicbeginner.md)
+   * [Adding Users](basicbeginner.md)
    * [Drupal Text (WYSIWYG) Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
