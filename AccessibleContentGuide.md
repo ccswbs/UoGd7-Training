@@ -6,7 +6,7 @@ This guide can be reffered to for assistance with many aspects of accessible con
  * [Accessibility Basics](AccessibilityBasics.md)
  * [Page Titles]
  * [Headings]
- * [Links]
+ * [Links](contentcreators.md#links)
  * [Colour]
  * [Documents]
  * [Images]
