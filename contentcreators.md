@@ -82,7 +82,9 @@ look like a list (such as asterisk, dash etc.).
 
 If you have a main list that requires a nested sub-list, you can use the same list formatting commands you would use in MS Word. To start a nested list, press `Enter` or `Return` from the main list item, then press `Tab`. Once the nested sub-list is complete and you need to return to the main list, press `Enter` or `Return` twice.
 
-To create a list that uses both numbered points and bullet points, please refer to [advancedGuide.md].
+To create a list that uses both numbered points and bullet points, start with a nested list like the one pictured above. Then, highlight the list items you would like to convert to numbered points or bullet points, and then select the appropriate list button.
+
+![Mixed nested list example](images/Mixed list example.png)
 
 ## Making Other General Content Accessible
-When adding other types of content, for example a button or icon, please keep in mind the [Top 5 Accessibility Tips](accessibilitytop.md), and that you reference the [Style Guide](styleguide.md) for assistance. If you require more assistance, we suggest that you reach out to your Web Managers/Site Owners.
+When adding other types of content, for example a button or icon, please keep in mind the [Top 5 Accessibility Tips](accessibilitytop.md), and reference the [Style Guide](styleguide.md) for assistance. Also check these [basic guidelines for content creators](HALT.md). If you require more assistance, we suggest that you reach out to your Web Managers/Site Owners.
