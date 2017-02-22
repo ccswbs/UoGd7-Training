@@ -12,7 +12,6 @@
    * [Drupal Text (WYSIWYG) Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
-   * [Multimedia Accessibility](multimedia.md)
 * [Best Practice Tips](practips.md)
 * [UG Drupal Content Types](ugcontenttypes.md)
    * [Banners](features/howto-banner.md)
@@ -29,6 +28,16 @@
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
    * [Accessibility Basics](AccessibilityBasics.md)
+   * [Page Titles]
+   * [Headings]
+   * [Links]
+   * [Colour]
+   * [Documents]
+   * [Images]
+   * [Tables]
+   * [Lists]
+   * [Audio & Video]
+   * [Other Accessible Content]
 * [Advanced Guide to Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
    * [Customizing Content Layout](customizingpage.md)
@@ -36,7 +45,5 @@
    * [Google reCAPTCHA](recaptcha.md)
 * [SiteImprove](siteimprove.md)
 * [Google Analytics](analytics.md)
-* [Best Practice Tips](practips.md)
-* [Top 5 Accessibility Tips](accessibilitytop.md)
 * [Style Guide Code Snippets](styleguide.md)
-* [Frequently Asked Client Questions](FreqAQ.md)
+* [Client FAQ](FreqAQ.md)
