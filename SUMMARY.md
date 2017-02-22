@@ -2,16 +2,18 @@
 
 * [Introduction](README.md)
 * [Drupal Platform Introduction](Drupal_Features_Terms_Acroynms.md)
-* [Accessibility First Content Development](Whyaccessibility.md)
 * [Drupal User Roles & Responsibilities](rolesandresp.md)
-   * [Website Managers](webman.md)
-   * [Content Creators and Editors](contentcreators.md)
-* [Beginners Guide to Drupal Website Architecture](basicbeginner.md)
+* [Drupal Websites: Getting Started](basicbeginner.md)
+   * [Login/Logout]
+   * [Admin Menu Bar]
+   * [Creating Basic Content]
+   * [Editing Content]
+   * [Adding Users]
    * [Drupal Text (WYSIWYG) Editor](wysiwyg-editor.md)
-   * [Accessibility Basics: HALT](HALT.md)
    * [Managing Menus](menuitems.md)
    * [Taxonomies](taxonomies.md)
    * [Multimedia Accessibility](multimedia.md)
+* [Best Practice Tips](practips.md)
 * [UG Drupal Content Types](ugcontenttypes.md)
    * [Banners](features/howto-banner.md)
    * [Book](features/howto-book.md)
@@ -19,12 +21,15 @@
    * [Events](features/howto-events.md)
    * [FAQ](features/howto-FAQ.md)
    * [Featured Item](features/howto-featured.md)
-   * [News Article](features/howto-news.md)
-   * [Social Media Account](features/howto-socialmedia.md)
+   * [News](features/howto-news.md)
    * [Page](features/howto-page.md)
    * [People Profiles](features/howto-profiles.md)
+   * [Service]
+   * [Social Media Account](features/howto-socialmedia.md)
    * [Webform](features/howto-webforms.md)
-* [Advanced Guide to Drupal Website Architecture](advancedGuide.md)
+* [Accessible Content Guide](AccessibleContentGuide.md)
+   * [Accessibility Basics](AccessibilityBasics.md)
+* [Advanced Guide to Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
    * [Customizing Content Layout](customizingpage.md)
    * [Google Maps](GoogleMaps.md)
