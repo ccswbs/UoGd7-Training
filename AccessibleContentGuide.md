@@ -2,6 +2,7 @@
 
 This guide can be reffered to for assistance with many aspects of accessible content creation. 
 
+ * [Accessible Design Benefits]
  * [Accessibility Basics]
  * [Page Titles]
  * [Headings]
