@@ -5,7 +5,7 @@ look like a list (such as asterisk, dash etc.).
 
 **/!\ Strong Recomendation**: The AODA Team strongly suggests that items that appear to be in a list on the page are also placed in a list in the code. Example: A list of links under a heading can be placed in a list.
 
-![Example of Link List](images/linkListExample.png)
+![Example of Link List](/images/linkListExample.png)
 
 ####Nesting Lists
 
@@ -15,4 +15,4 @@ If you have a main list that requires a nested sub-list, you can use the same li
 
 To create a list that uses both numbered points and bullet points, start with a nested list like the one pictured above. Then, highlight the list items you would like to convert to numbered points or bullet points, and then select the appropriate list button.
 
-![Mixed nested list example](images/Mixed list example.png)
+![Mixed nested list example](/images/Mixed list example.png)
