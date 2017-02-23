@@ -31,7 +31,9 @@ The **Page** content type is used for static content that can be linked into the
 
 1. Navigate to the page you would like to edit.
 2. Once you are at the page you would like to edit, select the `Edit` option.
+
  ![Edit Tab](../images/contentEditTab.png)
+ 
 3. Edit the content you would like to edit on the page by using the Drupal Text (WYSIWYG) Editor.
 4. Once you have completed the above steps, select `Save`.
 
@@ -40,9 +42,13 @@ If you would like to go back to a previous version of the page, follow these ste
 
 1. Navigate to the page you would like to edit.
 2. Once you are at the page you would like to edit, select `Revisions`.
+
  ![Revisions Tab](../images/contentRevisionsTab.png)
+ 
 3. You will see a page that lists the previous versions of the page. Every time a page is saved a new revision version is created.
+
  ![File Attachment option](../images/revisionsPage.png)
+ 
 4. You can compare revisions by selecting two versions of the page and selecting `Compare`.
 
 ## Deleting a Page
