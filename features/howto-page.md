@@ -109,7 +109,11 @@ Page categories allow for pages to be sorted via the given term/category.
 1. Navigate to the page you would like to edit.
 2. Select `Edit`.
 3. Navigate to the "Keywords" section.
+
  ![Keywords Section](../images/pageKeywordsEmpty.png)
+ 
 4. Enter the keywords for the page. Separate each word with a comma, but no space (eg: example,test,showcase).
+
  ![Example Keywords Filled](../images/pageKeywordsFull.png)
+ 
 5. Select `Save`.
