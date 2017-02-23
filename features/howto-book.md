@@ -39,7 +39,9 @@ Books have a built-in hierarchical navigation, which means that they can be orga
 
 1. Navigate to the book page you would like to edit.
 2. Once you are at the book page you would like to edit, select `Edit`.
+
  ![Edit Tab](../images/contentEditTab.png)
+ 
 3. Edit the content on the book page by using the Drupal Text (WYSIWYG) Editor.
 4. Once you have completed the above steps, select `Save`.
 
@@ -76,11 +78,15 @@ To attach a document to the book, please follow these steps:
 1. Navigate to the book you would like to edit.
 2. Select `Edit`.
 3. Navigate to the "File Attachments" section.
+
  ![File Attachment Option](../images/pageattach.png)
+ 
 4. Select the `Choose file` button and navigate to the file you would like to attach.
 5. Select `Upload`.
 5. Once the file is uploaded, it will appear in the file attachments table.
+
  ![File Attachment Table](../images/fileattachmentchart-new.png)
+ 
 6. For each attachment, you have the following options:
     * **Description Field**: Provide a description for the file so the user knows what the file contains. 
     * **Display Checkbox**: If checked, the book attachment is visible to all users. If unchecked, the file is still attached to the book page and may be linked to, but it is not visible to site users. 
