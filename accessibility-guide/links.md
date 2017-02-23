@@ -23,14 +23,14 @@ Anchor links are links that will take the user to a specific spot on the same pa
 
 1. In the Drupal text editor, highlight some text to be used as the anchor (the spot the link will jump to). 
 2. Select the anchor button (flag icon). This will open the Anchor Properties dialog box. 
-![Drupal text editor anchor button](/images/anchor-anchor-button.png)
+      ![Drupal text editor anchor button](/images/anchor-anchor-button.png)
 2. Enter a name for the anchor. Select `OK`.
-![Drupal text editor anchor dialog box](/images/anchor-dialog-box-1.png)
+      ![Drupal text editor anchor dialog box](/images/anchor-dialog-box-1.png)
 3. Highlight text to be used as the link. 
 4. Select the link button (chain link icon). 
-![Drupal text editor link button](/images/anchor-link-button.png)
+      ![Drupal text editor link button](/images/anchor-link-button.png)
 5. The Link dialog box will open. Under link type, select "link to anchor in the text."
 6. Using the "By element ID" drop-down menu, select the anchor's name. It is important that the anchor is selected by element ID and not by name. Select `OK`.
-![Drupal text editor link dialog box](/images/anchor-link-dialog.png)
+      ![Drupal text editor link dialog box](/images/anchor-link-dialog.png)
 
 
