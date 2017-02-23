@@ -21,7 +21,6 @@ The *Featured Item* allows **Content Creators** to create a lead-in to any page 
 9. If you have the proper authority to publish, select `Published` in "Publishing options."
 ![Example of publishing options](../images/pubopt.png)
 10. Select `Save`.
-![Save Button](../images/save.png)
 
 ## Featured Item Views
 In-Place Editor allows you to arrange panes and edit some settings on the fly.
@@ -34,6 +33,5 @@ In-Place Editor allows you to arrange panes and edit some settings on the fly.
 3. Select `View Panes` and then select either `FT3` or `FT3 - Random` views, depending on your needs.
   * ![add button](../images/ft3view.png)
 4. Select `Continue`.
-  * ![add button](../images/continue.png)
 5. Select `Finish`.
-  * ![add button](../images/final.png)
+  
