@@ -24,7 +24,7 @@
    * [News](features/howto-news.md)
    * [Page](features/howto-page.md)
    * [People Profiles](features/howto-profiles.md)
-   * [Service]
+   * [Service](howto-services.md)
    * [Social Media Account](features/howto-socialmedia.md)
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
