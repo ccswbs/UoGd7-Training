@@ -75,7 +75,7 @@ There are four standard menus in Drupal 7:
 A module is software (code) that extends Drupal features and functionality. The University of Guelph supplies and maintains its own modules for compliance with **AODA** - within this documentation they are generally called **Features**.
 
 ## Path
-In Drupal terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is CCS/AODA.
+In Drupal terms, path is the unique, last part of the URL for a specific function or piece of content. For instance, for a page whose full URL is http://example.com/CCS/AODA, the path is "CCS/AODA".
 
 ## Path Alias
 This changes default paths such as node/7 into user-friendly paths such as about/contact. This is automated with UoG enabled modules.
