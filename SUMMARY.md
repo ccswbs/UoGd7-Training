@@ -29,8 +29,7 @@
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
    * [Accessibility Basics](accessibility-guide/AccessibilityBasics.md)
-   * [Page Titles]
-   * [Headings]
+   * [Page Titles & Headings]
    * [Links]
    * [Colour]
    * [Documents]
