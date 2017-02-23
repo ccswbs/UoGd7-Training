@@ -11,9 +11,38 @@ When adding links to a page, ensure that the user can determine the destination 
 
 ##External Links
 
+**URL (External Path)**: Any link that is NOT under www.uoguelph.ca/*yourSiteName*
+  * Ensure that the "link type" dropdown menu is set to `URL`.
+  
+  ![External URL Hyperlink](images/externalURL.png)
+  
+  * Paste the link where you would like this text to hyperlink to (Eg:www.google.ca) in the "URL" field.
+  * Once completed, select `OK`.
+
 ##Internal Links
 
+**Internal path**: Any link that is under www.uoguelph.ca/*yourSiteName*
+  * Ensure that the "link type" dropdown menu is set to `internal path`.
+        
+   ![image](images/ckeditorlinkinternalpath.png)
+        
+   * Search for the internal page by typing the first few characters of the page name in the "Link" field.
+   * Select the page you want to link from the list of suggestions.
+  
+   ![image](images/ckeditorlinksuggestions.png)
+          
+    * Once completed, select `OK`.
+
 ##Email Links
+
+**Email**: Hyperlink text to an email address that, upon selection, will prompt the user to email the specified address.
+   * Ensure that the "link type" dropdown menu is set to `E-mail`.
+        
+   ![Insert Email Image](images/emailLink.png)
+        
+    * Enter the email address you would like this text to hyperlink to.
+    * If applicable, enter the email subject and message body into their respective fields.
+    * Once completed, click `OK`.
 
 ##Anchor Links
 
