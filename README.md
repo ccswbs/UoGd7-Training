@@ -14,7 +14,7 @@ This manual is available to users in the following formats:
 ## Introduction
 This documentation provides users with an abundence of information. This information includes:
 * [Introduction to the Drupal Platform](Drupal_Features_Terms_Acroynms.md)
-* [Accessability and Website Management](Whyaccessibility.md)
+* [Accessability Basics](accessibility-guide/AccessibilityBasics.md)
 * [Basic Beginners Guide to Website Architecture with Drupal](basicbeginner)
 * [UG Drupal Content Types](ugcontenttypes.md)
 * Other Platform Provided Additions
