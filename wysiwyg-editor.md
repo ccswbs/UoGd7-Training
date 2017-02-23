@@ -40,11 +40,17 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 ## Inserting an Image
 1. Ensure that the location you are trying to add the image to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, click on the image icon.
+
  ![image](images/imgsel.png)
+ 
 3. On the new popup window, select `Browse Server`. If the image is already uploaded to the website, then proceed to step 5.
+
  ![image](images/imgprop.png)
-4. Uploaded the image to the website filesystem by selecting `Upload` from the menu bar. Upload the file and select the appropriate settings, then select `Upload`.
+ 
+4. Uploaded the image to the website file system by selecting `Upload` from the menu bar. Upload the file and select the appropriate settings, then select `Upload`.
+
  ![upload](images/dialogpic.png)
+ 
 5. Locate the image you would like to insert. Then, select `Insert File` on the menu bar.
 6. Ensure that you give the image appropriate alternative text. For more information on appropriate altetnative text, please visit [the  WebAIM turotial on alternative text](http://webaim.org/techniques/alttext/).
 7. Once your image has been selected and the appropriate alternative text has been added, insert the image by selecting `OK`.
@@ -54,12 +60,16 @@ The **WCAG 2.0** standard for table settings dictates that table markup must be 
 
 1. Ensure that the location you are trying to add the table to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, click on the table icon.
+
  ![Insert Table Button](images/insertab.png)
+ 
 3. In the new popup window, enter the number of columns (vertical), and rows (horizontal), in their respective input fields.
 4. If your table requires table headers, select the appropriate markup using the "Headers" dropdown menu. For more information about table headers, please visit [the WebAIM tutorial on tables](http://webaim.org/techniques/tables/data).
 5. Add a `Caption` if a title is not provided elsewhere. A caption will act as a title above a table.
 6. Adding a `Summary` is optional, but recommended if the table is complicated and the information is not provided elsewhere.
+
  ![Insert Table Window](images/insertTableWindow.png)
+ 
 7. Upon completing the above steps, select `OK`. Once selected, the table should be inserted into the text area of the editor. You may proceed to insert the information into the table.
 
 **/!\ Note**: To modify an existing table, right-click on a cell in the table and additional options will be displayed.
@@ -76,28 +86,40 @@ Use this format instead:
 1. Ensure that the location you are trying to add the hyperlinked text to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, highlight the text in which you are trying to hyperlink.
 3. Once the text has been highlighted, select the hyperlink button on the Drupal Text Editor.
+
    ![Hyperlink Button](images/link%20icon.png)
+   
 4. On the popup window, Specify the link type by selecting one of the options in the dropdown menu:
     * **Internal path**: Any link that is under www.uoguelph.ca/*yourSiteName*
         * Ensure that the "link type" dropdown menu is set to `internal path`.
+        
         ![image](images/ckeditorlinkinternalpath.png)
+        
         * Search for the internal page by typing the first few characters of the page name in the "Link" field.
         * Select the page you want to link from the list of suggestions.
+        
           ![image](images/ckeditorlinksuggestions.png)
+          
         * Once completed, select `OK`.
     * **URL (External Path)**: Any link that is NOT under www.uoguelph.ca/*yourSiteName*
         * Ensure that the "link type" dropdown menu is set to `URL`.
+        
         ![External URL Hyperlink](images/externalURL.png)
+        
         * Paste the link where you would like this text to hyperlink to (Eg:www.google.ca) in the "URL" field.
         * Once completed, select `OK`.
    * **Link to Anchor in Text**: This option can be used to direct the user to a pre-existing anchor on the page.
         * Ensure that the "link type" dropdown menu is set to `Link to Anchor in the Text`.
+        
         ![Insert Anchor Image](images/selectAnchor.png)
+        
         * Select the anchor you would like this text to link to by selecting the anchor name from the "By Element ID" dropdown menu.
         * Once completed, select `OK`.
    * **Email**: Hyperlink text to an email address that, upon selection, will prompt the user to email the specified address.
         * Ensure that the "link type" dropdown menu is set to `E-mail`.
+        
         ![Insert Email Image](images/emailLink.png)
+        
         * Enter the email address you would like this text to hyperlink to.
         * If applicable, enter the email subject and message body into their respective fields.
         * Once completed, click `OK`.
