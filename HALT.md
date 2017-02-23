@@ -55,11 +55,11 @@ In the Drupal text editor, content creators have the choice between ordered (num
 
 ![Drupal text editor example list](/images/Lists example 2.png)
 
-####Nesting Lists
-
-![Nested lists example](/images/Nested list example.png)
+###Nesting Lists
 
 If you have a main list that requires a nested sub-list, you can use the same list formatting commands you would use in MS Word. To start a nested list, press `Enter` or `Return` from the main list item, then press `Tab`. Once the nested sub-list is complete and you need to return to the main list, press `Enter` or `Return` twice.
+
+![Nested lists example](/images/Nested list example.png)
 
 To create a list that uses both numbered points and bullet points, start with a nested list like the one pictured above. Then, highlight the list items you would like to convert to numbered points or bullet points, and then select the appropriate list button.
 
