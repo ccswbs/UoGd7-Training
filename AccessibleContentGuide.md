@@ -2,8 +2,7 @@
 
 This guide can be reffered to for assistance with many aspects of accessible content creation. 
 
- * [Accessible Design Benefits](Whyaccessibility.md)
- * [Accessibility Basics](AccessibilityBasics.md)
+ * [Accessibility Basics](/AccessibilityBasics.md)
  * [Content Titles & Headings](accessibility-guide/content-titles-and-headings.md)
  * [Links](accessibility-guide/links.md)
  * [Colour](accessibility-guide/colour.md)
