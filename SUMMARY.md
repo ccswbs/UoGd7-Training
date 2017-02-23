@@ -29,15 +29,15 @@
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
    * [Accessibility Basics](accessibility-guide/AccessibilityBasics.md)
-   * [Page Titles & Headings]
-   * [Links]
-   * [Colour]
-   * [Documents]
-   * [Images]
-   * [Tables]
-   * [Lists]
-   * [Audio & Video]
-   * [Other Accessible Content]
+   * [Content Titles & Headings](accessibility-guide/content-titles-and-headings.md)
+   * Links
+   * [Colour](accessibility-guide/colour.md)
+   * [Documents](accessibility-guide/documents.md)
+   * [Images](accessibility-guide/images.md)
+   * [Tables](accessibility-guide/tables.md)
+   * [Lists](accessibility-guide/lists.md)
+   * [Audio & Video](accessibility-guide/audio-video.md)
+   * [Other Accessible Content](accessibility-guide/other-accessible-content.md)
 * [Advanced Guide to Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
    * [Customizing Content Layout](customizingpage.md)
