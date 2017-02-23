@@ -26,6 +26,5 @@ For a list of all social media accounts attached to a website, add `/connect` to
 3. Click on `View Panes` and select either `S3` or `S4` views depending on your needs.
   * ![add button](../images/viewsocial.png)
 4. Select `Continue`.
-  * ![add button](../images/continue.png)
 5. Select `Finish`.
-  * ![add button](../images/final.png)
+  
