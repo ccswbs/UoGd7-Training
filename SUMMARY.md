@@ -28,7 +28,7 @@
    * [Social Media Account](features/howto-socialmedia.md)
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
-   * [Accessibility Basics](AccessibilityBasics.md)
+   * [Accessibility Basics](accessibility-guide/AccessibilityBasics.md)
    * [Page Titles]
    * [Headings]
    * [Links]
