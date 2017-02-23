@@ -92,7 +92,6 @@ By following the steps below, you can create a banner slideshow that is (a) filt
     5. Enter a description if needed.
     6. Select `Save`.
     7. After selecting save, take note of the term ID associated with your new term (you can find this is the URL when you edit the term after creating one and clicking the edit button). Write it down or remember it for later.
-   ![Demo block being created](../images/editBannerCategory.jpg)
    8. Navigate to each banner that you want to show in this slideshow and set its category to match the one you just created. For steps on how to do this follow the [Editing a Banner Image](howto-banner.md#editing-a-banner-image) section. 
 
 2. Create a Mini Panel for you new Banner Category
