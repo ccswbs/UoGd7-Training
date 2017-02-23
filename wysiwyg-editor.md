@@ -43,7 +43,7 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 
  ![image](images/imgsel.png)
  
-3. On the new popup window, select `Browse Server`. If the image is already uploaded to the website, then proceed to step 5.
+3. On the new popup window, select `Browse Server`. If the image is already uploaded, then proceed to step 5.
 
  ![image](images/imgprop.png)
  
