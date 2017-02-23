@@ -16,7 +16,9 @@
  ![Add Content Highlighted](/images/ambac.png)
 2. Select `Banner`.
 3. Once selected, the folowing page will appear.
+
  ![Banner Creation Page](/images/bannerCreate.png)
+ 
 3. Enter the required information:
     1. **Title**
     2. **Category**
@@ -32,7 +34,9 @@
 ## Editing a Banner Image
 1. On the Administration bar, select `Find Content`.
 2. Filter the content by "Banner" using the "type" dropdown menu.
+
  ![Banner Sort](/images/filterBanner.png)
+ 
 3. On the desired banner, select `edit`.
 4. Make the required changes.
 5. Once the above steps are completed, select `Save`.
@@ -41,7 +45,9 @@
 
 1. On the Administration bar, select `Find Content`.
 2. Filter the content by "Banner" using the "type" dropdown menu.
+
  ![Banner Sort](/images/filterBanner.png)
+ 
 3. On the desired banner, select `delete`. **!IMPORTANT!**: Ensure that you are removing the correct banner image.
 
 ## Displaying a Banner
