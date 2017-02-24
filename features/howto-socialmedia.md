@@ -4,18 +4,15 @@ The social media feature permits **Content Creators** to add social media links 
 For a list of all social media accounts attached to a website, add `/connect` to the end of the homepage URL (Eg. https://www.uoguelph.ca/ccs/connect).
 
 ## To Add Social Media
-2. From the Administration bar, select `Add Content`.
- * ![content](../images/Content.png)   
-2. Select `Social Media Account`.
- * ![Example of social media account option](../images/Social Media Account.png)
+2. From the Administration bar, navigate to `Add Content` > `Social Media Account`.
 3. Enter a **Title**.
-4. If you have an [Account Category](taxonomies.md#categories) defined, select the appropriate one.
+4. If you have an [Account Category](/taxonomies.md#categories) defined, select the appropriate one.
 5. Select the type of social media network from the drop down list.
 6. Enter your Account URL - *Usually found by going to your social media homepage and copying the URL.*
 7. Enter any *tags* or *keywords* that may assist in categorizing and organizing your social media.
  * ![Description](../images/Description.png)
 8. Select `Save` when you are done.
- * ![image of save button](../images/save.png)
+ 
 
 ## To Add Social Media Links to the Home Page:
 
