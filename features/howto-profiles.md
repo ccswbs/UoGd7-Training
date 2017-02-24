@@ -55,4 +55,18 @@ You have the ability to change the size and alignment of the pictures on the peo
 2. Select `Customize this page` at the bottom of the screen.
 3. You will see the PP1 view pane in the `Left` section, similar to this image:
  
- ![Example of PP1 view pane](/images/
+ ![Example of PP1 view pane](/images/profiles-PP1 view.png)
+ 
+4. To change either the size or alignment of the images, first, delete the PP1 viewpane by selecting the trash can button. This will *not* delete your people profiles. 
+5. Under the `Left` section, select `+` (plus sign). The "Add Content" window will open. 
+6. In the side menu, select `View panes`. From the list of view panes, select `View: PP6 Custom Listing`. 
+7. When the "Configure new View: PP6 Custom Listing" opens, check `Override title`, and ensure that the title field is **blank**.
+7. Check **ONE** of `Content: Image (Small Image)` or `Content: Image (Large Image)`. 
+8. Check `Content: Align names` if desired. This will ensure that on the listing page, names with no image are aligned with other names, for a neater presentation. 
+9. Select `Finish`. 
+
+ ![Example of Configure new View: PP6 Custom Listing Window](/images/profiles-configure PP6.png)
+ 
+10. When the configuration window closes, make sure to select `Save` at the bottom of the screen. 
+11. If you need to reconfigure the settings for the PP6 view pane, simply select the cog button at the top of the view pane. 
+
