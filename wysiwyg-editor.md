@@ -78,12 +78,10 @@ The **WCAG 2.0** standard for table settings dictates that table markup must be 
 The **WCAG 2.0** standard for links dictates that the purpose of each link can be determined by the link text alone (AAA), or by the link text and its surrounding context (AA).
 
 **Example** Do not use:
-
- * To search the internet click [here](www.google.ca).
+> To search the internet click [here](https://www.google.ca).
 
 Use this format instead:
-
- * [Visit Google's homepage](www.google.ca).
+> [Visit Google's homepage](https://www.google.ca).
 
 1. Ensure that the location you are trying to add the hyperlinked text to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, highlight the text in which you are trying to hyperlink.
@@ -108,7 +106,7 @@ Use this format instead:
         
         ![External URL Hyperlink](images/externalURL.png)
         
-        * Paste the link where you would like this text to hyperlink to (Eg:www.google.ca) in the "URL" field.
+        * Paste the link where you would like this text to hyperlink to (Eg: https://www.google.ca) in the "URL" field.
         * Once completed, select `OK`.
    * **Link to Anchor in Text**: This option can be used to direct the user to a pre-existing anchor on the page.
         * Ensure that the "link type" dropdown menu is set to `Link to Anchor in the Text`.
