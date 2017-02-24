@@ -5,6 +5,10 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
 
 ![Image example of an FAQ](../images/FAQexample.png)
 
+* [Creating FAQ Nodes](#creating-faq-nodes-questions-and-answers)
+* [FAQ Categories](#faq-categories)
+* [FAQ Tags](#faq-tags)
+
 ## Creating FAQ Nodes (Questions and Answers)
 1. On the Administration bar, navigate to `Add Content` > `FAQ`.
 2. If you have [FAQ categories](../taxonomies.md#categories) defined, select the appropriate one. See more information on categories below.
@@ -15,7 +19,7 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
 6. Enter any tags or keywords that help categorize and organize your FAQ page.
 7. Select `Save`.
    
-##FAQ Categories
+## FAQ Categories
 
 Your website may have a variety of FAQ that are directed at different groups of people. When this is the case, you can use categories and tags to organize FAQ.
 
@@ -34,7 +38,7 @@ Your website may have a variety of FAQ that are directed at different groups of 
 4. Using the "Category" drop-down menu, select the appropriate category. 
 5. Select `Save`.
 
-##FAQ Tags
+## FAQ Tags
 
 Your website may have some questions that apply to two or more groups of site users. In this case, you must use *tags* in addition to categories to organize FAQ, because a question can only belong to one category.
 
