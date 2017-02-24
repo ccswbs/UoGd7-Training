@@ -6,18 +6,15 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
 ![Image example of an FAQ](../images/FAQexample.png)
 
 ## Creating FAQ Nodes (Questions and Answers)
-1. On the Administration bar, select `Add Content`.
-![Add Content Highlighted](../images/ambac.png)
+1. On the Administration bar, navigate to `Add Content` > `FAQ`.
 2. If you have [FAQ categories](../taxonomies.md#categories) defined, select the appropriate one. See more information on categories below.
-3. Select `FAQ`.
 4. Enter the Question in the "Question" field.
 5. Enter the Answer in the "Answer" field.
 ![Image of an FAQ](../images/faq.png)
 
 6. Enter any tags or keywords that help categorize and organize your FAQ page.
 7. Select `Save`.
-    * ![Image of Save Button](../images/save.png)
-
+   
 ##FAQ Categories
 
 Your website may have a variety of FAQ that are directed at different groups of people. When this is the case, you can use categories and tags to organize FAQ.
