@@ -30,7 +30,7 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 * **Text Align (Left, Center, Right, Justify)**: Align selected text.
 * **Create Hyperlink (Chain link icon)**: Allows the user to hyperlink selected text.
 * **Remove Hyperlink (Chain link icon with x)**: Allows the user to remove a hyperlink from text.
-* **Create Anchor (Flag)**: Allows the user to create a text anchor. [More information about anchors]() below.
+* **Create Anchor (Flag)**: Allows the user to create a text anchor. More information about anchors below.
 
 ### Third Row
 * **Text Sizing Dropdown Menu**: Allows the user to place the selected text into headings. This should not be used for font sizing and should only be used to mark correct headings as headings.
@@ -78,10 +78,12 @@ The **WCAG 2.0** standard for table settings dictates that table markup must be 
 The **WCAG 2.0** standard for links dictates that the purpose of each link can be determined by the link text alone (AAA), or by the link text and its surrounding context (AA).
 
 **Example** Do not use:
->To search the internet click [here](www.google.ca).
+
+ * To search the internet click [here](www.google.ca).
 
 Use this format instead:
->[Visit Google's webpage](www.google.ca).
+
+ * [Visit Google's homepage](www.google.ca).
 
 1. Ensure that the location you are trying to add the hyperlinked text to is correct.
 2. In the respective Drupal Text (WYSIWYG) Editor, highlight the text in which you are trying to hyperlink.
