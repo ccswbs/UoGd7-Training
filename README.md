@@ -15,7 +15,7 @@ This manual is available to users in the following formats:
 This documentation provides users with an abundence of information. This information includes:
 * [Introduction to the Drupal Platform](Drupal_Features_Terms_Acroynms.md)
 * [Accessability Basics](accessibility-guide/AccessibilityBasics.md)
-* [Basic Beginners Guide to Website Architecture with Drupal](basicbeginner)
+* [Drupal Websites: Getting Started](basicbeginner.md)
 * [UG Drupal Content Types](ugcontenttypes.md)
 * Other Platform Provided Additions
 * [Style Guide](styleguide.md)
@@ -34,7 +34,7 @@ This documentation provides users with an abundence of information. This informa
 ### A Brief Description
 Websites are often thought of as a collection of static pages, perhaps with some functions like a blog or a comments section. Site managers often think of their site in terms of a tree-like hierarchy of pages that they will edit.
 
-**The University of Guelph Business Web & Development Solutions** department uses a **Content Management System** (CMS) called **Drupal**. Drupal, unlike traditional websites, treats most [Content Types](Drupal_Features_Terms_Acroynms.md#Content Type)  as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
+**The University of Guelph Business Web & Development Solutions** department uses a **Content Management System** (CMS) called **Drupal**. Drupal, unlike traditional websites, treats most [Content Types](Drupal_Features_Terms_Acroynms.md#Content-Type) as variations on the same concept: a *Node* (more on this in a moment). Static pages, blog posts, and news items (some possible node types) are all stored in the same way, and the site's navigation structure is designed separately by editing menus, views (lists of content), and blocks.
 
 ## Where to Start?
 A lot can be accomplished through exploration of the Drupal interface. Exploring the Drupal interface is probably the best way to learn how to use Drupal. Along with exploration, it is encouraged that you read the differenst sections of this documentation as many of the frequently asked questions have been answered and explained along with detailed documentation of the numerous content types associated with the Drupal platform that we provide.
