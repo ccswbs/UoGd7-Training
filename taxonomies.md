@@ -36,7 +36,7 @@ Vocabularies are managed on the Taxonomy page.
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be filled with terms.
 
 You may populate vocabularies with terms using `Add Term`.
-1. Navigate to `Structure -> Taxonomies`
+1. Navigate to `Structure` > `Taxonomies`
 2. Select `Add Term` for the vocabulary you want to edit. From there, Drupal will prompt for:
 
 * **Term name (Required)** - The name for this term. Example: Technology.
