@@ -12,9 +12,7 @@
 
 ## Creating a Banner Image
 
-1. On the Administration bar, select `Add Content`.
- ![Add Content Highlighted](/images/ambac.png)
-2. Select `Banner`.
+1. On the Administration bar, navigate to `Add Content` > `Banner`.
 3. Once selected, the folowing page will appear.
 
  ![Banner Creation Page](/images/bannerCreate.png)
