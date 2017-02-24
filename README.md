@@ -45,8 +45,8 @@ The University of Guelph Business Web & Development Solutions department strives
 
 Alternatively, if you want to directly contribute to this module, you have a few options:
 
-1. Submit a pull requests on github for updates or new chapters https://github.com/ccswbs/UoGd7-Training.git
-2. Subscribe to the repo and review new updates as they come in
+1. [Submit a pull request on github](https://github.com/ccswbs/UoGd7-Training.git) for updates or new chapters
+2. Subscribe to the repository and review new updates as they come in
 3. Contact CCS Web Business Solutions
 
 ### Basic Github Workflow Guidelines
