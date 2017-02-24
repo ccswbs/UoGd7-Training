@@ -13,10 +13,7 @@ The **Page** content type is used for static content that can be linked into the
 ![An Example of a Page](../images/paex.png "Example of a Basic Page")
 
 ## Creating a Page
-1. From the Administration bar, select `Add Content`.
- ![Add Content Highlighted](../images/ambac.png)
-2. Select `Page`.
- ![Page Option Selected](../images/addconpage.png)
+1. From the Administration bar, navigate to `Add Content` > `Page`.
 3. Enter the title of the page in the "Title" field.
 4. If you have [page categories](../taxonomies.md) defined, select the appropriate one. For more please see the [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page) section.
 5. Use the [Drupal Text (WYSIWYG) Editor](../wysiwyg-editor.md) to fill the page with your desired content.
