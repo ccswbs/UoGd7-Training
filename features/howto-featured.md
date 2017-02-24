@@ -9,7 +9,7 @@ The *Featured Item* allows **Content Creators** to create a lead-in to any page 
 2. Select `Feature`.
 ![Feature Option Selected](../images/addconfI.png)
 3. Enter a **Title**.
-4. If you have [page categories](../taxonomies.md#categories) defined, select the appropriate one.
+4. If you have [page categories](../taxonomies.md) defined, select the appropriate one.
 5. Upload an **Image** for the Featured Item by selecting `choose file`.
     * Add descriptive **alternative text**. If the image is a link, the alt text must describe the destination.
     * Featured images should be 760x570px and should pertain to the subject matter.
