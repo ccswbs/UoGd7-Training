@@ -2,9 +2,11 @@
 
 The people profiles feature allows **Content Creators** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on that member's name.
 
-**Before creating a profile, it is suggested that the following vocabularies are filled with terms. Otherwise, most of the people profile features will be unusable.**
+* [Using 
 
 ## Creating Terms for Vocabularies
+
+Before creating a profile, it is suggested that the following vocabularies are filled with terms. Otherwise, most of the people profile features will be unusable
 
 Add terms to the following:
 
@@ -15,7 +17,15 @@ Add terms to the following:
 * **Unit:** This describes the title of the department or faculty an individual is a part of.
 * **Sub-Unit:** This is the sub-unit of a department. Example: *Web Business Solutions* is a sub-unit of *CCS*.
 
-## To Add People Profiles
+###How to Add Volcabulary Terms
+
+1. Using the administration bar, navigate to `Structure` > `Taxonomy`.
+2. You will see a long list of vocabularies. Five of these vocabularies are related to people profiles: `profile cateogry`, `profile field headings`, `profile role`, `profile sub unit`, and `profile unit`. Select `list terms` for the vocaubulary you would like to add terms to. 
+2. From the vocabulary (list of terms) page, select `Add term`. 
+3. Enter a name for the term. Enter a description if needed. 
+4. Select `Save`. 
+
+##How to Add People Profiles
 
 1. On the Administration bar, select `Add Content`.
  * ![content](../images/Content.png)   
