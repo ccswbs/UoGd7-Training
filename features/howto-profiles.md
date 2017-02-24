@@ -29,13 +29,8 @@ Add terms to the following:
 
 ##How to Add People Profiles
 
-1. On the Administration bar, select `Add Content`.
- * ![content](../images/Content.png)   
-2. Select `Profile`.
-  * ![Example of people profile option](../images/profile.png)
-3. Enter a **Display Name**
-4. Add a **Preferred name** and **Last name** *(Optional)*.
-  * ![Example of adding names](../images/addnames.png)
+1. On the Administration bar, navigate to `Add Content` > `Profile`.
+4. Begin filling out the profile, starting with adding a **Preferred name** and **Last name**.
 7. Add a short **Summary** about the member.
 8. Select the `Category` from the drop-down menu *(optional)* . 
 9. Add a **Position/title** representing the member of the organization *(optional)*.
@@ -56,4 +51,4 @@ Add terms to the following:
 ##Customizing People Profiles Layout
 
 1. Navigate to www.uoguelph.ca/sitename/people, or navigate to your people profiles page via your site menu. 
-2. Select `Customize this page` at the bottom of the 
+2. Select `Customize this page` at the bottom of the screen. 
