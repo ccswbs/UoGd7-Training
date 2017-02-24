@@ -6,7 +6,7 @@ For a list of all social media accounts attached to a website, add `/connect` to
 ## To Add Social Media
 2. From the Administration bar, navigate to `Add Content` > `Social Media Account`.
 3. Enter a **Title**.
-4. If you have an [Account Category](/taxonomies.md#categories) defined, select the appropriate one.
+4. If you have an [Account Category](/taxonomies.md) defined, select the appropriate one.
 5. Select the type of social media network from the drop down list.
 6. Enter your Account URL - *Usually found by going to your social media homepage and copying the URL.*
 7. Enter any *tags* or *keywords* that may assist in categorizing and organizing your social media.
