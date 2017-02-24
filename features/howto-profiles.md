@@ -47,9 +47,9 @@ Do not confuse this vocabulary with `profile section labels` vocabulary, which i
 17. Enter any *tags or keywords* that help categorize and organize your people profiles.
 17. Select `Save` when you are done.
 
-##Customizing People Profiles Layout
+##Customizing People Profiles Listing Page
 
-You have the ability to change the size and alignment of the pictures on the people profile listing page, which is visible to site users. Follow these steps to customize your layout: 
+You have the ability to change the size and alignment of the pictures on the people profile listing page, which is visible to site users. Follow these steps to customize your listing page: 
 
 1. Navigate to www.uoguelph.ca/sitename/people, or navigate to your people profiles page via your site menu. 
 2. Select `Customize this page` at the bottom of the screen.
