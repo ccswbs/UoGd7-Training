@@ -25,6 +25,8 @@ Add terms to the following:
 3. Enter a name for the term. Enter a description if needed. 
 4. Select `Save`. 
 
+####Taxonomy: Profile Field Labels
+
 ##How to Add People Profiles
 
 1. On the Administration bar, select `Add Content`.
@@ -34,15 +36,6 @@ Add terms to the following:
 3. Enter a **Display Name**
 4. Add a **Preferred name** and **Last name** *(Optional)*.
   * ![Example of adding names](../images/addnames.png)
-5. In order to select the specific `Role(s)` associated with a profile, the roles need to be created. Select `Structure` on the administration bar and click `Taxonomy`.
-  * ![Example of taxonomy option](../images/taxonomy.png)
-6. Under **Role**, select `Add Terms`.
-  * ![Example of roles](../images/roles.png)
-7. Add a **Name** for the role and select `Save`. You can add as many roles as you like.
-  * ![Example of name option](../images/name.png)   
-  * ![image of save button option](../images/save.png)
-6. To add a profile `Unit` to be associated with a profile, it needs to first be created. Select `Structure` on the administration bar and click `Taxonomy`.  
-  * ![Example of roles and unit](../images/role_unit.png)
 7. Add a short **Summary** about the member.
 8. Select the `Category` from the drop-down menu *(optional)* . 
 9. Add a **Position/title** representing the member of the organization *(optional)*.
@@ -59,3 +52,8 @@ Add terms to the following:
  * ![Example of profile section option](../images/attachments.png)
 17. Select `Save` when you are done.
   * ![image of save button option](../images/save.png)
+
+##Customizing People Profiles Layout
+
+1. Navigate to www.uoguelph.ca/sitename/people, or navigate to your people profiles page via your site menu. 
+2. Select `Customize this page` at the bottom of the 
