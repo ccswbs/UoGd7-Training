@@ -6,7 +6,6 @@
 * [Introduction to Siteimprove Quality Assurance](siteimprove.md#introduction-to-siteimprove-quality-assurance)
 * [Correcting Spelling Mistakes](siteimprove.md#correcting-spelling-mistakes)
 * [Fixing a Broken Link](siteimprove.md#fixing-a-broken-link)
-* [Fixing Accessibility Issues](siteimprove.md#fixing-accessibility-issues)
 
 ## What is Siteimprove Quality Assurance?
 * Siteimprove is a service that regularly crawls your organizational website and tracks any broken links, spelling errors, and accessibility issues.
