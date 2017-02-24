@@ -1,11 +1,7 @@
 # Taxonomies
 
 ## Summary
-*Taxonomy* is the practice of classifying content. In Drupal, the
-taxonomy module allows you to classify your website content, and it can
-be an important part of your information architecture. This module is
-useful for everything from menu and navigation organization, to view
-& display options.
+*Taxonomy* is the practice of classifying content. In Drupal, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture. This module is useful for everything from menu and navigation organization, to view & display options.
 
 ## Planning Taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next, terms that fall within that vocabulary are defined. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The University of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
@@ -28,7 +24,7 @@ advance.
 
 ## Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
-* It is found under `Administration Bar -> Structure` (i.e. http://yoururl/admin/structure/taxonomy)
+* It is found under `Administration Bar` > `Structure` (i.e. http://yoururl/admin/structure/taxonomy)
 
 ![Administration Menu Bar with Structure selected.](images/ambs.png)
 
@@ -45,7 +41,7 @@ You may populate vocabularies with terms using `Add Term`.
 
 To view or manage the terms of each vocabulary:
 
-1.  Navigate to `Structure -> Taxonomies`
+1.  Navigate to `Structure` > `Taxonomies`
 2.  Click on its `list terms` link
 3.  On the `list terms` page you can edit each term by clicking the
     `edit` link. On the edit term page you have several choices:
