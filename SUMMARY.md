@@ -23,6 +23,7 @@
    * [Featured Item](features/howto-featured.md)
    * [News](features/howto-news.md)
    * [Page](features/howto-page.md)
+      * [File Attachments](features/howto-page.md#attaching-a-file-to-a-page)
    * [People Profiles](features/howto-profiles.md)
    * [Service](howto-services.md)
    * [Social Media Account](features/howto-socialmedia.md)
