@@ -94,6 +94,18 @@ To attach a document to the page, please follow these steps:
     * **Display Checkbox**: If checked, the page attachment is visible to all users. If unchecked, the file remains attached to the page and can be linked to, but it is not visible to site users. 
     * **Remove Button**: Once selected, the attachment is removed.
 
+### Linking to Attached Files
+
+If you would like to create a link to a file on your webpage, the AODA Remediation Team recommends attaching the file to the page first. 
+To link to an attached file, follow these steps:
+
+1. In the Drupal text editor, locate the piece of text you would like to use for your link text and highlight it.
+2. With the link text highlighted, click the "link" button. This will open the link dialog box
+4. From the "Link Type" dropdown menu, select `URL`.
+5. With the file opened in a new tab, copy the **path** and paste it into the URL field. The path is the part of the URL **after** https://www.uoguelph.ca/sitename/.
+5. Select `OK`.
+6. Scroll to the bottom of the editing page and select `Save`.
+
 ## Assigning a Category to a Page
 
 Page categories allow for pages to be sorted via the given term/category.
