@@ -49,7 +49,9 @@ Select the `Add Content` shortcut located in the Administration Bar.
 Select the `Content` button in the Administration Bar and then selecting the `Add Content` option.
 
 Both Option 1 and Option 2 will bring you to the "Add Content" menu.
+
 ![Add Content Menu](images/addcon.png)
+
 From this step, select the content type in which you would like to add content.
 For more information in regards to each content type, please visit the [UG Drupal Content Types](ugcontenttypes.md) section.
 
