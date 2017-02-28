@@ -16,7 +16,9 @@ This guide will cover:
 ## How to Log in/Log out
 ### Logging In
 1. Navigate to your website: www.uoguelph.ca/*sitename*/user. Once there, you will be brought to the following page:
-![Login example](images/userlogin.png)
+
+ ![Login example](images/userlogin.png)
+
 2. Enter your Central Login ID in the "Username" field.
 3. Enter your Central Login Password in the "Password" field.
 4. Select `Log in`.
