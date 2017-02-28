@@ -4,9 +4,11 @@ When you add images to a web page, consider the fact that some users cannot see 
 
 ##Writing appropriate alternative "alt" text
 * Describe the purpose of the image and not necessarily the image itself. 
+    * If the image is functional, use the alt text to summarize the information provided or describe its purpose. 
     * If the image is hyperlinked, it is important to describe the link destination, or what happens when the linked image is selected.
     * If the image is solely used for decorative purposes such as creating ambience or visual context, then it should have no alternative text (empty alt atribute --> `alt=""`)
-    * If the image contains information that can only be found within the image, then that information should be given in the alternative text.
+    
+For more information on accessible images, please see the [W3C Image Tutorial](https://www.w3.org/WAI/tutorials/images/).
     
 ##Avoid using images of text
 
