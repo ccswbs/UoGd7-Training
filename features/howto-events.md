@@ -5,10 +5,7 @@ The Events feature allows **Content Creators** to add events to the website and 
 
 ## To Create an Event
 
-1. Select `Add Content` at the top of the administration bar.
-![Add Content Highlighted](../images/ambac.png)
-2. Select `Event`.
-![Add Event Highlighted](../images/addconev.png)
+1. From the top administration bar, navigate to `Add Content` > `Event`.
 3. Enter a **Title**.
 4. Enter the starting and ending **Dates and Time**.
 ![An example of Event Title and Time](../images/eventtitletime.png)
