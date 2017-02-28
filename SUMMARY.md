@@ -49,7 +49,7 @@
    * [Lists](accessibility-guide/lists.md)
    * [Audio & Video](accessibility-guide/audio-video.md)
    * [Other Accessible Content](accessibility-guide/other-accessible-content.md)
-* [Advanced Guide to Drupal Websites](advancedGuide.md)
+* [Advanced Topics in Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
    * [Customizing Content Layout](customizingpage.md)
    * [Google Maps](GoogleMaps.md)
