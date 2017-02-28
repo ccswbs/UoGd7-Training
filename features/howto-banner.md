@@ -21,7 +21,7 @@
     1. **Title**
     2. **Category**
     3. **Headline:** The main text attached to the image of the banner.
-    4. **Headline Link:** Used to hyperlink the headline text. The headline link can link to any URL. If the link is internal, please use a relative path. The headline link is currently mandatory (we are working on making it optional), but if you do not have an appropriate page to link the banner to, then simply link it to the front page by entering `<front>` in the field.
+    4. **Headline Link:** Used to hyperlink the headline text. The headline link can link to any URL. If the link is internal, please use a relative path. The headline link is mandatory.
     5. **Image**: Choose the image that you would like to upload as the banner. Then select `Upload`.
     6. **Alt Text**: You must enter Alt text describing the image if it is non-decorative.
     7. **Summary (Optional)**: Appears below the headline of the banner image.
