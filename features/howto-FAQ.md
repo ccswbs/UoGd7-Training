@@ -3,11 +3,11 @@ The *Frequently Asked Questions (FAQ)* feature allows **content editors** to cre
 
 The FAQ page is automatically generated from the FAQ nodes configured and the layout of this page can be modified on the settings page. The generated FAQ page is always found at www.uoguelph.ca/sitename/faq.
 
-![Image example of an FAQ](../images/FAQexample.png)
-
 * [Creating FAQ Nodes](#creating-faq-nodes-questions-and-answers)
 * [FAQ Categories](#faq-categories)
 * [FAQ Tags](#faq-tags)
+
+![Image example of an FAQ](../images/FAQexample.png)
 
 ## Creating FAQ Nodes (Questions and Answers)
 1. On the Administration bar, navigate to `Add Content` > `FAQ`.
