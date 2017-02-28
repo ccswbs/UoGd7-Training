@@ -22,4 +22,3 @@ The Events feature allows **Content Creators** to add events to the website and 
 9. Add any files relevant to the Event and enter, and/or a related website with a descriptive title.
 10. If you have the proper authority to publish, select `Published` in "Publishing options."
 9. Select `Save`.
-![Image of Save Button](../images/save.png)
