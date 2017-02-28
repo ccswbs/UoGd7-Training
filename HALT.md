@@ -24,7 +24,7 @@ In HTML, headings are denoted with `<h>` tags. These tags have six levels:
 
 ![Heading Tag Levels H1-H6](/images/heading-tags.jpg) ![Heading Tags with Subheadings Shown](/images/heading-subheads.gif)
 
-When using Drupal, you can set headings with the rich text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the drop-down menu:
+When using Drupal, you can set headings with the rich text editor, also known as the WYSIWYG editor. Highlight some text, and then select a heading level from the "paragraph format" drop-down menu:
 
 ![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG 2.png)
 
@@ -66,7 +66,7 @@ Tables are useful for organizing information into a grid of cells. To make sure 
 
 1. Start by selecting the table button in the Drupal text editor.
 ![Highlight of the table button in the Drupal text editor](/images/tables 1.png)
-2. The following dialog box will appear. Enter the appropriate number of rows and columns.
+2. The Tabel Properties dialog box will appear. Enter the appropriate number of rows and columns.
 ![Table properties dialog box](/images/tables 2.png)
 3. Using the drop-down `Headers` menu, select your preference for column and row headers. This will bold the text in the selected cells.
 4. Add a caption to the table. This will serve as its title. 
