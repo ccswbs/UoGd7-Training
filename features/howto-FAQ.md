@@ -38,7 +38,7 @@ Your website may have a variety of FAQ that are directed at different groups of 
 4. Using the "Category" drop-down menu, select the appropriate category. 
 5. Select `Save`.
 
-## FAQ Tags
+## FAQ Keywords
 
 Your website may have some questions that apply to two or more groups of site users. In this case, you must use *tags* in addition to categories to organize FAQ, because a question can only belong to one category.
 
