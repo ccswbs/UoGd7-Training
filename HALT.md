@@ -58,16 +58,6 @@ In the Drupal text editor, content creators have the choice between ordered (num
 
 ![Drupal text editor example list](/images/Lists example 2.png)
 
-###Nesting Lists
-
-If you have a main list that requires a nested sub-list, you can use the same list formatting commands you would use in MS Word. To start a nested list, press `Enter` or `Return` from the main list item, then press `Tab`. Once the nested sub-list is complete and you need to return to the main list, press `Enter` or `Return` twice.
-
-![Nested lists example](/images/Nested list example.png)
-
-To create a list that uses both numbered points and bullet points, start with a nested list like the one pictured above. Then, highlight the list items you would like to convert to numbered points or bullet points, and then select the appropriate list button.
-
-![Mixed nested list example](images/Mixed list example.png)
-
 ##Tables
 
 Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider dividing the information into multiple tables if possible. In order to assess complexity, imagine hearing the information over the phone. Can the it be understood without a visual aid? 
