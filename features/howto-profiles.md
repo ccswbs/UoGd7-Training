@@ -65,7 +65,7 @@ You have the ability to change the size and alignment of the pictures on the peo
 
  ![Example of Configure new View: PP6 Custom Listing Window](/images/profiles-configure PP6-2.png)
  
- 9. Select `Finish`.
+9. Select `Finish`.
 10. When the configuration window closes, make sure to select `Save` at the bottom of the screen. 
 11. If you need to reconfigure the settings for the PP6 view pane, simply select the cog button at the top of the view pane. 
 
