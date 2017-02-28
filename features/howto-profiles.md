@@ -4,7 +4,7 @@ The people profiles feature allows **Content Creators** to create and edit an or
 
 * [Using Taxonomy for People Profiles](#creating-terms-for-vocabularies)
 * [How to Add People Profiles](#how-to-add-people-profiles)
-* [Customizing People Profiles Layout](#customizing-people-profiles-layout)
+* [Customizing People Profiles Layout](#customizing-people-profiles-listing-page)
 
 ## Creating Terms for Vocabularies
 
