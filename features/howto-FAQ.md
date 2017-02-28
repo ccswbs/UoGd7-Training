@@ -14,6 +14,7 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
 2. If you have [FAQ categories](../taxonomies.md#categories) defined, select the appropriate one. See more information on categories below.
 4. Enter the Question in the "Question" field.
 5. Enter the Answer in the "Answer" field.
+
 ![Image of an FAQ](../images/faq.png)
 
 6. Enter any tags or keywords that help categorize and organize your FAQ page.
@@ -56,7 +57,10 @@ Additionally, tags can be used across Drupal content types, not just FAQ. This m
 2. From your FAQ page, select a question. You will be brought to that question's page.
 3. Select `Edit`.
 4. In the "Keywords" field, type in the name of the tag. You can add multiple tags if needed, separated by a comma and a space.
+
  ![FAQ Keyword Field](/images/FAQ-tags.png)
+ 
 5. Select `Save`.
 6. When you return to the question page you were editing, you should see a listing of its associated keywords (tags) in the sidebar.
+
  ![FAQ Associated Keyword Listing](/images/FAQ-keyword listing.png)
