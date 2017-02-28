@@ -4,10 +4,7 @@ The *Featured Item* allows **Content Creators** to create a lead-in to any page 
 ![An Example of a Featured Item](../images/fIex.png)
 
 ## To Create a Featured Item
-1. Select `Add Content` at the top of the administration bar.
-![Add Content Highlighted](../images/ambac.png)
-2. Select `Feature`.
-![Feature Option Selected](../images/addconfI.png)
+1. From the top administration bar, navigate to `Add Content` > `Feature`.
 3. Enter a **Title**.
 4. If you have [page categories](../taxonomies.md) defined, select the appropriate one.
 5. Upload an **Image** for the Featured Item by selecting `choose file`.
