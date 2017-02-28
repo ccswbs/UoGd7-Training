@@ -22,7 +22,7 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
    
 ## FAQ Categories
 
-Your website may have a variety of FAQ that are directed at different groups of people. When this is the case, you can use categories and tags to organize FAQ.
+Your website may have a variety of FAQ that are directed at different groups of people. When this is the case, you can use categories organize FAQ. One FAQ can only be associated with **one** category. 
 
 ###Creating FAQ Categories
 1. When logged into your website, navigate to `Structure` > `Taxonomy`.
@@ -41,7 +41,7 @@ Your website may have a variety of FAQ that are directed at different groups of 
 
 ## FAQ Keywords
 
-Your website may have some questions that apply to two or more groups of site users. In this case, you must use *tags* in addition to categories to organize FAQ, because a question can only belong to one category.
+Your website may have some questions that apply to two or more groups of site users. In this case, you must use *keywords* instead of categories to organize FAQ.
 
 Additionally, tags can be used across Drupal content types, not just FAQ. This means you can tag a variety of news articles, events, FAQ, features, and more, as they pertain to a particular group. 
 
