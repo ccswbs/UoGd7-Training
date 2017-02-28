@@ -44,14 +44,14 @@ Your website may have some questions that apply to two or more groups of site us
 
 Additionally, tags can be used across Drupal content types, not just FAQ. This means you can tag a variety of news articles, events, FAQ, features, and more, as they pertain to a particular group. 
 
-###Creating Tags
+###Creating Keywords
 1. When logged into your website, navigate to `Structure` > `Taxonomy`.
 2. Select `list terms` from the `Tags` row.
 3. Select `Add term`.
 4. Enter a name for the tag. Keep in mind that these names will be visible to your site users. Examples include "Undergraduate Students" and "Graduate Students."
 5. Select `Save`.
 
-###Associating Tags with FAQ Nodes
+###Associating Keywords with FAQ Nodes
 1. Now that you have created a tag, you need to associate questions with it. 
 2. From your FAQ page, select a question. You will be brought to that question's page.
 3. Select `Edit`.
