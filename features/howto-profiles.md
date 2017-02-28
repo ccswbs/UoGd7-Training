@@ -20,7 +20,7 @@ Add terms to the following:
 6. **Profile unit:** This describes the title of the department or faculty an individual is a part of.
 7. **Profile sub unit:** This is the sub-unit of a department. Example: *Web Business Solutions* is a sub-unit of *CCS*.
 
-###How to Add Volcabulary Terms
+###How to Add Vocabulary Terms
 
 1. Using the administration bar, navigate to `Structure` > `Taxonomy`.
 2. You will see a long list of vocabularies. Seven of these vocabularies (listed above) are related to people profiles. Select `list terms` for the vocaubulary you would like to add terms to. 
