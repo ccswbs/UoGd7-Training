@@ -3,7 +3,7 @@
 Services are a content type that 
 
 * [How to Add Services](#how-to-add-services)
-* [Creating Service Detail Headings]
+* [Creating Service Detail Headings](#creating-service-detail-headings)
 
 ##How to Add Services
 
