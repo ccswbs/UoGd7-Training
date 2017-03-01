@@ -6,7 +6,7 @@
 * [Creating Service Categories](#creating-service-categories)
 * [Creating Service Detail Headings](#creating-service-detail-headings)
 * [Creating Service Audiences](#creating-service-audiences)
-* [Creating Internal Notes Headings](#internal-notes--headings)
+* [Creating Internal Notes Headings](#creating-internal-notes-headings)
 
 **/!\ Note:** Before adding a service, make sure to use [Taxonomy](/taxonomies.md) to add service categories, service detail headings, service audiences, and internal notes headings. Instructions are found on this page. 
 
