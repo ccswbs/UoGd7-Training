@@ -6,7 +6,9 @@
 * [Creating Service Categories](#creating-service-categories)
 * [Creating Service Detail Headings](#creating-service-detail-headings)
 * [Creating Service Audiences](#creating-service-audiences)
-* [Internal Notes & Headings](#internal-notes--headings)
+* [Creating Internal Notes Headings](#internal-notes--headings)
+
+**/!\ Note:** Before adding a service, make sure to use [Taxonomy](/taxonomies.md) to add service categories, service detail headings, service audiences, and internal notes headings. Instructions are found on this page. 
 
 ##How to Add Services
 
@@ -14,9 +16,15 @@
 2. Enter a title for the service.
 3. Select the correct service category. 
 4. Add a brief description of the service and a price, in the "price" text field, if applicable. 
-5. Use the "Service Details" section to add more information about the services. This can be broken up into sections using the `Add another item` button. In order to save service details, you must select a predefined heading.
+5. If needed, add more content in the "Service Details" section. Select `Add another item` to add more detail sections. 
+6. Under "Who can use this service?" check the appropriate audience(s).
+7. If needed, add internal notes. These are not visible to website users. 
+8. If appropriate, add Keywords and select any Related Services. 
+9. Select `Save`. 
 
 ##Creating Service Categories
+
+1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
 
 ##Creating Service Detail Headings
 
@@ -25,4 +33,9 @@
 
 ##Creating Service Audiences
 
-##Internal Notes & Headings
+1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
+
+##Creating Internal Notes Headings
+
+1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
+
