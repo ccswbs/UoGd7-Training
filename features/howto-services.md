@@ -3,10 +3,10 @@
 "Service" is a UG Drupal content type that designed for departments that offer a variety of detailed services. The content type provides a convenient way to describe services, and can also organize services by the audience they are directed at. 
 
 * [How to Add Services](#how-to-add-services)
-* [Creating Service Categories]
+* [Creating Service Categories](#creating-service-categories)
 * [Creating Service Detail Headings](#creating-service-detail-headings)
-* [Creating Service Audiences]
-* [Internal Notes & Headings]
+* [Creating Service Audiences](#creating-service-audiences)
+* [Internal Notes & Headings](#internal-notes--headings)
 
 ##How to Add Services
 
