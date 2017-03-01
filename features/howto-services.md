@@ -3,16 +3,19 @@
 Services are a content type that 
 
 * [How to Add Services](#how-to-add-services)
+* [Creating Service Categories]
 * [Creating Service Detail Headings](#creating-service-detail-headings)
 
 ##How to Add Services
 
 1. From the top administration bar, navigate to `Add Content` > `Service`.
 2. Enter a title for the service.
-3. If you have service categories defined, select the appropriate one. For more information on categories, see [Taxonomies](/taxonomies.md).
+3. Select the correct service category. 
 4. Add a brief description of the service and a price, in the "price" text field, if applicable. 
 5. Use the "Service Details" section to add more information about the services. This can be broken up into sections using the `Add another item` button. In order to save service details, you must select a predefined heading.
 6. 
+
+##Creating Service Categories
 
 ##Creating Service Detail Headings
 
