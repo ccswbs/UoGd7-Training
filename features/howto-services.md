@@ -25,17 +25,28 @@
 ##Creating Service Categories
 
 1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
+2. In the "Service category" row, select `add terms`. 
+3. Enter a name. Select a service icon from the drop-down menu if desired. 
+4. Select `Save`. 
 
 ##Creating Service Detail Headings
 
 1. From the top administration bar, navigate to `Structure` > `Taxonomy`. 
-2. You will see two vocabularies called "Service public heading" (visible to users) and "Service private heading" (not visible to users). Select `list terms` for either of them.
+2. In the "Service public heading" row, select `add terms`. 
+3. Enter a name.
+4. Select `Save`. 
 
 ##Creating Service Audiences
 
 1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
+2. In the "Service audience" row, select `add terms`. 
+3. Enter a name.
+4. Select `Save`. 
 
 ##Creating Internal Notes Headings
 
 1. From the top administration bar, navigate to `Structure` > `Taxonomy`.
+2. In the "Service private heading" row, select `add terms`. 
+3. Enter a name.
+4. Select `Save`. 
 
