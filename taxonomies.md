@@ -1,7 +1,6 @@
 # Taxonomies
 
-## Summary
-*Taxonomy* is the practice of classifying content. In Drupal, the taxonomy module allows you to classify your website content, and it can be an important part of your information architecture. This module is useful for everything from menu and navigation organization, to view & display options.
+*Taxonomy* is the practice of classifying content. In Drupal, the taxonomy module allows you to classify your website content and direct it at certain audiences. This module is useful for everything from menu and navigation organization, to view & display options.
 
 ## Planning Taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next, terms that fall within that vocabulary are defined. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The University of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
@@ -12,12 +11,12 @@ An example of how you might create taxonomy for a site using our predefined voca
 
 **Term = Workshops**
 
-Our platform uses a *controlled vocabulary*, in which only Site Managers can assign terms to vocabularies. Site Managers must add the terms in advance.
+Our platform uses a *controlled vocabulary*, in which only Site Managers can assign terms to vocabularies.
 
 ## Taxonomy Principles
 * Each vocabulary consists of a set of terms associated with a particular feature.
 * Each vocabulary can contain an unlimited number of terms.
-* *Keywords* are a type of "tagging" vocabulary shared amongst all that can be used as a general keyword filter.
+* *Keywords* are a type of "tagging" vocabulary shared amongst all content types.
 
 ## Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
