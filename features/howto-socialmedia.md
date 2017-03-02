@@ -23,6 +23,8 @@ For a list of all social media accounts attached to a website, add `/connect` to
  * ![Description](../images/Description.png)
 8. Select `Save` when you are done.
 
+_____
+
 **Next**, add the view pane to display social media icons: 
 
 ### To Display Social Media Icons:
@@ -35,6 +37,8 @@ For a list of all social media accounts attached to a website, add `/connect` to
 4. Select `Continue`.
 5. Select `Finish`.
   
+______
+
 ## To Add a Live Twitter Feed to the Home Page:
 
 1. From the top administration bar, navigate to `Configuration` > `Web Services` > `Twitter`. 
