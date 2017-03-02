@@ -11,7 +11,7 @@ For a list of all social media accounts attached to a website, add `/connect` to
  
 ## To Add "Follow Us" Social Media Links:
 
-First, add a social media account:
+**First**, add a social media account:
 
 ### To Add a Social Media Account:
 2. From the Administration bar, navigate to `Add Content` > `Social Media Account`.
@@ -23,7 +23,7 @@ First, add a social media account:
  * ![Description](../images/Description.png)
 8. Select `Save` when you are done.
 
-Next, add the view pane to display social media icons: 
+**Next**, add the view pane to display social media icons: 
 
 ### To Display Social Media Icons:
 1. Go back to the *Home page* and select `Customize this page` at the bottom of the Web Page.
