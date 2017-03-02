@@ -6,16 +6,13 @@
 ## Planning Taxonomies
 The first step in establishing a taxonomy is creating a new vocabulary. Next, terms that fall within that vocabulary are defined. The arrangement can be "flat", as in a tagging system, or hierarchical, with parents and children. The University of Guelph's Drupal framework treats all terms as flat within the defined vocabulary.
 
-An example of how you might create taxonomy for a site using our
-predefined vocabularies:
+An example of how you might create taxonomy for a site using our predefined vocabularies:
 
 **Vocabulary = Page Category**
 
 **Term = Workshops**
 
-Our platform uses a *controlled vocabulary*, in which only Site Managers
-can assign terms to vocabularies. Site Managers must add the terms in
-advance.
+Our platform uses a *controlled vocabulary*, in which only Site Managers can assign terms to vocabularies. Site Managers must add the terms in advance.
 
 ## Taxonomy Principles
 * Each vocabulary consists of a set of terms associated with a particular feature.
@@ -25,8 +22,6 @@ advance.
 ## Working With Taxonomies
 Vocabularies are managed on the Taxonomy page.
 * It is found under `Administration Bar` > `Structure` (i.e. http://yoururl/admin/structure/taxonomy)
-
-![Administration Menu Bar with Structure selected.](images/ambs.png)
 
 ### Adding Terms
 The University of Guelph Drupal 7 template comes with a list of predefined vocabularies used by multiple UoG Modules. Most of these may need to be filled with terms.
@@ -43,15 +38,8 @@ To view or manage the terms of each vocabulary:
 
 1.  Navigate to `Structure` > `Taxonomies`
 2.  Click on its `list terms` link
-3.  On the `list terms` page you can edit each term by clicking the
-    `edit` link. On the edit term page you have several choices:
--   You must assign your term a name as a “nameless term” does
-    not exist.
--   You can delete a term altogether.
-
-On the "List Terms" page you can edit each term by clicking the `edit` link. You can delete a term from the edit page.
+3.  On the "List Terms" page you can edit each term by clicking the `edit` link. You can also a delete a term from here. 
 
 ### Filtering with Taxonomies
 
-The taxonomy filter is designed to assist narrowing down taxonomy
-listings to find topics that are tagged by multiple terms.
+The taxonomy filter is designed to assist narrowing down taxonomy listings to find topics that are tagged by multiple terms.
