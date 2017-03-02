@@ -5,8 +5,8 @@ Drupal also allows live social media feeds to be shown on your webiste.
 
 For a list of all social media accounts attached to a website, add `/connect` to the end of the homepage URL (Eg. https://www.uoguelph.ca/ccs/connect).
 
- * [Follow Us Links]()
- * [Live Social Media Feeds]()
+ * [Follow Us Links](#to-add-follow-us-social-media-links)
+ * [Live Social Media Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
  
  
 ## To Add "Follow Us" Social Media Links:
