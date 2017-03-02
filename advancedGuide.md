@@ -7,3 +7,4 @@ The Advanced Guide to Drupal websites will cover:
 * [Customizing Content Layout](customizingpage.md)
 * [Google Maps](GoogleMaps.md)
 * [Google reCAPTCHA](recaptcha.md)
+* [Drupal Workbench](workbench.md)
