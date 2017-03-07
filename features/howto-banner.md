@@ -102,7 +102,18 @@ By following the steps below, you can create a banner slideshow that is (a) filt
     6. Select `Continue`. 
     7. Select `Continue` again. 
     8. Select `Continue` again.
-    9. Select `Finish`.
+    9. Select the cog icon in the top left corner of the Top section.
+    10. Select `add content`.
+    11. Under `View panes` select `View: B1 - Image lider (Banner): Manual`.
+    12. Add the category name in the category box and enter the number of items to show.
+    13. Select `Finish`.
+    14. Select the cog icon in the top left corner of the Top section.
+    15. Under `Style` select `change`.
+    16. Select `Bootstrap` and `Save`.
+    17. Select the cog icon on the right side of `View: B1...` 
+    18. Under `Style` select `change`. 
+    19. Select `No markup at all` and `Next`.
+    20. Select `Finish`.
 
 3. Place your Mini Panel
     1. On the Administration bar, select `Structure`.
