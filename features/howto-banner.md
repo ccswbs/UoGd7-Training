@@ -118,16 +118,8 @@ By following the steps below, you can create a banner slideshow that is (a) filt
 3. Place your Mini Panel
     1. On the Administration bar, select `Structure`.
     2. Select `Blocks`.
-      3. Locate the Banner Mini panel you created in Step 2. Configure the settings for the banner using the steps from [Displaying a Banner](howto-banner.md#displaying-a-banner). Ensure that you specify the pages you would like to add the banner to.
-
-4. Add a Category-filtered Banner View Pane to your Mini Panel
-    1. Navigate to one of the pages where you have configured your banner mini-panel to show.
-    3. Select `Customize this page`. 
-    4. In the "Top" region, select `+` (plus sign) and select View panes / View: B1 - Image slider (Banner): Manual.
-    5. Select `Save`.
-    6. Select `Customize this page` again.
-    7. In the "Top" region, you will see the view pane you just added. Select the "settings" cog icon for this view pane.
-    8. Under Category, specify the term ID that you created in Banner category for this slideshow. (Reference Step 1, Sub-step 7)
-    9. Under "Num items," specify the number of items you wish to show in this banner slideshow.
-   10. Select `Finish`.
-   11. Select `Save`.
+    3. Locate the minipanel you just created, select `Configure`.
+    4. Under `UG Cornerstone Theme (default theme)` select top bar.
+    5. Configure which pages you would like to display your banner on by adding their paths to and selecting `Only the listed pages` or select the pages you do not want to display the banner by adding their paths and selecting `All pages except those listed`.
+    6. To add the banner to the front page, add `<Front>` and select `Only the listed pages`.
+    6. Select `Save Blocks`.
