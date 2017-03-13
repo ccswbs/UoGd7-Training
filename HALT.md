@@ -54,7 +54,7 @@ Alternative text, or "alt text" for short, is a brief description of a image on 
 
 Lists are an important feature for organizing information on a web page. For a web page to be accessible, any content that is visually presented as a list must also be marked up as a list in the source code. 
 
-In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bulleted) lists. When creating a list, either select one of two list buttons and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press the `Enter` or `Return` key to go to the next list item, and press `Tab` to start a sub-list or nested list. Once the nested sub-list is complete and you need to return to the main list, press `Enter` or `Return` twice.
+In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bulleted) lists. When creating a list, either select one of two list buttons and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press `Enter` to go to the next list item, and press `Tab` to start a sub-list or nested list. Once the nested sub-list is complete and you need to return to the main list, press `Enter` twice.
 
 ![Drupal text editor example list](/images/Lists example 2.png)
 
