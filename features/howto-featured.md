@@ -37,3 +37,5 @@ In-Place Editor allows you to arrange panes and edit some settings on the fly.
 5. Select `Finish`.
   
 ## Features Listing Page
+
+If you navigate to www.uoguelph.ca/sitename/features, you will find the Features listing page, where a list of all your features is stored. 
