@@ -1,6 +1,10 @@
 # How to Create a Featured Item
 The *Featured Item* allows **Content Creators** to create a lead-in to any page content on the website (e.g. Events, News, Basic Page, People Profiles, etc.) or an external URL. Featured Items are usually set to be displayed on the front page.
 
+* [Creating a Featuered Item](#to-create-a-featured-item)
+* [Featured Item Views](#featured-item-views)
+* [Features Listing Page](#features-listing-page)
+
 ![An Example of a Featured Item](../images/fIex.png)
 
 ## To Create a Featured Item
@@ -32,3 +36,4 @@ In-Place Editor allows you to arrange panes and edit some settings on the fly.
 4. Select `Continue`.
 5. Select `Finish`.
   
+## Features Listing Page
