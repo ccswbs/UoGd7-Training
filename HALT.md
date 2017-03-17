@@ -6,7 +6,7 @@ Small changes based on these guidelines will make a big difference for assistive
 
 ## What is H.A.L.T?
 
-[*** H ***eadings](#headings)
+[**H**eadings](#headings)
 
 [***A***lternative Text](#alternative-text)
 
