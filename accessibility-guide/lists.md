@@ -1,4 +1,4 @@
-#Lists
+# Lists
 
 Lists are an important feature for organizing information on a web page. For a web page to be accessible, any content that is visually presented as a list must also be marked up as a list in the source code. 
 
@@ -9,7 +9,7 @@ In the Drupal text editor, content creators have the choice between ordered (num
 **/!\ Strong Recomendation**: The AODA Team strongly suggests that items that appear to be in a list on the page are also placed in a list in the code. Example: A list of links under a heading can be placed in a list. Avoid just making dots that
 look like a list (such as asterisk, dash etc.).
 
-##Nesting Lists
+## Nesting Lists
 
 If you have a main list that requires a nested sub-list, you can use the same list formatting commands you would use in MS Word. To start a nested list, press `Enter` from the main list item, then press `Tab`. Once the nested sub-list is complete and you need to return to the main list, press `Enter` twice.
 
