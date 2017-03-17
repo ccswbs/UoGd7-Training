@@ -1,4 +1,4 @@
-#Links
+# Links
 
 * [Accessible Links](#accessible-links)
 * [External Links](#external-links)
@@ -6,11 +6,11 @@
 * [Email Links](#email-links)
 * [Anchor Links](#anchor-links)
 
-##Accessible Links
+## Accessible Links
 
 When adding links to a page, ensure that the user can determine the destination of the link. Avoid using ambiguous terms like "click here," "more," or "this" for link text. Instead, use descriptive link text to help users with assistive technology understand the context and destination of the link. For example, instead of "Click Here" you can use "read more about this topic here."
 
-##External Links
+## External Links
 
 An external path is any link that is NOT under www.uoguelph.ca/*yourSiteName*.
 
@@ -23,7 +23,7 @@ An external path is any link that is NOT under www.uoguelph.ca/*yourSiteName*.
 4. Paste the link where you would like this text to hyperlink to (Eg:www.google.ca) in the "URL" field.
 5. Select `OK`.
 
-##Internal Links
+## Internal Links
 
 An internal path is any link that is under www.uoguelph.ca/*yourSiteName*
 
@@ -40,7 +40,7 @@ An internal path is any link that is under www.uoguelph.ca/*yourSiteName*
           
 6. Select `OK`.
 
-##Email Links
+## Email Links
 
 Upon selection, an email link will prompt the user to email the specified address is MS Outlook. 
 
@@ -54,7 +54,7 @@ Upon selection, an email link will prompt the user to email the specified addres
 5. If applicable, enter the email subject and message body into their respective fields.
 6. Click `OK`.
 
-##Anchor Links
+## Anchor Links
 
 Anchor links are links that will take the user to a specific spot on the same page. 
 
