@@ -40,4 +40,10 @@ In-Place Editor allows you to arrange panes and edit some settings on the fly.
 
 If you navigate to www.uoguelph.ca/sitename/features, you will find the Features listing page, where a list of all your features is stored.
 
-This listing page can also be filtered by categories and keywords. 
+This listing page can also be filtered by categories and keywords. This is useful if your website houses multiple departments with their own features, or if different features pertain to different audiences. 
+
+To filter features, add terms to the "Feature category" vocabulary under `Structure` > `Taxonomy`. 
+
+Add Keywords by navigating to `Structure` > `Taxonomy` > `Tags`. 
+
+For more information on categories and keywords, see the [Taxonomies](/taxonomies.md) page.
