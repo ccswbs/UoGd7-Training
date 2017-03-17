@@ -56,7 +56,7 @@ Lists are an important feature for organizing information on a web page. For a w
 
 In the Drupal text editor, content creators have the choice between ordered (numbered) and unordered (bulleted) lists. When creating a list, either select one of two list buttons and begin typing the list items, or highlight existing text and then select the list button to turn it into a list. Press `Enter` to go to the next list item, and press `Tab` to start a sub-list or nested list. Once the nested sub-list is complete and you need to return to the main list, press `Enter` twice.
 
-![Drupal text editor example list](/images/Lists example 2.png)
+![Drupal text editor example list](/images/Lists-example-2.png)
 
 ## Tables
 
