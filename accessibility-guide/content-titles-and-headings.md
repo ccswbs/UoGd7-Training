@@ -1,13 +1,13 @@
 # Content Titles and Headings
 
-##Titles
+## Titles
 As part of the UG Drupal platform, every content type you create requires a title in order for the content to be successfully created. It is important that the title is unique among the webiste, descriptive of the content, but not too long. The title is the first thing that is shown on each page and it gives the user a general understanding of what the content following it. 
 
 ![Basic Page Title](/images/pageTitleExaple.png)
 
 Page Titles will also appear in the tab in your browser.
 
-##Headings
+## Headings
 When writing text for web pages, consider the fact that some users cannot get an overview of a page visually, and instead rely on structural presentation. Make sure that pages are divided into logical sections, each with a heading that is descriptive of the section. 
 
 Headings can be selected in the Drupal text editor. Simply highlight some text, and then use the drop-down menu to select the heading level: 
