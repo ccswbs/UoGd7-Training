@@ -1,4 +1,4 @@
-#Accessible Content Guide
+# Accessible Content Guide
 
 This guide can be reffered to for assistance with many aspects of accessible content creation. 
 
