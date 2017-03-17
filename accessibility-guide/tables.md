@@ -1,10 +1,10 @@
-#Tables
+# Tables
 
 Tables are useful for organizing information into a grid of cells. To make sure a table is accessible, it is important to keep it fairly simple. If your table is complex, with split or merged cells, consider dividing the information into multiple tables if possible. In order to assess complexity, imagine hearing the information over the phone. Can the it be understood without a visual aid? 
 
 **/!\ Strong Recomendation**: The AODA Team strongly suggests that tables are purely used for tabluar data and not for layout. If you require assistance in terms of layout, please speak with your Web Manager/Site Owner for assistance.
 
-##Using Tables in Drupal
+## Using Tables in Drupal
 
 1. Start by selecting the table button in the Drupal text editor.
 ![Highlight of the table button in the Drupal text editor](/images/tables 1.png)
