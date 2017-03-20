@@ -21,9 +21,17 @@
 
 ______
 
+## To Display a Live Feed from an External Source
+
+1. From the page you would like to add a live feed to, select `Customize this page` at the botton of the screen.
+7. For the appropriate region, select `+` (plus sign). 
+8. When the Add Content window opens, select `View panes` from the side menu. 
+9. Select `View: S5 - Live Feed` from the list. 
+______
+
 ## To Display Multiple Combined Feeds:
 
-1. From the page you would like to add a combined feed to, select `Customize this page` at the botton of the screen.
+1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
 8. When the Add Content window opens, select `View panes` from the side menu. 
 9. Select `View: S5 - Live Feed (Category)` from the list. 
