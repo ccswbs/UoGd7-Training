@@ -54,3 +54,5 @@ ______
 10. In the "Num item" field, enter the number of tweets you would like to be displayed at a time. 
 11. Select `Finish`. 
 12. Select `Save` at the bottom of your screen. 
+
+## To Display Multiple Combined Feeds:
