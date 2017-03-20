@@ -27,6 +27,7 @@
    * [People Profiles](features/howto-profiles.md)
    * [Service](features/howto-services.md)
    * [Social Media Account](features/howto-socialmedia.md)
+      * [Live Feeds](features/howto-livefeeds.md)
    * [Webform](features/howto-webforms.md)
 * [Accessible Content Guide](AccessibleContentGuide.md)
    * [Accessibility Basics](accessibility-guide/AccessibilityBasics.md)
