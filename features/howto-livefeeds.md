@@ -21,7 +21,7 @@
 
 ______
 
-## To Display a Live Feed from an External Source
+## To Display a Live Feed from an External Source:
 
 ### Step One: Add the Live Feed
 
