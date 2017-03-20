@@ -27,6 +27,7 @@ ______
 7. For the appropriate region, select `+` (plus sign). 
 8. When the Add Content window opens, select `View panes` from the side menu. 
 9. Select `View: S5 - Live Feed` from the list. 
+
 ______
 
 ## To Display Multiple Combined Feeds:
