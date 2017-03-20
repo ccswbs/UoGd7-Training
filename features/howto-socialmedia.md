@@ -7,6 +7,7 @@ For a list of all social media accounts attached to a website, add `/connect` to
 
  * [Follow Us Links](#to-add-follow-us-social-media-links)
  * [Live Social Media Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
+ * [Multiple Combined Feeds](
  
  
 ## To Add "Follow Us" Social Media Links:
