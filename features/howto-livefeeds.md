@@ -31,7 +31,7 @@ ______
 4. Categorize the news items if categories are defined.
 5. Select `Save`.
 
-### Step Two: Find the Aggregator Feed ID.
+### Step Two: Find the Aggregator Feed ID
 
 1. From the Feed aggregator menu, click on the name of the feed. In the URL, you will see the feed ID, at `<site_name>/aggregator/sources/<feed_ID>`.
 
@@ -55,11 +55,14 @@ ______
 1. From the administration bar, navigate to `Configuration` > `Feed aggregator` > `Add category`.
 2. Enter a title for the feed category. 
 3. Select `Save`. 
+
+### Step Two: Find the Aggregator Feed ID
+
 4. On the Feed aggregator page, you will see the category you created appear under "Category overview."
 5. Click on the new category. 
 6. You will see the Aggregator category ID in the URL, at `<site_name>/aggregator/categories/<category_ID>`.
 
-### Step Two: Add the Multiple Combined Feed View Pane
+### Step Three: Add the Multiple Combined Feed View Pane
 
 1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
