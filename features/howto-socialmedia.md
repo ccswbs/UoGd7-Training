@@ -7,7 +7,7 @@ For a list of all social media accounts attached to a website, add `/connect` to
 
  * [Follow Us Links](#to-add-follow-us-social-media-links)
  * [Live Social Media Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
- * [Multiple Combined Feeds](
+ * [Multiple Combined Feeds](#to-display-multiple-combined-feeds)
  
  
 ## To Add "Follow Us" Social Media Links:
@@ -54,5 +54,7 @@ ______
 10. In the "Num item" field, enter the number of tweets you would like to be displayed at a time. 
 11. Select `Finish`. 
 12. Select `Save` at the bottom of your screen. 
+
+______
 
 ## To Display Multiple Combined Feeds:
