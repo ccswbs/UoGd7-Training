@@ -23,7 +23,7 @@ ______
 
 ## To Display a Live Feed from an External Source
 
-### 1. Add the Live Feed
+### Step One: Add the Live Feed
 
 1. From the administration bar, navigate to `Configuration` > `Feed aggregator` > `Add feed`. 
 2. Enter the title and URL for the feed.
@@ -31,14 +31,18 @@ ______
 4. Categorize the news items if categories are defined.
 5. Select `Save`.
 
-### 2. Add the Live Feed View Pane
+### Step Two: Find the Aggregator Feed ID.
+
+1. From the Feed aggregator menu, click on the name of the feed. In the URL, you will see the feed ID, at `<site_name>/aggregator/sources/<feed_ID>`.
+
+### Step Three: Add the Live Feed View Pane
 
 1. From the page you would like to add a live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
 8. When the Add Content window opens, select `View panes` from the side menu. 
 9. Select `View: S5 - Live Feed` from the list. 
 1. Override the title and add a new one if desired. If it is not overridden, no title will show.
-2. Enter the Aggregator Feed ID. For more on this, see the section below.
+2. Enter the Aggregator Feed ID.
 3. Select `Finish`.
 4. Select `Save` at the bottom of the page.
 
@@ -55,9 +59,10 @@ ______
 3. Select `Finish`.
 4. Select `Save` at the bottom of the page.
 
+### Aggregator Feed ID
 _______
 
-## Aggregator Feed ID
+## Aggregator Category ID
 
 1. From the administration bar, navigate to `Configuration` > `Feed aggregator` > `Add category`.
 2. Enter a title for the feed category. 
