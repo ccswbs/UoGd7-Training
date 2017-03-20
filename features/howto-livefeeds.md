@@ -1,6 +1,8 @@
 # Live Feeds
 
-
+ * [Live Social Media Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
+ * [External Source Live Feed](
+ * [Multiple Combined Feeds](#to-display-multiple-combined-feeds)
 
 ## To Add a Live Twitter Feed to the Home Page:
 
