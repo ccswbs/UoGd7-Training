@@ -9,11 +9,11 @@ Drupal Workbench is accessed from the administration bar, by selecting `My Workb
 
 ## Workbench Moderation
 
-Clients can contact CCS Web & Development Solutions to request the enabling of the Workbench moderation feature. This feature sets publishing restrictions for the site, such that created content must be approved by the site manager(s) before it can be published. This allows more oversight and can help in catching potential accessibility issues before they go live.
+Clients can contact CCS Web & Development Solutions to request the enabling of the Workbench moderation feature. This feature sets publishing restrictions for the site, such that created content must be approved by a publisher before it can be published. This allows more oversight and can help in catching potential accessibility issues before they go live.
 
 Moderation can be enabled for all content, or only selected content types (basic page, news, events, etc.), according to your needs. 
 
-If moderation is enabled, content authors/editors will see a third tab called "My Drafts" appear under "My Workbench." This section stores a list of created content that is currently unpublished and awaiting moderation. Site managers will see a fourth tab called "Needs Review." This is where created content will appear for moderation before being published.
+If moderation is enabled, content authors/editors will see a third tab called "My Drafts" appear under "My Workbench." This section stores a list of created content that is currently unpublished and awaiting moderation. Publishers will see a fourth tab called "Needs Review." This is where created content will appear for moderation before being published.
 
 ### My Drafts Tab
 
@@ -21,4 +21,4 @@ When you create and save content, it can be found in the My Drafts tab in My Wor
 
 ### Needs Review Tab
 
-If you are the site manager, you have access to the Needs Review tab in My Workbench. From here, you can view the moderation history for a piece of content, edit the draft if needed, and publish content. You can also search content by name and type.
+If you are the publisher, you have access to the Needs Review tab in My Workbench. From here, you can view the moderation history for a piece of content, edit the draft if needed, and publish content. You can also search content by name and type.
