@@ -17,7 +17,7 @@ If moderation is enabled, content authors/editors will see a third tab called "M
 
 ### My Drafts Tab
 
-When you create and save content, it can be found in the My Drafts tab in My Workbench. When a draft is complete and ready for review, select `Change to _Needs Review_` under "Set Moderation State." This action will send the content to the site manager for review before publication.
+When you create and save content, it can be found in the My Drafts tab in My Workbench. When a draft is complete and ready for review, select `Change to Needs Review` under "Set Moderation State." This action will send the content to the site manager for review before publication.
 
 ### Needs Review Tab
 
