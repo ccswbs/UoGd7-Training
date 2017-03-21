@@ -56,13 +56,21 @@ ______
 2. Enter a title for the feed category. 
 3. Select `Save`. 
 
-### Step Two: Find the Aggregator Feed ID
+### Step Two: Add Feeds to the Feed Category
+
+1. On the Feed aggregator page, find the name of a feed you would like to add to your new category.
+2. Select `edit` beside the feed's name, under "Operations."
+3. Under "Categorize news items," select the name of your new category. 
+4. Select `Save`. 
+5. Repeat steps 1-4 for any additional feeds you would like to add to a category.
+
+### Step Three: Find the Aggregator Feed ID
 
 4. On the Feed aggregator page, you will see the category you created appear under "Category overview."
 5. Click on the new category. 
 6. You will see the Aggregator category ID in the URL, at `<site_name>/aggregator/categories/<category_ID>`.
 
-### Step Three: Add the Multiple Combined Feeds View Pane
+### Step Four: Add the Multiple Combined Feeds View Pane
 
 1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
