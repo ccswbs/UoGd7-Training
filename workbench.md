@@ -7,6 +7,10 @@
 
 Drupal Workbench is accessed from the administration bar, by selecting `My Workbench`. Here, you will see your profile and a collection of the site content you have authored and edited. For content authors, the Workbench page has two main tabs: "My Content" and "Create Content." Selecting `Create Content` is an alternative to selecting `Add content` on the main administration bar.
 
+### My Content Tab
+
+This tab organizes your content. You will see lists called "My Edits" and "All Recent Content." The My Content tab also has two sub-tabs, also called "My Edits" and "All Recent Content." Using these sub-tabs allows you to search each list by title, type, and publishing status.
+
 ## Workbench Moderation
 
 Clients can contact CCS Web & Development Solutions to request the enabling of the Workbench moderation feature. This feature sets publishing restrictions for the site, such that created content must be approved by a publisher before it can be published. This allows more oversight and can help in catching potential accessibility issues before they go live.
