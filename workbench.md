@@ -13,7 +13,7 @@ This tab organizes your content. You will see lists called "My Edits" and "All R
 
 ## Workbench Moderation
 
-Clients can contact CCS Web & Development Solutions to request the enabling of the Workbench moderation feature. This feature sets publishing restrictions for the site, such that created content must be approved by a publisher before it can be published. This allows more oversight and can help in catching potential accessibility issues before they go live.
+Clients can contact CCS Web & Development Solutions to request the enabling or disabling of the Workbench moderation feature. This feature sets publishing restrictions for the site, such that created content must be approved by a publisher before it can be published. This allows more oversight and can help in catching potential accessibility issues before they go live.
 
 Moderation can be enabled for all content, or only selected content types (basic page, news, events, etc.), according to your needs. 
 
