@@ -1,6 +1,6 @@
 # Live Feeds
 
- * [Live Social Media Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
+ * [Live Twitter Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
  * [External Source Live Feed](#to-display-a-live-feed-from-an-external-source)
  * [Multiple Combined Feeds](#to-display-multiple-combined-feeds)
 
