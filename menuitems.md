@@ -36,7 +36,7 @@ and menu items/tabs. Editors can only add menu items to existing menus.
 2. Select `Add Link`. On the new page, fill out the following:
    ![image](images/addMenuLink.png)
 3. Enter the title for the menu item in the "Menu link title" field.
-4. Enter the path where the menu item leads in the "Path" field. **/!\ Note**: use relative links instead of absolute links.
+4. Enter the path where the menu item leads in the "Path" field. **/!\ Note**: use relative links instead of absolute links. For more on links, see the [guide to links](/accessibility-guide/links.md)
 5. Enter a description if needed.
 6. If the menu item is a "parent" item for a dropdown menu, check `Show as expanded`.
 7. If you know the correct weight to give the item then you may change the weight here. Otherwise, you can use the interface on the previous page to reorder the menu items. **/!\ Note**: You can configure menu hierarchy through the drag interface.
