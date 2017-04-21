@@ -15,18 +15,18 @@ and menu items/tabs. Editors can only add menu items to existing menus.
 
 1. Select `Structure` on the Admininistration Bar.
 2. Select `Menus`.
-3. Select `Add Menu`. Once selected you will be able to create a new menu.
+3. Select `Add Menu`.
    ![Add Menu Page](images/createMenu.png)
 4. Enter the title you would like to give the menu in the "Title" field.
-5. Enter the description you would like to give the menu in the "Description" field (optional).
-6. Select the checkbox if applicable.
+5. Enter the description you would like to give the menu in the "Description" field (optional). The description is not seen by site users.
 7. Once completed, select `Save`.
 
-## Editing a Pre-existing Menu
+## Changing Menu Name & Description
 1. Select `Structure` on the Admininistration Bar.
 2. Select `Menus`. 
 3. Locate the menu you would like to edit.
 4. Select `edit menu`.
+5. Make the required changes. Select `Save`.
 
 ### Adding a Link to the Menu
 1. Select `Structure` from the Admininistration Bar.
