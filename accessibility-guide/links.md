@@ -8,7 +8,7 @@
 
 ## Accessible Links
 
-When adding links to a page, ensure that the user can determine the destination of the link. Avoid using ambiguous terms like "click here," "more," or "this" for link text. Instead, use descriptive link text to help users with assistive technology understand the context and destination of the link. For example, instead of "Click Here" you can use "read more about this topic here."
+When adding links to a page, ensure that the user can determine the destination of the link. Avoid using ambiguous terms like "here," "more," or "this" for link text. Instead, use descriptive link text to help users with assistive technology understand the context and destination of the link. For example, instead of "click here" use something like "more information on [topic]."
 
 ## External Links
 
