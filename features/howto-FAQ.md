@@ -1,4 +1,4 @@
-# Using FAQ
+# Using FAQs
 The *Frequently Asked Questions (FAQ)* feature allows **content editors** to create a repository of commonly asked questions and their corresponding answers. 
 
 The FAQ page is automatically generated from the FAQ nodes configured and the layout of this page can be modified on the settings page. The generated FAQ page is always found at www.uoguelph.ca/sitename/faq.
@@ -22,7 +22,7 @@ The FAQ page is automatically generated from the FAQ nodes configured and the la
    
 ## FAQ Categories
 
-Your website may have a variety of FAQ that are directed at different groups of people. When this is the case, you can use categories organize FAQ. One FAQ can only be associated with **one** category. 
+Your website may have a variety of FAQs that are directed at different groups of people. When this is the case, you can use categories to organize FAQs. One FAQ can only be associated with **one** category. 
 
 ###Creating FAQ Categories
 1. When logged into your website, navigate to `Structure` > `Taxonomy`.
@@ -41,9 +41,9 @@ Your website may have a variety of FAQ that are directed at different groups of 
 
 ## FAQ Keywords
 
-Your website may have some questions that apply to two or more groups of site users. In this case, you must use *keywords* instead of categories to organize FAQ.
+Your website may have some questions that apply to two or more groups of site users. In this case, you must use *keywords* instead of categories to organize FAQs.
 
-Additionally, tags can be used across Drupal content types, not just FAQ. This means you can tag a variety of news articles, events, FAQ, features, and more, as they pertain to a particular group. 
+Additionally, tags can be used across Drupal content types, not just FAQs. This means you can tag a variety of news articles, events, FAQs, features, and more, as they pertain to a particular group. 
 
 ###Creating Keywords
 1. When logged into your website, navigate to `Structure` > `Taxonomy`.
