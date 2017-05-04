@@ -23,7 +23,7 @@ course outlines by academic term. The default values are Fall, Winter, and Sprin
 1. On the Administration bar, select `Add Content`.
 2. Select `Course Outline`.
 3. Enter a **Course name** and **Course code**.
-4. Fill in any optional fields.
+4. Fill in any optional fields. If you decide to add a course instructor URL (can be used to link an instructor's profile or personal website), then entering a name in the "Course instructor" field is required.
 5. Attach the course outline document.
 6. Click `Save` when you are done.
 
