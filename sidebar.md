@@ -17,4 +17,4 @@ For help with creating menus, see the [Managing Menus](menuitems.md) page.
 ## Configuring a Menu Block
 
 1. From the administration bar, navigate to `Structure` > `Blocks`.
-2. Find thew menu block you just created in the list of blocks.
+2. Find the menu block you just created in the list of blocks.
