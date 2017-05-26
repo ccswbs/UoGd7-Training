@@ -4,7 +4,7 @@ Sidebar menus show up on the right side of the page, beside the main body conten
 
 For help with creating menus, see the [Managing Menus](menuitems.md) page.
 
-## Creating a Menu Block
+## Creating and Configuring a Menu Block
 
 1. From the administration bar, navigate to `Structure` > `Blocks`.
 2. At the top of the page, select `Add menu block`.
@@ -14,7 +14,9 @@ For help with creating menus, see the [Managing Menus](menuitems.md) page.
 6. Under Visibility settings, specify the pages that the menu block should be displayed on, if desired. Specify pages using the internal path rather than the full URL.
 7. Select `Save block`.
 
-## Configuring a Menu Block
+## Placing a Menu Block
 
 1. From the administration bar, navigate to `Structure` > `Blocks`.
-2. Find the menu block you just created in the list of blocks.
+2. Find the menu block you just created in the list of blocks, under "Disabled."
+3. Drag your block from "Disabled" to "Secondary."
+4. Scroll to the bottom of the page and select `Save blocks`.
