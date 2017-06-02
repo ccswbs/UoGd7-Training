@@ -4,7 +4,7 @@ Sidebar menus show up on the right side of the page, beside the main body conten
 
 For help with creating menus, see the [Managing Menus](menuitems.md) page.
 
-There are two main methods for creating sidebar menus.
+There are two main methods for creating sidebar menus: Panels and Blocks.
 
 ## 1. Panels Method
 
