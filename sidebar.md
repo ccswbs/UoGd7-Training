@@ -8,6 +8,13 @@ There are two main methods for creating sidebar menus.
 
 ## 1. Panels Method
 
+1. On the page you would like to add a sidebar menu to, select `Customize this page` at the bottom of your screen. Keep in mind that changes made here will affect all nodes in the content type. For example, if you are adding a sidebar menu to a basic page, the menu will show up on all basic pages.
+2. Scroll down to the Right side region, and select the plus sign.
+3. In the add content menu, select `Menus` from the side menu. Then select `menu tree of the menu selected by the page`.
+4. In the configuration dialog, you have the option of overriding the menu title. The "Starting level" drop-down controls how much of the main menu appears on the page. Starting from the secondary level is recommended, because it means that the portion of the main menu most relevant to the page will show up in the sidebar. Starting from the primary level means that the whole main menu will show up in the sidebar.
+5. Select `Finish`. Try selecting `Finish` again if an error message appears.
+6. When the configuration dialog closes, make sure to select `Save` at the bottom of the page.
+
 ## 2. Blocks Method
 
 ### Creating and Configuring a Menu Block
