@@ -25,6 +25,7 @@ There are two main methods for creating sidebar menus: Panels and Blocks.
 3. Enter a title for the menu block if it should be different from the default title, determined by the menu. Enter `<none>` to display no title.
 4. From the Menu dropdown, select either "Main menu" to display the whole menu in the sidebar, or `<the menu selected by the page>` to only display the portion of the main menu relevant to the page.
 5. Select the starting level for the menu. 
+ ![add menu block window](images/add-menu-block.png)
 6. Under Visibility settings, specify the pages that the menu block should be displayed on, if desired. Specify pages using the internal path rather than the full URL.
 7. Select `Save block`.
 
