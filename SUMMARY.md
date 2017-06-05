@@ -11,6 +11,7 @@
    * [Adding Users](basicbeginner.md#adding-users-to-the-website)
    * [Drupal Text (WYSIWYG) Editor](wysiwyg-editor.md)
    * [Managing Menus](menuitems.md)
+      * [Sidebar Menus](sidebar.md)
    * [Taxonomies](taxonomies.md)
    * [Common Web Errors](basicbeginner.md#common-web-errors)
 * [Best Practice Tips](practips.md)
