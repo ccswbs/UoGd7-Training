@@ -4,11 +4,11 @@ Sidebar menus show up on the right side of the page, beside the main body conten
 
 For help with creating menus, see the [Managing Menus](menuitems.md) page.
 
-There are two main methods for creating sidebar menus: Panels and Blocks. Panels are recommended most of the time, but if you would like your sidebar menu to appear on only a small number of nodes, go with Blocks.
+There are two main methods for creating sidebar menus: Panels and Blocks. Panels are recommended for sidebar menus that show up on all pages, but if you would like your sidebar menu to appear on only a small number of pages, go with Blocks.
 
 ## 1. Panels Method
 
-1. On the page you would like to add a sidebar menu to, select `Customize this page` at the bottom of your screen. Keep in mind that changes made here will affect all nodes in the content type. For example, if you are adding a sidebar menu to a basic page, the menu will show up on all basic pages.
+1. On the page you would like to add a sidebar menu to, select `Customize this page` at the bottom of your screen. Keep in mind that changes made here will affect all pages in the content type. For example, if you are adding a sidebar menu to a news item, the menu will show up on all news items.
 2. Scroll down to the Right side region, and select the plus sign.
 3. In the add content menu, select `Menus` from the side menu. Then select `menu tree of the menu selected by the page`.
 
