@@ -3,7 +3,7 @@
 Drupal provides its users with a simple text editor that is universal amongst all content types. The Drupal Text Editor (A.K.A the WYSIWYG Editor) allows users to add custom content to the page through its collection of tools. *WYSIWYG* stands for "What You See Is What You Get."
 
 Here is what the Drupal Text (WYSIWYG) Editor looks like this:
-![Drupal Text (WYSIWYG) Editor](images/WYSIWYGEditor.png)
+![Drupal Text (WYSIWYG) Editor](images/wysiwyg-operation.png)
 
 ## Buttons on the Drupal Text (WYSIWYG) Editor
 ### First Row
@@ -34,6 +34,7 @@ Here is what the Drupal Text (WYSIWYG) Editor looks like this:
 
 ### Third Row
 * **Text Sizing Dropdown Menu**: Allows the user to place the selected text into headings. This should not be used for font sizing and should only be used to mark correct headings as headings.
+* **Image Styles Dropdown Menu**: Allows images to be aligned left, centred, or aligned right.
 * **Full Screen Text Editor**: When selected, the Drupal Text Editor will expand and take up the entire screen. Select again to close.
 * **Show Blocks (Vertical and Horizontal Lines)**: Allows the user to see the different code blocks within the Drupal Text Editor.
 
