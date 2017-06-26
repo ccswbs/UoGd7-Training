@@ -15,7 +15,7 @@ The Events feature allows **Content Creators** to add events to the website and 
 ![An example of the body field](../images/eventbody.png)
 7. Select your **Section** if you have defined one.
   * For sections, a **Taxonomy** for `Event_headings` needs to be created by the Site Manager. Example Sections: *Cost*, *Extra Directions*, *Dinner Menu Items*. Sections are optional.
-8. Add a `feature image` if there is one for the event, such as a poster image.  
+8. Add a `feature image` if there is one for the event, such as a poster image. Images must be no smaller than 200x160 pixels and no larger than 1140x570 pixels.
 * Add a descriptive **Alternative Text**. 
 * **Caption** is optional.
 ![An example of the body field](../images/eventfeatalt.png)
