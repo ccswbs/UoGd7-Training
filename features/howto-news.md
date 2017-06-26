@@ -11,7 +11,7 @@ The *News* feature allows **Content Creators** to add news articles to the websi
 5. Enter a **Written by** personal or organizational name.
 6. In the body field, enter what you want displayed on your web page. [Here is more information on how to use the WYSIWYG editor.](/wysiwyg-editor.md)
     * ![Example of Written by and Body fields](../images/newstitlebody.png)
-7. Add a feature image if there is one for the news, such as an image of the subject matter. **Alternative Text** is required if the image is not a decorative one. 
+7. Add a feature image if there is one for the news, such as an image of the subject matter. **Alternative Text** is required if the image is not a decorative one. Images must be no smaller than 640x240 pixels and no larger than 1140x570 pixels.
 8. Add a **Caption**.
     * ![Example of Featured Image option](../images/newsfeatureimg.png)
 9. Enter any *tags* or *keywords* that help categorize and organize your article.
