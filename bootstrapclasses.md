@@ -1,6 +1,6 @@
 # Boostrap Classes
 
-Bootstrap is an open-source front-end framework that is used to create visual effects on websites with HTML, CSS, and Javascript.
+Bootstrap is an open-source front-end framework that uses HTML, CSS, and Javascript to create responsive webpages.
 
 ## Example Classes
 
