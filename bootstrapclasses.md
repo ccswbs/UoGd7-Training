@@ -18,3 +18,6 @@ To implement Lead, add `class="lead"` to an HTML element:
 
 > `<div class="lead">Example text.</div>`
 
+What Lead looks like:
+
+![text with lead class compared with unstyled paragraph text and an h2 heading](images/lead.md)
