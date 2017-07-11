@@ -4,11 +4,10 @@ Bootstrap is an open-source front-end framework that uses HTML, CSS, and Javascr
 
 Example classes include:
 
-* Lead
-* Panel
-* Well
-* Alert
-* Jumbotron
+* `.lead`
+* `.alert`
+* `.jumbotron`
+* `.h1` - `.h6`
 
 ## Lead
 
