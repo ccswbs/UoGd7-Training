@@ -16,6 +16,6 @@ Lead is a class that can emphasize text. This is very useful when you would like
 
 To implement Lead, add `class="lead"` to an HTML element, such as:
 
-* `<p class="lead">Example paragraph text.</p>`
+* `<div class="lead">Example text.</div>`
 * `<ul class="lead">`
 
