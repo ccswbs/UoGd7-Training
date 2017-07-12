@@ -24,7 +24,7 @@ To implement Lead, add `class="lead"` to an HTML element:
 
 `<div class="lead">Example text.</div>`
 
-What Lead looks like, compared to unstyled text and an <h2> heading:
+What Lead looks like, compared to unstyled text and an `<h2>` heading:
 
 > ![text with lead class compared with unstyled paragraph text and an h2 heading](images/lead.png)
 
