@@ -22,7 +22,7 @@ Lead is a class that can emphasize text. This is very useful when you would like
 
 To implement Lead, add `class="lead"` to an HTML element:
 
-> `<div class="lead">Example text.</div>`
+`<div class="lead">Example text.</div>`
 
 What Lead looks like:
 
@@ -34,15 +34,15 @@ Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual e
 
 To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML element:
 
-> `<div class="h1">Example h1 class text</div>`
+`<div class="h1">Example h1 class text</div>`
 
-> `<div class="h2">Example h2 class text</div>`
+`<div class="h2">Example h2 class text</div>`
 
-> `<div class="h3">Example h3 class text</div>`
+`<div class="h3">Example h3 class text</div>`
+ 
+`<div class="h4">Example h4 class text</div>`
 
-> `<div class="h4">Example h4 class text</div>`
+`<div class="h5">Example h5 class text</div>`
 
-> `<div class="h5">Example h5 class text</div>`
-
-> `<div class="h6">Example h6 class text</div>`
+`<div class="h6">Example h6 class text</div>`
 
