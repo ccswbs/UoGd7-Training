@@ -34,4 +34,5 @@ Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual e
 
 To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML element:
 
+> `<p class="h1">Example h1 class text</p>
 
