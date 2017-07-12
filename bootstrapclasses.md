@@ -1,12 +1,12 @@
-# Boostrap Classes
+# Boostrap Classes: Typography
 
 Bootstrap is an open-source front-end framework that uses HTML, CSS, and Javascript to create responsive webpages. Bootstrap is used to build themes and templates.
+
+The Typography classes allow you to style your content beyond default settings.
 
 Example classes include:
 
 * `.lead`
-* `.alert`
-* `.jumbotron`
 * `.h1` - `.h6`
 
 ## Lead
