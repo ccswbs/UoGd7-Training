@@ -46,3 +46,7 @@ To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML 
 
 `<div class="h6">Example h6 class text</div>`
 
+What heading classes look like:
+
+> ![example text with h1-h6 bootstrap heading classes](images/heading-classes-example.png)
+
