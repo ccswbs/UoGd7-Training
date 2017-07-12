@@ -32,4 +32,6 @@ What Lead looks like:
 
 Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
 
+To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML element:
+
 
