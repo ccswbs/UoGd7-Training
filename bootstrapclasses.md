@@ -2,7 +2,7 @@
 
 Bootstrap is an open-source front-end framework that uses HTML, CSS, and Javascript to create responsive webpages. Bootstrap is used to build themes and templates.
 
-The Typography classes allow you to style your content beyond default settings. Bootstrap has a global default font size of 14px.
+The Typography classes allow you to style your content beyond default settings. Bootstrap has a global default font size of 14px. 
 
 Example classes and elements include:
 
@@ -30,6 +30,6 @@ What Lead looks like:
 
 ## Bootstrap Headings
 
-
+Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
 
 
