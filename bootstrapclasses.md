@@ -1,4 +1,4 @@
-# Boostrap Classes: Typography
+# Boostrap: Typography
 
 Bootstrap is an open-source front-end framework that is used to create responsive webpages.
 
