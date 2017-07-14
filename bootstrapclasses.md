@@ -8,7 +8,7 @@ Example classes and elements include:
 
 * `.lead`: creates larger, emphasized text
 * `.h1` - `.h6`: creates text that mimics the appearance of headings
-* `.small`: creates lighter, secondary text
+* `.small` and `<small>`: creates lighter, secondary text
 * `<mark>`: creates highligted text
 * `<del>` and `<s>`: creates text with a strikethrough
 * `<ins>` and `<u>`: creates underlined text
