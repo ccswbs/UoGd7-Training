@@ -1,6 +1,6 @@
 # Boostrap Classes: Typography
 
-Bootstrap is an open-source front-end framework that uses HTML, CSS, and Javascript to create responsive webpages. Bootstrap is used to build themes and templates.
+Bootstrap is an open-source front-end framework that is used to create responsive webpages.
 
 The Typography classes allow you to style your content beyond default settings. Bootstrap has a global default font size of 14px. 
 
