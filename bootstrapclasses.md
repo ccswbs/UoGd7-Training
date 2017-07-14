@@ -1,4 +1,4 @@
-# Boostrap: Typography
+# Bootstrap: Typography
 
 Bootstrap is an open-source front-end framework that is used to create responsive webpages.
 
@@ -31,6 +31,8 @@ What Lead looks like, compared to unstyled text and an `<h2>` heading:
 ## Bootstrap Headings
 
 Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
+
+Heading are semantic, while classes are visual.
 
 To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML element:
 
