@@ -15,8 +15,9 @@ Example classes and elements include:
 * `<strong>`: creates bold text
 * `<em>`: creates italicized text
 
+## Options for Text Sizes
 
-## Lead
+### Lead
 
 Lead is a class that can emphasize text. This is very useful when you would like to draw the user's attention to a piece of text that is not a heading. To ensure content is accessible, avoid using heading tags soley to make text appear larger. Heading tags should also be used in logical order.
 
@@ -28,7 +29,7 @@ What Lead looks like, compared to unstyled text and an `<h2>` heading:
 
 > ![text with lead class compared with unstyled paragraph text and an h2 heading](images/lead.png)
 
-## Options for Text Sizes
+## Bootstrap Headings
 
 Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
 
