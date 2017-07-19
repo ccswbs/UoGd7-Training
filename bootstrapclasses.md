@@ -19,7 +19,7 @@ Example classes and elements include:
 
 ### Lead
 
-Lead is a class that can emphasize text. This is very useful when you would like to draw the user's attention to a piece of text that is not a heading. To ensure content is accessible, avoid using heading tags solely to make text appear larger. Heading tags should also be used in logical order.
+Lead is a class that can increase the size of text. This is very useful when you would like to draw the user's attention to a piece of text that is not a heading. To ensure content is accessible, avoid using heading tags solely to make text appear larger. Heading tags should also be used in logical order.
 
 To implement Lead, add `class="lead"` to an HTML element:
 
@@ -33,7 +33,7 @@ What Lead looks like, compared to unstyled text and an `<h2>` heading:
 
 Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
 
-Heading are semantic, while classes are visual.
+Headings are semantic, while classes are visual.
 
 To implement heading classes, add `class=h[numeral between 1 and 6]` to an HTML element:
 
