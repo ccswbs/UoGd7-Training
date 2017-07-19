@@ -31,7 +31,7 @@ What Lead looks like, compared to unstyled text and an `<h2>` heading:
 
 ### `.h1` - `.h6`
 
-Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Note, these are not the same as HTML headings and should not be used as such. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
+Bootstrap heading classes (`.h1` - `.h6`) create text that has the same visual effect as heading tags. Note that these are not the same as HTML headings and should not be used as such. Like Lead, use these classes for inline text that is not a heading, but needs to be emphasized. 
 
 Headings are semantic, while classes are visual.
 
