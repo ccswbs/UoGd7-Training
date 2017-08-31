@@ -14,8 +14,11 @@
 ## How to add a new program page
 
 1. Go to Structure / Taxonomy / Tags to add a new keyword for the program (e.g. New Program)
-2. Go to Add content and create a basic page. Give it a title that matches the new keyword you just added (i.e. New Program). Fill in content as usual. 
-3. Under Keywords, select the keyword you just created (i.e. New Program). Save.
+2. Go to Add content and create a basic page.
+3. Give it a title that matches the new keyword you just added (i.e. New Program). 
+4. Under "Page category", select Program
+5. Fill in content as usual.
+6. Under Keywords, select the keyword you just created (i.e. New Program). Save.
 
 ## How to add a person to the program page
 
