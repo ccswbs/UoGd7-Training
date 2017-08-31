@@ -5,8 +5,8 @@
 
 1.	Go to the Find Content at https://www.uoguelph.ca/graduatestudies/admin/content
 2.	Under “Show only items where”:
-   1.	Select “published” under the status dropdown.
-   2.	Select “Page” under the type dropdown.
+     1.	Select “published” under the status dropdown.
+     2.	Select “Page” under the type dropdown.
 3.	Click Filter
 4.	Click the “TITLE” row heading to sort pages by title.
 5.	Find the title of the program you wish to edit and click “edit” beside that row.
