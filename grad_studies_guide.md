@@ -19,6 +19,6 @@
 
 ## How to add a person to the program page
 
-1. Add new person.
+1. Add new person through Add Content / Profile.
 2. Under Category, select Spotlight on Faculty or Meet our Students.
 3. If you want the person to show under a specific program page, under Keywords, start typing the keyword associated with the program page (it should auto-complete). Note that the keyword must be exact in order to work. If there is a comma in the program title, remember to put quotes around the program keyword.
