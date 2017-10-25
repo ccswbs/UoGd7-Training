@@ -1,4 +1,4 @@
-# UG Drupal Content Type: Page
+# UG Drupal Content Type: Basic Page
 
 * [Creating a Page](howto-page.md#creating-a-page)
 * [Editing a Page](howto-page.md#editing-a-page)
@@ -8,18 +8,18 @@
 * [Page Keywords](howto-page.md#page-keywords)
 
 
-The **Page** content type is used for static content that can be linked into the main navigation bar. This is one of the most basic content types and is very flexible.
+The **Basic Page** content type is used for static content that can be linked into the main navigation bar. This is one of the most basic content types and is very flexible.
 
 ![An Example of a Page](../images/paex.png "Example of a Basic Page")
 
 ## Creating a Page
-1. From the Administration bar, navigate to `Add Content` > `Page`.
+1. From the Administration bar, navigate to `Content` > `Add Content` > `Basic page`.
 3. Enter the title of the page in the "Title" field.
 4. If you have [page categories](../taxonomies.md) defined, select the appropriate one. For more please see the [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page) section.
 5. Use the [Drupal Text (WYSIWYG) Editor](../wysiwyg-editor.md) to fill the page with your desired content.
-6. If you want to attach any files (PDF, Docs, Images) to the page and be availiable for download by the user, you can do so using the "File Attachment" option. For more please see the [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page) section.
+6. If you want to attach any files (PDF, Docs, Images) to the page and be availiable for download by the user, you can do so using the "File Attachments" option. For more please see the [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page) section.
 7. If you want this web page to be accessed through your website menus, visit the [Managing Menus](../menuitems.html#adding-content-to-a-menu) section.
-8. If you have the [proper authority](../rolesandresp.md) to publish, ensure that the `Published` checkbox is checked under "Publishing options."
+8. If you have the [proper authority](../rolesandresp.md) to publish, ensure that the `Published` checkbox is checked.
 9. Once the above steps are completed, select `Save`.
 
 ## Editing a Page
@@ -27,7 +27,7 @@ The **Page** content type is used for static content that can be linked into the
 **/!\ Note**: Only one user can edit a page at a time. If multiple users are editing a page then content may be unsaved or lost.
 
 1. Navigate to the page you would like to edit.
-2. Once you are at the page you would like to edit, select the `Edit` option.
+2. Once you are at the page you would like to edit, select the `Edit` option. You can also hover over the body text area until the pencil-in-a-circle icon appears, which gives you the following three options: `Quick edit`, `Edit`, and `Delete`. The `Quick edit` option pops up a WYSIWYG toolbar and gives you in-place editing of the basic page's body text. (needed: screenshot of quick edit toolbar)
 
  ![Edit Tab](../images/contentEditTab.png)
  
