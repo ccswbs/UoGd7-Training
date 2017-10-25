@@ -27,10 +27,12 @@ The **Basic Page** content type is used for static content that can be linked in
 **/!\ Note**: Only one user can edit a page at a time. If multiple users are editing a page then content may be unsaved or lost.
 
 1. Navigate to the page you would like to edit.
-2. Once you are at the page you would like to edit, select the `Edit` option. You can also hover over the body text area until the pencil-in-a-circle icon appears, which gives you the following three options: `Quick edit`, `Edit`, and `Delete`. The `Quick edit` option pops up a WYSIWYG toolbar and gives you in-place editing of the basic page's body text. (needed: screenshot of quick edit toolbar)
+2. Once you are at the page you would like to edit, select the `Edit` option. 
+   
+   ![Edit Tab](../images/contentEditTab.png)
 
- ![Edit Tab](../images/contentEditTab.png)
- 
+You can also hover over the body text area until the pencil-in-a-circle icon appears, which gives you the following three options: `Quick edit`, `Edit`, and `Delete`. The `Quick edit` option pops up a WYSIWYG toolbar and gives you in-place editing of the basic page's body text. 
+
 3. Edit the content you would like to edit on the page by using the Drupal Text (WYSIWYG) Editor.
 4. Once you have completed the above steps, select `Save`.
 
