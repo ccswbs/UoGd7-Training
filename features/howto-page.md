@@ -125,7 +125,7 @@ Page categories allow for pages to be sorted via the given term/category.
 
  ![Keywords Section](../images/pageKeywordsEmpty.png)
  
-4. Enter the keywords for the page. Separate each word with a comma, but no space (eg: example,test,showcase).
+4. Enter a keyword for the page. If you want more than one keyword, click the `Add another item` button.
 
  ![Example Keywords Filled](../images/pageKeywordsFull.png)
  
