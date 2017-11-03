@@ -56,6 +56,7 @@
    * [Customizing Content Layout](customizingpage.md)
    * [Google Maps](GoogleMaps.md)
    * [Google reCAPTCHA](recaptcha.md)
+   * [Bootstrap: Typography](bootstrapclasses.md) 
 * [SiteImprove](siteimprove.md)
 * [Google Analytics](analytics.md)
 * [Style Guide Code Snippets](styleguide.md)
