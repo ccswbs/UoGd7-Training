@@ -6,7 +6,6 @@ When trying to include the following content into your side, please use the foll
 * [Images](#images)
 * [Slideshows](#slideshows)
 * [Templates](#templates)
-* [Home Page Layouts](#home-pages)
 * [Miscellaneous](#miscellaneous)
 
 ## Buttons
