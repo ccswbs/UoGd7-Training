@@ -318,6 +318,111 @@ This code snippet demonstrates the method you would use to create a listing of c
 
 ![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
 
+## Headings that expand and collapse sections
+
+Start with content that has a heading, e.g.
+
+```HTML
+<h2>Section Title</h2>
+
+<p>Section text here</p>
+<p>More text here</p>
+```
+
+To make the section collapsible, it needs to be wrapped in `div` tags like this:
+
+```HTML
+<div>
+<p>Section text here</p>
+<p>More text here</p>
+</div>
+```
+
+After you've put the content in a div, give that div the class name `collapse` and a unique ID:
+
+```HTML
+<div class="collapse" id="uniqueID">
+<p>Section text here</p>
+<p>More text here</p>
+</div>
+```
+
+Now turn your section title into a link with the following code:
+
+```HTML
+<h2><a href="#uniqueName" data-target="#uniqueName">Section Title</a></h2>
+```
+
+Note that `href` and `data-target` both have to equal the unique ID of the div. This is so the link, when clicked, knows which div it's supposed to expand or collapse. So If you want multiple divs on page that can be expanded or collapsed, each one must have a unique ID.
+
+**Note:** If you want a section to be expanded by default when a page loads instead of hidden/collapsed, rewrite the link heading code as follows:
+
+```HTML
+<h2><a data-toggle="collapse" data-target="#section2" href="#section2">Section title here</a></h2>
+```
+
+That is, remove the code `class=collapsed` (when you include `class=collapsed`, it makes the link show up with a "Plus" icon to indicate the content can be expanded. This "Plus" icon changes to a "Minus" when the content is expanded). You also need to change the section's `div` code from:
+
+```HTML
+<div class="collapse">
+```
+to:
+
+```HTML
+<div class="collapse in">
+```
+
+## Equal Height Boxes
+
+**Note as of 10/20/2017:** This will be available in the next release, v23.0
+
+![Image of equal height boxes](/ccswbs/UoGd7-Training/blob/master/images/image.png)
+
+Code for the boxes is structured as follows:
+
+```HTML
+<div class="row row-flex row-flex-wrap">
+    <div class="col-md-4">
+        <div class="flex-col well">
+            <ul class="flex-grow list-narrow">
+                <li>Lorem ipsum</li>
+                <li>Dolor sit amet</li>
+                <li>Consectetur adipiscing</li>
+                <li>Sed do eiusmod</li>
+                <li>Tempor incididunt</li>
+                <li>Labore et dolore</li>
+            </ul>
+            <p class="rtecenter"><a href="#" class="btn btn-info btn-sm">Learn more</a></p>
+        </div>
+    </div>
+</div>
+```
+
+Code for the box container is:
+```HTML
+<div class="row row-flex row-flex-wrap"> ... </div>
+```
+
+Code for an individual box is:
+```HTML
+<div class="col-md-4">
+    <div class="flex-col well">
+        <ul class="flex-grow list-narrow">
+            <li>Lorem ipsum</li>
+            <li>Dolor sit amet</li>
+            <li>Consectetur adipiscing</li>
+            <li>Sed do eiusmod</li>
+            <li>Tempor incididunt</li>
+            <li>Labore et dolore</li>
+        </ul>
+        <p class="rtecenter"><a href="#" class="btn btn-info btn-sm">Learn more</a></p>
+    </div>
+</div>
+```
+
+The bootstrap class `col-md-4` means you'll have, if screen space permits, a maximum of 3 boxes in a row. The `flex-col` class ensures the button always appears under the list of items (as opposed to, say, floating right next to it). The `well` class is optional for getting the grey background and border effect.
+
+The `flex-grow` class, applied to the list, pushes the button down to the bottom of the box (as opposed to right beneath the list). The `list-narrow` class is optional, meant for applying a smaller font size and shorter line heights (as opposed to how default body text looks).
 
 ## Miscellaneous
 
