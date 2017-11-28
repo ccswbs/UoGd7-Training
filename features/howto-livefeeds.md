@@ -2,8 +2,8 @@
 
  * [Live Twitter Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
  * [External Source Live Feed](#to-display-a-live-feed-from-an-external-source)
- * [Multiple Combined Event Feeds](#to-display-multiple-combined-feeds)
- * [Multiple Combined Feeds (All Feeds)]
+ * [Multiple Combined Event Feeds](#to-display-multiple-combined-event-feeds)
+ * [Multiple Combined Feeds (All Feeds)](#to-display-multiple-combined-feeds-all-feeds)
 
 ## To Add a Live Twitter Feed to the Home Page:
 
@@ -71,16 +71,6 @@ ______
 5. Click on the new category. 
 6. You will see the Aggregator category ID in the URL, at `<site_name>/aggregator/categories/<category_ID>`.
 
-### Step Four (For Events Feeds): Add the `EA1 - Upcoming Events teaser list` View Pane
-
-1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
-7. For the appropriate region, select `+` (plus sign). 
-8. When the Add Content window opens, select `View panes` from the side menu. 
-9. Select `View: EA1 - Upcoming Events teaser list` from the list.
-1. Change the number of items to display and override the title if desired.
-2. Select `Finish`.
-4. Select `Save` at the bottom of the page.
-
 ### Step Four (For all Other Feeds): Add the `S5 - Live Feed (Category)` View Pane
 
 1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
@@ -96,5 +86,27 @@ ________
 
 ## To Display Multiple Combined Feeds (All Feeds):
 
+## Step One: Create a Feed Category
 
+1. From the administration bar, navigate to `Configuration` > `Feed aggregator` > `Add category`.
+2. Enter a title for the feed category. 
+3. Select `Save`. 
+
+### Step Two: Add Feeds to the Feed Category
+
+1. On the Feed aggregator page, find the name of a feed you would like to add to your new category.
+2. Select `edit` beside the feed's name, under "Operations."
+3. Under "Categorize news items," select the name of your new category. 
+4. Select `Save`. 
+5. Repeat steps 1-4 for any additional feeds you would like to add to a category.
+
+### Step Four: Add the `EA1 - Upcoming Events teaser list` View Pane
+
+1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
+7. For the appropriate region, select `+` (plus sign). 
+8. When the Add Content window opens, select `View panes` from the side menu. 
+9. Select `View: EA1 - Upcoming Events teaser list` from the list.
+1. Change the number of items to display and override the title if desired.
+2. Select `Finish`.
+4. Select `Save` at the bottom of the page.
 
