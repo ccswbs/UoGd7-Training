@@ -72,10 +72,13 @@ ______
 
 ### Step Four (For Events Feeds): Add the `EA1 - Upcoming Events teaser list` View Pane
 
-1. 1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
+1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
 8. When the Add Content window opens, select `View panes` from the side menu. 
 9. Select `View: EA1 - Upcoming Events teaser list` from the list.
+1. Change the number of items to display and override the title if desired.
+2. Select `Finish`.
+4. Select `Save` at the bottom of the page.
 
 ### Step Four (For all Other Feeds): Add the `S5 - Live Feed (Category)` View Pane
 
