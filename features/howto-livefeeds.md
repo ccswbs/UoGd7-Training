@@ -94,7 +94,7 @@ ______
 
 ________
 
-## Multiple To Display Multiple Combined Feeds (All Feeds):
+## To Display Multiple Combined Feeds (All Feeds):
 
 
 
