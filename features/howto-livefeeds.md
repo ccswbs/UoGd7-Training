@@ -99,7 +99,7 @@ ________
 5. Click on the new category. 
 6. You will see the Aggregator category ID in the URL, at `<site_name>/aggregator/categories/<category_ID>`.
 
-### Step Four (For all Other Feeds): Add the `S5 - Live Feed (Category)` View Pane
+### Step Four: Add the `S5 - Live Feed (Category)` View Pane
 
 1. From the page you would like to add a combined live feed to, select `Customize this page` at the botton of the screen.
 7. For the appropriate region, select `+` (plus sign). 
