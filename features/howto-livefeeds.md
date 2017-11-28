@@ -2,7 +2,8 @@
 
  * [Live Twitter Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
  * [External Source Live Feed](#to-display-a-live-feed-from-an-external-source)
- * [Multiple Combined Feeds](#to-display-multiple-combined-feeds)
+ * [Multiple Combined Feeds (Events)](#to-display-multiple-combined-feeds)
+ * [Multiple Combined Feeds (All Feeds)]
 
 ## To Add a Live Twitter Feed to the Home Page:
 
