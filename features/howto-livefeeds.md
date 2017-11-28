@@ -54,7 +54,7 @@ ______
 ### Step One: Create a Feed Category
 
 1. From the administration bar, navigate to `Configuration` > `Feed aggregator` > `Add category`.
-2. Enter a title for the feed category. 
+2. Enter a title for the feed category, like "Events."
 3. Select `Save`. 
 
 ### Step Two: Add Feeds to the Feed Category
