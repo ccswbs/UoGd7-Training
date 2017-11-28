@@ -2,7 +2,7 @@
 
  * [Live Twitter Feeds](#to-add-a-live-twitter-feed-to-the-home-page)
  * [External Source Live Feed](#to-display-a-live-feed-from-an-external-source)
- * [Multiple Combined Feeds (Events)](#to-display-multiple-combined-feeds)
+ * [Multiple Combined Event Feeds](#to-display-multiple-combined-feeds)
  * [Multiple Combined Feeds (All Feeds)]
 
 ## To Add a Live Twitter Feed to the Home Page:
@@ -49,7 +49,7 @@ ______
 
 ______
 
-## To Display Multiple Combined Feeds:
+## To Display Multiple Combined Event Feeds:
 
 ### Step One: Create a Feed Category
 
@@ -91,4 +91,10 @@ ______
 2. Enter the Aggregator Category ID.
 3. Select `Finish`.
 4. Select `Save` at the bottom of the page.
+
+________
+
+## Multiple To Display Multiple Combined Feeds (All Feeds):
+
+
 
