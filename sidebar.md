@@ -2,9 +2,10 @@
 
 Sidebar menus show up on the right side of the page, beside the main body content. They can be easily customized to display a portion of the main menu on all pages, or a few select pages.
 
-For help with creating menus, see the [Managing Menus](menuitems.md) page.
-
 There are two main methods for creating sidebar menus: Panels and Blocks. Panels are recommended for sidebar menus that show up on all pages, but if you would like your sidebar menu to appear on only a small number of pages, go with Blocks.
+
+***Note:*** You should have some menu links created before placing panels or blocks. For help with creating menus, see the [Managing Menus](menuitems.md) page.
+
 
 ## 1. Panels Method
 
