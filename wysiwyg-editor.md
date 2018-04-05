@@ -57,8 +57,9 @@ Here is what the Drupal Text (WYSIWYG) Editor's operations look like:
 7. Once your image has been selected and the appropriate alternative text has been added, insert the image by selecting `OK`.
 
 ## Create and Delete Sub-Directories
-Please note the Dir (directory browser button) on the top menu bar. The users can create and delete sub-directories under the <root> directory.
- ![image](images/browserDirButton.png)
+The users can create and delete sub-directories under the <root> directory. Make sure that the <root> directory is selected.
+ 
+ ![image](images/createDeleteDir.png)
 
 ## Inserting a Table 
 The **WCAG 2.0** standard for table settings dictates that table markup must be properly structured to differentiate and properly link between header and data cells.
