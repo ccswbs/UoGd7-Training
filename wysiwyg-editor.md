@@ -57,7 +57,7 @@ Here is what the Drupal Text (WYSIWYG) Editor's operations look like:
 7. Once your image has been selected and the appropriate alternative text has been added, insert the image by selecting `OK`.
 
 ## Create and Delete Sub-Directories
-The users can create and delete sub-directories under the <root> directory. Make sure that the <root> directory is selected.
+The users can create and delete sub-directories under the **root** directory. Make sure that the **root** directory is selected.
  
  ![image](images/createDeleteDir.png)
 
