@@ -51,6 +51,8 @@ Here is what the Drupal Text (WYSIWYG) Editor's operations look like:
 4. Uploaded the image to the website file system by selecting `Upload` from the menu bar. Upload the file and select the appropriate settings, then select `Upload`.
 
  ![upload](images/dialogpic.png)
+ Note: Now the users can create and delete sub-directories under the <root> directory. See 
+ ![Create or Remove Browser Directory Button](images/imageBrowserDirButton.png)
  
 5. Locate the image you would like to insert. Then, select `Insert File` on the menu bar.
 6. Ensure that you give the image appropriate alternative text. For more information on appropriate altetnative text, please visit [the  WebAIM turotial on alternative text](http://webaim.org/techniques/alttext/).
