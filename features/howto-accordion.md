@@ -11,11 +11,11 @@ expand one section of the document at a time.
 To create collapsible sections in your content:
 1. Click the *Source* button on the editor toolbar to switch the editor to source editing mode
 
-![image](images/source2.png)
+![image](../images/source2.png)
 
 2. Copy and paste the following markup into the source editor
 
-![image](images/addAccordCode.png)
+![image](../images/addAccordCode.png)
 
 3. Adjust the number and description of the sections to suit your content
 
