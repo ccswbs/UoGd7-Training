@@ -2,7 +2,7 @@
 
 Collapsible sections or "accordions" are another way to organize long documents or pages, while taking up
 less screen space. Readers can flip between the sections of your document by clicking or tapping to 
-expand one section of the document at a time.
+expand one section of the document at a time. Below is an example of collapsed and expanded accordion respectively. 
 
 ![image](../images/accord1.png)
 
