@@ -4,9 +4,9 @@ Collapsible sections or "accordions" are another way to organize long documents 
 less screen space. Readers can flip between the sections of your document by clicking or tapping to 
 expand one section of the document at a time.
 
-![image](images/accord1.png)
+![image](../images/accord1.png)
 
-![image](images/accord2.png)
+![image](../images/accord2.png)
 
 To create collapsible sections in your content:
 1. Click the *Source* button on the editor toolbar to switch the editor to source editing mode
