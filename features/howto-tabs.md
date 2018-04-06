@@ -1,6 +1,6 @@
 # Tabs HOWTO
 
-![image](images/tabsExampleCapture.png)
+![image](../images/tabsExampleCapture.png)
 
 Tabs organize content into meaningful sections, while occupying less screen space. Use tabs to give readers quick access 
 to sections of a long document or page, such as profile pages.
@@ -8,12 +8,12 @@ to sections of a long document or page, such as profile pages.
 To create tabs in your content:
 1. Click the *Source* button on the editor toolbar
 
-![image](images/sourceButtonCapture.png)
+![image](../images/sourceButtonCapture.png)
 
 2. Copy and paste the following markup
 3. Edit the number and description of the tabs to suit your content
 
-![image](images/tabCodingCapture.png)
+![image](../images/tabCodingCapture.png)
 
 ## Markup
 ```
