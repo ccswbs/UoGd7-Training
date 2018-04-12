@@ -20,7 +20,7 @@ Add terms to the following:
 6. **Profile unit:** This describes the title of the department or faculty an individual is a part of.
 7. **Profile sub unit:** This is the sub-unit of a department. Example: *Web Business Solutions* is a sub-unit of *CCS*.
 
-###How to Add Vocabulary Terms
+### How to Add Vocabulary Terms
 
 1. Using the administration bar, navigate to `Structure` > `Taxonomy`.
 2. You will see a long list of vocabularies. Seven of these vocabularies (listed above) are related to people profiles. Select `list terms` for the vocaubulary you would like to add terms to. 
@@ -28,7 +28,7 @@ Add terms to the following:
 3. Enter a name for the term. Enter a description if needed. 
 4. Select `Save`. 
 
-####Taxonomy: Profile Field Labels
+#### Taxonomy: Profile Field Labels
 
 This vocabulary allows you to add custom fields to your people profiles. Add terms to this vocabulary to determine the field labels. For instance, if the field were to show "*Interests:*  Sports", then "Interests" would be a term in the `profile field labels` category. 
 
@@ -36,7 +36,7 @@ After custom fields are created through taxonomy, they can be added through the 
 
 Do not confuse this vocabulary with `profile section labels` vocabulary, which is used for adding larger sections that use the Drupal text editor. 
 
-##How to Add People Profiles
+## How to Add People Profiles
 
 1. On the Administration bar, navigate to `Add Content` > `Profile`.
 4. Begin filling out the profile, starting with adding a **Preferred name** and **Last name**.
@@ -47,7 +47,7 @@ Do not confuse this vocabulary with `profile section labels` vocabulary, which i
 17. Enter any *tags or keywords* that help categorize and organize your people profiles.
 17. Select `Save` when you are done.
 
-##Customizing People Profiles Listing Page
+## Customizing People Profiles Listing Page
 
 You have the ability to change the size and alignment of the pictures on the people profile listing page, which is visible to site users. Follow these steps to customize your listing page: 
 
