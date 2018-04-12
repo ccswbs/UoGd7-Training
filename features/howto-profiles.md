@@ -1,4 +1,4 @@
-# How to People Profiles
+# How to work with People Profiles
 
 The people profiles feature allows **Content Creators** to create and edit an organizational profile. Anonymous users can browse through these profiles in a listing page view and find more detail about a specific member of an organization by clicking on that member's name.
 
