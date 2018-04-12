@@ -55,7 +55,7 @@ You have the ability to change the size and alignment of the pictures on the peo
 2. Select `Customize this page` at the bottom of the screen.
 3. You will see the PP1 view pane in the `Left` section, similar to this image:
  
- ![Example of PP1 view pane](../images/profiles-PP1 view.png)
+ ![Example of PP1 view pane](../images/profiles-PP1view.png)
  
 4. To change either the size or alignment of the images, first, delete the PP1 viewpane by selecting the trash can button. This will *not* delete your people profiles. 
 5. Under the `Left` section, select `+` (plus sign). The "Add Content" window will open. 
