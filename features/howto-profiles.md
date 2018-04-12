@@ -63,7 +63,7 @@ You have the ability to change the size and alignment of the pictures on the peo
 7. When the "Configure new View: PP6 Custom Listing" opens, check **ONE** of `Content: Image (Small Image)` or `Content: Image (Large Image)`. 
 8. Check `Content: Align names` if desired. This will ensure that on the listing page, names with no image are aligned with other names, for a neater presentation. 
 
- ![Example of Configure new View: PP6 Custom Listing Window](../images/profiles-configure PP6-2.png)
+ ![Example of Configure new View: PP6 Custom Listing Window](../images/profiles-configurePP6-2.png)
  
 9. Select `Finish`.
 10. When the configuration window closes, make sure to select `Save` at the bottom of the screen. 
