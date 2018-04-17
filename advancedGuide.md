@@ -4,6 +4,8 @@ This guide is designed to cover more complicated topics on our Drupal platform. 
 
 The Advanced Guide to Drupal websites will cover:
 * [Blocks](features/howto-blocks.md)
+* [Collapsible Sections (Accordions)](features/howto-accordion.md)
+* [Tabs](features/howto-tabs.md)
 * [Customizing Content Layout](customizingpage.md)
 * [Google Maps](GoogleMaps.md)
 * [Google reCAPTCHA](recaptcha.md)
