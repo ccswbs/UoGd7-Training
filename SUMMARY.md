@@ -53,6 +53,8 @@
    * [Other Accessible Content](accessibility-guide/other-accessible-content.md)
 * [Advanced Topics on Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
+   * [Collapsible Sections (Accordions)] (features/howto-accordion.md)
+   * [Tabs] (features/howto-tabs.md)
    * [Customizing Content Layout](customizingpage.md)
    * [Google Maps](GoogleMaps.md)
    * [Google reCAPTCHA](recaptcha.md)
