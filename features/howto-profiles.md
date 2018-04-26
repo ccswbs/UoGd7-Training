@@ -4,7 +4,7 @@ The people profiles feature allows **Content Creators** to create and edit an or
 
 * [Using Taxonomy for People Profiles](#using-taxonomy-for-people-profiles)
 * [How to Add People Profiles](#how-to-add-people-profiles)
-  * [NEW: Tabbed layouts for People Profiles](#new:-tabbed-layouts-for-people-profiles)
+  * [NEW: Tabbed layouts for People Profiles](#new-tabbed-layouts-for-people-profiles)
 * [Customizing People Profiles Layout](#customizing-people-profiles-listing-page)
 
 ## Using Taxonomy for People Profiles
