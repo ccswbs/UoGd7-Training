@@ -20,7 +20,7 @@ Content may be in one of these states during the publishing process. Not until t
 
 ### Content State Transitions
 
-Workbench uses roles to define publishing permissions. For People Profiles two roles have been defined, the **author** and the **publisher**.
+Workbench uses roles to define publishing permissions. For People Profiles, two roles have been defined: the **author** and the **publisher**.
 
 Content may move from one state to another. Below are the transitions permitted for *People Profile* content and the required minimum role to perform transition.
 
@@ -39,7 +39,7 @@ It is worth noting that once a document is publish the Workbench workflow is com
 
 ## Using Workbench Moderation
 
-In general content edits (or drafts) will be created, submitted for review and then published. These activities along with the primary role responsible for each are listed below.
+In general, content edits (or drafts) will be created, submitted for review and then published. These activities along with the primary role responsible for each are listed below.
 
 | Activity                                  | Primary role |   
 |:------------------------------ |:------------ | 
@@ -51,7 +51,7 @@ In general content edits (or drafts) will be created, submitted for review and t
 
 Draft content is created by two methods. 
 
-1. The first is when new content is created. When a new people profile is created it is by default set to a **draft state**.  Review [How to work with People Profiles]() help documentation for more information on creating new People Profile content.
+1. The first is when new content is created. When a new people profile is created, it is by default set to a **draft state**.  Review [How to work with People Profiles]() help documentation for more information on creating new People Profile content.
 2. The second is by editing existing content.
 
 ### Create new draft from existing content (Author)
@@ -75,7 +75,7 @@ Once an Author's draft is complete they may submit it for review.
 
 ![image](../images/workbenchModeratingPeopleProfiles-Moderate.png)
 
-2. The moderation window shows the current published page (green), the current draft  (red) and past edits (grey).  For the draft (red) there will be a drop-down menu.  'Needs Approval' will be selected automatically in the drop-down menu.
+2. The moderation window shows the current published page (green), the current draft  (red) and past edits (grey).  For the draft (red) there will be a drop-down menu.  'Needs Review' will be selected automatically in the drop-down menu.
 
 ![image](../images/workbenchModeratingPeopleProfiles-NeedsReview.png)
 
@@ -84,19 +84,19 @@ Once an Author's draft is complete they may submit it for review.
 
 ### Publish document (Site Editor)
 
-1. visit workbench
-2. visit 'needs review' tab
-3. select page that needs review change to open moderate window.
-4. the current draft that needs review will be marked in red
+1. Visit 'My Workbench'
+2. Visit 'Needs Review' tab
+3. Select page that needs review by clicking 'View Moderation History'
+4. The current draft that needs review will be marked in red
 
 ![image](../images/workbenchModeratingPeopleProfiles-Published.png)
 
-5. click view link to see the review the draft.
-6. If satisfied, return to moderate window by selecting the moderate tab
+5. click 'View' to see the review the draft.
+6. If satisfied, return to moderate window by selecting the 'Moderate' tab
 
 ![image](../images/workbenchModeratingPeopleProfiles-Moderate2.png)
 
-7. The state drop-down menu should already be set to **Publish**.
+7. The state drop-down menu should already be set to **Published**.
 
 ![image](../images/workbenchModeratingPeopleProfiles-Published2.png) 
 
@@ -104,9 +104,9 @@ Once an Author's draft is complete they may submit it for review.
 
 #### Note about rejected edits (Publisher)
 
-As Publisher drafts may be rejected. The Publish may make edits to any draft but if this happens the Publisher takes ownership of the draft and the Author will not be able to make any additional changes.
+Publisher drafts may be rejected. The Publisher may make edits to any draft, but if this happens, the Publisher takes ownership of the draft and the Author will not be able to make any additional changes.
 
-Another option is to notify the Author (outside of Drupal, ie. email or phone) and ask them to edit their "Needs Review" draft and then resubmit for review.
+To avoid preventing the Author from being able to make additional changes, the Publisher may notify the Author (outside of Drupal, ie. email or phone) to ask them to edit their "Needs Review" draft and then resubmit for review.
 
 ### Changing Needs Review to Draft (Author)
 
