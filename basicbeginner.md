@@ -118,7 +118,7 @@ If you are not familiar with types of users (or user roles) you can review the [
     * For more information on the user roles, please visit the [Drupal User Roles and Responsibilities](rolesandresp.md) section.
     * In the example below we are adding the roles 'editor' and 'publisher' for the user.
     
-![Add New User Image](images/userEdit User.png)
+![Add New User Image](images/userEditUser.png)
     
 5. Select `Save`.
 
