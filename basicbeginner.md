@@ -96,7 +96,7 @@ In Drupal, access and permissions are granted to defined user roles. User roles 
 * Publisher
 * Site Manager
 
-If you are not familiar with types of users (or user roles) you can review the [Types of UoG Users] (https://ccswbs.gitbooks.io/uog-drupal-training/content/Drupal_Features_Terms_Acroynms.html#types-of-uog-users) in the Drupal Platform Introduction.
+If you are not familiar with types of users (or user roles) you can review the [Types of UoG Users](Drupal_Features_Terms_Acroynms.html#types-of-uog-users) in the Drupal Platform Introduction.
 
 ### Managing User Roles
 
