@@ -65,7 +65,7 @@ You have the ability to change the size and alignment of the pictures on the peo
 2. Select `Customize this page` at the bottom of the screen.
 3. You will see the PP1 view pane in the `Left` section, similar to this image:
  
- ![Example of PP1 view pane](../images/profiles-PP1view.png)
+    ![Example of PP1 view pane](../images/profiles-PP1view.png)
  
 4. To change either the size or alignment of the images, first, delete the PP1 viewpane by selecting the trash can button. This will *not* delete your people profiles. 
 5. Under the `Left` section, select `+` (plus sign). The "Add Content" window will open. 
@@ -73,7 +73,7 @@ You have the ability to change the size and alignment of the pictures on the peo
 7. When the "Configure new View: PP6 Custom Listing" opens, check **ONE** of `Content: Image (Small Image)` or `Content: Image (Large Image)`. 
 8. Check `Content: Align names` if desired. This will ensure that on the listing page, names with no image are aligned with other names, for a neater presentation. 
 
- ![Example of Configure new View: PP6 Custom Listing Window](../images/profiles-configurePP6-2.png)
+    ![Example of Configure new View: PP6 Custom Listing Window](../images/profiles-configurePP6-2.png)
  
 9. Select `Finish`.
 10. When the configuration window closes, make sure to select `Save` at the bottom of the screen. 
@@ -142,7 +142,7 @@ Draft content is created by two methods.
 2. Make changes to the page. Saving these changes will keep the page in the **Draft** state (the default state for all new drafts).
 3. If the page is saved as a draft then the next time you visit the page the **New draft** tab will be replaced by 2 new tabs: **View Draft** and **Edit Draft**
 
-![image](../images/workbenchModeratingPeopleProfiles-EditDraft.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-EditDraft.png)
 
 4. Use the **View published** and **View draft** tabs to review changes in the content.
 5. Use the **Edit draft** tab to edit the draft and make further changes to the content.
@@ -154,11 +154,11 @@ Once an Author's draft is complete they may submit it for review.
 
 1. Click the Moderate tab to go to the moderation window:
 
-![image](../images/workbenchModeratingPeopleProfiles-Moderate.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-Moderate.png)
 
 2. The moderation window shows the current published page (green), the current draft  (red) and past edits (grey).  For the draft (red) there will be a drop-down menu.  'Needs Review' will be selected automatically in the drop-down menu.
 
-![image](../images/workbenchModeratingPeopleProfiles-NeedsReview.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-NeedsReview.png)
 
 3. Click **Apply** button. This will send a notification to the site editors that the draft is ready for review and needs publishing.
 
@@ -170,16 +170,16 @@ Once an Author's draft is complete they may submit it for review.
 3. Select page that needs review by clicking 'View Moderation History'
 4. The current draft that needs review will be marked in red
 
-![image](../images/workbenchModeratingPeopleProfiles-Published.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-Published.png)
 
 5. click 'View' to see the review the draft.
 6. If satisfied, return to moderate window by selecting the 'Moderate' tab
 
-![image](../images/workbenchModeratingPeopleProfiles-Moderate2.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-Moderate2.png)
 
 7. The state drop-down menu should already be set to **Published**.
 
-![image](../images/workbenchModeratingPeopleProfiles-Published2.png) 
+    ![image](../images/workbenchModeratingPeopleProfiles-Published2.png) 
 
 8. Click **Apply** to publish the page. The Author will be notified that the document is published.
 
@@ -196,10 +196,10 @@ In the event a draft is rejected by a Publisher or an Author wishes to make addi
 1. Select the **My Workbench** link from the black admin menu at the top of the page. This will open the My Workbench view.
 2. From My Workbench click the **Needs Review** tab to show the list of pages sent for review.
 
-![image](../images/workbenchModeratingPeopleProfiles-NeedsReview2.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-NeedsReview2.png)
 
 3. From the **Needs Review** admin page, click the link **Change to _Draft_** to set the page back to Draft.
 
-![image](../images/workbenchModeratingPeopleProfiles-ChangetoDraft.png)
+    ![image](../images/workbenchModeratingPeopleProfiles-ChangetoDraft.png)
 
-4. Edit the draft as before. See [Create Draft][(#) section of help for more information.
+4. Edit the draft as before. See [Create Draft](#) section of help for more information.
