@@ -70,11 +70,9 @@ Use the drop-down menus to filter by content status and type to find what you're
 ![Filter and edit content options displayed](images/filterandedit.png)
 
 ## Adding Users to the Website
-**/!\ Note**: The ability to add users to a website is restricted to Site Owners/Web Managers.
+Arguably the most straight forward way to add users to a website is to ask the user to log in to the site using their Central Login-ID and password ([see login](#)). By doing this, the user is added into the system as an authenticated user of the website. Once a successful login has occurred, the user can be assigned roles by a site manager (see [Managing User Roles]()) adding user roles.
 
-To simplify the process in adding users to a website, we suggest that you ask the user to attempt to log in to the site. By doing this, the user is added into the system as a user of the website. Once this is done, the permission roles can be easily set.
-
-**/!\ Note**: If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the initial login.
+What if the user doesn't have a Central Login-ID or if the user is unable to login? Alternatively users can be added by an individual with the site manager role. If you already know the Central Login-ID and email address, or the user is not U of G authenticated, accounts can be set-up without having the user attempt the intial login.
 
 ### Adding a New User
 1. At the top of the Administration Menu Bar select `People`.
@@ -88,16 +86,42 @@ To simplify the process in adding users to a website, we suggest that you ask th
 
 ![Add New User Image](images/newUser.png)
 
-### Adding/Removing Permissions on Pre-existing Site
+### About User Roles
+In Drupal, access and permissions are granted to defined user roles. User roles are in turn assigned to individual users. The U of G Drupal platform has the following predefined roles each with unique permissions allowing for different types of users with different capabilities:
+
+* Anonymous User
+* Authenticated User
+* Author
+* Editor
+* Publisher
+* Site Manager
+
+If you are not familiar with types of users (or user roles) you can review the [Types of UoG Users] (https://ccswbs.gitbooks.io/uog-drupal-training/content/Drupal_Features_Terms_Acroynms.html#types-of-uog-users) in the Drupal Platform Introduction.
+
+### Managing User Roles
+
+/!\ Note: The ability to manage user roles is restricted to Site Managers.
 
 1. At the top of the Administration Menu Bar select `People`.
+
+![Add New User Image](images/userEditPeopleAdmMenu.png)
+
 2. Locate the appropriate user you would like to edit permissions for. You can do this by either using the filter provided, scrolling through the list, or using the in-browser search feature (ctrl + f).
 4. Once the user is located, select `edit` for that user.
+
+![Add New User Image](images/userClickEditUser.png)
+
 5. Under the "Role" category, select or deselect the roles you would like the user to have. 
     * All Unchecked (Except Authenticated User): User is a normal user with no creation/editing capabilities.
     * For more information on the user roles, please visit the [Drupal User Roles and Responsibilities](rolesandresp.md) section.
-5. For the sake of saving the information you just edited, enter a *random* password in the "Password" and "Confirm Password" field. (This step is purely for the sake of saving. This password is **NOT IMPORTANT**!!! It will not be retained since the User's Central Login ID and Password will override and provide that user access to the website).
+    * In the example below we are adding the roles 'editor' and 'publisher' for the user.
+    
+![Add New User Image](images/userEdit User.png)
+    
 6. Select `Save`.
+
+/!\ Note: Ignore the password field for edits - if left blank the password remains unchanged which is desired in most cases.
+
 
 ![Edit Pre-existing User](images/editUser.png)
 
