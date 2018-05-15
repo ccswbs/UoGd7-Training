@@ -124,9 +124,9 @@ In general, content edits (or drafts) will be created, submitted for review and 
 
 | Activity                                  | Primary role |   
 |:------------------------------ |:------------ | 
-| [Create draft](#)                      | author        |
-| [Submit draft for approval](#)  | author        |
-| [Approve draft and publish](#) | publisher    |
+| [Create draft](#create-draft-people-profile-content-author)                      | author        |
+| [Submit draft for approval](#submit-draft-for-approval-author)  | author        |
+| [Approve draft and publish](#publish-document-site-editor) | publisher    |
 
 ### Create draft People Profile content (Author)
 
@@ -138,6 +138,7 @@ Draft content is created by two methods.
 ### Create new draft from existing content (Author)
 
 ![image](../images/workbenchModeratingPeopleProfiles-NewDraft.png)
+
 1. Visit the people profile page you wish to edit. From the people profile page click the **New draft** tab to open the edit page.
 2. Make changes to the page. Saving these changes will keep the page in the **Draft** state (the default state for all new drafts).
 3. If the page is saved as a draft then the next time you visit the page the **New draft** tab will be replaced by 2 new tabs: **View Draft** and **Edit Draft**
@@ -202,4 +203,4 @@ In the event a draft is rejected by a Publisher or an Author wishes to make addi
 
     ![image](../images/workbenchModeratingPeopleProfiles-ChangetoDraft.png)
 
-4. Edit the draft as before. See [Create Draft](#) section of help for more information.
+4. Edit the draft as before. See [Create Draft](#create-draft-people-profile-content-author) section of help for more information.
