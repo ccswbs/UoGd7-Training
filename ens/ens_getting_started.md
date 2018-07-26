@@ -6,7 +6,6 @@ This guide will cover:
 * [Introduction to the Admin Menu Bar](ens_getting_started.md#introduction-to-the-admin-menu-bar)
 * [Creating Basic Content](ens_getting_started.md#creating-content)
 * [Editing Pre-existing Content](ens_getting_started.md#editing-pre-existing-content)
-* [WYSIWYG Editor](wysiwyg-editor.md)
 
 ## How to Log in/Log out
 ### Logging In
