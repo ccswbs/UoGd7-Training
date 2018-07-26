@@ -13,11 +13,14 @@ This guide will cover:
 
     ![Login example](img/ug-ens_login-block.png)
 
-2. Enter your Central Login ID in the "Username" field.
-3. Enter your Central Login Password in the "Password" field.
+2. Enter your ENS Login ID in the "Username" field.
+3. Enter your ENS Login Password in the "Password" field.
 4. Select `Log in`.
 
+Note: this site is does not use central login authentication. You will receive a login from the system administrators.
+
 ### Logging Out
+
 There are many ways in which a user can log out. The simplest way is to click the `Log out` option located on the menu bar.
 
 ## Introduction to the Admin Menu Bar
@@ -42,7 +45,7 @@ If you wish to learn more about creating content in the UofG Drupal environment 
 
 All ENS content can be viewed by selecting the `Find Content` (1) shortcut located in the Administration Menu shortcut bar, or by selecting `Content` in the Administration Bar itself.
 
-Once selected, you will be brought to a page with the content listed in a table (2).
+Once selected, you will be brought to a page with the content listed in a table.
 
 ![Website Content Listings](img/ug-ens_edit-content.png)
 
@@ -56,7 +59,7 @@ Another way to open the edit window is to browse to published content. If you ar
 
 ### Edit page
 
-Once the edit page is open, there will be two fields available to edite (1) `Title` and (2) `Message`.
+Once the edit page is open, there will be two fields available to edit (1) `Title` and (2) `Message`.
 
 ![The edit page for content](img/ug-ens_edit-window.png)
 
@@ -91,4 +94,4 @@ Similarily it is possible to change the status of multiple pages at once using t
 
 ![Update options for multiple pages](img/ug-ens_update_options.png)
 
-Place a check next to all the content you wish to change and then select the update option. This is one way to unpublish multiple ENS posts at once.
+In the content listing table, place a check next to all the content you wish to change and then select the update option. Next click the `Update` button. This is one way to unpublish multiple ENS posts at once.
