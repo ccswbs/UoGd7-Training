@@ -16,11 +16,11 @@ The following code snippets demonstrate the style classes you would use to style
 ### Button vs Link?
 If clicking the button causes the user to go to a different page, use a link. 
 ```HTML
-<a href="#" class="btn btn-default>Link styled as a button</a>
+<a href="#" class="btn btn-default">Link styled as a button</a>
 ```
 If clicking the button triggers a change on the page (but does not go to a different page), use a button.
 ```HTML
-<button class="btn btn-default>Button that causes a change on the current page</button>
+<button class="btn btn-default">Button that causes a change on the current page</button>
 ```
 
 ### Bootstrap Button Colours
