@@ -57,14 +57,17 @@ Another way to open the edit window is to browse to published content. If you ar
 
 ### Edit page
 
-Once the edit page is open, there will be two fields available to edit (1) `Title` and (2) `Message`.
+Once the edit page is open, there will be two fields available to edit (1) `Title`, (2) `Notification Type`, and (2) `Message`.
 
-![The edit page for content](img/ug-ens_edit-window.png)
+![The edit page for content](img/ug-ens_edit-window-2.png)
 
 The `Title` field is plain text while the `Message` field has a WYSIWYG editor that will help the editor modify the message.
 
 If you wish to learn more about the WYSIWYG editor in the UofG Drupal environment then please see [Drupal Text (WYSIWYG) Editor](../wysiwyg-editor.md
 ) in the UG Drupal Help file.
+
+The `Notification Type` is a drop down optional field which can be changed to represent the type of notification. Selection instruct the display to show a different warning image on the homepage when a notification is published. Below are the options and corresponding icon:
+
 
 ### Saving and Publishing/Unpublishing
 
