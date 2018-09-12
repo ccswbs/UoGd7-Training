@@ -13,11 +13,9 @@ This guide will cover:
 
     ![Login example](img/ug-ens_login-block.png)
 
-2. Enter your ENS Login ID in the "Username" field.
-3. Enter your ENS Login Password in the "Password" field.
+2. Enter your Central Login ID in the "Username" field.
+3. Enter your Central Login Password in the "Password" field.
 4. Select `Log in`.
-
-Note: this site is does not use central login authentication. You will receive a login from the system administrators.
 
 ### Logging Out
 
