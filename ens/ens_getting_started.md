@@ -68,7 +68,7 @@ If you wish to learn more about the WYSIWYG editor in the UofG Drupal environmen
 
 The `Notification Type` is a drop down optional field which can be changed to represent the type of notification. Selection instruct the display to show a different warning image on the homepage when a notification is published. Below are the options and corresponding icon:
 
-| Notification Type | Icon                         |
+| Notification Type | Resulting Icon               |
 | :---------------- | :--------------------------: |
 | Alert             | ![](img/icons/alert.png)     |
 | Biohazard         | ![](img/icons/biohazard.png) |
