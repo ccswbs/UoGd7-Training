@@ -241,7 +241,7 @@ Use the following code to create an inline paginated slideshow.
 		<a class="glyphicon glyphicon-chevron-right" data-slide="next" href="#carousel-name" role="button"><span class="sr-only">Next slide</span></a>
 	</div>
 
-	<div class="carousel-inner" role="listbox">
+	<div class="carousel-inner">
 		<div class="item active"><img alt="Alt text for first image. " class="img-responsive img-rounded" src="...">
 			<h2>Heading for the first slide</h2>
 			<p>Text for the first slide</p>
