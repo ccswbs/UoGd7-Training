@@ -225,7 +225,7 @@ Use the following code to create one row of a 3 column grid. Repeat for as many 
 ![Image of all bootstrap buttons](/images/imageGrid3.jpg)
 
 ## Slideshows
-Use the following code to create an inline paginated slideshow.
+Use the following code to create an inline paginated slideshow. The code below previously contained the code '<div class="carousel-inner" role="listbox">' but now role="listbox" is removed so as to make the slideshow accessible. If you had the previous code please remove the role="listbox" text/code. 
 
 ```HTML
 <div class="carousel slide" data-interval="false" data-keyboard="true" data-wrap="false" id="carousel-name">
