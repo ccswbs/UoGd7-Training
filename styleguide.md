@@ -242,7 +242,7 @@ Make sure that the Text Format is switched to Full HTML rather than the default 
 ![Image of all bootstrap buttons](/images/Image_Overlay1.png)
 ![Image of all bootstrap buttons](/images/Image_Overlay2.png)
 
-The defualt overlay colour is black. To change this colour, input `div class="img-overlay ug-gold"`in place of `div class="img-overlay`
+The defualt overlay colour is black. To change this colour, input `div class="img-overlay ug-gold"`in place of `div class="img-overlay"`
 Colour options include:
 `ug-gold`
 `ug red`
