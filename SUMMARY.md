@@ -68,4 +68,3 @@
 * [Style Guide Code Snippets](styleguide.md)
 * [Home Page Layout Options](homepagelayouts.md)
 * [Client FAQ](FreqAQ.md)
-* [test page](features/howto-test.md)
