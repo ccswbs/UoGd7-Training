@@ -34,4 +34,3 @@ To create tabs in your content:
   </div>
 </div>
 ```
-Copy and paste the markup above.
