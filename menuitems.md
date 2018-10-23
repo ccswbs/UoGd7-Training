@@ -42,6 +42,8 @@ and menu items/tabs. Editors can only add menu items to existing menus.
 7. If you know the correct weight to give the item then you may change the weight here. Otherwise, you can use the interface on the previous page to reorder the menu items. **/!\ Note**: You can configure menu hierarchy through the drag interface.
 8. Once the above steps are completed, select `Save`.
 
+**/!\ Note**: When you add items to the parent menu and check "show as expanded", the menu will no longer be clickable. It will only bring up the drown-down menu. Consider adding a second link titled "Overview" as a child item that contains the information previously linked to the parent menu item.
+
 ### Editing a Link in the Menu
 1. Select `Structure` from the Admininistration Bar.
 2. Select `Menus`. 
