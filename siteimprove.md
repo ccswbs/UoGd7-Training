@@ -1,4 +1,4 @@
-# Guide to Siteimprove & Website Quality Assurance
+# Guide to Siteimprove & Website Quality Assurance - GitBook
 
 * [What is Siteimprove Quality Assurance?](siteimprove.md#what-is-siteimprove-quality-assurance)
 * [Getting Access to Siteimprove](siteimprove.md#getting-access-to-siteimprove)
