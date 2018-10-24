@@ -224,48 +224,6 @@ Use the following code to create one row of a 3 column grid. Repeat for as many 
 ```
 ![Image of all bootstrap buttons](/images/imageGrid3.jpg)
 
-### Image Overlay
-
-#### Image Overlay with Single Heading Caption
-The following code snippet demonstrates the method you would use to create a linked image with a clickable colour overlay. This overlay also features a caption when hovered over. 
-
-Make sure that the Text Format is switched to Full HTML rather than the default Filtered HTML.
-
-```HTML
-<div class="img-overlay ug-gold">
-<a href="/your/link/here">
-  <img alt="Your text here. If it's identical to your caption text, you can leave the alt text empty" src="/your/image/here.jpg" />
-  <span class="overlay-caption h3">Your caption text here</span></a>
-</div>
-```
-
-![Image of all bootstrap buttons](/images/Image_Overlay1.png)
-![Image of all bootstrap buttons](/images/Image_Overlay2.png)
-
-The defualt overlay colour is black. To change this colour, input `div class="img-overlay ug-gold"`in place of `div class="img-overlay"`
-Colour options include:
-`ug-gold`
-`ug red`
-`ug blue`
-
-If your desired alt text is the same as your caption text, you can choose to leave the alt text empty. Otherwise, alt text is required If your image was uploaded with text overlaying the image, alt text is also required. 
-
-#### Image Overlay with Two Captions
-You can create a similar image overlay - but with additional text. This overlay will have a heading caption along the top of the image and a second, smaller caption along the bottom. 
-
-This van be done with any of the aforementioned colours.
-
-```HTML
-<div class="img-overlay ug-red">
-<a href="/your/link/here">
-  <img alt="Your alt text here. If it's identical to your caption text, you can leave the alt text empty" src="/your/image/here.jpg" />
-  <span class="overlay-caption h3">Your caption text here</span>
-  <span class="overlay-text">Your extra text here</span>
-</a>
-</div>
-```
-![Image of all bootstrap buttons](/images/Image_Overlay_2_Captions.png)
-
 ## Slideshows
 The code below previously contained the code `<div class="carousel-inner" role="listbox">` but now `role="listbox"` is removed so as to make the slideshow accessible. If you had the previous code please remove the `role="listbox"` from the code. 
 	
