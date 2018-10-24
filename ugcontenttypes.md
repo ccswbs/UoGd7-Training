@@ -11,6 +11,7 @@ The current content types provided by the current Drupal platform are:
 * [FAQ](features/howto-FAQ.md)
 * [Featured Item](features/howto-featured.md)
 * [News Article](features/howto-news.md)
+* Services
 * [Social Media Account](features/howto-socialmedia.md)
 * [People Profiles](features/howto-profiles.md)
 * [Webform](features/howto-webforms.md)
