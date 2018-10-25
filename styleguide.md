@@ -253,7 +253,7 @@ If your desired alt text is the same as your caption text, you can choose to lea
 #### Image Overlay with Two Captions
 You can create a similar image overlay - but with additional text. This overlay will have a heading caption along the top of the image and a second, smaller caption along the bottom. 
 
-This van be done with any of the aforementioned colours.
+This can be done with any of the aforementioned colours.
 
 ```HTML
 <div class="img-overlay ug-red">
