@@ -29,7 +29,7 @@ A textfield is for short entries like names, while a textarea is a large area fo
 1. Enter one option per line.
 1. Click `Save component`.
 
-When you are creating lists, the default type is radio buttons.The option to select a listbox instead is found down the page in the "Display" section.
+NOTE: When you are creating lists, the default type is radio buttons. The option to select a listbox instead is found down the page in the "Display" section. For accessibility reasons, do not use the radio buttons or checkboxes option, as these options are not screen reader friendly will fail accessibility checks.
  
 ###Configure E-Mail options
 ####Receiving the submitted webform
