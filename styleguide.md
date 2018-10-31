@@ -3,10 +3,23 @@
 When trying to include the following content into your side, please use the following guide to assist you with structuring and styling content on a page within the AODA Drupal Theme. Many of the recommended code snippets are from the Bootstrap Framework. Visit [Bootstrap CSS](http://getbootstrap.com/css/) for a full list of CSS classes. Please note that a majority of the following information requires a high level of technical understanding and general knowledge of web development.
 
 * [Buttons](#buttons)
+   * [Button vs Link] (#Button vs Link)
+   * [Bootstrap Button Colours] (#Bootsrap Button Colours)
+   * [Bootstrap Button Sizes] (#Boostrap Button Sizes)
+   * [Exapnding and Collapsing Buttons] (#Expanding and Collapsing Buttons)
 * [Images](#images)
+   * [Rounded Images] (#Rounded Images)
+   * [Aligning Images] (#Aligning Images)
+   * [Creating a Responsive Image Grid with Bootstrap] (#Creating a Responsive Image Grid with Bootstrap)
+   * [Image Overlay] (#Image Overlay)
 * [Slideshows](#slideshows)
 * [Templates](#templates)
+   * [Two Columned List] (#Two Columned List)
+   * [Listing Text Content with a Left-Aligned Image] (#Listing Text Content with a Left-Aligned Image)
+   * [Heading that Expand and Collapse sections] (#Headings that Expand and Collapse Sections)
+   * [Equal Height Boxes] (#Equal Height Boxes)
 * [Miscellaneous](#miscellaneous)
+   * [Icons] (#Icons)
 
 ## Buttons
 
@@ -360,7 +373,7 @@ This code snippet demonstrates the method you would use to create a listing of c
 
 ![Image of all bootstrap buttons](/images/leftAllignedImage.jpg)
 
-## Headings that expand and collapse sections
+## Headings that Expand and Collapse Sections
 
 Start with content that has a heading, e.g.
 
