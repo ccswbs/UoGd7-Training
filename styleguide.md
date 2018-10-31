@@ -11,7 +11,7 @@ When trying to include the following content into your side, please use the foll
    * [Rounded Images](#rounded-images)
    * [Aligning Images](#aligning-images)
    * [Creating a Responsive Image Grid with Bootstrap](#creating-a-responsive-image-grid-with-bootstrap)
-   * [Image Overlay](#Image Overlay)
+   * [Image Overlay](#image-overlay)
 * [Slideshows](#slideshows)
 * [Templates](#templates)
    * [Two Columned List](#two-columned-list)
