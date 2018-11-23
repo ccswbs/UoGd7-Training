@@ -521,7 +521,7 @@ We are currently using the FontAwesome icon library. To use the icons, make sure
 
 Different icons may use a different set of classes (eg. "fab" for brand icons):
 
-![Image of snapchat icon](/images/snapchat.PNG)
+![Image of snapchat icon](/images/snapchat.png)
 
 ```HTML
 <i class="fab fa-snapchat">&nbsp;</i>
