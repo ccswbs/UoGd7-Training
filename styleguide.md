@@ -10,6 +10,7 @@ When trying to include the following content into your side, please use the foll
 * [Images](#images)
    * [Rounded Images](#rounded-images)
    * [Aligning Images](#aligning-images)
+   	*[Centering Images](#centering-images)
    * [Creating a Responsive Image Grid with Bootstrap](#creating-a-responsive-image-grid-with-bootstrap)
    * [Image Overlay](#image-overlay)
 * [Slideshows](#slideshows)
@@ -183,7 +184,7 @@ To clear a float, you can put a "clearfix" class on the parent element.
 <div class="clearfix"><img src="..." class="img-responsive pull-right" alt="Descriptive alt text" /></div>
 ```
 
-### Images wiht Captions
+### Images with Captions
 Use the following code to add a formatted caption to your image
 
 ```HTML
