@@ -183,6 +183,26 @@ To clear a float, you can put a "clearfix" class on the parent element.
 <div class="clearfix"><img src="..." class="img-responsive pull-right" alt="Descriptive alt text" /></div>
 ```
 
+### Images wiht Captions
+Use the following code to add a formatted caption to your image
+
+```HTML
+<figure class="thumbnail">
+    <img alt="" class="img-responsive img-rounded" src="/src/for/your/image" />
+    <figcaption class="caption">Your caption text here</figcaption>
+</figure>
+```
+**Note:** the `img-rounded` class is optional. The code above will provide the following effect: 
+
+![Image of all bootstrap buttons](/images/image-with-caption.png)
+
+By default, the border expands to fill available width in the area where the image has been placed. If you don't want that much white space on either side, you can either use a larger image or apply the `pull-left` or `pull-right` class to `figure` like so:
+
+`<figure class="thumbnail pull-right">`
+
+This will give you the following effect instead: 
+
+![Image of all bootstrap buttons](/images/aligned-image-with-caption.png)
 
 ### Creating a Responsive Image Grid with Bootstrap
 
