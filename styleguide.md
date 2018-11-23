@@ -512,10 +512,23 @@ The `flex-grow` class, applied to the list, pushes the button down to the bottom
 
 ### Icons
 #### Icon Only
-![Image of University Icon](/images/universityIcon.PNG)
+We are currently using the FontAwesome icon library. To use the icons, make sure to put a non-breaking space between the tags, otherwise ckeditor will remove the icon code when you edit it. For Example: 
+
+![Image of Ghost Icon](/images/ghost.PNG)
 ```HTML
-<i aria-hidden="true" class="fa fa-university">&nbsp;</i>
+<i class="fas fa-ghost">&nbsp;</i>
 ```
+
+Different icons may use a different set of classes (eg. "fab" for brand icons):
+
+![Image of snapchat icon](/images/snapchat.PNG)
+
+```HTML
+<i class="fab fa-snapchat">&nbsp;</i>
+```
+See the official documentation at: https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+
+The cheatsheet of all the available icons is at: https://fontawesome.com/cheatsheet
 
 #### Icon with Link Text/Text
 ![Image of University Icon with University of Guelph Link Text](/images/universityIconWithText.PNG)
