@@ -10,7 +10,7 @@ When trying to include the following content into your side, please use the foll
 * [Images](#images)
    * [Rounded Images](#rounded-images)
    * [Aligning Images](#aligning-images)
-   	*[Centering Images](#centering-images)
+   * [Images with Captions](#images-with-captions)
    * [Creating a Responsive Image Grid with Bootstrap](#creating-a-responsive-image-grid-with-bootstrap)
    * [Image Overlay](#image-overlay)
 * [Slideshows](#slideshows)
