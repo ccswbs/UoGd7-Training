@@ -1,6 +1,6 @@
 # Customizing Site Search Box
 
-The following are two different options for placement of a Search Box form on you website. 
+The following are two different options for placement of a Search Box form on your website. 
 
 ## Option 1: Placing Search Box Using Blocks
 
