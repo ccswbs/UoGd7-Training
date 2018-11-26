@@ -27,7 +27,7 @@ It should look like this:
 
 ![Image of Search Form inside mini panel](/images/search-form-move.png)
 
-8. To reposition the search form, use the anchor tool and click and drag to desired position (above or below existing widgets).
+8. To reposition the search form, use the anchor tool to click and drag to desired position (above or below existing widgets).
 9. Select `Save` at the middle-bottom of the page
 
 Now the search box should appear on every Basic Page content type. To have the search box enabled on other content types such as News or Events, simply navigate to an event or news content page and repeat the steps above. 
