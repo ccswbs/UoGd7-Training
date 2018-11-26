@@ -67,4 +67,5 @@
 * [Google Analytics](analytics.md)
 * [Style Guide Code Snippets](styleguide.md)
 * [Home Page Layout Options](homepagelayouts.md)
+* [Customizing Site Search](Searchform.md)
 * [Client FAQ](FreqAQ.md)
