@@ -4,7 +4,7 @@ The following are two different options for placement of a Search Box form on yo
 
 ## Option 1: Placing Search Box Using Blocks
 
-Search box is placed on the right-hand side of the page using Customize this Page. 
+Search box is placed on the right-hand side of the page using **Customize this Page.** 
 
 **Note:** Edits made using "Customize this page" will affect all pages of the same content type. (E.g., An edit made to an Event page will affect all event pages on the site)
 
