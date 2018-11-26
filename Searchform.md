@@ -61,7 +61,7 @@ You will now have a link in your Main Menu Bar that leads to the Search page.
 
 1. Navigate to the homepage. Select `Customize this page`
 2. You will see your homepage broken down into sections. Under the Right Side section, select the + 
-3. A menu will appear. Select `Widgets' and then `Search form`
+3. A menu will appear. Select `Widgets` and then `Search form`
 4. Select `Finish`
 5. Select `Save` at the bottom of the page 
 
