@@ -4,25 +4,34 @@ The following are two different options for placement of a Search Box form on yo
 
 ## Option 1: Placing Search Box Using Blocks
 
-The Search box is placed on the right-hand side of the page using blocks. 
+Search box is placed on the right-hand side of the page using Customize this Page. 
+
+**Note:** Edits made using "Customize this page" will affect all pages of the same content type. (E.g., An edit made to an Event page will affect all event pages on the site)
+
 ![Image of search box on right side example](/images/Search-form-option-1.png)
 
 ### How to Implement Option 1
 
-1. Select `Structure` from the Administration Menu Bar, then select `Blocks`
-2. Scroll down the page until you reach the "Disabled" section and locate `Search form`
-3. On the right-hand side, there is a drop-down menu that currently reads - None -. Choose `Secondary` from this drop-down menu
-4. Scroll upwards until you find the "Secondary" section. The Search form item should be listed there
-   * On the right-hand side, select `Configure` inline with the Search form
-   * It will bring up a menu that looks like this:
+1. Navigate to any Basic Page on your website. 
+2. Select `Customize this page` at the middle-bottom of the page
+3. The page has been broken down into sections. Scroll down until you reach “Right Side”
 
-![Image of a Drupal Menu](/images/Search-form-editor.png)
-  
-   * Select `All pages except those listed`
-   * In the blank textbox, type `<front>`
-   * Select `Save Block`
-  
-Now the Search Box should appear on every page of the site except for the homepage. To enable the Search box on the homepage, see instructions below. 
+![Image of Basic Page Mini Panel Right Side](/image/search-form-mini-panel.png)
+
+4. On the right-hand side, click the plus sign
+5. A menu will appear. Select `Widgets` from the left-hand column
+6. Select `Search Form`
+7. Select `Finish`
+
+It should look like this: 
+
+![Image of Search Form inside mini panel](/images/search-form-move)
+
+8. To reposition the search form, use the anchor tool and click and drag to desired position (above or below existing widgets).
+9. Select `Save` at the middle-bottom of the page
+
+Now the search box should appear on every Basic Page content type. To have the search box enabled on other content types such as News or Events, simply navigate to an event or news content page and repeat the steps above. 
+
 
 ## Option 2: Link to Search Added to Main Menu Bar
 
