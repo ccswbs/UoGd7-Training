@@ -36,8 +36,8 @@ A link is added to the Main Menu Bar that takes the user to the Search page.
 2. Click `list links` located to the far right of the "Main Menu" item
 3. At the top of the page, select `Add link`
 4. Input the following into the fields
-   * Menu Link Title: Search
-   * Path: search
+   * **Menu Link Title:** Search
+   * **Path:** search
    * Choose `save` at the bottom of the page
 5. You will now find the "Search" lin at the bottom of the Menu Link List 
 
@@ -46,7 +46,7 @@ A link is added to the Main Menu Bar that takes the user to the Search page.
 6. Click and drag the anchor on the left of Search to position the Search menu link in the list
 7. Click `Save configuration` at the bottom of the page
 
-You will now have a link in your Main Meny Bar that leads to the Search page.
+You will now have a link in your Main Menu Bar that leads to the Search page.
 
 ## How to Add a Search Box to your Homepage
 
