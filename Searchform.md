@@ -5,7 +5,7 @@ The following are two different options for placement of a Search Box Form on yo
 ## Option 1: Placing Search Box Using Blocks
 
 The Search box is placed on the right-hand side of the page using blocks. 
-![Image of search box on right side example](/images/search-form-option-1.png)
+![Image of search box on right side example](/images/Search-form-option-1.png)
 
 ### How to Implement Option 1
 
@@ -16,7 +16,7 @@ The Search box is placed on the right-hand side of the page using blocks.
    * On the right-hand side, select `Configure` inline with the Search form
    * It will bring up a menu that looks like this:
 
-![Image of a Drupal Menu](/images/search-form-editor.png)
+![Image of a Drupal Menu](/images/Search-form-editor.png)
   
    * Select `All pages except those listed`
    * In the blank textbox, type `<front>`
