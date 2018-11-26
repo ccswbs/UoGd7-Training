@@ -16,7 +16,7 @@ Search box is placed on the right-hand side of the page using **Customize this P
 2. Select `Customize this page` at the middle-bottom of the page
 3. The page has been broken down into sections. Scroll down until you reach “Right Side”
 
-![Image of Basic Page Mini Panel Right Side](/image/search-form-mini-panel.png)
+![Image of Basic Page Mini Panel Right Side](/images/search-form-mini-panel.png)
 
 4. On the right-hand side, click the plus sign
 5. A menu will appear. Select `Widgets` from the left-hand column
@@ -25,7 +25,7 @@ Search box is placed on the right-hand side of the page using **Customize this P
 
 It should look like this: 
 
-![Image of Search Form inside mini panel](/images/search-form-move)
+![Image of Search Form inside mini panel](/images/search-form-move.png)
 
 8. To reposition the search form, use the anchor tool and click and drag to desired position (above or below existing widgets).
 9. Select `Save` at the middle-bottom of the page
