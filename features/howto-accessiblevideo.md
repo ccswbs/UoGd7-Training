@@ -26,7 +26,9 @@ The Accessible Video feature allows content creators to add accessible videos to
 7. If you have the proper authority to publish, select `published` in "Publishing options"
 8. Select `Save`
 
-You have now added an Accessible Video to your site. 
+You have now added an Accessible Video to your site. For a public list of your videos, go to https://www.uoguelph.ca/yoursite/videos. You will have the ability to filter these video by category - similar to views for news and events.
+
+To do this, you would first need to create terms in the Video taxonomy category and select the `category` when you create a video. 
 
 ## Adding Accessible Video View Pane to Homepage
 Adding the Featured Video view pane to a homepage follows the same process as adding an event or news view pane. 
