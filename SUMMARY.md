@@ -28,6 +28,7 @@
    * [News](features/howto-news.md)
    * [Page](features/howto-page.md)
       * [File Attachments](features/howto-page.md#attaching-a-file-to-a-page)
+   * [Accessible Video](howto-accessiblevideo.md)
    * [People Profiles](features/howto-profiles.md)
    * [Service](features/howto-services.md)
    * [Social Media Account](features/howto-socialmedia.md)
