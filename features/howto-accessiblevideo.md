@@ -1,0 +1,36 @@
+# How to Add Accessible Video
+The Accessible Video feature allows content creators to add accessible videos to the website and display them in a Listing Page view and Featured Video Teaser List view. 
+
+## What is Required for Accessible Video?
+1. Video must be uploaded to YouTube
+2. Video Transcript file (VTT File Format). File must be less than 128 MB. 
+3. OPTIONAL: Description file. Use if you have a separate VTT file with descriptions for visually impaired users.
+
+## How to Add Accessible Video
+
+![Example of featured video display](/images/videoteaserlist.png)
+
+1. The video must be uploaded to YouTube
+2. From the top administration menu bar, navigate to `Add content`, then select `Accessible Video`
+
+![Example of accessible video title and video ID](/images/videoMenu.png)
+
+3. Enter a **Title**
+4. Enter the **Video ID**. This is the 11-character alphanumeric portion that comes after **https://www.youtube.com/watch?v=**
+5. Upload your VTT transcript file under **Transcript file**
+   * If you have a separate VTT file with descriptions for visually impaired users, upload this file under **Description file**
+6. In the **Body Field**, enter information about the video. 
+
+![Example of the body field](/images/videobody.png)
+
+7. If you have the proper authority to publish, select `published` in "Publishing options"
+8. Select `Save`
+
+You have now added an Accessible Video to your site. 
+
+## Adding Accessible Video View Pane to Homepage
+Adding the Featured Video view pane to a homepage follows the same process as adding an event or news view pane. 
+
+The view pane is called: **View: V1 - Listing page for multiple videos: Video teaser list**
+
+See [Customizing Content Layout](customizingpage.md) for more information on how to add view panes.
