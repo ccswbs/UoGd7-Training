@@ -35,7 +35,7 @@ The view pane is called: **View: V1 - Listing page for multiple videos: Video te
 
 See [Customizing Content Layout](customizingpage.md) for more information on how to add view panes.
 
-## How to View a Public List of Videos on the Site
+## How to View a Public List of Videos on your Site
 For a public list of your videos, go to https://www.uoguelph.ca/yoursite/videos. You will have the ability to filter these video by category - similar to views for news and events.
 
 To do this, you would first need to create terms in the Video taxonomy category and select the `category` when you create a video. 
