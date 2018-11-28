@@ -5,7 +5,7 @@ The Accessible Video feature allows content creators to add accessible videos to
 
 ## What is Required for Accessible Video?
 1. Video must be uploaded to YouTube
-2. Video Transcript file (VTT File Format). File must be less than 128 MB. 
+2. OPTIONAL: Video Transcript file (VTT File Format). File must be less than 128 MB. 
 3. OPTIONAL: Description file. Use if you have a separate VTT file with descriptions for visually impaired users.
 
 ## How to Add Accessible Video
