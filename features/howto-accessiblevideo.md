@@ -49,4 +49,4 @@ Or, you can view the embed code for each video on your site at the following lin
 
 ![Example of video embed code page](/images/videoembedcodepage.PNG)
 
-**Note:** You will only be able to view the embed code if you are logged in and have editing privledges. 
+**Note:** You will only be able to view the embed code if you are logged in and have editing privileges. 
