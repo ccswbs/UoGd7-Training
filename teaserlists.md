@@ -14,3 +14,6 @@ Examples of teaser lists include "upcoming events" and "news." These lists will 
 * **News**
   * View N3 - Recent news teaser list
   * View N3 - Recent news teaser list: Content with Summary field
+* **Video**
+  * View V1 - Listing page for multiple videos: All videos
+  * View V1 - Listing page for multiple videos: Video teaser list  
