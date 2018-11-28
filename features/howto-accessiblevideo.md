@@ -31,7 +31,7 @@ You have now added an Accessible Video to your site. For a public list of your v
 To do this, you would first need to create terms in the Video taxonomy category and select the `category` when you create a video. 
 
 ## Adding Accessible Video View Pane to Homepage
-Adding the Featured Video view pane to a homepage follows the same process as adding an event or news view pane. 
+Adding the Featured Video view pane to a homepage follows the same process as adding an event or news view pane. You can filter by category and customize how many videos show in the list.
 
 The view pane is called: **View: V1 - Listing page for multiple videos: Video teaser list**
 
