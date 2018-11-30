@@ -2,7 +2,7 @@
 
 The following are two different options for placement of a Search Box form on your website. 
 
-## Option 1: Placing Search Box Using Cuztomize this page
+## Option 1: Placing Search Box Using Customize this page
 
 Search box is placed on the right-hand side of the page using **Customize this Page.** 
 
