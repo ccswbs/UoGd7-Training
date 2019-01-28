@@ -460,7 +460,7 @@ to:
 
 **Note as of 10/20/2017:** This will be available in the next release, v23.0
 
-![Image of equal height boxes](/ccswbs/UoGd7-Training/blob/master/images/image.png)
+![Image of equal height boxes](/images/image.png)
 
 Code for the boxes is structured as follows:
 
