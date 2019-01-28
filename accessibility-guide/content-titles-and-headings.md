@@ -12,7 +12,7 @@ When writing text for web pages, consider the fact that some users cannot get an
 
 Headings can be selected in the Drupal text editor. Simply highlight some text, and then use the drop-down menu to select the heading level: 
 
-![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings drop down WYSIWYG 2.png)
+![WYSIWYG Editor with Headings Drop-Down Menu](/images/Headings-drop-down-WYSIWYG-2.png)
 
 **/!\ Note**: Do not use heading elements simply to increase font size, and do not use *empty* heading elements to create space on the page. These improper uses of headings will make the web page less accessible.
 
