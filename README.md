@@ -28,7 +28,7 @@ This documentation provides users with an abundence of information. This informa
 * **Strong** or __Bold__
     * Used for options, titles, new terms where they are defined.
 * `Constant Width`
-    * For things the user will see and read on the screen. `and..`
+    * For things the user will see and read on the screen.
 
 ## What is Drupal?
 ### A Brief Description
