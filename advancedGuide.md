@@ -7,5 +7,6 @@ The Advanced Guide to Drupal websites will cover:
 * [Collapsible Sections (Accordions)](features/howto-accordion.md)
 * [Tabs](features/howto-tabs.md)
 * [Customizing Content Layout](customizingpage.md)
+* [Mini Panels](features/howto-minipanels.md)
 * [Google Maps](GoogleMaps.md)
 * [Google reCAPTCHA](recaptcha.md)
