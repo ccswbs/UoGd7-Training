@@ -61,7 +61,7 @@
    * [Headings that Expand and Collapse](features/howto-expandcollapse.md)
    * [Tabs](features/howto-tabs.md)
    * [Customizing Content Layout](customizingpage.md)
-   * [Mini Panels](features/howto-minipanels.md)
+   * [Mini Panel](features/howto-minipanels.md)
    * [Google Maps](GoogleMaps.md)
    * [Google reCAPTCHA](recaptcha.md)
    * [Bootstrap: Typography](bootstrapclasses.md) 
