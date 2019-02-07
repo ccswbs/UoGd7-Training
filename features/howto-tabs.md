@@ -1,4 +1,4 @@
-# Tabs HOWTO
+# Tabs How To
 
 ![image](../images/tabsExampleCapture.PNG)
 
