@@ -1,8 +1,8 @@
 # Mini Panels
 
-[Creating a mini panel](#Creating-a-mini-panel)
-[Configure Mini Panels to appear on a page or homepage](#Configure-Mini-Panels-to-appear-on-a-page-or-homepage)
-[Activating Mini Panels under blocks](#Activating-Mini-Panels-under-blocks)
+* [Creating a mini panel](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Creating-a-mini-panel)
+* [Configure Mini Panels to appear on a page or homepage](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Configure-Mini-Panels-to-appear-on-a-page-or-homepage)
+* [Activating Mini Panels under blocks](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Activating-Mini-Panels-under-blocks)
 
 Mini panels are portable panels with 2 or 3 columns that display many types of content (custom content, view panes, menus, etc.) 
 Once a mini panel is built it can then be placed as a block in any region of your site.
@@ -13,7 +13,7 @@ Once a mini panel is built it can then be placed as a block in any region of you
 1.	Click on `Structure` in the Administration menu bar and select `Mini panels` 
 2.	Click `+` Add
 
-![Add option](../images/add-mini-panel.png)
+   ![Add option](../images/add-mini-panel.png)
 
 3.	Under Administrative title, enter a unique name for your mini panel. Click `Continue`.
 4.	Click `Continue` again (to skip the Context menu) and then select **Two Columns Stacked** and click `Continue`.
