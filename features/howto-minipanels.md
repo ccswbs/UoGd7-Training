@@ -1,8 +1,8 @@
 # Mini Panels
 
-* [Creating a mini panel](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Creating-a-mini-panel)
-* [Configure Mini Panels to appear on a page or homepage](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Configure-Mini-Panels-to-appear-on-a-page-or-homepage)
-* [Activating Mini Panels under blocks](https://ccswbs.gitbooks.io/uog-drupal-training/content/features/howto-minipanels.html#Activating-Mini-Panels-under-blocks)
+* [Creating a mini panel](#creating-a-mini-panel)
+* [Configure Mini Panels to appear on a page or homepage](#configure-mini-panels-to-appear-on-a-page-or-homepage)
+* [Activating Mini Panels under blocks](#activating-mini-panels-under-blocks)
 
 Mini panels are portable panels with 2 or 3 columns that display many types of content (custom content, view panes, menus, etc.) 
 Once a mini panel is built it can then be placed as a block in any region of your site.
