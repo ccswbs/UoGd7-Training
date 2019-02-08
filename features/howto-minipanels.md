@@ -1,8 +1,8 @@
 # Mini Panels
 
-* [Creating a mini panel](howto-minipanels.md#Creating-a-mini-panel)
-* [Configure Mini Panels to appear on a page or homepage](howto-minipanels.md#Configure-Mini-Panels-to-appear-on-a-page-or-homepage)
-* [Activating Mini Panels under blocks](howto-minipanels.md#Activating-Mini-Panels-under-blocks)
+[Creating a mini panel](#Creating-a-mini-panel)
+[Configure Mini Panels to appear on a page or homepage](#Configure-Mini-Panels-to-appear-on-a-page-or-homepage)
+[Activating Mini Panels under blocks](#Activating-Mini-Panels-under-blocks)
 
 Mini panels are portable panels with 2 or 3 columns that display many types of content (custom content, view panes, menus, etc.) 
 Once a mini panel is built it can then be placed as a block in any region of your site.
