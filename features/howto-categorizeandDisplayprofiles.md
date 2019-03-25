@@ -5,7 +5,7 @@ Some departments choose to display their staff profiles by the team they (belong
 ![An Example of a categorized profile page](../images/profiles-main-image.png)
 
 ## Adding Profile Categories (e.g web & development solutions)
-1.	Add profile category terms using the steps in [How to Add Vocabulary Terms](/howto-profiles.md)
+1.	Add profile category terms using the steps in [How to Add Vocabulary Terms](howto-profiles.md)
 2.	Click edit beside each term you added and get the term Id from the URL (/taxonomy/term/`#`/) 
 ![URL to retrieve taxonomy term](../images/taxonomy-term.png)
 
