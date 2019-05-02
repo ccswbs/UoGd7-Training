@@ -58,7 +58,7 @@
 * [Advanced Topics on Drupal Websites](advancedGuide.md)
    * [Blocks](features/howto-blocks.md)
    * [Collapsible Sections / Accordions](features/howto-accordion.md)
-   * [Categorizing and Displaying Profiles](howto-categorizeandDisplayprofiles.md)
+   * [Categorizing and Displaying Profiles](features/howto-categorizeandDisplayprofiles.md)
    * [Headings that Expand and Collapse](features/howto-expandcollapse.md)
    * [Tabs](features/howto-tabs.md)
    * [Customizing Content Layout](customizingpage.md)
