@@ -4,7 +4,7 @@ This guide is designed to help those who are just starting their journey with th
 
 This guide will cover:
 
-* [How to Login/Logout](./#how-to-log-inlog-out)
+* [How to Login/Logout](./#logging-in)
 * [Introduction to the Admin Menu Bar](./#introduction-to-the-admin-menu-bar)
 * [Creating Basic Content](./#creating-basic-content)
 * [Editing Pre-existing Content](./#editing-pre-existing-content)
