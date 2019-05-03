@@ -4,7 +4,7 @@
 * [Drupal Platform Introduction](drupal_features_terms_acroynms.md)
 * [Drupal User Roles & Responsibilities](rolesandresp.md)
 * [Drupal Websites: Getting Started](basicbeginner/README.md)
-  * [Login/Logout](basicbeginner/how-to-log-inlog-out)
+  * [Login/Logout](basicbeginner/login-logout.md)
   * [Admin Menu Bar](basicbeginner/admin-menu-bar.md)
   * [Creating Basic Content](basicbeginner/creating-basic-content.md)
   * [Editing Content](basicbeginner/editing-content.md)
