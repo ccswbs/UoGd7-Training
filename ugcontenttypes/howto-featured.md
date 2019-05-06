@@ -39,7 +39,7 @@ In-Place Editor allows you to arrange panes and edit some settings on the fly. 1
 
 1. Choose any of the location areas to place a new view \(i.e. top, middle column, right side, etc.\) and select `+`.
 
-   ![Add button](../.gitbook/assets/add%20%283%29.png)
+   ![Add button](../.gitbook/assets/add%20%282%29.png)
 
 2. Select `View Panes` and then select either `FT3` or `FT3 - Random` views, depending on your needs.
 
