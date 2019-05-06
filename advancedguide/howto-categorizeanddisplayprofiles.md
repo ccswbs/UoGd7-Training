@@ -12,10 +12,10 @@ Some departments choose to display their staff profiles by the team they \(belon
 ## Adding the Terms to a Custom Menu Block on the Right Side of the Page
 
 1. Using the administration bar, navigate to structure &gt; menus
-2. Select add menu ![blue add menu option with a plus sign](../.gitbook/assets/add-menu%20%282%29.png)
+2. Select add menu ![blue add menu option with a plus sign](../.gitbook/assets/add-menu%20%281%29.png)
 3. Enter a menu title e.g. Faculty and Staff Directory
 4. Click, save
-5. Select Add link ![blue add link option](../.gitbook/assets/add-link%20%282%29.png) and do the following for each taxonomy term you created in step 1\(Link to add vocabulary terms\)
+5. Select Add link ![blue add link option](../.gitbook/assets/add-link.png) and do the following for each taxonomy term you created in step 1\(Link to add vocabulary terms\)
    * Enter a "title" e.g. a section name \(Deans office\)
    * Enter the term Id you copied from **step 2** in the following format `people/#` into the “path” field. Where `#` is the Id number
 
@@ -28,7 +28,7 @@ Some departments choose to display their staff profiles by the team they \(belon
 ## Adding the Custom Menu as A block on profiles page
 
 1. Navigate to structure &gt; blocks
-2. Select Add menu block ![Add menu block with a plus sign](../.gitbook/assets/add-menu-block%20%281%29.png)
+2. Select Add menu block ![Add menu block with a plus sign](../.gitbook/assets/add-menu-block.png)
 3. Enter a title you would like as the “Block title” and “administrative title” e.g. Faculty and Staff Directory
 4. Select the menu title you created under the “menu” drop down
 5. Select “starting level” as 1st level \(Primary\)
