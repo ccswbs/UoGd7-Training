@@ -135,19 +135,19 @@ If you are not familiar with types of users \(or user roles\) you can review the
 
 #### Changing Roles for Multiple Users
 
-1. At the top of the Administration Menu Bar select `People`.
+At the top of the Administration Menu Bar select `People`.
 
    ![Add New User Image](../.gitbook/assets/usereditpeopleadmmenu%20%282%29.png)
 
-2. Select all the individuals you wish to change the roles.
+Select all the individuals you wish to change the roles.
 
    ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleselect.png)
 
-3. From the Update Options dropdown menu select the new role you wish to add to all selected users. For the example below the role of 'editor' is being added.
+From the Update Options dropdown menu select the new role you wish to add to all selected users. For the example below the role of 'editor' is being added.
 
    ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleroleset.png)
 
-4. Select `Update`.
+Select `Update`.
 
 #### Additional Resource
 
