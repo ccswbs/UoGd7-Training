@@ -12,7 +12,7 @@ Below are different layouts that are availiable with our platform. If you would 
 
 ## Layout 3: 3 column top level lead-ins. Info banner midway through the page. News, Features, Upcoming Events, and Stay Connected at the bottom of the page.
 
-![Image of 3 column with info banner layout](.gitbook/assets/3column_infobanner%20%281%29.PNG)
+![Image of 3 column with info banner layout](.gitbook/assets/3column_infobanner.PNG)
 
 ## Layout 4: 4 column top level lead-ins
 
