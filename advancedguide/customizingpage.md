@@ -3,15 +3,15 @@
 ## Adding view panes
 
 1. In order to customize the way a page appears, select the `Customize this page` option that appears at the bottom of your screen. _Please note:_ **Only Site Managers** have access to this option.
-   * ![example of customize this page](../.gitbook/assets/customize%20%284%29.png)
-2. Select the preferred side/column where you would like a "view pane" to be visible, then select `+`.
-   * ![example of page layout](../.gitbook/assets/pagelayout.png)
+
+   ![example of customize this page](../.gitbook/assets/customize%20%284%29.png)
+
+2. Select the preferred side/column where you would like a "view pane" to be visible, then select `+`.![example of page layout](../.gitbook/assets/pagelayout.png)
 3. There are several content options listed that can be added to the page:
    1. Menus - includes any menus that you created or are present by default.
    2. Mini Panels - includes footer and other mini panels created by you.
    3. View Panes - includes the different formats the content types can appear in. The most commonly used are the _Teaser Lists._
-   4. New Custom Content - includes adding any customized content that will suit your needs.
-      * ![example of content options](../.gitbook/assets/contentoptions.png)
+   4. New Custom Content - includes adding any customized content that will suit your needs.![example of content options](../.gitbook/assets/contentoptions.png)
 
 ## Configure a view pane
 

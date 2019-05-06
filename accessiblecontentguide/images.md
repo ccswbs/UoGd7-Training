@@ -19,7 +19,7 @@ Avoid using images of text. This means that you should avoid writing text in an 
 
 1. From the Drupal text editor, click on the image icon in the menu bar. This action will open a window like this: 
 
-   ![WYSIWYG image properties window](../../.gitbook/assets/alt-text-wysiwyg%20%282%29.png)
+   ![WYSIWYG image properties window](../.gitbook/assets/alt-text-wysiwyg%20%282%29.png)
 
 2. Add short, descriptive alternative text in the "Alternative Text" field.
 3. Click `OK`. 

@@ -7,9 +7,7 @@ Some departments choose to display their staff profiles by the team they \(belon
 ## Adding Profile Categories \(e.g web & development solutions\)
 
 1. Add profile category terms using the steps in [How to Add Vocabulary Terms](../ugcontenttypes/howto-profiles.md#How-to-Add-Vocabulary-Terms)
-2. Click edit beside each term you added and get the term Id from the URL \(/taxonomy/term/`#`/\) 
-
-   ![URL to retrieve taxonomy term](../.gitbook/assets/taxonomy-term%20%282%29.png)
+2. Click edit beside each term you added and get the term Id from the URL \(/taxonomy/term/`#`/\) ![URL to retrieve taxonomy term](../.gitbook/assets/taxonomy-term%20%282%29.png)
 
 ## Adding the Terms to a Custom Menu Block on the Right Side of the Page
 

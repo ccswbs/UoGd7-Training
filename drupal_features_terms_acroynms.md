@@ -32,7 +32,7 @@ Every node belongs to a single _node type_ or _content type_, which defines vari
 
 ### Site Architecture - Content Types the UoG Template Provides:
 
-1. [Basic Page](ugcontenttypes/howto-page/)
+1. [Basic Page](ugcontenttypes/howto-page.md)
    * The **Basic page** content type is used for static content that can be linked into the main navigation bar. This is one of the most basic content types and can be very flexible.
 2. [Featured Items](ugcontenttypes/howto-featured.md)
    * The **Featured Item** allows content authors to create a lead-in to any page content on the website \(e.g. Events, News, Basic Page, People Profiles, etc.\) or an external URL.

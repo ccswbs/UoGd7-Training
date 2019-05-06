@@ -19,7 +19,9 @@
 2. In the top menu, click `Structure`
    * To view block regions:
      * Click **Demonstrate block regions \(UG Cornerstone Theme\)** at the top
-     * You will see a screen similar to the one below appear. Each block region will be listed and highlighted in yellow ![Block Regions](../.gitbook/assets/block-regions%20%281%29.png)
+     * You will see a screen similar to the one below appear. Each block region will be listed and highlighted in yellow 
+
+       ![Block Regions](../.gitbook/assets/block-regions%20%281%29.png)
    * To add blocks:
      * You can scroll down to the **Disabled** Blocks region and add a block of your choice to a selected region
      * To create a new block click on `Add block`
@@ -42,9 +44,13 @@
    * If you wish to configure the blocks, you may do so after saving the blocks
      * Configuring a block allows you to edit the contents of the block, and deal with the visibility settings
 
-**2.1 Creating your Block** ![Demo block being created](../.gitbook/assets/createblock%20%281%29.PNG)
+**2.1 Creating your Block** 
 
-**2.2 How it will appear on your site \(Placed in Primary Region\)** ![Demo block being created](../.gitbook/assets/blockappearance.PNG)
+![Demo block being created](../.gitbook/assets/createblock%20%281%29.PNG)
+
+**2.2 How it will appear on your site \(Placed in Primary Region\)** 
+
+![Demo block being created](../.gitbook/assets/blockappearance.PNG)
 
 ## Common Usage for Blocks
 

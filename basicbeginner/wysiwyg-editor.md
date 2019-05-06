@@ -2,7 +2,9 @@
 
 Drupal provides its users with a simple text editor that is universal amongst all content types. The Drupal Text Editor \(A.K.A the WYSIWYG Editor\) allows users to add custom content to the page through its collection of tools. _WYSIWYG_ stands for "What You See Is What You Get."
 
-Here is what the Drupal Text \(WYSIWYG\) Editor's operations look like: ![Drupal Text \(WYSIWYG\) Editor](../.gitbook/assets/wysiwyg-operation%20%281%29.png)
+Here is what the Drupal Text \(WYSIWYG\) Editor's operations look like: 
+
+![Drupal Text \(WYSIWYG\) Editor](../.gitbook/assets/wysiwyg-operation%20%281%29.png)
 
 ## Buttons on the Drupal Text \(WYSIWYG\) Editor
 

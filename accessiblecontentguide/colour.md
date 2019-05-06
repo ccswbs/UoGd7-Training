@@ -1,7 +1,7 @@
 # Colour
 
-* [Contrast Requirements](./#contrast-requirements)
-* [Use of Colour for Meaning](./#use-of-colour-for-meaning)
+* [Contrast Requirements](colour.md#contrast-requirements)
+* [Use of Colour for Meaning](colour.md#use-of-colour-for-meaning)
 
 ## Contrast Requirements
 

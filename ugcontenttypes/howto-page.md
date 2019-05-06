@@ -1,25 +1,25 @@
 # Page
 
-* [Creating a Page](./#creating-a-page)
-* [Editing a Page](./#editing-a-page)
-* [Deleting a Page](./#deleting-a-page)
-* [Attaching a File to a Page](./#attaching-a-file-to-a-page)
-* [Assigning a Category to a Page](./#assigning-a-category-to-a-page)
-* [Page Keywords](./#page-keywords)
+* [Creating a Page](howto-page.md#creating-a-page)
+* [Editing a Page](howto-page.md#editing-a-page)
+* [Deleting a Page](howto-page.md#deleting-a-page)
+* [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page)
+* [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page)
+* [Page Keywords](howto-page.md#page-keywords)
 
 The **Page** content type is used for static content that can be linked into the main navigation bar. This is one of the most basic content types and is very flexible.
 
-![Example of a Basic Page](../../.gitbook/assets/paex%20%281%29.png)
+![Example of a Basic Page](../.gitbook/assets/paex%20%281%29.png)
 
 ## Creating a Page
 
 1. From the Administration bar, navigate to `Add Content` &gt; `Page`.
 2. Enter the title of the page in the "Title" field.
-3. If you have [page categories](../../basicbeginner/taxonomies.md) defined, select the appropriate one. For more please see the [Assigning a Category to a Page](./#assigning-a-category-to-a-page) section.
-4. Use the [Drupal Text \(WYSIWYG\) Editor](../../basicbeginner/wysiwyg-editor.md) to fill the page with your desired content.
-5. If you want to attach any files \(PDF, Docs, Images\) to the page and be availiable for download by the user, you can do so using the "File Attachment" option. For more please see the [Attaching a File to a Page](./#attaching-a-file-to-a-page) section.
+3. If you have [page categories](../basicbeginner/taxonomies.md) defined, select the appropriate one. For more please see the [Assigning a Category to a Page](howto-page.md#assigning-a-category-to-a-page) section.
+4. Use the [Drupal Text \(WYSIWYG\) Editor](../basicbeginner/wysiwyg-editor.md) to fill the page with your desired content.
+5. If you want to attach any files \(PDF, Docs, Images\) to the page and be availiable for download by the user, you can do so using the "File Attachment" option. For more please see the [Attaching a File to a Page](howto-page.md#attaching-a-file-to-a-page) section.
 6. If you want this web page to be accessed through your website menus, visit the [Managing Menus](https://github.com/ccswbs/UoGd7-Training/tree/aa9e2af0dea5bf798b73544e291e912caea4a6e4/menuitems.html#adding-content-to-a-menu) section.
-7. If you have the [proper authority](../../rolesandresp.md) to publish, ensure that the `Published` checkbox is checked under "Publishing options."
+7. If you have the [proper authority](../rolesandresp.md) to publish, ensure that the `Published` checkbox is checked under "Publishing options."
 8. Once the above steps are completed, select `Save`.
 
 ## Editing a Page
@@ -29,7 +29,7 @@ The **Page** content type is used for static content that can be linked into the
 1. Navigate to the page you would like to edit.
 2. Once you are at the page you would like to edit, select the `Edit` option.
 
-   ![Edit Tab](../../.gitbook/assets/contentedittab.png)
+   ![Edit Tab](../.gitbook/assets/contentedittab.png)
 
 3. Edit the content you would like to edit on the page by using the Drupal Text \(WYSIWYG\) Editor.
 4. Once you have completed the above steps, select `Save`.
@@ -41,17 +41,17 @@ If you would like to go back to a previous version of the page, follow these ste
 1. Navigate to the page you would like to edit.
 2. Once you are at the page you would like to edit, select `Revisions`.
 
-   ![Revisions Tab](../../.gitbook/assets/contentrevisionstab.png)
+   ![Revisions Tab](../.gitbook/assets/contentrevisionstab.png)
 
 3. You will see a page that lists the previous versions of the page. Every time a page is saved a new revision version is created.
 
-   ![File Attachment option](../../.gitbook/assets/revisionspage.png)
+   ![File Attachment option](../.gitbook/assets/revisionspage.png)
 
 4. You can compare revisions by selecting two versions of the page and selecting `Compare`.
 
 ## Deleting a Page
 
-**/! Note**: If the page is a parent item in a menu for other pages, the page will be deleted but not removed from the menu structure. Therefore, if selected, the user will encounter a [404 Error](../../basicbeginner/#common-web-errors).
+**/! Note**: If the page is a parent item in a menu for other pages, the page will be deleted but not removed from the menu structure. Therefore, if selected, the user will encounter a [404 Error](../basicbeginner/#common-web-errors).
 
 1. Select `Find Content` on the Administration Bar.
 2. Find the page you would like to delete. **!IMPORTANT!**:Ensure that the page selected is the page you would like to delete. 
@@ -84,13 +84,13 @@ To attach a document to the page, please follow these steps:
 2. Select `Edit`.
 3. Navigate to the "File Attachments" section.
 
-   ![File Attachment Option](../../.gitbook/assets/pageattach%20%281%29.png)
+   ![File Attachment Option](../.gitbook/assets/pageattach%20%281%29.png)
 
 4. Select `Choose file` and navigate to the file you would like to attach.
 5. Select `Upload`.
 6. Once the file is uploaded, it will appear in a table under "File Attachments."
 
-   ![File Attachment Table](../../.gitbook/assets/fileattachmentchart-new%20%283%29.png)
+   ![File Attachment Table](../.gitbook/assets/fileattachmentchart-new%20%283%29.png)
 
 7. For each attachment, you have the following options:
    * **Description Field**: Provide a description for the file so the user knows what the file contains. 
@@ -125,11 +125,11 @@ Page categories allow for pages to be sorted via the given term/category.
 2. Select `Edit`.
 3. Navigate to the "Keywords" section.
 
-   ![Keywords Section](../../.gitbook/assets/pagekeywordsempty%20%281%29.png)
+   ![Keywords Section](../.gitbook/assets/pagekeywordsempty%20%281%29.png)
 
 4. Enter the keywords for the page. Separate each word with a comma, but no space \(eg: example,test,showcase\).
 
-   ![Example Keywords Filled](../../.gitbook/assets/pagekeywordsfull%20%281%29.png)
+   ![Example Keywords Filled](../.gitbook/assets/pagekeywordsfull%20%281%29.png)
 
 5. Select `Save`.
 

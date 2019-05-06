@@ -2,7 +2,7 @@
 
 The current content types provided by the current Drupal platform are:
 
-* [Basic Page](howto-page/)
+* [Basic Page](howto-page.md)
 * [Banners](howto-banner.md)
 * [Blocks](../advancedguide/howto-blocks.md)
 * [Book](howto-book.md)

@@ -39,7 +39,7 @@ Menus are a collection of links \(menu items\) that are used to navigate a websi
    ![image](../../.gitbook/assets/addmenulink%20%285%29.png)
 
 6. Enter the title for the menu item in the "Menu link title" field.
-7. Enter the path where the menu item leads in the "Path" field. **/! Note**: use relative links instead of absolute links. For more on links, see the [guide to links](../../accessiblecontentguide/links/).
+7. Enter the path where the menu item leads in the "Path" field. **/! Note**: use relative links instead of absolute links. For more on links, see the [guide to links](../../accessiblecontentguide/links.md).
 8. Enter a description if needed.
 9. If the menu item is a "parent" item for a dropdown menu, check `Show as expanded`. If the menu item is a "child" item, use the dropdown menu to select its parent link.
 10. If you know the correct weight to give the item then you may change the weight here. Otherwise, you can use the interface on the previous page to reorder the menu items. **/! Note**: You can configure menu hierarchy through the drag interface.
@@ -57,7 +57,9 @@ Menus are a collection of links \(menu items\) that are used to navigate a websi
 
 ## Adding Content to a Menu
 
-Located at the bottom of the content type edit page, there is the option to add the selected content item to a menu. ![Add Item to Menu](../../.gitbook/assets/pagekeyoptmenu%20%282%29.png)
+Located at the bottom of the content type edit page, there is the option to add the selected content item to a menu. 
+
+![Add Item to Menu](../../.gitbook/assets/pagekeyoptmenu%20%282%29.png)
 
 1. Select `Menu Settings`.
 2. Ensure `Provide a menu link` is checked.

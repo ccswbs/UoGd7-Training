@@ -4,10 +4,10 @@ This guide can be reffered to for assistance with many aspects of accessible con
 
 * [Accessibility Basics](accessibilitybasics/)
 * [Content Titles & Headings](content-titles-and-headings.md)
-* [Links](links/)
-* [Colour](colour/)
+* [Links](links.md)
+* [Colour](colour.md)
 * [Documents](documents.md)
-* [Images](images/)
+* [Images](images.md)
 * [Tables](tables.md)
 * [Lists](lists.md)
 * [Audio & Video](audio-video.md)

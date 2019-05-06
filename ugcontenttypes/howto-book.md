@@ -22,7 +22,7 @@ Books have a built-in hierarchical navigation, which means that they can be orga
 3. Enter the title of the book in the "Title" field.
 4. If you have [book categories](../basicbeginner/taxonomies.md) defined, select the appropriate one. For more information, please see the [Assigning a Category to a book](howto-book.md#assigning-a-category-to-a-book) section.
 5. Use the [Drupal Text \(WYSIWYG\) Editor](../basicbeginner/wysiwyg-editor.md) to fill the book with your desired content.
-6. If you want to add any files \(PDF, Docs, Images\) to be attached to the book page and available for download by the user, you can do so by attaching them using the "File Attachment" option. For more iinformation, please see the [Attaching a File to a Book](howto-page/#attaching-a-file-to-a-page) section.
+6. If you want to add any files \(PDF, Docs, Images\) to be attached to the book page and available for download by the user, you can do so by attaching them using the "File Attachment" option. For more iinformation, please see the [Attaching a File to a Book](howto-page.md#attaching-a-file-to-a-page) section.
 7. Enter any _tags_ or _keywords_ that help categorize and organize your book page.
 8. Under `Book outline`, select the book you want to publish the page to. If this is the first page of a new book, select the `create a new book` and enter the appropriate information.  
 
