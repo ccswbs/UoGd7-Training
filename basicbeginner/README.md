@@ -145,7 +145,6 @@ If you are not familiar with types of users \(or user roles\) you can review the
  3. From the Update Options dropdown menu select the new role you wish to add to all selected users. For the example below the role of 'editor' is being added.
 
    ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleroleset.png)
-
  4. Select `Update`.
 
 #### Additional Resource
