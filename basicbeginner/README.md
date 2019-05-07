@@ -19,7 +19,7 @@ This guide will cover:
 
 1. Navigate to your website: www.uoguelph.ca/_sitename_/user. Once there, you will be brought to the following page:
 
-![Login example](../.gitbook/assets/userlogin.png)
+ ![Login example](../.gitbook/assets/userlogin.png)
 
 2. Enter your Central Login ID in the "Username" field.
 3. Enter your Central Login Password in the "Password" field.
