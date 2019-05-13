@@ -19,7 +19,7 @@ This guide will cover:
 
 1. Navigate to your website: www.uoguelph.ca/_sitename_/user. Once there, you will be brought to the following page:
 
- ![Login example](../.gitbook/assets/userlogin.png)
+   ![Login example](../.gitbook/assets/userlogin.png)
 
 2. Enter your Central Login ID in the "Username" field.
 3. Enter your Central Login Password in the "Password" field.
@@ -50,7 +50,7 @@ There are a few ways to add content to your website:
 
 ### Option 1
 
-Select the `Add Content` shortcut located in the Administration Bar. 
+Select the `Add Content` shortcut located in the Administration Bar.
 
 ![Add Content Button on Administration Bar](../.gitbook/assets/content%20%282%29.png)
 
@@ -66,15 +66,15 @@ From this step, select the content type in which you would like to add content. 
 
 ## Editing Pre-existing Content
 
-All content created on your website can be viewed by selecting the `Find Content` shortcut located in the Administration Menu shortcut bar, or by selecting `Content` in the Administration Bar itself. 
+All content created on your website can be viewed by selecting the `Find Content` shortcut located in the Administration Menu shortcut bar, or by selecting `Content` in the Administration Bar itself.
 
 ![Find Content Button Highlighted](../.gitbook/assets/findcontent%20%281%29.png)
 
-Once selected, you will be brought to a page with the content listed in a table. 
+Once selected, you will be brought to a page with the content listed in a table.
 
 ![Website Content Listings](../.gitbook/assets/contentmenu%20%281%29.png)
 
-You can search for specific content through the "SHOW ONLY ITEMS WHERE" filter options. Use the drop-down menus to filter by content status and type to find what you're looking for. 
+You can search for specific content through the "SHOW ONLY ITEMS WHERE" filter options. Use the drop-down menus to filter by content status and type to find what you're looking for.
 
 ![Filter and edit content options displayed](../.gitbook/assets/filterandedit%20%281%29.png)
 
@@ -118,39 +118,40 @@ If you are not familiar with types of users \(or user roles\) you can review the
 
 1. At the top of the Administration Menu Bar select `People`.
 
- ![Add New User Image](../.gitbook/assets/usereditpeopleadmmenu%20%285%29.png)
+   ![Add New User Image](../.gitbook/assets/usereditpeopleadmmenu%20%285%29.png)
 
 2. Locate the appropriate user you would like to change roles for. You can do this by either using the filter provided, scrolling through the list, or using the in-browser search feature \(ctrl + f\).
 3. Once the user is located, select `edit` for that user.
 
- ![Add New User Image(1)](../.gitbook/assets/Edit_user_roles.PNG)
-   
+   ![Add New User Image\(1\)](../.gitbook/assets/edit_user_roles%20%284%29.PNG)
+
 4. Under the "Role" category, select or deselect the roles you would like the user to have.
+
    * All Unchecked \(Except Authenticated User\): User is a normal user with no creation/editing capabilities.
    * For more information on the user roles, please visit the [Drupal User Roles and Responsibilities](../rolesandresp.md) section.
    * In the example below we are adding the roles 'editor' and 'publisher' for the user.
-   
- ![Add New User Image(2)](../.gitbook/assets/useredituser%20%282%29.png)
-   
+
+   ![Add New User Image\(2\)](../.gitbook/assets/useredituser%20%282%29.png)
+
 5. Select `Save`.
 
 **Note:** Ignore the password field for edits - if left blank the password remains unchanged which is desired in most cases.
 
 #### Changing Roles for Multiple Users
 
- 1. At the top of the Administration Menu Bar select `People`.
+1. At the top of the Administration Menu Bar select `People`.
 
- ![Add New User Image](../.gitbook/assets/usereditpeopleadmmenu%20%282%29.png)
+   ![Add New User Image](../.gitbook/assets/usereditpeopleadmmenu%20%282%29.png)
 
- 2. Select all the individuals you wish to change the roles.
+2. Select all the individuals you wish to change the roles.
 
- ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleselect.png)
+   ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleselect.png)
 
- 3. From the Update Options dropdown menu select the new role you wish to add to all selected users. For the example below the role of 'editor' is being added.
+3. From the Update Options dropdown menu select the new role you wish to add to all selected users. For the example below the role of 'editor' is being added.
 
- ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleroleset.png)
-   
- 4. Select `Update`.
+   ![Add New User Image](../.gitbook/assets/userpeoplewindowmultipleroleset.png)
+
+4. Select `Update`.
 
 #### Additional Resource
 

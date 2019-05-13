@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Drupal Platform Introduction](drupal_features_terms_acroynms.md)
 * [Drupal User Roles & Responsibilities](rolesandresp.md)
+* [Workbench Moderation](workbench-moderation.md)
 * [Drupal Websites: Getting Started](basicbeginner/README.md)
   * [Drupal Text \(WYSIWYG\) Editor](basicbeginner/wysiwyg-editor.md)
   * [Managing Menus](basicbeginner/menuitems/README.md)
