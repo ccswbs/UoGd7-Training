@@ -43,9 +43,9 @@ In general, content edits \(or drafts\) will be created, submitted for review an
 
 | Activity | Primary role |
 | :--- | :--- |
-| Create draft | Author/Editor |
-| Submit draft for approval | Author/Editor |
-| Approve draft and publish | Publisher/Site manager |
+| [Create draft](workbench-moderation.md#creating-a-draft) | Author/Editor |
+| [Submit draft for approval](workbench-moderation.md#submit-draft-for-approval) | Author/Editor |
+| [Approve draft and publish](workbench-moderation.md#publish-document) | Publisher/Site manager |
 
 ### Creating a draft
 
