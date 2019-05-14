@@ -43,8 +43,8 @@ In general, content edits \(or drafts\) will be created, submitted for review an
 
 | Activity | Primary role |
 | :--- | :--- |
-| [Create draft](./#Creating-a-draft-\(Author/Editor\)) | Author/Editor |
-| [Submit draft for approval](./#Submit-draft-for-approval-\(Author/Editor\)) | Author/Editor |
+| [Create draft](./#Creating-a-draft) | Author/Editor |
+| [Submit draft for approval](./#Submit-draft-for-approval) | Author/Editor |
 | [Approve draft and publish](./#Publish-document) | Publisher/Site manager |
 
 ### Creating a draft
