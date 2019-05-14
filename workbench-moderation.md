@@ -43,18 +43,17 @@ In general, content edits \(or drafts\) will be created, submitted for review an
 
 | Activity | Primary role |
 | :--- | :--- |
-| [Create draft](ugcontenttypes/howto-profiles.md#create-draft-people-profile-content-author) | Author/Editor |
-| [Submit draft for approval](ugcontenttypes/howto-profiles.md#submit-draft-for-approval-author) | Author/Editor |
-| [Approve draft and publish](ugcontenttypes/howto-profiles.md#publish-document-site-editor) | Publisher/Site manager |
+| [Create draft](./#Creating-a-draft-\(Author/Editor\)) | Author/Editor |
+| [Submit draft for approval](./#Submit-draft-for-approval-\(Author/Editor\)) | Author/Editor |
+| [Approve draft and publish](./#Publish-document) | Publisher/Site manager |
 
-### Creating a draft \(Author/Editor\)
-
+### Creating a draft
 Draft content is created by two methods.
 
 1. When new content is created: When new content is created, it is set to a **draft state** by default.
 2. The second is by editing existing content.
 
-### Create new draft from existing content \(Author/Editor\)
+### Create new draft from existing content
 
 ![image](.gitbook/assets/workbenchmoderatingpeopleprofiles-newdraft%20%281%29.png)
 
@@ -68,7 +67,7 @@ Draft content is created by two methods.
 5. Use the **Edit draft** tab to edit the draft and make further changes to the content.
 6. Save draft when edits are complete.
 
-### Submit draft for approval \(Author/Editor\)
+### Submit draft for approval
 
 Once an Author's draft is complete they may submit it for review.
 
@@ -82,8 +81,7 @@ Once an Author's draft is complete they may submit it for review.
 
 3. Click **Apply** button. This will send a notification to the publisher/site managers that the draft is ready for review and needs publishing.
 
-### Publish document \(Publisher/Site manager\)
-
+### Publish document
 1. Visit 'My Workbench'
 2. Visit 'Needs Review' tab
 3. Select page that needs review by clicking 'View Moderation History'
