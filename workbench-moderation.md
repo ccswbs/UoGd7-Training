@@ -43,11 +43,12 @@ In general, content edits \(or drafts\) will be created, submitted for review an
 
 | Activity | Primary role |
 | :--- | :--- |
-| [Create draft](/workbench-moderation.md/#Creating-a-draft) | Author/Editor |
-| [Submit draft for approval](/workbench-moderation.md/#Submit-draft-for-approval) | Author/Editor |
-| [Approve draft and publish](/workbench-moderation.md/#Publish-document) | Publisher/Site manager |
+| Create draft | Author/Editor |
+| Submit draft for approval | Author/Editor |
+| Approve draft and publish | Publisher/Site manager |
 
 ### Creating a draft
+
 Draft content is created by two methods.
 
 1. When new content is created: When new content is created, it is set to a **draft state** by default.
@@ -82,6 +83,7 @@ Once an Author's draft is complete they may submit it for review.
 3. Click **Apply** button. This will send a notification to the publisher/site managers that the draft is ready for review and needs publishing.
 
 ### Publish document
+
 1. Visit 'My Workbench'
 2. Visit 'Needs Review' tab
 3. Select page that needs review by clicking 'View Moderation History'
