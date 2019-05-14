@@ -102,7 +102,7 @@ Once an Author's draft is complete they may submit it for review.
 
 8. Click **Apply** to publish the page. The Author will be notified that the document is published.
 
-#### Note about rejected edits \(Publisher\)
+#### **_*Note about rejected edits \(Publisher\)_**
 
 Publisher drafts may be rejected. The Publisher may make edits to any draft, but if this happens, the Publisher takes ownership of the draft and the Author will not be able to make any additional changes.
 
