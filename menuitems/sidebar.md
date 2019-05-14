@@ -12,7 +12,7 @@ There are two main methods for creating sidebar menus: Panels and Blocks. Panels
 2. Scroll down to the Right side region, and select the plus sign.
 3. In the add content menu, select `Menus` from the side menu. Then select `menu tree of the menu selected by the page`.
 
-   ![Add content menu with menu tree highlighted](../../.gitbook/assets/menu-selected-by-the-page%20%282%29.png)
+   ![Add content menu with menu tree highlighted](../.gitbook/assets/menu-selected-by-the-page%20%282%29.png)
 
 4. In the configuration dialog, the "Starting level" drop-down controls how much of the main menu appears on the page. Starting from the secondary level is recommended, because it means that the portion of the main menu most relevant to the page will show up in the sidebar. Starting from the primary level means that the whole main menu will show up in the sidebar.
 5. Select `Finish`. Try selecting `Finish` again if an error message appears.
@@ -28,7 +28,7 @@ There are two main methods for creating sidebar menus: Panels and Blocks. Panels
 4. From the Menu dropdown, select either "Main menu" to display the whole menu in the sidebar, or `<the menu selected by the page>` to only display the portion of the main menu relevant to the page.
 5. Select the starting level for the menu.
 
-   ![Add menu block window](../../.gitbook/assets/add-menu-block%20%283%29.png)
+   ![Add menu block window](../.gitbook/assets/add-menu-block%20%283%29.png)
 
 6. Under Visibility settings, specify the pages that the menu block should be displayed on, if desired. Specify pages using the internal path rather than the full URL.
 7. Select `Save block`.

@@ -10,7 +10,7 @@ This guide will cover:
 * [Editing Pre-existing Content](./#editing-pre-existing-content)
 * [Adding Users to the Website](./#adding-users-to-the-website)
 * [WYSIWYG Editor](wysiwyg-editor.md)
-* [Managing Menus](menuitems/)
+* [Managing Menus](../menuitems/)
 * [Taxonomies](taxonomies.md)
 
 ## How to Log in/Log out

@@ -14,7 +14,7 @@ Menus are a collection of links \(menu items\) that are used to navigate a websi
 2. Select `Menus`.
 3. Select `Add Menu`.
 
-   ![Add Menu Page](../../.gitbook/assets/createmenu.png)
+   ![Add Menu Page](../.gitbook/assets/createmenu.png)
 
 4. Enter the title you would like to give the menu in the "Title" field.
 5. Enter the description you would like to give the menu in the "Description" field \(optional\). The description is not seen by site users.
@@ -36,10 +36,10 @@ Menus are a collection of links \(menu items\) that are used to navigate a websi
 4. Select `list links` to edit the menu.
 5. Select `Add Link`. On the new page, fill out the following:
 
-   ![image](../../.gitbook/assets/addmenulink%20%285%29.png)
+   ![image](../.gitbook/assets/addmenulink%20%285%29.png)
 
 6. Enter the title for the menu item in the "Menu link title" field.
-7. Enter the path where the menu item leads in the "Path" field. **/! Note**: use relative links instead of absolute links. For more on links, see the [guide to links](../../accessiblecontentguide/links.md).
+7. Enter the path where the menu item leads in the "Path" field. **/! Note**: use relative links instead of absolute links. For more on links, see the [guide to links](../accessiblecontentguide/links.md).
 8. Enter a description if needed.
 9. If the menu item is a "parent" item for a dropdown menu, check `Show as expanded`. If the menu item is a "child" item, use the dropdown menu to select its parent link.
 10. If you know the correct weight to give the item then you may change the weight here. Otherwise, you can use the interface on the previous page to reorder the menu items. **/! Note**: You can configure menu hierarchy through the drag interface.
@@ -59,7 +59,7 @@ Menus are a collection of links \(menu items\) that are used to navigate a websi
 
 Located at the bottom of the content type edit page, there is the option to add the selected content item to a menu. 
 
-![Add Item to Menu](../../.gitbook/assets/pagekeyoptmenu%20%282%29.png)
+![Add Item to Menu](../.gitbook/assets/pagekeyoptmenu%20%282%29.png)
 
 1. Select `Menu Settings`.
 2. Ensure `Provide a menu link` is checked.
@@ -85,7 +85,7 @@ To create a menu using Taxonomy, follow these steps:
 3. Select `Menus`. 
 4. Select `Add Link`. On the new page, fill out the following:
 
-   ![image](../../.gitbook/assets/addmenulink%20%283%29.png)
+   ![image](../.gitbook/assets/addmenulink%20%283%29.png)
 
 5. Enter the title for the menu item in the "Menu link title" field.
 6. Enter the path you copied in step one in the "Path" field.

@@ -13,9 +13,9 @@ Before creating a profile, it is suggested that the following taxonomy vocabular
 
 Add terms to the following:
 
-1. **Area of research:** If applicable, you can describe the different areas of research for your department/users. This is optional. Example: _Molecular Interactions of Dihydrogen Monoxide_.
+1. **Area of research:** If applicable, you can describe the different areas of research for your department/users. This is optional. Example: _Molecular Interactions of Di-hydrogen Monoxide_.
 2. **Profile category:** This is a way to filter views. Example: _create a teaser view for specific departments within a college_.
-3. **Profile field labels:** This is for adding extra field headings that are not already supported by the platform. Examples: _Interests, Office Extension, Favourite Colour, etc._
+3. **Profile field labels:** This is for adding extra field headings that are not already supported by the platform. Examples: _Interests, Office Extension, Favorite Color, etc._
 4. **Profile section labels:** Profile sections are used to separate and organize parts of the people profile. Examples: _Research, Education, Selected Publications, etc._
 5. **Profile role:** Clients can create any number of positions/roles for their needs. Examples: _Staff, Faculty, Students, Co-op, etc._
 6. **Profile unit:** This describes the title of the department or faculty an individual is a part of.
@@ -24,7 +24,7 @@ Add terms to the following:
 ### How to Add Vocabulary Terms
 
 1. Using the administration bar, navigate to `Structure` &gt; `Taxonomy`.
-2. You will see a long list of vocabularies. Seven of these vocabularies \(listed above\) are related to people profiles. Select `list terms` for the vocaubulary you would like to add terms to. 
+2. You will see a long list of vocabularies. Seven of these vocabularies \(listed above\) are related to people profiles. Select `list terms` for the vocabulary you would like to add terms to. 
 3. From the vocabulary \(list of terms\) page, select `Add term`. 
 4. Enter a name for the term. Enter a description if needed. 
 5. Select `Save`. 
@@ -33,7 +33,7 @@ Add terms to the following:
 
 This vocabulary allows you to add custom fields to your people profiles. Add terms to this vocabulary to determine the field labels. For instance, if the field were to show "_Interests:_ Sports", then "Interests" would be a term in the `profile field labels` category.
 
-After custom fields are created through taxonomy, they can be added through the "_PROFILE FIELDS_" section that appears when creating or editing a profile. The Label dropdown menu is populated with the terms from the vocabulary above. Fields will appear in the same order as they are entered, but can be reordered by dragging. Custom fields will always appear _after_ preset fields \(i.e. Email, Phone Number, Fax, Office, and Lab\).
+After custom fields are created through taxonomy, they can be added through the "_PROFILE FIELDS_" section that appears when creating or editing a profile. The Label drop-down menu is populated with the terms from the vocabulary above. Fields will appear in the same order as they are entered, but can be reordered by dragging. Custom fields will always appear _after_ preset fields \(i.e. Email, Phone Number, Fax, Office, and Lab\).
 
 Do not confuse this vocabulary with `profile section labels` vocabulary, which is used for adding larger sections that use the Drupal text editor.
 
