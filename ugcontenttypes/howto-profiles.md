@@ -6,7 +6,6 @@ The people profiles feature allows **Content Creators** to create and edit an or
 * [How to Add People Profiles](howto-profiles.md#how-to-add-people-profiles)
   * [NEW: Tabbed layouts for People Profiles](howto-profiles.md#new-tabbed-layouts-for-people-profiles)
 * [Customizing People Profiles Layout](howto-profiles.md#customizing-people-profiles-listing-page)
-* [Workbench Moderations with People Profiles](howto-profiles.md#workbench-moderations-with-people-profiles)
 
 ## Using Taxonomy for People Profiles
 
