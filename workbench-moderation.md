@@ -10,13 +10,13 @@ Workbench moderation introduces the concept of **states** to Drupal content and 
 
 ### Publishing States
 
-There are 3 publishing states for _People Profiles_ content.
+There are 3 publishing states:
 
 * Draft
 * Needs Review
 * Published
 
-Content may be in one of these states during the publishing process. Not until the content reaches the **published** state is it viewable publicly.
+Content may be in one of these states during the publishing process. Not until the content reaches the **published** state is it view-able publicly.
 
 ### Content State Transitions
 
@@ -26,12 +26,12 @@ Content may move from one state to another. Below are the transitions permitted 
 
 | State transition | Required role |
 | :--- | :--- |
-| Draft → Needs Review | author |
-| Needs Review → Draft | author |
-| Needs Review → Published | publisher |
-| Draft → Published | publisher |
+| Draft → Needs Review | Author/Editor |
+| Needs Review → Draft | Author/Editor |
+| Needs Review → Published | Publisher/Site manager |
+| Draft → Published | publisher/Site manager |
 
-The **author** role has permissions to create new profile content as drafts, create new drafts of existing content, and submit the draft content for review before publishing. The author may also 'take back' a **Needs Review** request and change the state back to draft.
+The **author/editor** role has permissions to create new profile content as drafts, create new drafts of existing content, and submit the draft content for review before publishing. The author may also 'take back' a **Needs Review** request and change the state back to draft.
 
 The **publisher** role has permissions to review draft content that has been submitted for review and then publish the content.
 
@@ -43,22 +43,22 @@ In general, content edits \(or drafts\) will be created, submitted for review an
 
 | Activity | Primary role |
 | :--- | :--- |
-| [Create draft](ugcontenttypes/howto-profiles.md#create-draft-people-profile-content-author) | author |
-| [Submit draft for approval](ugcontenttypes/howto-profiles.md#submit-draft-for-approval-author) | author |
-| [Approve draft and publish](ugcontenttypes/howto-profiles.md#publish-document-site-editor) | publisher |
+| [Create draft](ugcontenttypes/howto-profiles.md#create-draft-people-profile-content-author) | Author/Editor |
+| [Submit draft for approval](ugcontenttypes/howto-profiles.md#submit-draft-for-approval-author) | Author/Editor |
+| [Approve draft and publish](ugcontenttypes/howto-profiles.md#publish-document-site-editor) | Publisher/Site manager |
 
-### Create draft People Profile content \(Author\)
+### Creating a draft \(Author/Editor\)
 
 Draft content is created by two methods.
 
-1. The first is when new content is created. When a new people profile is created, it is by default set to a **draft state**.  Review [How to work with People Profiles](ugcontenttypes/howto-profiles.md) help documentation for more information on creating new People Profile content.
+1. When new content is created: When new content is created, it is set to a **draft state** by default.
 2. The second is by editing existing content.
 
-### Create new draft from existing content \(Author\)
+### Create new draft from existing content \(Author/Editor\)
 
 ![image](.gitbook/assets/workbenchmoderatingpeopleprofiles-newdraft%20%281%29.png)
 
-1. Visit the people profile page you wish to edit. From the people profile page click the **New draft** tab to open the edit page.
+1. Visit the page you wish to edit. From the page click the **New draft** tab to open the edit page.
 2. Make changes to the page. Saving these changes will keep the page in the **Draft** state \(the default state for all new drafts\).
 3. If the page is saved as a draft then the next time you visit the page the **New draft** tab will be replaced by 2 new tabs: **View Draft** and **Edit Draft**
 
@@ -68,7 +68,7 @@ Draft content is created by two methods.
 5. Use the **Edit draft** tab to edit the draft and make further changes to the content.
 6. Save draft when edits are complete.
 
-### Submit draft for approval \(Author\)
+### Submit draft for approval \(Author/Editor\)
 
 Once an Author's draft is complete they may submit it for review.
 
@@ -80,9 +80,9 @@ Once an Author's draft is complete they may submit it for review.
 
    ![image](.gitbook/assets/workbenchmoderatingpeopleprofiles-needsreview.png)
 
-3. Click **Apply** button. This will send a notification to the site editors that the draft is ready for review and needs publishing.
+3. Click **Apply** button. This will send a notification to the publisher/site managers that the draft is ready for review and needs publishing.
 
-### Publish document \(Site Editor\)
+### Publish document \(Publisher/Site manager\)
 
 1. Visit 'My Workbench'
 2. Visit 'Needs Review' tab
@@ -108,9 +108,9 @@ Publisher drafts may be rejected. The Publisher may make edits to any draft, but
 
 To avoid preventing the Author from being able to make additional changes, the Publisher may notify the Author \(outside of Drupal, ie. email or phone\) to ask them to edit their "Needs Review" draft and then resubmit for review.
 
-### Changing Needs Review to Draft \(Author\)
+### Changing Needs Review to Draft \(Author/Editor\)
 
-In the event a draft is rejected by a Publisher or an Author wishes to make additional changes to submitted draft, an Author may change the state of page from **Needs Review** back to **Draft**.
+In the event a draft is rejected by a Publisher/Site manager or an Author/Editor wishes to make additional changes to submitted draft, an Author/Editor may change the state of page from **Needs Review** back to **Draft**.
 
 1. Select the **My Workbench** link from the black admin menu at the top of the page. This will open the My Workbench view.
 2. From My Workbench click the **Needs Review** tab to show the list of pages sent for review.
