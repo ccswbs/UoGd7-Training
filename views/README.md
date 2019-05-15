@@ -1,2 +1,2 @@
-# views
+# Content Type View Panes
 
