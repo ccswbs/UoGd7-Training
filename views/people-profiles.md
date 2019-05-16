@@ -1,2 +1,2 @@
-# People profiles
+# Profile Panes
 

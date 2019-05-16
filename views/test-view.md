@@ -1,12 +1,8 @@
-# Course Outlines
+# Course Outline Panes
 
 {% tabs %}
 {% tab title="View 1" %}
-![](../.gitbook/assets/morelink%20%282%29.png)
-{% endtab %}
-
-{% tab title="View 2" %}
-![](../.gitbook/assets/bookoutline.png)
+![CO1 - Listing page for Multiple Course Outlines](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
 
