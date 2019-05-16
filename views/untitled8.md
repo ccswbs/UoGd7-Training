@@ -1,31 +1,33 @@
 # Event Panes
 
+
+
 {% tabs %}
-{% tab title="View 1" %}
+{% tab title="E1 - Listing page for multiple events: Upcoming events" %}
 ![E1 - Listing page for multiple events: Upcoming Events](../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}
 
-{% tab title="View 2" %}
+{% tab title="E3 - Upcoming events teaser list" %}
 ![E3 - Upcoming events teaser list](../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
-{% tab title="View 3" %}
+{% tab title="E9a - Weekly Calendar - List Format" %}
 ![E9a - Weekly Calendar - List Format](../.gitbook/assets/image.png)
 {% endtab %}
 
-{% tab title="View 4" %}
+{% tab title="E8a - Monthly Calendar - List Format" %}
 ![E8a - Monthly Calendar - List Format](../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 
-{% tab title="View 5" %}
+{% tab title="E8b - Monthly Calendar - Grid Format" %}
 ![E8b - Monthly Calendar - Grid Format](../.gitbook/assets/image%20%282%29.png)
 {% endtab %}
 
-{% tab title="View 6" %}
+{% tab title="E1 - Listing page for multiple events: Event Archives" %}
 ![E1 - Listing page for multiple events: Event Archives](../.gitbook/assets/image%20%2812%29.png)
 {% endtab %}
 
-{% tab title="View 7" %}
+{% tab title="E5 - Browse events by date" %}
 ![E5 - Browse events by date](../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 {% endtabs %}
