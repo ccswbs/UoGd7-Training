@@ -56,7 +56,7 @@
 * [Home Page Layout Options](homepagelayouts.md)
 * [Content Type View Panes](views/README.md)
   * [Course Outline Panes](views/test-view.md)
-  * [Event Panes](views/untitled8.md)
+  * [Event Panes](views/event-panes.md)
   * [FAQ Panes](views/frequently-asked-questions.md)
   * [Feature Panes](views/features.md)
   * [News Panes](views/news.md)
