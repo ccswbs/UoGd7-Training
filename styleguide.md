@@ -498,7 +498,7 @@ to:
 
 **Note as of 10/20/2017:** This will be available in the next release, v23.0
 
-![Image of equal height boxes](.gitbook/assets/image%20%286%29.png)
+![Image of equal height boxes](.gitbook/assets/image%20%288%29.png)
 
 Code for the boxes is structured as follows:
 
