@@ -65,5 +65,4 @@
   * [Service Panes](views/services.md)
 * [Customizing Site Search](searchform.md)
 * [Client FAQ](freqaq.md)
-* [Home page layout](home-page-layout.md)
 
