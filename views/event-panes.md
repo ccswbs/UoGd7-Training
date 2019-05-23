@@ -2,7 +2,7 @@
 
 ## E1 - Listing page for multiple events: Upcoming events
 
-![](../.gitbook/assets/image%20%289%29.png)
+![E1 - Listing page for multiple events: Upcoming events](../.gitbook/assets/image%20%289%29.png)
 
 ## E3 - Upcoming events teaser list
 
