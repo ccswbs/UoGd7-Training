@@ -60,7 +60,6 @@
   * [FAQ Panes](views/frequently-asked-questions.md)
   * [Feature Panes](views/features.md)
   * [News Panes](views/news.md)
-  * [Profile Panes](views/people-profiles.md)
   * [Social Media/Feeds](views/social-media-feeds.md)
   * [Service Panes](views/services.md)
 * [Customizing Site Search](searchform.md)
