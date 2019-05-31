@@ -1,6 +1,6 @@
 # Introduction
 
-![University of Guelph](.gitbook/assets/cover_small%20%281%29.jpg) ![CCS Department](.gitbook/assets/ccs_logo1_black.gif)
+![University of Guelph](.gitbook/assets/uofg_cornerstone_cmyk.png) ![CCS Department](.gitbook/assets/ccs_logo1_black.gif)
 
 Welcome to the CCS Web & Development Solutions Client Training Materials and Accessibility Guidelines Document!
 
