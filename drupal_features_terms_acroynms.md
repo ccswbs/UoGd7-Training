@@ -26,7 +26,7 @@ Blocks are a method for positioning data within a page.
 
 ## Positioning Nodes Using In-Place Editor
 
-## Content Type
+### Content Type
 
 Every node belongs to a single _node type_ or _content type_, which defines various default settings for nodes of that type, such as whether the node is published automatically and whether comments are permitted. Content types can have different fields and modules can define their own content types. The core Drupal Book and News modules are two examples of modules that define content types.
 
