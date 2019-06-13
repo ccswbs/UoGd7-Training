@@ -62,6 +62,7 @@
   * [News Panes](views/news.md)
   * [Social Media/Feeds](views/social-media-feeds.md)
   * [Service Panes](views/services.md)
+  * [People profiles](views/people-profiles.md)
 * [Customizing Site Search](searchform.md)
 * [Client FAQ](freqaq.md)
 

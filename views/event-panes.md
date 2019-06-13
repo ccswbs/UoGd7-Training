@@ -2,29 +2,29 @@
 
 ### E1 - Listing page for multiple events: Upcoming events
 
-![E1 - Listing page for multiple events: Upcoming events](../.gitbook/assets/image%20%289%29.png)
+With this view each featured event item displays the `Feature Image`, `Name`, `Date`, and some summary text. The summary text is the full `Summary` field of the event content item. If the `Summary` field is empty then a trimmed `Body` field \(600 characters\) is used.
 
 ### E3 - Upcoming events teaser list
 
-![E3 - Upcoming events teaser list](../.gitbook/assets/image%20%284%29.png)
+With this view each featured event item displays the `Date`and the `Name` of the event.
 
 ### E9a - Weekly Calendar - List Format
 
-![E9a - Weekly Calendar - List Format](../.gitbook/assets/image.png)
+With this view each featured event item displays the `Feature Image`, `Name`, `Date`, and some summary text by week. The summary text is the full `Summary` field of the event content item. If the `Summary` field is empty then a trimmed `Body` field \(600 characters\) is used.
 
 ### E8a - Monthly Calendar - List Format
 
-![E8a - Monthly Calendar - List Format](../.gitbook/assets/image%20%2812%29.png)
+With this view each featured event item displays the `Feature Image`, `Name`, `Date`, and some summary text by month. The summary text is the full `Summary` field of the event content item. If the `Summary` field is empty then a trimmed `Body` field \(600 characters\) is used.
 
 ### E8b - Monthly Calendar - Grid Format
 
-![E8b - Monthly Calendar - Grid Format](../.gitbook/assets/image%20%282%29.png)
+With this view each featured event item displays the `Date`and the `Name` of the event in a monthly calendar.
 
 ### E1 - Listing page for multiple events: Event Archives
 
-![E1 - Listing page for multiple events: Event Archives](../.gitbook/assets/image%20%2810%29.png)
+With this view each past featured event item displays the `Feature Image`, `Name`, `Date`, and some summary text. The summary text is the full `Summary` field of the event content item. If the `Summary` field is empty then a trimmed `Body` field \(600 characters\) is used.
 
 ### E5 - Browse events by date
 
-![E5 - Browse events by date](../.gitbook/assets/image%20%287%29.png)
+With this view users can browse past events by month.
 
