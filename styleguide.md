@@ -579,7 +579,7 @@ The cheatsheet of all the available icons is at: [https://fontawesome.com/cheats
 ![Image of University Icon with University of Guelph Link Text](.gitbook/assets/universityiconwithtext%20%281%29.PNG)
 
 ```markup
-<h2><i aria-hidden="true" class="fa fa-university">&nbsp;</i><a href="www.uoguelph.ca">University of Guelph</a></h2>
+<h2><i aria-hidden="true" class="fa fa-university fa-lg">&nbsp;</i><a href="www.uoguelph.ca">University of Guelph</a></h2>
 ```
 
 #### How do I view all available icons, class names, character codes and aliases?
