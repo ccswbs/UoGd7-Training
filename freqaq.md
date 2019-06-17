@@ -62,7 +62,7 @@ You may use the [code for a slideshow](styleguide.md#slideshows) in our [Style G
 
 ## 13. Who can I contact to get access to Siteimprove?
 
-Please [contact the DARC Team by email](mailto:darc@uoguelph.ca) for Siteimprove access.
+Please [contact the DARC Team](mailto:darc@uoguelph.ca) for Siteimprove access.
 
 ## 14. Who do I contact to add additional users to my site?
 
