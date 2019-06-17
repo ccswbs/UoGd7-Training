@@ -46,7 +46,7 @@ The remediation team has many clients with different needs and so we have opted 
 
 ## 9. Why is there no map option? / How do I embed a Google Map into my website?
 
-The option to embed a Google Map into your website is currently not availiable but will be in the future. Currently, we suggest that you provide an image of the map with alternative text. Along with the image, we encourage you to provide alternative routes, nearby landmarks, and other notable information in the form of text so visually impaired and low vision users have access to the information.
+view the [Google Maps](advancedguide/googlemaps.md) page under [Advanced Topics on Drupal Websites](advancedguide/) to embed maps in your content
 
 ## 10. Does the news archive get generated automatically?
 
@@ -58,11 +58,11 @@ No. The posted date does not change if a user edits the news item. The only time
 
 ## 12. Can we add an image slideshow in body of page?
 
-You may add individual images but nothing has been designed to allow an image slideshow.
+You may use the [code for a slideshow](styleguide.md#slideshows) in our [Style Guide Code Snippets](styleguide.md).
 
-## 13. Who can I contact to get accesss to SiteImprove?
+## 13. Who can I contact to get access to Siteimprove?
 
-Please [contact Diversity and Human Rights](https://www.uoguelph.ca/diversity-human-rights/accessibility/) for SiteImprove access.
+Please [contact Diversity and Human Rights](https://www.uoguelph.ca/diversity-human-rights/accessibility/) for Siteimprove access.
 
 ## 14. Who do I contact to add additional users to my site?
 
@@ -74,7 +74,7 @@ Yes! With the Drupal platform you have the ability to include RSS feeds as throu
 
 ## 16. Can you change heading colour and font?
 
-No, you cannot. In order to limit the ammount of ways a site can become inaccessible, the CMS solution we have developed keeps all headings, font colours, and sizes consistant accross all pages. This also allows for a more unified University of Guelph branding.
+No, you cannot. In order to limit the amount of ways a site can become inaccessible, the CMS solution we have developed keeps all headings, font colours, and sizes consistent across all pages. This also allows for a more unified University of Guelph branding.
 
 ## 17. Am I responsible for making sure a PDF file is accessible if it is from another website?
 
