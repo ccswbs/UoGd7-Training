@@ -121,5 +121,5 @@ In the event a draft is rejected by a Publisher/Site manager or an Author/Editor
 
    ![image](.gitbook/assets/workbenchmoderatingpeopleprofiles-changetodraft.png)
 
-4. Edit the draft as before. See [Create Draft](ugcontenttypes/howto-profiles.md#create-draft-people-profile-content-author) section of help for more information.
+4. Edit the draft as before. See [Create Draft](workbench-moderation#creating-a-draft) section of help for more information.
 
