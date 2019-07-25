@@ -1,6 +1,10 @@
-# Home Page Layout Options
+---
+description: >-
+  Below are different layouts that are available with our platform. A
+  combination of the following layouts can be used to design a home page
+---
 
-Below are different layouts that are availiable with our platform. If you would like to use the layouts below, please contact a member of the AODA Web Team for help. A combination of the following layouts can be used to design a home page:
+# Home Page Layout Options
 
 ## Layout 1: Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
 

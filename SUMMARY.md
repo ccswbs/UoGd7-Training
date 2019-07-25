@@ -54,6 +54,7 @@
 * [Google Analytics](analytics.md)
 * [Style Guide Code Snippets](styleguide.md)
 * [Home Page Layout Options](homepagelayouts.md)
+* [Home Page Layout Tutorials](home-page-layouts.md)
 * [Content Type View Panes](views/README.md)
   * [Course Outline Panes](views/test-view.md)
   * [Event Panes](views/event-panes.md)
