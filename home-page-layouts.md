@@ -6,7 +6,7 @@ description: >-
 
 # Home Page Layout Tutorials
 
-## Layout 1:
+## Layout 1
 
 Intro area with two main buttons. Grid below it with 3 columns and 2 rows, used for section lead-ins. News, Features, and Upcoming Events located at the bottom of the page.
 
