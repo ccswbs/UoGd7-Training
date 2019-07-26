@@ -24,3 +24,4 @@ This video shows the steps on creating one of our standard homepage layouts. You
 
 There's a [Glossary of views](views/) available to you if you would like to use a different view from the views used in this example.
 
+{% embed url="https://www.youtube.com/watch?v=76QxahOHiSE" %}
