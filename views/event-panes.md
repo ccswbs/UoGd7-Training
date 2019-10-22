@@ -12,6 +12,13 @@ With this view each featured event item displays the `Date`and the `Name` of the
 
 ![E3 - Upcoming events teaser list](../.gitbook/assets/upcoming_events_teaser_list.PNG)
 
+**Registration Button**
+The registration button will appear when you create an event and fill in the `Registration Link` field. This is mainly meant for third-party sign up's and just requires you to fill the field with the link to the registration page. 
+
+The registration button will **Only** appear if the `Registration Link` field has been filled out. This button appears under the "View:E1 - Listing Page for multiple events: Upcoming Events" and the "View:E3 - Upcoming events teaser list".
+
+If an event has a `Registration Button`, it will also appear on the event page on the right hand side.
+
 ### E9a - Weekly Calendar - List Format
 
 With this view each featured event item displays the `Feature Image`, `Name`, `Date`, and some summary text by week. The summary text is the full `Summary` field of the event content item. If the `Summary` field is empty then a trimmed `Body` field \(600 characters\) is used.
