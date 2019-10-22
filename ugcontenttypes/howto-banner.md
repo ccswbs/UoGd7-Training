@@ -90,5 +90,5 @@ By following the steps below, you can create a banner slideshow that is \(a\) fi
 2. Find the block you have added to the top bar **Should be underneath the 'Top Bar' Section**.
 3. Click **Configure** and on then click *Source* on the **WYSIWYG editor**.
 4. Wrap the small code bit in a `<div>` tag (if it isn't already).
-5. An example of a image wrapped in a `<div>` tag is: <div><img alt="" class="img-responsive" src="/sites/default/files/YOURIMG.jpg" /></div> **Note: Don't forget the final </div> tag.** 
+5. An example of a image wrapped in a `<div>` tag is: <div><img alt="" class="img-responsive" src="/sites/default/files/YOURIMG.jpg" /></div> **Note: Don't forget the final `</div>` tag.** 
 6. Scroll to the bottom and click `Save blocks`.
