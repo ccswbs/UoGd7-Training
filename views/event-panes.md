@@ -15,9 +15,13 @@ With this view each featured event item displays the `Date`and the `Name` of the
 **Registration Button**
 The registration button will appear when you create an event and fill in the `Registration Link` field. This is mainly meant for third-party sign up's and just requires you to fill the field with the link to the registration page. 
 
-The registration button will **Only** appear if the `Registration Link` field has been filled out. This button appears under the "View:E1 - Listing Page for multiple events: Upcoming Events" and the "View:E3 - Upcoming events teaser list".
+![E3 - Upcoming events teaser list](../.gitbook/assets/Registrationbutton1.png)
+
+The registration button will **Only** appear if the `Registration Link` field has been filled out. This button appears under the "View:E1 - Listing Page for multiple events: Upcoming Events" and the "View:E3 - Upcoming events teaser list". It also appears when viewing all the upcoming events.
 
 If an event has a `Registration Button`, it will also appear on the event page on the right hand side.
+
+![E3 - Upcoming events teaser list](../.gitbook/assets/Registrationbutton2.png)
 
 ### E9a - Weekly Calendar - List Format
 
