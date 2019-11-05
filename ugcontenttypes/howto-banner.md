@@ -5,6 +5,7 @@
 * [Removing a Banner Image](howto-banner.md#removing-a-banner-image)
 * [Displaying a Banner](howto-banner.md#displaying-a-banner)
 * [Filtering Banner Images by Category on Specific Pages](howto-banner.md#filtering-banner-images-by-category-on-specific-pages)
+* [Banner Block Spacing Issue](howto-banner.md#banner-block-spacing-issue)
 
 **Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner, the recommended image dimensions are **1140 x 292**.
 
@@ -82,3 +83,12 @@ By following the steps below, you can create a banner slideshow that is \(a\) fi
 2. Create a Mini Panel for you new Banner Category 1. On the Administration bar, select `Structure`. 2. Select `Mini panels`. 3. Select `Add`. 4. Enter a descriptive administrative title for your unique slideshow. 5. Enter a description if needed. ![Demo block being created](../.gitbook/assets/createbannerpanel.jpg) 6. Select `Continue`. 7. Select `Continue` again. 8. Select `Continue` again. 9. Select the cog icon in the top left corner of the Top section. 10. Select `add content`. 11. Under `View panes` select `View: B1 - Image lider (Banner): Manual`. 12. Add the category name in the category box and enter the number of items to show. 13. Select `Finish`. 14. Select the cog icon in the top left corner of the Top section. 15. Under `Style` select `change`. 16. Select `Bootstrap` and `Save`. 17. Select the cog icon on the right side of `View: B1...` 18. Under `Style` select `change`. 19. Select `No markup at all` and `Next`. 20. Select `Finish`.
 3. Place your Mini Panel 1. On the Administration bar, select `Structure`. 2. Select `Blocks`. 3. Locate the minipanel you just created, select `Configure`. 4. Under `UG Cornerstone Theme (default theme)` select top bar. 5. Configure which pages you would like to display your banner on by adding their paths to and selecting `Only the listed pages` or select the pages you do not want to display the banner by adding their paths and selecting `All pages except those listed`. 6. To add the banner to the front page, add `<Front>` and select `Only the listed pages`. 6. Select `Save Blocks`.
 
+## Banner Block Spacing Issue
+
+**When you add a banner to a custom page using blocks, you will notice a small space underneath the banner, to fix that, take the following steps**.
+1. Go to `Structure` &gt; `Blocks`.
+2. Find the block you have added to the top bar **Should be underneath the 'Top Bar' Section**.
+3. Click **Configure** and on then click *Source* on the **WYSIWYG editor**.
+4. Wrap the small code bit in a `<div>` tag (if it isn't already).
+5. An example of a image wrapped in a `<div>` tag is: <div><img alt="" class="img-responsive" src="/sites/default/files/YOURIMG.jpg" /></div> **Note: Don't forget the final `</div>` tag.** 
+6. Scroll to the bottom and click `Save blocks`.
