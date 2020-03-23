@@ -494,6 +494,54 @@ to:
 <div class="collapse in">
 ```
 
+If you'd like to add a button that toggles multiple sections, you need to add one more class to each `div`. For this example, we'll call the class `collapse-all` though you can use whatever name you prefer:
+
+```markup
+<h2><a data-toggle="collapse" data-target="#section1" href="#section1">Section 1 title here</a></h2>
+<div class="collapse collapse-all" id="section1">
+    <p>Section 1 text here</p>
+</div>
+
+<h2><a data-toggle="collapse" data-target="#section2" href="#section2">Section 2 title here</a></h2>
+<div class="collapse collapse-all" id="section2">
+    <p>Section 2 text here</p>
+</div>
+
+<h2><a data-toggle="collapse" data-target="#section3" href="#section3">Section 3 title here</a></h2>
+<div class="collapse collapse-all" id="section3">
+    <p>Section 3 text here</p>
+</div>
+```
+
+The code for the button would look like this:
+
+```markup
+<button aria-controls="section1 section2 section3" aria-expanded="false" class="btn btn-primary" data-target=".collapse-all" data-toggle="collapse" type="button">Your button text here</button>
+```
+
+For `aria-controls`, list all the `div` IDs you want the button to control. For `data-target`, use the class `collapse-all` (or whatever name you chose - it just needs to be the same for each `div`). So the complete code would look something like this:
+
+
+```markup
+
+<button aria-controls="section1 section2 section3" aria-expanded="false" class="btn btn-primary" data-target=".collapse-all" data-toggle="collapse" type="button">Your button text here</button>
+
+<h2><a data-toggle="collapse" data-target="#section1" href="#section1">Section 1 title here</a></h2>
+<div class="collapse collapse-all" id="section1">
+    <p>Section 1 text here</p>
+</div>
+
+<h2><a data-toggle="collapse" data-target="#section2" href="#section2">Section 2 title here</a></h2>
+<div class="collapse collapse-all" id="section2">
+    <p>Section 2 text here</p>
+</div>
+
+<h2><a data-toggle="collapse" data-target="#section3" href="#section3">Section 3 title here</a></h2>
+<div class="collapse collapse-all" id="section3">
+    <p>Section 3 text here</p>
+</div>
+```
+
 ## Equal Height Boxes
 
 **Note as of 10/20/2017:** This will be available in the next release, v23.0
