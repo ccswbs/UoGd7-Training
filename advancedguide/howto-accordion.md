@@ -6,7 +6,10 @@ Collapsible sections or "accordions" are another way to organize long documents 
 
 ![image](../.gitbook/assets/accord2.png)
 
-To create collapsible sections in your content: 1. Click the _Source_ button on the editor toolbar to switch the editor to source editing mode
+To create collapsible sections in your content: 
+
+1. Under Text Format, ensure your page is set to "Full HTML" instead of "Filtered HTML"
+1. Click the _Source_ button on the editor toolbar to switch the editor to source editing mode
 
 ![image](../.gitbook/assets/source2.png)
 
