@@ -298,6 +298,43 @@ Use the following code to create one row of a 3 column grid. Repeat for as many 
 
 ![Image of all bootstrap buttons](.gitbook/assets/imagegrid3.jpg)
 
+
+#### 4 Column Responsive Image Grid
+
+Use the following code to create one row of a 4 column grid. Repeat for as many rows as you need. Remember to replace each `img` element with a decorative image that relates to the associated text link.
+
+```markup
+<div class="row">
+   <div class="col-sm-3">
+      <figure class="thumbnail">
+         <img alt="" class="img-responsive center-block img-rounded" src="/src/for/your/image" />
+         <figcaption class="caption"><a href="#">Name of Link 1</a></figcaption>
+      </figure>
+   </div>
+
+   <div class="col-sm-3">
+      <figure class="thumbnail">
+         <img alt="" class="img-responsive center-block img-rounded" src="/src/for/your/image" />
+         <figcaption class="caption"><a href="#">Name of Link 2</a></figcaption>
+      </figure>
+   </div>
+
+   <div class="col-sm-3">
+      <figure class="thumbnail">
+         <img alt="" class="img-responsive center-block img-rounded" src="/src/for/your/image" />
+         <figcaption class="caption"><a href="#">Name of Link 3</a></figcaption>
+      </figure>
+   </div>
+   
+   <div class="col-sm-3">
+      <figure class="thumbnail">
+         <img alt="" class="img-responsive center-block img-rounded" src="/src/for/your/image" />
+         <figcaption class="caption"><a href="#">Name of Link 4</a></figcaption>
+      </figure>
+   </div>
+</div>
+```
+
 ### Image Overlay
 
 #### Image Overlay with Single Heading Caption
