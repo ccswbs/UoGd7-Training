@@ -93,7 +93,7 @@ If you wanted the first accordion section to appear open for users by default, y
   </div>
   ```
   
-  To add additional (closed) sections, add the following code directly below the last accordion section and above the closing </div> tag.
+  To add additional (closed) sections, add the following code directly below the last accordion section and above the closing </div> tag. Remember to update any values referencing "headingThree" or "collapseThree" so it is unique on the page (e.g. headingFour, collapseFour).
 
   ```html
   <div class="panel panel-default">
