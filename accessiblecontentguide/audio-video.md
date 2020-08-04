@@ -6,8 +6,9 @@ If you are using video or audio clips on a web page, there are several criteria 
 
 ## The University's position on web video is:
 
-* We have lots of web accessibility problems, and we're prioritizing what we work on.
-* We have prioritized web video accessibility near the bottom of the list, and we will get to it someday, but right now we don't have a good solution.
+* Web accessibility comes first and foremost when using videos. This means that there must always be a transcript and closed captioning on any video on your site.
+* It is okay to use youtube videos on your site. Use the embed code provided under the video you're trying to add. First click "share", then click "embed" and copy the HTML there.
+* Remember to include a video transcript next to each video.
 
 ### For clients, this means you have choices:
 
