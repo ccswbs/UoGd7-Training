@@ -1,0 +1,70 @@
+#Accessible YouTube Video Guide
+
+When adding YouTube videos to your Drupal site, there are a few things to keep in mind. First and foremost, It is important to have accessible videos. 
+
+An example of an accessible video:
+```html
+<div class="mb-20 embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" frameborder="0" height="315" src="https://www.youtube.com/embed/ODsGXtpUGs4" title="A message from incoming president, Dr. Charlotte Yates (video)" width="100%"></iframe></div>
+   <p><a href="/node/57">Descriptive Transcript<span class="sr-only"> for a Message from incoming president, Dr. Charlotte Yates</span></a></p>
+   <span class="h3">A Message from Incoming President, Dr. Charlotte Yates</span></div>
+<hr class="mb-20" />
+```
+This code includes the title of the video in three places. The first place is as the title of the video in the <iframe> section, the second is as screen reader-only text as part of the link text for the descriptie transcript, and the last is as a heading that's visible on the screen.
+Also note that there is a link to a descriptive transcript for the video. It is linked under the video and can be any accessible document, or a separate webpage (which is the easiest and most acessible option) designated to be used as the transcript. The transcript should be titled "Descriptive Transcript for <insert title of video here> Video"
+
+##Some additional design options for videos are:
+
+###Aspect Ratio
+for a 16:9 aspect ratio:
+```html
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+```
+for a 4:3 aspect ratio:
+```html
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+```
+
+###Using the Spacer Classes
+For the spacer classes, the naming format is {property}{sides}-{size}.
+
+Where {property} is one of:
+
+- m - for classes that set margin
+- p - for classes that set padding
+Where {sides} is one of:
+
+- t - for classes that set margin-top or padding-top
+- b - for classes that set margin-bottom or padding-bottom
+- l - for classes that set margin-left or padding-left
+- r - for classes that set margin-right or padding-right
+- x - for classes that set both *-left and *-right
+- y - for classes that set both *-top and *-bottom
+- blank - for classes that set a margin or padding on all 4 sides of the element
+Where {size} is one of:
+
+- 10 - (by default) for classes that set the margin or padding to 10px
+- 15 - (by default) for classes that set the margin or padding to 15px
+- 20 - (by default) for classes that set the margin or padding to 20px
+- 40 - (by default) for classes that set the margin or padding to 40px
+So class="mt-40" sets the margin of an element to 40px.
+
+##Bringing it all together
+
+The given embed code from YouTube is:
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/<video code>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+It is necessary to add
+```html
+class="embed-responsive-item" title="VIDEO TITLE (video)"
+```
+into the <iframe> area and 
+```html
+<p><a href="LINK TO TRANSCRIPT">Descriptive Transcript<span class="sr-only"> for VIDEO TITLE</span></a></p>
+<span class="h3">VIDEO TITLE</span></div>
+```
+adjacent to the video code
