@@ -7,7 +7,7 @@
 * [Filtering Banner Images by Category on Specific Pages](howto-banner.md#filtering-banner-images-by-category-on-specific-pages)
 * [Banner Block Spacing Issue](howto-banner.md#banner-block-spacing-issue)
 
-**Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show. For properly displayed banner, the recommended image dimensions are **1140 x 292**.
+**Content Creators** can create a site Banner with captions and a link. There can be multiple static banners that change every time the page is refreshed or they can be displayed as a slide show of up to 5 images. For properly displayed banner, the recommended image dimensions are **1140 x 292**.
 
 ![An Example of a Banner](../.gitbook/assets/baex%20%281%29.png)
 
