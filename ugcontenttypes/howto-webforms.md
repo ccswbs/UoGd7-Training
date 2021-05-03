@@ -84,5 +84,6 @@ At this point, you should have at least one Email form component on your webform
 5. Click on the `Component value` radio button and select the component of the webform that captures the email address \(it should match the label for your "Email" field\).
 6. Click on the `Add` button.
 7. On the next page, you can set the E-mail subject, E-mail From Address, E-mail From Name, and E-mail contents.
+    * Note: Users must switch from a `Default Template` to a `Custom Template`, otherwise the form submission values will not be included in the E-Mail
 8. Once you’ve set the email details, click `Save e-mail settings`.
 
