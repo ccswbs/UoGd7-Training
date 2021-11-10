@@ -10,7 +10,7 @@ This issue can only be fixed by BrightEdge and in the meantime you can ignore th
 
 ## Scrollable element is not keyboard accessible
 
-This issue occurs in event pages, when using the Calendar view. We are asking Siteimprove to override this issue so that it presents as a known issue but doesn't affect the accessibility score.
+This issue occurs on Event pages, when using the Calendar view. We are asking Siteimprove to override this issue so that it presents as a known issue but doesn't affect the accessibility score.
 
 **Note**: To avoid this issue, use the Event listing view (which is the default), instead of the Calendar view.
 
