@@ -12,16 +12,7 @@ This can only be fixed by BrightEdge and in the meantime users can ignore this e
 
 This issue occurs in event pages, when using the Calendar view. We are asking Siteimprove to override this issue so that it presents as a known issue but doesn't affect the accessibility score.
 
-**/! Note**: To avoid this issue, don't modify the calendar template from its default state
+**/! Note**: To avoid this issue, use the Event listing view, instead of the Calendar view (default state).
 
-![WYSIWYG Editor with Headings Drop-Down Menu](../.gitbook/assets/headings-drop-down-wysiwyg-2%20%282%29.png)
+![Siteimprove Screenshot](../.gitbook/assets/scrollelem.png)
 
-**/! Strong Recomendation**: Headings should be used in successive order. This means that any headings related to the Overall Page title \(h1\) start with h2 and then follow in order. Picture example below:
-
-![Example of Nested Headings](../.gitbook/assets/headingexample%20%281%29.png)
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
