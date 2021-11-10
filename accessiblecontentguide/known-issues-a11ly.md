@@ -1,10 +1,10 @@
 # Known Accessibility Issues 
 
-These are known accessiblity issues which appear in Siteimprove reports, and can be ignored for now.
+These are known accessiblity issues which may appear in Siteimprove reports, and can be ignored for now.
 
 ## BrightEdge cookie (#becookiebuttonbarid)
 
-This can only be fixed by BrightEdge and in the meantime users can ignore this error.
+This issue can only be fixed by BrightEdge and in the meantime you can ignore this error.
 
 ![Siteimprove Report](../.gitbook/assets/becookie.png)
 
@@ -12,7 +12,6 @@ This can only be fixed by BrightEdge and in the meantime users can ignore this e
 
 This issue occurs in event pages, when using the Calendar view. We are asking Siteimprove to override this issue so that it presents as a known issue but doesn't affect the accessibility score.
 
-**/! Note**: To avoid this issue, use the Event listing view, instead of the Calendar view (default state).
+**Note**: To avoid this issue, use the Event listing view (which is the default), instead of the Calendar view.
 
 ![Siteimprove Screenshot](../.gitbook/assets/scrollelem.png)
-
