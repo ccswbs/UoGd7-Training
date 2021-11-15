@@ -12,4 +12,5 @@ This guide can be reffered to for assistance with many aspects of accessible con
 * [Lists](lists.md)
 * [Audio & Video](audio-video.md)
 * [Other content](other-accessible-content.md)
+* [Known Issues](known-issues-a11ly.md)
 
