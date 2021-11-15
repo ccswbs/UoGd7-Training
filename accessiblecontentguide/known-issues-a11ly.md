@@ -2,16 +2,6 @@
 
 These are known accessiblity issues which may appear in Siteimprove reports, and can be ignored for now.
 
-## BrightEdge cookie (#becookiebuttonbarid)
-
-BrightEdge is a SEO solution and content performance marketing platform, used for generating web traffic
-and targeted links. You may notice a short list of links at the bottom of the page on your site, labelled 
-"Also of interest".
-
-**Note**: This issue can only be fixed by BrightEdge and in the meantime site owners can ignore this error.
-
-![Siteimprove Report](../.gitbook/assets/becookie.png)
-
 ## Scrollable element is not keyboard accessible
 
 This issue occurs on Event pages, due to the alternate Calendar grid view. Normally, the List view is displayed first (the default).
