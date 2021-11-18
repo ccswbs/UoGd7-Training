@@ -1,6 +1,6 @@
 # Accessible Content Guide
 
-This guide can be reffered to for assistance with many aspects of accessible content creation.
+This guide can be referred to for assistance with many aspects of accessible content creation. 
 
 * [Accessibility Basics](accessibilitybasics/)
 * [Content Titles & Headings](content-titles-and-headings.md)
