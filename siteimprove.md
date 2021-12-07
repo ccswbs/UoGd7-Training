@@ -19,7 +19,7 @@
 
 ## Getting Access to Siteimprove
 
-If you are a web content owner, you should have already received your SiteImprove credentials. If not, [contact DARC](darc@uoguelph.ca) and they can add you to the list and give you access to the system for your content site area.
+If you are a web content owner, you should have already received your SiteImprove credentials. If not, [contact DARC](mailto:darc@uoguelph.ca) and they can add you to the list and give you access to the system for your content site area.
 
 ## Logging In To Siteimprove
 
