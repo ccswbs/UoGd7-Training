@@ -2,7 +2,7 @@
 
 ## 1. What is considered to be a University of Guelph website?
 
-The Communications & Public Affairs \(C&PA\) department provides official [web design guidelines](http://www.uoguelph.ca/web/styleguide/) and [web publishing guidelines](http://www.uoguelph.ca/web/publishing/) which can help you identify whether your website is a University of Guelph website. Some of the criteria which help identify a University of Guelph website are:
+The Communications & Marketing \(C&M\) department provides official [web design guidelines](http://www.uoguelph.ca/web/styleguide/) and [web publishing guidelines](http://www.uoguelph.ca/web/publishing/) which can help you identify whether your website is a University of Guelph website. Some of the criteria which help identify a University of Guelph website are:
 
 * A website that bears the [University of Guelph identifier](http://www.uoguelph.ca/web/styleguide/#identifier).
 * A website with a URL that falls under a “uoguelph.ca” domain
