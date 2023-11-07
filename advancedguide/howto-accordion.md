@@ -15,7 +15,7 @@ To create collapsible sections in your content:
 
 3. Copy and paste the following markup into the source editor
 
-![image](../.gitbook/assets/addaccordcode%20%281%29.png)
+![image](../.gitbook/assets/add-accordion-code.png)
 
 4. Adjust the number and description of the sections to suit your content. When adding a new accordion section to your code, remember to update the values in the new section that reference "headingThree" or "collapseThree" so that the new section has unique values on the page (e.g. headingFour, collapseFour).
 
