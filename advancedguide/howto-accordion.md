@@ -24,17 +24,17 @@ To create collapsible sections in your content:
 The following markup will show three accordion sections. All sections are closed when users initially load the page.
 
 ```html
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel-group" id="accordion">
   
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
+    <div class="panel-heading" id="headingOne">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           Collapsible Group Item #1
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+    <div id="collapseOne" class="panel-collapse collapse" aria-labelledby="headingOne" role="region">
       <div class="panel-body">
         ...
       </div>
@@ -42,14 +42,14 @@ The following markup will show three accordion sections. All sections are closed
   </div>
   
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
+    <div class="panel-heading" id="headingTwo">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           Collapsible Group Item #2
         </a>
       </h4>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+    <div id="collapseTwo" class="panel-collapse collapse" aria-labelledby="headingTwo" role="region">
       <div class="panel-body">
         ...
       </div>
@@ -57,14 +57,14 @@ The following markup will show three accordion sections. All sections are closed
   </div>
   
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
+    <div class="panel-heading" id="headingThree">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Collapsible Group Item #3
         </a>
       </h4>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapseThree" class="panel-collapse collapse" aria-labelledby="headingThree" role="region">
       <div class="panel-body">
         ...
       </div>
@@ -78,14 +78,14 @@ If you wanted the first accordion section to appear open for users by default, y
 
   ```html
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
+    <div class="panel-heading" id="headingOne">
       <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Collapsible Group Item #1
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="collapseOne" class="panel-collapse collapse in" role="region" aria-labelledby="headingOne">
       <div class="panel-body">
         ...
       </div>
@@ -97,14 +97,14 @@ If you wanted the first accordion section to appear open for users by default, y
 
   ```html
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
+    <div class="panel-heading" id="headingThree">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Collapsible Group Item #3
         </a>
       </h4>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapseThree" class="panel-collapse collapse" role="region" aria-labelledby="headingThree">
       <div class="panel-body">
         ...
       </div>
