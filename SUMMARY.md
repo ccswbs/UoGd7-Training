@@ -19,7 +19,6 @@
   * [Featured Item](ugcontenttypes/howto-featured.md)
   * [News](ugcontenttypes/howto-news.md)
   * [Page](ugcontenttypes/howto-page.md)
-  * [Accessible Video](ugcontenttypes/howto-accessiblevideo.md)
   * [People Profiles](ugcontenttypes/howto-profiles.md)
   * [Service](ugcontenttypes/howto-services.md)
   * [Social Media Account](ugcontenttypes/howto-socialmedia/README.md)
